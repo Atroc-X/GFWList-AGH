@@ -1,6 +1,6 @@
 # Current Version: 1.0.0
 
-name: Build & Release Atroc-0625/GFWList-AGH
+name: Build & Release Atroc-x/GFWList-AGH
 
 on:
   push:
