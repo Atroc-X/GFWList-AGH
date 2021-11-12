@@ -4882,6 +4882,7 @@
 3d6bced1d4f384469e6d03f6be7437a0.dlied1.cdntips.net
 3d7be7f48755da63a17f9cded648b92e.dlied1.cdntips.net
 3d7s3t0.cachenode.cn
+3d9obb7.cn
 3da4fab9.tt.x.bsgslb.cn
 3daima.com
 3dbuyu.com
@@ -5474,6 +5475,7 @@
 4hok.org
 4hou.com
 4hpy.com
+4htixb.cn
 4i0iko0.cachenode.cn
 4ik8aq2.cachenode.cn
 4img.hitv.com
@@ -7459,7 +7461,6 @@
 629961.shop.258.com
 62a.net
 62game.com
-62wm.com
 630book.com
 630shu.net
 632.com
@@ -8229,6 +8230,7 @@
 773n.com
 7742w0.cn
 77495.com
+7750o.cn
 77521.com
 7756.org
 7759.com
@@ -9881,7 +9883,6 @@
 95195.com
 9527cha.com
 9527cloud.com
-95298.net
 95303.com
 95306.cn
 953534.shop.m.liebiao.com
@@ -10377,6 +10378,7 @@
 9qc.com
 9qu.com
 9qu5.com
+9qusw7f.cn
 9rfius1.cachenode.cn
 9rmb.com
 9see.com
@@ -10567,7 +10569,6 @@ a0b22.com
 a0b33.com
 a0b88.com
 a0bi.com
-a0buy.top
 a0c.cn
 a0c00.com
 a0c11.com
@@ -13966,6 +13967,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -14060,6 +14062,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.iapps.ifeng.com
@@ -14189,6 +14192,7 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
+api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -14423,7 +14427,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
-app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -16320,6 +16323,7 @@ baodan360.com
 baodaohealth.com
 baodaosz.com
 baodaren.net
+baodc.com
 baodigs.com
 baoding.anjuke.com
 baodingmeishi.com
@@ -16385,12 +16389,14 @@ baosiair.com
 baosight.com
 baosteel.com
 baostock.com
+baotf.com
 baotime.com
 baoting.baixing.com
 baotou.anjuke.com
 baotou.baixing.com
 baotoushizx.com
 baotuba.com
+baowc.com
 baowen8.com
 baowu.com
 baowugroup.com
@@ -18250,6 +18256,7 @@ bjzyrxgs.com
 bk.17173.com
 bk.n.shifen.com
 bk41.net
+bk485.cn
 bk5u.com
 bk9gun.vpser.net
 bkbok.com
@@ -18729,7 +18736,6 @@ bos.bj.baidubce.n.shifen.com
 bos.box.bdimg.com
 bos.su.baidubce.n.shifen.com
 bos.xin
-bosatria.cn
 bosc.cn
 boscam.com.cn
 bosdile.com
@@ -26826,6 +26832,7 @@ cz-yk.com
 cz.cc
 cz.douyu.com
 cz.ifeng0.com
+cz0758.cn
 cz2sc.com
 cz365.com
 cz75pw.kl0ru78.xyz
@@ -27895,7 +27902,6 @@ data.bilicdn2.com
 data.bilivideo.com
 data.chinaz.com
 data.choujue.net
-data.danmu.baofeng.com
 data.eastmoney.com
 data.educoder.net
 data.fengcv.cn
@@ -27903,7 +27909,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -29628,12 +29633,12 @@ djdkk.com
 djduoduo.com
 djec.net
 djhgyy.com
-djhuying.com
 dji.com
 djiavip.com
 djicdn.com
 djing.zhidian3g.cn
 djivideos.com
+djiybut.cn
 djjlseo.com
 djjw.com
 djkk.com
@@ -34756,7 +34761,6 @@ fcyhw.com
 fcz360.com
 fczx.com
 fd-trust.com
-fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
@@ -41642,7 +41646,6 @@ hereisdownload.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
-hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 hermesguanwang.com
 heroad-data.com
@@ -44362,7 +44365,6 @@ hy-la.com
 hy-zr.com
 hy.huangye88.com.cn
 hy.huangye88.net
-hy.nacwh.cn
 hy01888.com
 hy05190134.com
 hy123.com
@@ -45940,6 +45942,7 @@ ilaic.org
 ilaisa.com
 ilaitui.com
 ilancai.com
+ilancc.com
 ilanluo.com
 ilanni.com
 ilanx.net
@@ -46110,7 +46113,6 @@ image.zzd.sm.cn
 image0.lietou-static.com
 image01.joying.com
 image01.joying.com.wswebpic.com
-image1.jzjxmj.com
 image1.yimizhibo.tv
 image100.360doc.com
 image11.m1905.cn
@@ -46911,7 +46913,6 @@ in.jinxiutengzhou.cn
 in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
 in.vipliangmei.com
-in.wxebgpj.cn
 in001.com
 in1.feed.uu.cc
 in1.secure.uu.cc
@@ -49384,6 +49385,7 @@ jiguo.com
 jihai8.com
 jihaoba.com
 jihe.datasink.sensorsdata.cn
+jihehuaban.com
 jiheyun.com
 jihone.com
 jihot.com
@@ -51496,7 +51498,6 @@ jzhfz.com
 jzhxgg.com
 jzic.com
 jzjtop.com
-jzjxmj.com
 jzkapp.com
 jzkjjt.com
 jzkuaiji.com
@@ -52002,7 +52003,6 @@ kayege.info
 kayoudi.com
 kaytrip.com
 kaytune.com
-kayyo.tech
 kazaff.me
 kazakcnr.com
 kazhifu.com
@@ -52239,6 +52239,7 @@ kenxr.com
 kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
+kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -57320,6 +57321,7 @@ m.huya.com.w.kunlunar.com.v.vvpncdn.com
 m.i2356.com
 m.idongde.com
 m.ienkdaged.cn
+m.ilancc.com
 m.imitui.com
 m.intl.taobao.com
 m.iqiyi.com
@@ -62364,7 +62366,6 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -65980,7 +65981,6 @@ pgdt.tc.qq.com
 pgdt.ugdtimg.com
 pgdt.ugdtimg.com.sched.ssdv3-dk.tdnsv6.com
 pgdt.ugdtimg.com.sched.ssdv6.tdnsv6.com
-pghwwjd.com
 pgjcqm.com
 pgl-world.com
 pglstatp-toutiao.com
@@ -66219,7 +66219,6 @@ pic.ea3w.com
 pic.eroacg.com
 pic.fancyapi.com
 pic.fancyapi.com.m.alikunlun.com
-pic.fastapi.net
 pic.iask.cn
 pic.imgdb.cn
 pic.jd-bbs.com
@@ -68661,6 +68660,7 @@ qgcyjq.org
 qgdyc.net
 qgdz222.com
 qgenius.com
+qgfdqjf.cn
 qgnu18wo.sina.cn
 qgnyjc.com
 qgpx.com
@@ -71894,6 +71894,7 @@ rgyun.com
 rgznworld.com
 rh.code.jjyx.com
 rh401n.jomodns.com
+rh447.cn
 rh687n.jomodns.com
 rh98.com
 rhce.cc
@@ -73141,7 +73142,6 @@ salonwith.com
 saltuc.sunlands.com
 saltyfish.cloud
 samanlehua.com
-samanthyean.com
 samba.adsame.com
 sambaclk.adsame.com
 sambasys.adsame.com
@@ -77453,7 +77453,6 @@ speedind.warsongmobile.com
 speednt.com
 speedpan.net
 speedsz.net
-speedv4.m.jd.com
 speedv4.m.jd.com.gslb.qianxun.com
 speedws.info
 speedws.org
@@ -88638,6 +88637,7 @@ whhdcz.com
 whhdgs.com
 whhdmt.com
 whhdsdq.com
+whhepyd.cn
 whhexin.com
 whhk520.com
 whhkbyg.com
@@ -93973,6 +93973,7 @@ xjisme.com
 xjiuai.com
 xjiyou.com
 xjjjb.com
+xjjkxcg.cn
 xjjnjp.org
 xjjxc.com
 xjltp.com
