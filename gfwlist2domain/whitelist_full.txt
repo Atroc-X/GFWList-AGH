@@ -922,7 +922,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -9129,7 +9128,6 @@
 88bifa.vip
 88bx.com
 88cdn.com
-88cpc.com
 88db746bae7df75eb85fb6ec8da86d37.dlied1.cdntips.net
 88dj.com
 88duomi.com
@@ -11484,7 +11482,6 @@ adclick.g.doubleclick.net
 adclick.tencentmusic.com
 adclock.zdworks.com
 adclouds.cn
-adcollect.m.jd.com
 adconfer.com
 adcount.yoka.com
 add.dz19.net
@@ -13905,6 +13902,7 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
+api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com
@@ -14023,7 +14021,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -14427,6 +14424,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -15819,7 +15817,6 @@ baby169.net
 baby577.com
 baby611.com
 baby868.com
-babybubble.cn
 babybus.com
 babybus.org
 babycdn.com
@@ -17703,7 +17700,6 @@ biquge.lu
 biquge.vip
 biquge0.cc
 biquge11.com
-biquge520.cc
 biquge5200.cc
 biquge5200.com
 biquge8.com
@@ -17816,7 +17812,6 @@ biubiu001.com
 biubiubiu.org
 bivean.com
 biwanshequ.com
-biwei6699.com
 bixia.org
 bixiabook.com
 bixiaobai.com
@@ -19847,7 +19842,6 @@ cad1688.com
 cad8.net
 cada.cc
 cadcaecam.com
-cadchat.cc
 cadict.net
 cadmon.net
 cadreg.com
@@ -26307,7 +26301,6 @@ css.mgtv.com
 css.mgtv.com.wscdns.com
 css.network
 css.static.m1905.cn
-css.suukcn.com
 css.tv.itc.cn
 css.xuexila.com
 css.ykimg.com
@@ -28350,6 +28343,7 @@ ddmapimg.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
+ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -34761,6 +34755,7 @@ fcyhw.com
 fcz360.com
 fczx.com
 fd-trust.com
+fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
@@ -37614,6 +37609,7 @@ gfbhgz.com
 gfcdn.shop
 gfcdn.xyz
 gfcvisa.com
+gfd.huigoushop.com
 gfd178.com
 gfdns.net
 gfdsa.net
@@ -41704,7 +41700,6 @@ heyoutz.com
 heyplus.com
 heyreport.com
 heyria.com
-heyshopstreet.com
 heytap.com
 heytapcs.com
 heytapdownload.com
@@ -42688,6 +42683,7 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
+homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -42974,7 +42970,6 @@ hpcoo.com
 hpd.a.shifen.com
 hpd.baidu.com
 hpe.cn
-hpfjy.com
 hpoi.net
 hpplay.cdn.cibn.cc
 hpplay.cn
@@ -43533,7 +43528,6 @@ huanyingzq.com
 huanyou365.com
 huanyouji.com
 huanyudns.com
-huanyue123.com
 huanyutv.com
 huaoe.com
 huaon.com
@@ -47496,7 +47490,6 @@ ipktv.com
 ipku.com
 iplascloud.com
 iplaypy.com
-iplaypython.com
 iplaysoft.com
 iplist1.yoozii.com
 iplist2.netfree.com.cn
@@ -56005,7 +55998,6 @@ log.m.sm.cn
 log.mengtuiapp.com
 log.mix.sina.com.cn
 log.mmstat.com
-log.moviebox.baofeng.com
 log.mpns.hunantv.com
 log.music.baidu.com
 log.nuomi.com
@@ -57310,7 +57302,6 @@ m.haotoon.cn
 m.health.pingan.com
 m.hellobike.com
 m.hlcnzz.com
-m.hpfjy.com
 m.hubpd.com
 m.hupu.com
 m.huxiu.com
@@ -57336,6 +57327,7 @@ m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
+m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -60792,6 +60784,7 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -62086,6 +62079,7 @@ nercel.com
 nerocn.com
 nesbbs.com
 nesc.cn
+nessau.dmall.com
 nestlechinese.com
 nesxc.com
 net-add.com
@@ -62467,7 +62461,6 @@ nhzedu.com
 nhzj.com
 nhzs.com
 nhzy.org
-ni22.com
 ni4r5f3.cachenode.cn
 ni8.com
 nian.so
@@ -64050,7 +64043,6 @@ opdown.com
 ope.tanx.com
 ope2200.com
 opehs.tanx.com
-open-adx.com
 open-cdn.ywtbsupappw.sh.gov.cn
 open-cms-api.uc.cn
 open-falcon.com
@@ -64726,7 +64718,6 @@ p.ananas.chaoxing.com.wswebpic.com
 p.appjiagu.com
 p.aty.sohu.com
 p.biligame.com
-p.bjdianyue.com
 p.cdn.persaas.dell.com
 p.clkservice.youdao.com
 p.comments.youku.com
@@ -65967,7 +65958,6 @@ pg-ad-b2.ws.126.net
 pg-leak.com
 pg.aty.sohu.com
 pg.sina.cn
-pg.xdrig.com
 pg1.kuwo.cn
 pg114.net
 pg9997.com
@@ -66148,6 +66138,7 @@ phyt88.com
 phyy.com
 phyy1.com
 pi7.com
+pi9lxn.cn
 piadu.com
 pianhd.com
 pianke.me
@@ -66899,6 +66890,7 @@ polayoutu.com
 pole.6rooms.com
 polebrief.com
 policy-cde.le.com
+policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -67878,7 +67870,6 @@ pvc123.com
 pvdata.ku6.com
 pvkj.com
 pvlog.hd.baofeng.com
-pvlog.moviebox.baofeng.com
 pvlog.moviebox.baofeng.net
 pvm.zol.com.cn
 pvmama.com
@@ -68000,7 +67991,6 @@ pyzjhd.com
 pz6.com
 pz6623.com
 pz6682.com
-pz7377.com
 pzcenter.xueersi.com
 pzclw.cn
 pzds.com
@@ -71499,6 +71489,7 @@ redou.com
 redpact.com
 redpaper-10006092.cos.myqcloud.com
 redphon.com
+redpoint-msg.m.jd.com
 redpoint-msg.m.jd.com.gslb.qianxun.com
 redquan.com
 redream.com
@@ -72335,7 +72326,6 @@ rscloudmart.com
 rsdgd.com
 rsdwg.com
 rsdyy.com
-rsgbt.cn
 rsj.sh.gov.cn
 rsjun.cn
 rsng.net
