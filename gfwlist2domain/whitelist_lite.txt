@@ -1255,7 +1255,6 @@
 12345good.com
 12345good.net
 12345szzx.com
-1234866.com
 12349.net
 1234biao.com
 1234i.com
@@ -7008,7 +7007,6 @@
 858guakao.com
 85ju.com
 85kf.com
-85wa.cn
 86-import.com
 86010.net
 860527.com
@@ -7654,7 +7652,6 @@
 92fox.com
 92game.net
 92gushi.com
-92gzc.com
 92hidc.net
 92jiangbei.com
 92kaifa.com
@@ -12308,6 +12305,7 @@ bihoo.com
 bihu-static.com
 bihu.com
 bihubao.com
+bihutg.com
 bii-erg.com
 biikan.com
 biji.com
@@ -13248,7 +13246,6 @@ bolehu.net
 bolejiang.com
 bolelink.com
 bolianpro.com
-bolimen.top
 boll.me
 bolo.me
 bolopp.com
@@ -16610,7 +16607,6 @@ chongchi.com
 chongchuang.biz
 chongdeedu.com
 chongdiantou.com
-chongdongshequ.com
 chonghi.com
 chongmingzhuce.com
 chongnuoji.com
@@ -18209,7 +18205,6 @@ com-l-163.com
 com-l-ifeng.com
 com-l-iqiyi.com
 com-l-qq.com
-com-l-tudou.com
 com-l-youku.com
 com-ml-zyw.com
 com-rail.com
@@ -22277,7 +22272,6 @@ dytt789.com
 dytt7899.com
 dytt8.com
 dytt8.net
-dyuadask.com
 dyw0.com
 dyxldjy.com
 dyxsdwm.com
@@ -23178,6 +23172,7 @@ ellechina.com
 ellemen.com
 elliotxing.com
 ellll.com
+elmagnifico.tech
 elmerlxy.com
 eloancn.com
 elong-edm.com
@@ -24652,7 +24647,6 @@ fengyu.cc
 fengyu.moe
 fengyuansufen.com
 fengyuncx.com
-fengyunhao.work
 fengyunpdf.com
 fengyushan.com
 fengyx.com
@@ -25308,7 +25302,6 @@ fqis.xin
 fqjob.net
 fql.cc
 fqpai.com
-fqsou.com
 fqsszx.com
 fqxs.org
 fqzds.com
@@ -26014,7 +26007,6 @@ gansunet.com
 gansuyunshi.com
 ganxi666.com
 ganxianw.com
-ganxiu.com
 ganzhe.com
 ganzhishi.com
 gao3d.com
@@ -37892,7 +37884,6 @@ kexinshe.com
 kexinyun.org
 kexue.com
 kexue.fm
-kexuelife.com
 kexuezixunzzs.com
 keyan.life
 keyand.xyz
@@ -38341,7 +38332,6 @@ koolcenter.com
 kooldns.com
 koolearn.com
 koolproxy.com
-koolshare.cn
 koolyun.com
 koopass.com
 koopei.com
@@ -39300,7 +39290,6 @@ laoqianzhuang.com
 laoqu123.net
 laoren.com
 laosiji.com
-laosiji007.com
 laosunit.com
 laotiaomao.com
 laowangappxy.xyz
@@ -40756,7 +40745,6 @@ ljt365.com
 ljtx.com
 ljwit.com
 ljxww.com
-ljyewei.com
 ljzfin.com
 lkcgyl.com
 lkcsgo.com
@@ -48783,7 +48771,6 @@ qdhantang.com
 qdhsty.com
 qdhyy.cn
 qdingnet.com
-qdit.com
 qdjiejie.com
 qdjimo.com
 qdjjwsjf.com
@@ -49431,7 +49418,6 @@ qirexiaoshuo.com
 qirui.com
 qisbook.com
 qishenga.com
-qishijiajiao.com
 qishixitong.com
 qishixunmei.com
 qishu.cc
@@ -59769,7 +59755,6 @@ url.cn
 url.ms
 urlos.com
 urlqh.cn
-urlteam.org
 urovo.com
 urovoworld.com
 urpimp.com
@@ -64025,7 +64010,6 @@ xazzs.com
 xb100.net
 xb2s.com
 xb5.cc
-xb7r.com
 xbaixing.com
 xbaofun.com
 xbaquge.com
@@ -64166,7 +64150,6 @@ xda98.com
 xdapp.com
 xdbcb8.com
 xdc.at
-xdccpro.com
 xdcdn.com
 xdcdn.net
 xddhy.com
@@ -64411,7 +64394,6 @@ xiabor.com
 xiabu.com
 xiacai.com
 xiacaipiao.com
-xiache8.com
 xiachufang.com
 xiada.net
 xiadele.com
