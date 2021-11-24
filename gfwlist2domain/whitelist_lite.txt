@@ -6253,7 +6253,6 @@
 6sq.net
 6stmmo.com
 6t12.com
-6temai.com
 6tennis.com
 6thhosp.com
 6tiantian.com
@@ -7246,7 +7245,6 @@
 8gov.com
 8gw.com
 8gyu.com
-8hdp.cn
 8hsleep.com
 8jdns.net
 8jiaoye.com
@@ -10558,6 +10556,7 @@ asqql.com
 asrmicro.com
 asrsingapore.com
 assbbs.com
+assigned.cn
 assoc-amazon.cn
 assrt.net
 astbbs.com
@@ -15237,7 +15236,6 @@ chain-store.net
 chaincar.com
 chaindd.com
 chainflag.com
-chainhoo.com
 chainknow.com
 chainnode.com
 chainsdir.com
@@ -16337,7 +16335,6 @@ chinatranslation.net
 chinatravel.net
 chinatraveldepot.com
 chinatraveldesigner.com
-chinatravelsolution.com
 chinatruck.org
 chinatrucks.com
 chinatsi.com
@@ -17306,6 +17303,7 @@ cmzd.com
 cmzj.net
 cmzy168.com
 cmzyk.com
+cn-3drp.com
 cn-bowei.com
 cn-c114.net
 cn-eh.com
@@ -26709,7 +26707,6 @@ gkdgz.com
 gkecnapps.cn
 gkeydoor.com
 gkfb.com
-gkjnet.com
 gkkxd.com
 gkmhq.com
 gkmotor.com
@@ -42350,7 +42347,6 @@ mazida.com
 maziyou.com
 mb-go.com
 mb5u.com
-mb700.com
 mbabao.com
 mbabycare.com
 mbachina.com
@@ -44150,7 +44146,6 @@ mtketang.com
 mtksj.com
 mtktk.com
 mtm.mo
-mtmob.com
 mtmos.com
 mtmss.com
 mtmssdn.com
@@ -52642,7 +52637,6 @@ sheizhiwo.com
 sheji.com
 shejibao.com
 shejiben.com
-shejicool.com
 shejidaren.com
 shejigh.com
 shejijia.com
