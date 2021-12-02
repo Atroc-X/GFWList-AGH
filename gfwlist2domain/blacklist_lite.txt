@@ -7003,6 +7003,7 @@ cashpassport.com
 cashpassport.net
 cashpassportglobe.com
 casi998.com
+casimages.com
 casino.com
 casinobellini.com
 casinoking.com
@@ -7745,6 +7746,8 @@ cloudfunctions.net
 cloudhealthtech.com
 cloudimage.io
 cloudimg.io
+cloudinary.com
+cloudinary.net
 cloudinsights.com
 cloudlive.com
 cloudlock.com
@@ -12140,6 +12143,7 @@ fun809.com
 fun88-i78.com
 fun88-mvp.com
 fun8802.com
+fun8807.com
 fun8809.com
 fun8810.com
 fun88126.com
@@ -18163,6 +18167,7 @@ microsoft.io
 microsoft.is
 microsoft.it
 microsoft.lv
+microsoft.net
 microsoft.pt
 microsoft.red
 microsoft.rs
@@ -21622,6 +21627,8 @@ postadult.com
 postandcourier.com
 postgresql.org
 posthentai.com
+postimages.org
+postimg.cc
 postimg.org
 postini.com
 postnl.nl
