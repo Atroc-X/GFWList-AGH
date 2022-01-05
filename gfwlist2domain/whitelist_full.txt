@@ -1440,7 +1440,6 @@
 12225.com
 12226.com
 12227.com
-12229wednesday.xmywlyh.cn
 1226949259.b2b.huangye88.com
 122park.com
 123-789.com
@@ -3265,7 +3264,6 @@
 2481e.com
 248xyx.com
 2493944.b2b.liebiao.com
-2498969.shop.liebiao.com
 249e6745.qc.x.bsgslb.cn
 249m.com
 24beta.com
@@ -4887,7 +4885,6 @@
 432672.p23.tc.cdntip.com
 432c9567.51cto.com.cname.yunduns.com
 43321.cc
-43371.shop.m.liebiao.com
 43423manhua.com
 435000.com
 435200.com
@@ -14789,6 +14786,7 @@ asus.com.cn
 asus.youdemai.com
 asussmart.com
 asussz-zp.com
+asv1.bsmakeup.com.cn
 aswetalk.net
 async.qun.qq.com
 asyzonline.com
@@ -18538,7 +18536,6 @@ bp-api.coohua.com
 bphetaomiao.com
 bpimg.com
 bppan.com
-bppstore.com
 bpqwxsh.com
 bps.jd.com
 bpsemi.com
@@ -23672,7 +23669,6 @@ club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
 club.jd.com
-club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
 club.vip.qq.com
@@ -28010,6 +28006,7 @@ dc.letv.com
 dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
+dc1.networkbench.com
 dcache.hub.sandai.net
 dcads.sina.com.cn
 dcarapi.com
@@ -31907,7 +31904,6 @@ e.bilibili.com
 e.bjmu.edu.cn
 e.bnc66.com
 e.boc.cn
-e.cn-3drp.com
 e.cn.miaozhen.com
 e.dangdang.com
 e.domob.cn
@@ -44454,6 +44450,7 @@ hzstad88.com
 hzti.com
 hztosz.com
 hztraining.com
+hzuok.com
 hzvillas.com
 hzvs2.cnzz.com
 hzwer.com
@@ -57260,6 +57257,7 @@ m.huya.com
 m.huya.com.w.kunlunar.com
 m.huya.com.w.kunlunar.com.qr.uuhimalayanqm.com
 m.huya.com.w.kunlunar.com.v.vvpncdn.com
+m.hzuok.com
 m.i2356.com
 m.idongde.com
 m.ienkdaged.cn
@@ -58197,6 +58195,7 @@ maroon91.com
 marry5.com
 marry80.com
 mars.ccc.cmbchina.com
+mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
@@ -59025,7 +59024,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
@@ -60792,6 +60790,7 @@ msc.jd.com
 msc.jd.com.gslb.qianxun.com
 msc1434.com
 mscbsc.com
+msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -66836,7 +66835,6 @@ player.mgtv.com
 player.mgtv.com.wscdns.com
 player.tenglutg.com
 player.youku.com
-player888.cn
 playerhotfix.douyucdn.cn
 playfifa.com
 playhistory.bz.mgtv.com
