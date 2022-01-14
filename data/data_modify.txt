@@ -133,6 +133,12 @@
 # OpenDNS
 (@&!)doh.opendns.com
 
+# ServiceNow
+(@&!)service-now.com
+
+# UUP dump
+(@&!)uupdump.net
+
 # sol-ict.com #8
 (@%!)sol-ict.com
 (@%!)global-idc.net
