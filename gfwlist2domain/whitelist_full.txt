@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -13668,7 +13669,6 @@ api.fd.mob.com
 api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -13828,7 +13828,6 @@ api.verify.mob.com
 api.vip.dns.iqiyi.com
 api.vip.iqiyi.com
 api.vip.miui.com
-api.vlightv.com
 api.vuevideo.net
 api.w.inmobi.com
 api.weathercn.com
@@ -15017,7 +15016,6 @@ autoshanghai.org
 autosmt.net
 autospaceplus.com
 autosup.com
-autoupdate.tantanapp.com
 autoupdate7.synology.cn
 autozw.com
 auwinner.com
@@ -18024,6 +18022,7 @@ blackdragon.com
 blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
 blackist.org
@@ -19330,7 +19329,6 @@ c.youike.com.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
-c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c01.i01.ctlsh.lv3.cloudglb.com
@@ -23766,6 +23764,7 @@ cm.gamersky.com
 cm.gtags.net
 cm.he2d.com
 cm.ipinyou.com
+cm.jd.com
 cm.l.qq.com
 cm.lianmeng.360.cn
 cm.masky.biddingx.com
@@ -24084,6 +24083,7 @@ cn.lakdc.top
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -25940,7 +25940,6 @@ csapi.xajjk.com
 csaspx.com
 csau.com
 csb8.byf.com
-csbabao.com
 csbdkj.com
 csbew.com
 csbidding.com
@@ -32313,7 +32312,6 @@ eca80c4380608276ada66554d2a92e95.safeframe.googlesyndication.com
 ecadi.com
 ecaidian.com
 ecaihr.com
-ecar168.cn
 ecaray.com
 ecard.shenzhentong.com
 ecare365.com
@@ -32760,6 +32758,7 @@ eggtt.com
 eghnmj.xyz
 egonetworks.org
 egongzheng.com
+egooad.com
 egoonet.com
 egotops.com
 egou.com
@@ -37874,6 +37873,7 @@ global-download.acer.com
 global-harbor.com
 global-ict.cn
 global-idc.net
+global-idt.net
 global-jf.com
 global-scsl.com
 global.quickconnect.to
@@ -42050,7 +42050,6 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -46277,7 +46276,6 @@ img.jiemian.com
 img.jiemian.com.wswebpic.com
 img.jjiv.top
 img.jk51.com
-img.jx.media8.cn
 img.kaiheila.cn
 img.kanzhun.com
 img.kktijian.com
@@ -49335,6 +49333,7 @@ jijikb.com
 jijing.site
 jijinhao.com
 jijuduo.com
+jijunlongchengxinxi.cn
 jikabao.com
 jikaicai.com
 jike.city
@@ -57311,6 +57310,7 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -58683,7 +58683,6 @@ media.yc.ifeng.com
 media.youshu.cc
 media.youshu.cc.w.kunlunhuf.com
 media02.inke.com
-media8.cn
 media8.smartstudy.com
 media8.smartstudy.com.w.kunlunle.com
 mediaauth.apple.com.wsglb0.com
@@ -60852,6 +60851,7 @@ msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
 msedge.b.tlu.dl.delivery.mp.microsoft.com
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -60915,7 +60915,6 @@ msi.com
 msite.baidu.com
 msits.com
 msjcqm.com
-msjdpay.jd.com
 msjdpay.jd.com.gslb.qianxun.com
 msjyfund.com.cn
 mskjf.com
@@ -62423,7 +62422,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
