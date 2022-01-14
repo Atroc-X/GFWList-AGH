@@ -136,6 +136,7 @@
 # sol-ict.com #8
 (@%!)sol-ict.com
 (@%!)global-idc.net
+(@%!)global-idt.net
 (@&!)it-global.ml
 
 # UC 浏览器 #8
