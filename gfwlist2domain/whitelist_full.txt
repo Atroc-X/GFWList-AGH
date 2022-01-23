@@ -925,7 +925,6 @@
 1.sj33.net
 1.snzfj.net
 1.tecbbs.com
-1.ttxs123.net
 1.tulaoshi.com
 1.uc129.com
 1.ufc123.com
@@ -3323,6 +3322,7 @@
 263ytx.com
 263zw.com
 264006.com
+264802.com
 265.com
 2656000.com
 265660.com
@@ -6628,6 +6628,7 @@
 598e28ab2d56060aef2201ec9607985a.safeframe.googlesyndication.com
 598g.com
 598rc.com
+598wan.com
 599.com
 5999.tv
 599ku.com
@@ -12818,7 +12819,6 @@ alwindoor.com
 alwonroad.club
 alxw.com
 alyisheng.com
-alyms.cn
 alyssaeileen.com
 alyzq.com
 am.aicdn.com
@@ -14179,6 +14179,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14871,7 +14872,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -16976,7 +16976,6 @@ betterzip.net
 betterzipcn.com
 betway118.com
 betway119.com
-betway556.com
 betylife.com
 beva.com
 bevol.com
@@ -21563,6 +21562,7 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
+chat1.jd.com
 chataixin59.byf.com
 chatm.com
 chatn8.bjmantis.net
@@ -23667,7 +23667,6 @@ club-huawei.weathercn.com
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
-club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -23963,7 +23962,6 @@ cn-ahwh-dx-bcache-05.bilivideo.com
 cn-ahwh-dx-bcache-06.bilivideo.com
 cn-ahwh-dx-bcache-07.bilivideo.com
 cn-ahwh-dx-bcache-08.bilivideo.com
-cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -24083,6 +24081,7 @@ cn.lakdc.top
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -26597,7 +26596,6 @@ cz-toshiba.com
 cz-yk.com
 cz.cc
 cz.douyu.com
-cz.ifeng0.com
 cz0758.cn
 cz2sc.com
 cz365.com
@@ -29830,6 +29828,7 @@ dn-staticdown.qbox.me
 dn-udeskpub.qbox.me
 dn.com
 dn1234.com
+dn4onjr.cn
 dn580.com
 dn8188.com
 dnbbn.com
@@ -30294,7 +30293,6 @@ doudoudm.com
 doufan.tv
 doufl.com
 doufm.net
-doufu.la
 douglassclub.com
 douguo.com
 douguo.net
@@ -31911,7 +31909,6 @@ e.gitee.com
 e.ishansong.com
 e.joyxv.com
 e.kuaishou.com
-e.mysty.com.cn
 e.ninebox.cn
 e.nxypz.com
 e.poonscn.com
@@ -33482,7 +33479,6 @@ eszmall.com
 esztsg.org
 esztyg.com
 eszwdx.com
-et.emarbox.com
 et.softidc.gaofangm.com
 et.tanx.com
 et.w.inmobi.cn
@@ -34095,7 +34091,6 @@ fadui.com
 faec4fad2502f19c5419d695f3d9532c.safeframe.googlesyndication.com
 fafa9.com
 fafa986.com
-fafafa1.com
 fafaku.com
 fafawang.com
 fafeng.com
@@ -34428,7 +34423,6 @@ fastsoso.cc
 fastwebcdn.com
 fat999.com
 fatedier.com
-fateqq.com
 fatiao.pro
 fatjiong.com
 fatkun.com
@@ -43662,7 +43656,6 @@ huiliubao.com
 huilm.com
 huilog.com
 huilongsen.com
-huilv.ccsw003.com
 huilv168.com
 huilvwang.com
 huilvwu.com
@@ -45434,7 +45427,6 @@ ifeng.adsame.com
 ifeng.com
 ifeng.fm
 ifeng.name
-ifeng0.com
 ifeng3.yylady.cn
 ifeng3.yylady.cn.w.kunlungr.com
 ifengad.3g.ifeng.com
@@ -48056,6 +48048,7 @@ iuniware.com
 iuoooo.com
 iuplus.com
 iupnlpd.cn
+iuqcmmqjzwdi.dn4onjr.cn
 iuuu9.com
 iuynfg.com
 iv.doubleclick.net
@@ -53896,7 +53889,6 @@ laosiji.com
 laosunit.com
 laotiaomao.com
 laowangappxy.xyz
-laowangblog.com
 laowangshengge.com
 laowuxx.com
 laoxiezi.com
@@ -54025,6 +54017,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com.gslb.qianxun.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -55900,7 +55893,6 @@ lnyyzyxy.com
 lnzikao.com
 lnzsks.com
 lo97.com
-load-page.com
 loading.baofeng5.baofeng.net
 loan.xystatic.com
 loc.map.baidu.com
@@ -57466,6 +57458,7 @@ m.weathercn.com
 m.webshu.net
 m.weibo.cn
 m.wooboo.com.cn
+m.wshufa.com
 m.wsxxu.com
 m.wuxiamh.com
 m.x81zw.com
@@ -60833,6 +60826,7 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -61136,7 +61130,6 @@ murdermysterypa.com
 murl.tv
 muryi.net
 muse-ui.org
-muse100.com
 muses-ugc.iqiyi.com
 mushafa.net
 mushapi.com
@@ -66335,7 +66328,6 @@ pianoun.com
 piantou.net
 pianwan.com
 pianyim.com
-pianyini.com
 pianyit.com
 pianyiwan.com
 pianyuan.net
@@ -67845,6 +67837,7 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
+pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com
@@ -69435,7 +69428,6 @@ qingclass.com
 qingclasscdn.com
 qingcloud.com
 qingdao.dzwww.com
-qingdaochina.com
 qingdaochina.org
 qingdaograndtheatre.com
 qingdaogxt.com
@@ -71074,7 +71066,6 @@ qwpo2018.com
 qwpr3.com
 qwpr38.com
 qwps.cn
-qwps.com
 qwqk.net
 qwqoffice.com
 qwspcz.com
@@ -71258,6 +71249,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.bing.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
@@ -73320,6 +73312,7 @@ saebbs.com
 saee.org.cn
 safe-aisle.jointreport-switch.com
 safe.liepin.com
+safe.tsgpay.cn
 safe.ucweb.com
 safe.usergrowth.com.cn
 safebrowsing-cache.google.com
@@ -74560,6 +74553,7 @@ service.mpop.icbc.com.cn
 service.shanghai.gov.cn
 service.urchin.com
 service.uu.163.com
+service.vapp.jd.com
 service.weather.msn.cn
 service.weibo.com
 servicecut.meizu.com
@@ -78255,7 +78249,6 @@ stat.browser.nearme.com.cn
 stat.caijing.com.cn
 stat.chinaso.com
 stat.cnmo.com
-stat.dedecms.com
 stat.doc88.com
 stat.download.xunlei.com
 stat.duokanbox.com
@@ -83288,6 +83281,7 @@ tsdxb.com
 tsfucai.com
 tsg-online.net
 tsggwl.com
+tsgpay.cn
 tsgyg.cn
 tshaisen.com
 tshe.com
@@ -90501,6 +90495,7 @@ wshost.cc
 wshoto.com
 wshtgame.com
 wshttpdns.com
+wshufa.com
 wsisp.com
 wsisp.net
 wsj186.com
