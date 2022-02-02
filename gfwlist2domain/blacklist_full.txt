@@ -1406,7 +1406,6 @@
 39.suroot.com
 39077b.com
 3917.am
-3917.co
 3917001.com
 39170011.com
 39170055.com
@@ -14557,6 +14556,7 @@ fun550.com
 fun5500.com
 fun551.com
 fun560.com
+fun603.com
 fun605.com
 fun612.com
 fun66996.com
@@ -27358,7 +27358,6 @@ sandisk.com
 sandisk.id
 sandisk.it
 sandpointehoa.com
-sandscotaicentral.com
 sandsmacao.com
 sandu7.com
 sandwichbite.com
@@ -27589,6 +27588,7 @@ schonenaci.sk
 schooltunnel.net
 sci-hub.mksa.top
 sci.hubg.org
+science.org
 sciencedirect.com
 sciencedirectassets.com
 sciencemag.org
