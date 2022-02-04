@@ -1191,7 +1191,6 @@
 12120.net
 1213.me
 121314.com
-1214bdk.xyz
 121ask.com
 121mu.com
 121xia.com
@@ -13907,6 +13906,7 @@ cadcaecam.com
 cadict.net
 cadmon.net
 cadreg.com
+caduka.cn
 cadzhuan.com
 cadzj.com
 cadzxw.com
@@ -14504,7 +14504,6 @@ ccshwy.com
 ccsph.com
 ccstock.cn
 ccsw003.com
-cct01.com
 cct08.com
 cct365.net
 cctalk.com
@@ -15493,6 +15492,7 @@ chenhui.org
 chenii.com
 chenjia.me
 chenjie.info
+chenjie.site
 chenjiehua.me
 chenjunlu.com
 chenkaihua.com
@@ -18951,7 +18951,6 @@ cutercounter.com
 cuteximi.com
 cutout.pro
 cutowallpaper.com
-cutt.com
 cutv.com
 cuuhn.com
 cuyoo.com
@@ -19094,6 +19093,7 @@ cyegushi.com
 cyepai.com
 cyfeng.com
 cyfengchao.com
+cyfyb2.site
 cyhd.net
 cyhm.com
 cyhone.com
@@ -24863,6 +24863,7 @@ flyco.com
 flycode.co
 flycua.com
 flydigi.com
+flydog.club
 flyenglish.com
 flyert.com
 flyertea.com
@@ -27702,7 +27703,6 @@ gushequ.com
 gushfx.com
 gushi.ci
 gushi.com
-gushiciju.com
 gushicimingju.com
 gushidaquan.cc
 gushiju.net
@@ -29598,6 +29598,7 @@ hexilai.com
 hexindai.com
 hexinli.org
 hexmeet.com
+hexp.xyz
 hexun.com
 hexuntech.cn
 heyang.cc
@@ -30312,6 +30313,7 @@ hnxuntang.com
 hnxxjn.com
 hnxyjt.com
 hnycsk.com
+hnyczs.club
 hnydmq.com
 hnyfkj.com
 hnyh.net
@@ -30474,7 +30476,6 @@ hongtastock.com
 hongtongad.com
 hongtu.net
 hongtuwang.com
-hongweipeng.com
 hongxiaolong.com
 hongxin18.com
 hongxinbao.com
@@ -30792,6 +30793,7 @@ hsfund.com
 hsgjj.com
 hsgjysj.com
 hsgsy.com
+hshczy.com
 hshh.org
 hshotel.com
 hshs.com
@@ -31182,6 +31184,7 @@ huaweizdl.com
 huawenfanyi.com
 huawenonline.com
 huawenwin.com
+huawuhui.club
 huaxi.net
 huaxi100.com
 huaxia.com
@@ -31263,6 +31266,7 @@ huceo.com
 huchao.me
 huchaowei.com
 hucheng100.com
+hucy87.icu
 hudai.com
 hudbbs.com
 hudong.com
@@ -37865,6 +37869,7 @@ kjks.net
 kjkxun.com
 kjltxn.com
 kjlzt.cn
+kjmx.shop
 kjnkj.club
 kjr365.com
 kjsng.com
@@ -38216,7 +38221,6 @@ ksbao.cc
 ksbao.com
 kscac.com
 kscdns.com
-kscmt.cn
 ksdkcks.com
 ksdlp.com
 ksdown.com
@@ -44644,7 +44648,6 @@ nanjingkaishan.com
 nanjinglongyu.com
 nanjingtianqi114.com
 nanjingui.com
-nanjishidu.me
 nanjixiong.com
 nankaimba.org
 nanlebbs.com
@@ -52727,6 +52730,7 @@ shicaids.com
 shichangbu.com
 shichuedu.com
 shici.store
+shicigequ.com
 shicimingju.com
 shicishe.com
 shiciting.com
@@ -56110,6 +56114,7 @@ tagtxq.com
 taguage.com
 taguxdesign.com
 tahua.net
+tahuixin.club
 tai-liang.com
 tai3399.com
 tai666666.com
@@ -63525,6 +63530,7 @@ wxngh.com
 wxnmh.com
 wxp114.com
 wxphp.com
+wxqcshgc.icu
 wxr999.com
 wxrb.com
 wxreallink.com
@@ -64138,6 +64144,7 @@ xhdollar.com
 xheditor.com
 xhedu.net
 xhengshui.com
+xhfrt.cn
 xhg.com
 xhgame.com
 xhgm100.com
@@ -69198,6 +69205,7 @@ yugasun.com
 yuguo.us
 yuguod.com
 yuguozw.com
+yugutou.club
 yuheii.com
 yuheng.tech
 yuhongsl.com
@@ -72414,6 +72422,7 @@ zqlx.com
 zqnf.com
 zqrb.cn
 zqsign.com
+zqslg.cn
 zqsos.com
 zqtong.com
 zquan.cc
