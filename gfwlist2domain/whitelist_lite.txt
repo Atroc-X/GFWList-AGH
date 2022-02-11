@@ -1421,7 +1421,6 @@
 13fuwu.com
 13gm.com
 13hangpifa.com
-13ie.com
 13mobi.com
 13wn.com
 13ww.net
@@ -20394,7 +20393,6 @@ diamondfsd.com
 dian-ai.com
 dian-stable.com
 dian-ying.com
-dian.io
 dian.so
 dian123.com
 dian321.com
@@ -20946,7 +20944,6 @@ dmacg.net
 dmaku.com
 dmall.com
 dmallcdn.com
-dmayun.com
 dmbcdn.com
 dmcbs.com
 dmcdn.com
@@ -22921,6 +22918,7 @@ elecinfo.com
 elecrystal.com
 elecshop.com
 elefang.com
+elefantsearch.com
 eleme.cn
 eleme.io
 elemecdn.com
@@ -24388,7 +24386,6 @@ fengpengjun.com
 fengpintech.com
 fengqiyc.com
 fengqu.com
-fengqucdn.com
 fengread.com
 fengshangweekly.com
 fengshows.cn
@@ -26361,7 +26358,6 @@ ggcj.com
 ggcykf.com
 ggda365.com
 ggdawanjia.com
-ggdoc.com
 ggemo.com
 ggerg.com
 ggeye.com
@@ -32285,7 +32281,6 @@ icemle.org
 iceshi.org
 icesimba.com
 icevpn.org
-icewing.cc
 icewingcc.com
 icfans.com
 icfcc.com
@@ -32510,6 +32505,7 @@ ideasandroid.com
 ideazhao.com
 ideebank.com
 ideepin.com
+idees-du-net.com
 ideng.com
 idesktopcal.com
 idevz.org
@@ -35649,6 +35645,7 @@ jiuku.com
 jiulesy.com
 jiulingwan.com
 jiulishi.com
+jiulx.com
 jiumaojiu.com
 jiumaster.com
 jiumei.com
@@ -38286,6 +38283,7 @@ kuaidaili.com
 kuaidajian.com
 kuaidi.com
 kuaidi100.com
+kuaidibiaoju.com
 kuaidihelp.com
 kuaidil.com
 kuaidiwo.cn
@@ -45555,6 +45553,7 @@ npxsw.com
 npyun.com
 npz.com
 nq.com
+nq37f.cn
 nq6.com
 nqfwx.cn
 nr-esc.com
@@ -45679,7 +45678,6 @@ nutspace.com
 nutz.io
 nutzam.com
 nuubao.com
-nuuha.com
 nuuxie.com
 nuvoltatech.com
 nuvoton-m0.com
@@ -45952,6 +45950,7 @@ oigps.com
 oilchem.net
 oilepay.com
 oilhr.com
+oingo.com
 oiuwe.com
 oiwjcsh015.top
 ok-app.online
@@ -47191,7 +47190,6 @@ pgyer.com
 pgygho.com
 pgyidc.com
 pgysoft.com
-pgyst.net
 pgzs.com
 pgzx.net
 phalapi.net
@@ -50603,7 +50601,6 @@ rising.cn
 riskivy.com
 risunsolar.com
 riswing.com
-ritaipaper.com
 ritaomeng.com
 ritarpower.com
 ritering.com
