@@ -11039,6 +11039,7 @@ fast-ssr.org
 fast.com
 fastener.tw
 fastestvpn.com
+fastgit.org
 fastlane.ci
 fastlane.tools
 fastlanecommission.com
@@ -18417,6 +18418,7 @@ mips.tv
 miraheze.org
 mirai.ca
 mirailab.tech
+miro.com
 miroguide.com
 mirrorbooks.com
 mirrormedia.mg

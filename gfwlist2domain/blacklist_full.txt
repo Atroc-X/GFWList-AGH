@@ -4190,6 +4190,7 @@ angelblog.jp
 angelfire.com
 angelwind.tw
 angheliu.ro
+angle.com.tw
 anglican.org
 anglicanpastor.com
 angola.org
@@ -4694,6 +4695,7 @@ arcgis.com
 arcgisonline.com
 archimedicx.com
 archive-it.org
+archive.fastgit.org
 archive.fo
 archive.is
 archive.istio.io
@@ -4858,6 +4860,7 @@ asproexapi.com
 asredas.com
 assembla.com
 assets.bwbx.io
+assets.fastgit.org
 assets.gitlab-static.net
 assetsadobe.com
 assetshare.box.com
@@ -9853,6 +9856,7 @@ custombeatsforcheap.com
 custombeatsny.com
 custombeatssbydreus.com
 customdrdrebeats.com
+customer-stories-feed.fastgit.org
 customizedbeatbydre.com
 customizedbeatsbydre.com
 customizedbeatsdre.com
@@ -11538,6 +11542,7 @@ download.bluesprig.com
 download.camfrogcdn.com
 download.cnet.com
 download.com
+download.fastgit.org
 download.i91av.org
 download.ithome.com.tw
 download.windowsupdate.nsatc.net
@@ -13400,6 +13405,7 @@ fast.wistia.com
 fastener.tw
 fastest-proxy.com.de
 fastestvpn.com
+fastgit.org
 fastlane.ci
 fastlane.tools
 fastlanecommission.com
@@ -17356,6 +17362,7 @@ huayuel.com
 huayueloubbs.com
 huayuworld.org
 huaze.org
+hub.fastgit.org
 hub.gf175588.com
 hubg.org
 huc111.com
@@ -22065,6 +22072,7 @@ miracleyoga.weebly.com
 miraheze.org
 mirai.ca
 mirailab.tech
+miro.com
 miroguide.com
 mirrorbooks.com
 mirrormedia.com.tw
@@ -26637,6 +26645,7 @@ rationalwiki.org
 ratujtybet.org
 rauchmeldershop.ch
 ravm.tv
+raw.fastgit.org
 raw.githack.com
 rawcdn.githack.com
 rawdirect.com
