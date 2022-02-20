@@ -926,7 +926,6 @@
 1.tecbbs.com
 1.tulaoshi.com
 1.uc129.com
-1.ufc123.com
 1.ufc7.com
 1.up.qingdaonews.com
 1.url.cn
@@ -1777,7 +1776,6 @@
 15w.com
 15wz.com
 15xdd.com
-15xs.com
 15yan.com
 15yc.com
 15yl.com
@@ -2840,6 +2838,7 @@
 2071816258pg.sina.cn
 2071816259pg.sina.cn
 2078244.sched.sma.tdnsv5.com
+2080ly.com
 2086607.sched.sma-dk.tdnsv5.com
 2088062.com
 2088063.com
@@ -13023,7 +13022,6 @@ anhoon.com
 anhouse.com
 anhuaedu.com
 anhui365.net
-anhuigecui.cn
 anhuigwy.org
 anhuihouniao.com
 anhuihr.com
@@ -14123,7 +14121,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14283,6 +14280,7 @@ appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
 appsupport.qq.com
+appsupport.stargame.com
 apptao.com
 apptrack.cn
 apptrailers.itunes.apple.com
@@ -15087,7 +15085,6 @@ awxd.cfm.qq.com
 ax-log.duizhuang.com
 ax.120ask.com
 ax.ifeng.com
-ax1x.com
 ax2nc4.ren
 ax329.cn
 ax3xq25m.v1d.szbdyd.com
@@ -16323,7 +16320,6 @@ bceliveup1.jomodns.com
 bceliveup2.jomodns.com
 bcelivevip.jomodns.com
 bcevod.com
-bcfans.com
 bcfeedback.taobao.com
 bcitb.com
 bcjjg.bugsevent.com
@@ -16858,6 +16854,7 @@ bestb2b.com
 bestbaijiu.com
 bestbeibao.com
 bestcake.com
+bestcdn.vip
 bestcem.com
 bestdjb.com
 bestdo.com
@@ -18880,7 +18877,6 @@ buylabel.com
 buysun.net
 buysweet.com
 buyu46.com
-buyu9979.com
 buzhi5.com
 buzhibushi.com
 buzzads.com
@@ -20359,7 +20355,6 @@ cd-zc.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -24009,7 +24004,6 @@ cn.lakdc.top
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -24430,7 +24424,6 @@ cnmineqs.net
 cnmo.com
 cnmobile.net
 cnmods.org
-cnmoi.org
 cnmooc.org
 cnmsl.net
 cnmsn.net
@@ -25276,6 +25269,7 @@ coralsec.com
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -25685,6 +25679,7 @@ crab.baidu.com
 crab.n.shifen.com
 crabchina.com
 crackersta.com
+craft.moe
 craftcontact.com
 crandom.com
 crash-reporting.yy.com
@@ -27913,7 +27908,6 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.api.my7v.com
 dc.chillyroom.com
 dc.console.aliyun.com
@@ -29825,6 +29819,7 @@ dnsabc-g.com
 dnsapi.cn
 dnsapple.com
 dnsapple.net
+dnsce.com
 dnscnc.com
 dnsddos.com
 dnsdiy.com
@@ -36016,7 +36011,6 @@ fun803.com
 fun88113.com
 fun88369.com
 fun88721.com
-fun909.com
 funcdn.com
 funchat.cc
 functionads.com
@@ -36861,6 +36855,7 @@ gatewang.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
 gateway.cdeledu.com
+gateway.craft.moe
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -40765,6 +40760,7 @@ hbsem.com
 hbseo.com
 hbsfgk.org
 hbshbsh.com
+hbshengbangwl.com
 hbshgzx.com
 hbshls.com
 hbsia.org
@@ -41007,7 +41003,6 @@ hdj.baidu.com
 hdj.me
 hdjay.com
 hdjhsudhe.kuaizhan.com
-hdjr.org
 hdjwww.com
 hdkal67.cn
 hdl-broadcast.qiecdn.com
@@ -41035,7 +41030,6 @@ hdn.rcs.chinamobile.com
 hdns-event.dmall.com
 hdns.ksyun.com
 hdp.sfcdn.org
-hdp.u01.live.siqiangame.com
 hdpfans.com
 hdpyqa.com
 hdpyqc.com
@@ -43090,6 +43084,7 @@ httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -45529,7 +45524,6 @@ ihenji.com
 ihepa.com
 ihetou.com
 ihewro.com
-ihezm0o.cn
 ihggccampaign.com
 ihhii.xyz
 ihhubei.com
@@ -53319,6 +53313,7 @@ kxxxl.com
 kxyike.com
 kxzmw.com
 ky-express.com
+ky5yx.com
 ky958.com
 kybapp.com
 kybapp.net
@@ -55275,7 +55270,6 @@ lipinduihuan.com
 lippi-space-sh.oss-cn-shanghai.aliyuncs.com
 lippi-space-sh.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 lippt.com
-liqiang999.com
 liqihuoke.com
 liqijt.com
 liqile.com
@@ -57263,6 +57257,7 @@ m.lousivency.com.cn
 m.lu.sogou.com
 m.lulitechnology.cn
 m.lusrg.cn
+m.mafengwo.cn
 m.maiduoer.com
 m.manhua39.com
 m.manhuama.net
@@ -58998,7 +58993,6 @@ message.finance.qq.com
 message.kuwo.cn
 message.meitu.com
 message.sonkwo.com
-messardu.com
 messcenter.58.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
@@ -59697,6 +59691,7 @@ mir4399.com
 miraclevision.net
 mirari.cc
 mirgaga.net
+mirmzhy.com
 mirror.iscas.ac.cn
 mirror.sjtu.edu.cn
 mirror.tuna.tsinghua.edu.cn
@@ -59829,7 +59824,6 @@ mjyx.com
 mjzj.com
 mjzymh.com
 mk-yiliao.com
-mk.tianziyu.com
 mk2048.com
 mkadsearch.lizhifm.com
 mkaliez.com
@@ -59948,7 +59942,6 @@ mm8mm8.com
 mm957.com
 mma.admaster.com.cn
 mma.qq.com
-mmae.qtmojo.com
 mmall.com
 mmapp.qpic.cn
 mmaqa.com
@@ -61523,6 +61516,7 @@ mzeyes.com
 mzfile.com
 mzfxw.com
 mzgtuan.com
+mzh.moegirl.org.cn
 mzh.ren
 mzhb.com
 mzhfm.com
@@ -62325,6 +62319,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -64260,7 +64255,6 @@ opstool.com
 optaim.com
 optbbs.com
 opticsjournal.net
-opticsx.org
 optimix.asia
 optimix.cn
 optimized-ai.com
@@ -64307,7 +64301,6 @@ oraycn.com
 orayer.com
 orayimg.com
 orays.co
-orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com
@@ -72845,7 +72838,6 @@ s.w.bilicdn1.com
 s.wapadv.com
 s.webp2p.letv.com
 s.weibo.com
-s.wxebgpj.cn
 s.xiaolianhb.com
 s.xiaolianhb.com.w.kunlungr.com
 s.yaozui.com
@@ -75986,7 +75978,6 @@ shunshunliuxue.com
 shuntu.cn
 shunvzhi.com
 shunwang.com
-shunyiqu.com
 shuo.douban.com
 shuo6.com
 shuo66.com
@@ -78144,7 +78135,6 @@ stat.img-space.com
 stat.it168.com
 stat.iteye.com
 stat.jc001.cn
-stat.juyoufan.net
 stat.le.com
 stat.letv.com
 stat.lianmeng.360.cn
@@ -80931,6 +80921,7 @@ tdnsv8.com
 tdpress.com
 tds.alicdn.com
 tds.alicdn.com.danuoyi.tbcache.com
+tdun.com
 tduou.com
 tdyl001.com
 tdyxmoto.com
@@ -82589,7 +82580,6 @@ topcsic.com
 topdiaoyu.com
 topdodo.com
 tope365.com
-topecsc.com
 topeditsci.com
 topeet.com
 topeetboard.com
@@ -92334,7 +92324,6 @@ wxcsgd.com
 wxdgjx.com
 wxdh001.com
 wxdspt.com
-wxebgpj.cn
 wxeditor.com
 wxfenxiao.com
 wxfls.net
