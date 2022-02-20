@@ -114,12 +114,12 @@ function GenerateRules() {
         adguardhome)
             domestic_dns=(
                 "tls://1.12.12.12"
-                "tls://120.53.53.53"
+               #"tls://120.53.53.53"
                #"tls://dns.alidns.com"
             )
             foreign_dns=(
                 "tls://1.1.1.1"
-                "tls://1.0.0.1"
+                #"tls://1.0.0.1"
                 #"8.8.8.8"
                 #"208.67.222.222"
             )
