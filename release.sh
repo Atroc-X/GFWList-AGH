@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.2
+# Current Version: 1.2.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2AGH.git" && bash ./GFWList2AGH/release.sh
@@ -9,7 +9,9 @@
 # Get Data
 function GetData() {
     cnacc_domain=(
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt"
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_domestic.txt"
     )
     cnacc_trusted=(
@@ -23,7 +25,8 @@ function GetData() {
         "https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt"
     )
     gfwlist_domain=(
-        "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
@@ -110,12 +113,14 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "tls://dot.pub"
+                "tls://1.12.12.12"
+                "tls://120.53.53.53"
                #"tls://dns.alidns.com"
             )
             foreign_dns=(
-                #"8.8.8.8"
                 "tls://1.1.1.1"
+                "tls://1.0.0.1"
+                #"8.8.8.8"
                 #"208.67.222.222"
             )
             function GenerateRulesHeader() {
