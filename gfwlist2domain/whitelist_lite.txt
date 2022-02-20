@@ -29987,7 +29987,6 @@ hkcna.hk
 hkcts.com
 hkctshotels.com
 hkctsmembers.com
-hkeig.com
 hkfc.hk
 hkfe.hk
 hkfljt.com
@@ -71382,7 +71381,6 @@ zhuanspirit.com
 zhuanstatic.com
 zhuantilan.com
 zhuanxiandai.com
-zhuanxing.cn
 zhuanyejun.com
 zhuanyepeixun.com
 zhuanyes.com

@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
+0.openwrt.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -899,6 +900,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2759,7 +2761,6 @@
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
-2.nanrenwo.net
 2.pic.pc6.com
 2.up.qingdaonews.com
 2.zol-img.com.cn
@@ -14121,6 +14122,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14818,7 +14820,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -18566,6 +18567,7 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-dolfin.net
 bs-origin.pull.yximgs.com
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -23918,7 +23920,6 @@ cn-hbcd2-cu-v-09.bilivideo.com
 cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
 cn-hbcd2-cu-v-13.bilivideo.com
-cn-hbcd2-cu-v-15.bilivideo.com
 cn-healthcare.com
 cn-http2.cootek.com
 cn-java.com
@@ -38186,7 +38187,6 @@ goodtea.cc
 goodtp.com
 goofish.com
 google-analytics.com
-google.cn
 googleadapis.com
 googleads.com
 googleads.g.doubleclick.net
@@ -42014,7 +42014,6 @@ hkcna.hk
 hkcts.com
 hkctshotels.com
 hkctsmembers.com
-hkeig.com
 hkfc.hk
 hkfe.hk
 hkfljt.com
@@ -72769,7 +72768,6 @@ s.doyo.cn
 s.e739.cn
 s.effie.co
 s.ekeide.com
-s.emarbox.com
 s.f.360.cn
 s.fastapi.net
 s.fyeds0.com
@@ -78295,7 +78293,6 @@ static.dingtalk.com
 static.dingtalk.com.w.cdngslb.com
 static.dmall.com
 static.dmzj.com
-static.dmzj1.com
 static.dns.iqiyi.com
 static.doubleclick.net
 static.douxie.com
@@ -104942,7 +104939,6 @@ zhuanstatic.com
 zhuanti.hebnews.cn
 zhuantilan.com
 zhuanxiandai.com
-zhuanxing.cn
 zhuanyejun.com
 zhuanyepeixun.com
 zhuanyes.com
