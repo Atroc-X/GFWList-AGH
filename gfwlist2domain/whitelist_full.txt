@@ -891,6 +891,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1690,6 +1691,7 @@
 1451cn.com
 1458167.s1txipv6.cdntip.com
 14583.com
+146e.com
 1473846f4246d54ff5ac91bd5d228550.dlied1.cdntips.net
 1478803.b2b.jinanfa.cn
 147xiaoshuo.com
@@ -2743,10 +2745,10 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.pic.pc6.com
+2.pool.ntp.org
 2.up.qingdaonews.com
 2.zol-img.com.cn
 200.net
@@ -8652,6 +8654,7 @@
 88zb0.com
 88zha.com
 88zyw.net
+8910.io
 89178.com
 892055959.sched.s2.tdnsv5.com
 892155.com
@@ -10462,7 +10465,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abtionb.com
@@ -12388,6 +12390,7 @@ alienfans.net
 alientek.com
 alienware.dell-brand.com
 alienware.dell-brand.com.w.kunlunpi.com
+aliexpress-media.com
 aliexpress.com
 aliexpress.ru
 alifabu.com
@@ -12711,7 +12714,6 @@ alsovalue.com
 alswl.com
 altstory.com
 altxw.com
-alu1886.com
 aluaa.com
 alumni-cn.org
 alumni-scut.org
@@ -15876,7 +15878,6 @@ banyuetan.org
 banyuetanxcx.com
 banyunjuhe.com
 banzdw.cn
-banzhuren365.com
 banzou.name
 banzouku.com
 bao-cun.com
@@ -17374,7 +17375,6 @@ birdbro.com
 birdgesdk.com
 birdol.com
 birdpush.com
-birthcaker.cn
 bisairi.com
 bisenet.com
 bishe1234.com
@@ -19003,6 +19003,7 @@ bytehwm.com
 byteimg.com
 byteisland.com
 bytelb.net
+bytemaimg.com
 bytemastatic.com
 byteorge.com
 bytescm.com
@@ -20132,6 +20133,7 @@ ccjzzj.com
 cclcn.com
 cclexpo.com
 cclimg.com
+cclinux.org
 cclndx.com
 cclolcc.com
 cclqme.xyz
@@ -23936,7 +23938,6 @@ cn-zjhz-cu-v-04.bilivideo.com
 cn-zjhz-cu-v-06.bilivideo.com
 cn-zjjh4-dx-v-03.bilivideo.com
 cn-zjwz-dx-v-01.bilivideo.com
-cn-zjwz5-dx-v-05.bilivideo.com
 cn.actual.battle.net
 cn.aiclean.50union.com
 cn.alicdn.com
@@ -32721,7 +32722,6 @@ ejnjyc.cn
 ejoy.com
 ejoy365hk.com
 ejoy99.com
-ejoychina.com
 ejrfood.com
 ejttp.com
 eju.com
@@ -41419,6 +41419,7 @@ hfcyh.com
 hffund.com
 hffunds.cn
 hfgjj.com
+hfhcl.com
 hfhouse.com
 hfhyw.com
 hfi-health.com
@@ -41896,7 +41897,6 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42270,6 +42270,7 @@ hnwlcm.com
 hnwlxh.net
 hnwtv.com
 hnwz8.com
+hnxdf.com
 hnxfpfb.com
 hnxgzg.com
 hnxmxit.com
@@ -44828,6 +44829,7 @@ icevpn.org
 icewingcc.com
 icfans.com
 icfcc.com
+icfgblog.com
 icfqs.com
 icfusions.com
 icfy.xyz
@@ -46014,6 +46016,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -48308,7 +48311,6 @@ jbenden.gallerycdn.azure.cn
 jbfoundry.com
 jbhdq.com
 jbl100.com
-jblts.com
 jbo28.com
 jbo311.com
 jbo600.com
@@ -52109,6 +52111,7 @@ kgfanr.com
 kgimg.com
 kgmobilestat.kugou.com
 kgmobilestatbak.kugou.com
+kgnop2.kugou.com
 kgogame.com
 kgula.com
 kguowai.com
@@ -52960,7 +52963,6 @@ kuakao.com
 kuakao.net
 kuamei.cloud
 kuaming.com
-kuandao.com
 kuanff.com
 kuang-chi.com
 kuang-chi.org
@@ -55987,7 +55989,6 @@ lolmanhua.com
 lolmax.com
 lolmf.com
 lolmz.com
-lololer.com
 loltmall.com
 lolver.cross.qq.com
 lolyculture.net
@@ -57274,6 +57275,7 @@ m.ximalaya.com
 m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
+m.xt2d.cn
 m.xuanlimin.top
 m.xuexila.com
 m.yalayi.com
@@ -57354,7 +57356,6 @@ m1frzhnvfhefzjehmbexmth6k7kh2v9o.yundunwaf.com
 m1ok.com
 m1page.com
 m1world.com
-m2.birthcaker.cn
 m2.client.10010.com
 m2.ctc.ximalaya.com
 m2.da.mgtv.com
@@ -58811,7 +58812,6 @@ menglangroup.com
 menglechong.com
 menglegame.com
 menglei.info
-menglei.xyz
 menglong.me
 mengma.com
 mengma021.com
@@ -65130,7 +65130,6 @@ palmtrends.com
 palmyou.com
 pamau.com
 pamss.net
-pan-elektron.com
 pan.baidu.com
 pan.bilnn.cn
 pan.lanzou.com
@@ -65377,7 +65376,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -69720,7 +69718,6 @@ qpmztk.cn
 qpn3e28v.v1d.szbdyd.com
 qpn3lxxc.v1d.szbdyd.com
 qpoc.com
-qpokok.com
 qpsearch.jd.com
 qpsearch.jd.com.gslb.qianxun.com
 qpstar.com
@@ -72050,7 +72047,6 @@ rmzs.net
 rmzt.com
 rmzxb.com
 rn-hswh.com
-rnd-aresocean-commercial.huawei.com
 rnfengwo.com
 rngtest.com
 rnorder.kfc.com.cn
@@ -72194,6 +72190,7 @@ router-ins.uu.163.com
 router.fun
 router.gwdang.com
 router.tw
+router.uu.163.com
 routeryun.com
 routewize.com
 routingeye.com
@@ -74563,7 +74560,6 @@ sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
 sh.jd.com
-sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com
 sh.mp.weixin.qq.com
@@ -78708,7 +78704,6 @@ sub1.bgp.netarch-aliec2-edge-lb.l.bytedns.net
 sub2.bgp.netarch-aliec2-edge-lb.l.bytedns.net
 subaonet.com
 subaotuan.com
-subemania.com
 subingkang.com
 subinwechat.com
 sublimetextcn.com
@@ -81291,7 +81286,6 @@ thejoyrun.com
 thelarkcloud.com
 thelastsky.com
 theme-drcn.dbankcdn.com
-theme-hw-drcn.dbankcdn.cn
 theme-tc-drcn.dbankcdn.cn
 themebetter.com
 themeforwp.net
@@ -87069,7 +87063,6 @@ vvvfans.com
 vvw.wxbgf.top
 vvw.xiangwangdesh.com
 vvzero.com
-vwanka.com
 vwb4p.cn
 vweixinf.tc.qq.com
 vweixinthumb.tc.qq.com
@@ -89243,7 +89236,6 @@ wildcard.tcb.cdntip.com
 wilddog.com
 wilddream.net
 wildgun.net
-will6.com
 willcdn.com
 willmao.com
 willsemi.com
@@ -94923,6 +94915,7 @@ xstore.insights.1688.com.w.cdngslb.com
 xstqj.com
 xstt5.com
 xstx.info
+xstxt.com
 xsu.cc
 xsvps.com
 xswdcasting.com
@@ -94940,6 +94933,7 @@ xszysc.com
 xt-kp.com
 xt-tattoo.com
 xt12333.com
+xt2d.cn
 xt70.com
 xt918.com
 xtao.me
@@ -99362,7 +99356,6 @@ xytjcpj.com
 xytl.tl.gov.cn
 xytom.com
 xytzg.com
-xyun1.com
 xyunqi.com
 xyvend.com
 xyvending.com
@@ -99548,6 +99541,7 @@ yafco.com
 yafdev.com
 yafeilinux.com
 yageo.tech
+yago-mall.com
 yaguan.pptv.com
 yahacode.com
 yahafda.qivsod.com
@@ -103472,6 +103466,7 @@ zcyiyao.com
 zczj.com
 zczy001.com
 zd-ddos.com
+zd-ddos.net
 zd-power.com
 zd.hk
 zd200572.com
