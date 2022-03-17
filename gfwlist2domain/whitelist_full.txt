@@ -2660,6 +2660,7 @@
 1r1g.com
 1r7nya677qygwfqfpq1f6uvcsg9b7avy.alicloudwaf.com
 1rtb.com
+1s8pj.cn
 1safety.cc
 1sapp.com
 1shang.com
@@ -7432,6 +7433,7 @@
 70dir.com
 70e.com
 70god.com
+70lm.com
 70mao.com
 70ppt.com
 70qn.com
@@ -7440,6 +7442,7 @@
 70wx.com
 70ym.com
 70yx.com
+710070.com
 710071.net
 71133.com
 7116dns.com
@@ -9896,7 +9899,6 @@ a.77shw.com
 a.80982.org
 a.90370.com
 a.9136.com
-a.91nets.cn
 a.91zhongkao.com
 a.ac.qq.com
 a.ad7.com
@@ -13659,7 +13661,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -14062,6 +14063,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -19099,6 +19101,7 @@ c.cyhx98.com
 c.d3iz9md.com
 c.data.mob.com
 c.dcgwnhk.cn
+c.dengbaozx.cn
 c.dun.163.com
 c.duomai.com
 c.eojphlm.cn
@@ -23916,7 +23919,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.tencent.lb.metowolf.com
 cn.vc
@@ -25009,7 +25011,6 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
-connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com
@@ -28154,6 +28155,7 @@ demotionsearchapi.paas.cmbchina.com
 denachina.com
 denganliang.com
 dengb.com
+dengbaozx.cn
 dengbi.cc
 dengbi8.com
 dengcuo.com
@@ -30178,6 +30180,7 @@ down.apps.sina.cn
 down.chinaz.com
 down.diannaodian.com
 down.dingtalk.com
+down.ewo1617.com
 down.fuzhugo.com
 down.game.qq.com
 down.game.qq.com.sched.dlied1.tdnsv5.com
@@ -31698,7 +31701,6 @@ e.eqxiu.com
 e.fengyx.com
 e.fengyx.com.cname1236.yjs-cdn.com
 e.gitee.com
-e.gomev.cn
 e.hogyp.com
 e.ishansong.com
 e.joyxv.com
@@ -32405,6 +32407,7 @@ edysn.cn
 ee-lb.bytedns.net
 ee-skin.com
 ee-vip.net
+ee.1s8pj.cn
 ee.zn8ni.cn
 ee1234.com
 ee34d54ae2314884e4ae20efa1451b35.dl.txcdns.com
@@ -33494,6 +33497,7 @@ ewind.us
 ewinnet.com
 ewku.com
 ewmwq0516.oss-accelerate.aliyuncs.com
+ewo1617.com
 ewoka.com
 ewomail.com
 eworksglobal.com
@@ -35272,6 +35276,7 @@ flyzyblog.net
 flzc.com
 flzhan.com
 flzsdq.com
+fm.duokanbox.com
 fm.ipinyou.com
 fm.p0y.cn
 fm.qzone.qq.com
@@ -44873,7 +44878,6 @@ ictr.cn
 ictun.com
 ictuniv.com
 icuh4nsi8ym9bj3p5x81otfx9kpw6uja.yundunwaf2.com
-icuiya.com
 icv.cn
 icver.com
 icvip.com
@@ -44993,7 +44997,6 @@ ideasandroid.com
 ideazhao.com
 ideebank.com
 ideepin.com
-idees-du-net.com
 ideng.com
 identify.tankeai.com
 identity.synology.cn
@@ -48387,7 +48390,6 @@ jdjygold.com
 jdjys.com
 jdkcb.com
 jdkic.com
-jdkindle.com
 jdl.com
 jdluosi.com
 jdlxzx.com
@@ -58737,6 +58739,7 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
+mercury.jd.com
 merge.report.url.cn
 mergeek.com
 merklechina.com
@@ -60507,6 +60510,7 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -78889,7 +78893,6 @@ survey.leiting.com
 survey.miaozhen.com
 survey.news.ifeng.com
 survey.work
-survey2.163.com
 surveyhills.com
 surveyunion.com
 survivor99.com
@@ -81088,7 +81091,6 @@ thdb.com
 the4can.com
 the5fire.com
 the9.com
-theadvancedcalendar.com
 thearenacapital.com
 thearyong.com
 theateliercouture.com
@@ -82581,7 +82583,6 @@ trackbeat.xiachufang.com
 trackcommon.hujiang.com
 tracker-00.qvb.qcloud.com
 tracker-01.qvb.qcloud.com
-tracker.ai.xiaomi.com
 tracker.ali213.net
 tracker.btsync.cf
 tracker.coopt.com
