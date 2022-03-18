@@ -11037,7 +11037,6 @@ adlog.vivo.com.cn
 adls.suning.com
 adluckin.com
 adlvyou.com
-adm.265g.com
 adm.52swine.com
 adm.baidu.com
 adm.cloud.cnfol.com
@@ -51972,6 +51971,7 @@ keylol.com
 keymoe.com
 keyoou.com
 keyray-hk.com
+keyrotate.qq.com
 keyshot.cc
 keyuhome.com
 keyunsoft.com
