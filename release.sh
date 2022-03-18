@@ -113,10 +113,12 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "tls://1.12.12.12"
-                "tls://120.53.53.53"
-                "tls://dot.pub"
-               #"tls://dns.alidns.com"
+                #"tls://1.12.12.12"
+                #"tls://120.53.53.53"
+                #"tls://dot.pub"
+                #"tls://dns.alidns.com"
+                119.29.29.29
+                119.28.28.28
             )
             foreign_dns=(
                 "tls://1.1.1.1"
