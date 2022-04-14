@@ -2643,7 +2643,6 @@
 99135.com
 9918811.com
 9938153.com
-9949469.com
 9960.com
 9960cp1.com
 9960xl.com
@@ -5587,6 +5586,7 @@ biz.st
 biz.tm
 bizhat.com
 bizimama.com
+bizographics.com
 bizppurio.com
 biztech.ro
 bizzapp.com
@@ -8739,6 +8739,7 @@ dbc.hk
 dbgjd.com
 dbr.ee
 dbw9999.com
+dc-msedge.net
 dc0031.com
 dc0062.com
 dc0063.com
@@ -13140,6 +13141,7 @@ gpstheseries.com
 gputechconf.com
 gqfx.com
 gqueues.com
+gr-assets.com
 gr.jp
 gr8domain.biz
 gr8name.biz
@@ -16681,6 +16683,7 @@ kyzyhello.com
 kzeng.info
 kzqzb.com
 kzsxy.org
+l-msedge.net
 la-conjugaison.fr
 la-forum.org
 la4065.com
@@ -23196,6 +23199,7 @@ scanbc.com
 scasino.com
 sccycles.cl
 scdn.co
+scene7.com
 scenesource.me
 sceper.ws
 scgpbl.cn
