@@ -5230,6 +5230,7 @@
 56pan.com
 56php.com
 56qq.com
+56rrr.net
 56show.com
 56shuba.cc
 56shuku.org
@@ -6524,7 +6525,6 @@
 7wnews.com
 7wsh.com
 7wsh.net
-7wx.org
 7x24cc.com
 7x24s.com
 7xdown.com
@@ -14097,7 +14097,6 @@ cbevent.com
 cbex.com
 cbfau.com
 cbgcloud.com
-cbgyhe.cn
 cbi360.net
 cbi88.com
 cbice.com
@@ -18231,7 +18230,6 @@ cqslsc.com
 cqsms.net
 cqsoft.org
 cqsxedu.com
-cqsy.org
 cqtally.co
 cqtally.com
 cqtaotan.com
@@ -21918,7 +21916,6 @@ dzwww.com
 dzwww.net
 dzxwnews.com
 dzxxzy.com
-dzxzx.cn
 dzynyy.com
 dzyqc.com
 dzyqh.com
@@ -22271,7 +22268,6 @@ ecloud.hk
 ecmagnet.com
 ecmoban.com
 ecns.cn
-ecnsea.com
 ecnudec.com
 ecoalchina.com
 ecochuse.com
@@ -24066,7 +24062,6 @@ feixueteam.net
 feiyang.com
 feiyangedu.com
 feiyicheng.com
-feiyiproxy.com
 feiyit.com
 feiyng.com
 feiyu.com
@@ -29836,6 +29831,7 @@ hn-cbec.com
 hn-pc.com
 hn165.com
 hn96520.com
+hn985.com
 hnacargo.com
 hnaccp.com
 hnaee.com
@@ -32199,6 +32195,7 @@ ideebank.com
 ideepin.com
 ideng.com
 idesktopcal.com
+idevoa.cn
 idevz.org
 idgvc.com
 idianchou.com
@@ -37166,7 +37163,6 @@ kekaoxing.com
 kekaoyun.com
 keke289.com
 kekebaby.com
-kekedj.com
 kekejp.com
 kekenet.com
 kekepx.com
@@ -44722,6 +44718,7 @@ nh738.cn
 nhaidu.net
 nhbhpx.club
 nhdmd.com
+nhfpdc.cn
 nhganggeban.com
 nhnexpo.com
 nhnsc.com
@@ -51300,7 +51297,6 @@ sdicin.com
 sdicpower.com
 sdicvc.com
 sdifenzhou.com
-sdinfo.net
 sdiread.com
 sditol.com
 sdj-tech.com
@@ -53768,7 +53764,6 @@ socialark.net
 socialbeta.com
 socialfishface.com
 socialjia.com
-sockboom.org
 socks1688.com
 socolar.com
 socomic.com
@@ -65152,6 +65147,7 @@ xmccb.com
 xmcdn.com
 xmchong.com
 xmcimg.com
+xmcmn.com
 xmcp.ltd
 xmcwh.com
 xmcx.net
@@ -66489,6 +66485,7 @@ yb3.cc
 yb983.com
 yba120.com
 ybaby.com
+ybanj.com
 ybao.org
 ybaobei.cn
 ybaobx.com
@@ -70413,6 +70410,7 @@ zhengdabm.com
 zhengdaotang.com
 zhengdichaiqian.com
 zhengding.cc
+zhengdongwuye.cn
 zhengfenduojin.com
 zhenggongdianxian.com
 zhengguzhishen.com
