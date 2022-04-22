@@ -12658,7 +12658,6 @@ ghostme.org
 ghostpath.com
 ghostvpn.com
 ghst.net
-ghtrht.com
 ghut.org
 giantessnight.com
 giantrobotfactory.com
@@ -20473,6 +20472,7 @@ openloadfreetv.me
 openmaps.org
 openmine.cl
 openobservatory.org
+opensea.io
 opensource.google
 opensourceinsight.dev
 opensourceinsights.dev

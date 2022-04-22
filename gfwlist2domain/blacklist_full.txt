@@ -15271,7 +15271,6 @@ ghostme.org
 ghostpath.com
 ghostvpn.com
 ghst.net
-ghtrht.com
 ghut.org
 gi.ldld2.me
 giancarlo.spadini.it
@@ -24504,6 +24503,7 @@ openmaps.org
 openmine.cl
 openobservatory.org
 openproxy.co.uk
+opensea.io
 openshift.redhat.com
 opensource.google
 opensourceinsight.dev
