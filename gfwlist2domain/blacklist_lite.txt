@@ -20035,6 +20035,7 @@ ntd.tv
 ntdca.com
 ntdcantonese.com
 ntdimg.com
+ntdtv-dc.com
 ntdtv.ca
 ntdtv.com
 ntdtv.cz
