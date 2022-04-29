@@ -17214,6 +17214,7 @@ howstrange.me
 howtoforge.com
 howtohackfacebook-account.com
 hoxx.com
+hoyo.link
 hoyolab.com
 hoyoverse.com
 hp-imagine.com
@@ -24504,6 +24505,7 @@ openproxy.co.uk
 opensea.io
 openshift.redhat.com
 opensource.google
+opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
 openssl.org
