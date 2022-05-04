@@ -770,6 +770,7 @@
 1bao.org
 1d.pw
 1d4.us
+1dot1dot1dot1.cloudflare-dns.com
 1dpw.com
 1drv.com
 1drv.ms
@@ -2431,7 +2432,6 @@
 80sf.com
 810127.com
 81100888.com
-8121283.com
 8130592.com
 8138138.com
 814.mnd.gov.tw
@@ -10565,6 +10565,7 @@ darwinex.com
 darwinsource.com
 darwinsource.org
 darwinsourcecode.com
+dash.cloudflare.com
 dashaqi.ga
 dashboard.securingdemocracy.org
 dashlane.com
@@ -11317,6 +11318,7 @@ dns.hostux.net
 dns.moulticast.net
 dns.nextdns.io
 dns.njal.la
+dns.opendns.com
 dns.oszx.co
 dns.quad9.net
 dns.sb
