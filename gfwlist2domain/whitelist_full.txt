@@ -7344,7 +7344,6 @@
 70dir.com
 70e.com
 70god.com
-70lm.com
 70mao.com
 70ppt.com
 70qn.com
@@ -7401,7 +7400,6 @@
 71txt.com
 71wl.com
 71xe.com
-71zrh.cn
 71zs.com
 720582.com
 7209c5e4d6a601ad668e33bdddc696e2.dlied1.cdntips.net
@@ -7923,7 +7921,6 @@
 7mx.com
 7nepal.com
 7net.cc
-7oc92s1.cachenode.cn
 7oh.net
 7pa.com
 7pc8.com
@@ -7941,7 +7938,6 @@
 7road.net
 7runto.com
 7rv.net
-7s9fep1.cachenode.cn
 7sbook.com
 7scs.com
 7sdn.com
@@ -9688,7 +9684,6 @@
 9miaoxueyuan.com
 9mic.com
 9msg.com
-9n7kda12.sched.sinastatic-dk.tdnsv5.com
 9nali.com
 9niag5.tdum.alibaba.com
 9now.net
@@ -13189,7 +13184,6 @@ ap-dd2.jd.com.gslb.qianxun.com
 ap-southeast-my88-a01-vncproxy-ecs.aliyun.com
 ap-static.dongqiudi.com
 ap.cpatrk.net
-ap.czxym168.cn
 ap.dongqiudi.com
 ap.easyjz.com.cn
 ap.ksrong.com
@@ -13486,6 +13480,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -18964,7 +18959,6 @@ c.data.mob.com
 c.dengbaozx.cn
 c.dun.163.com
 c.duomai.com
-c.eojphlm.cn
 c.eqxiu.com
 c.f1zd.com
 c.feilan5.cn
@@ -20622,6 +20616,7 @@ cdrtvu.com
 cdruzhu.com
 cdryny.com
 cds-cdn.v.aaplimg.com
+cds.3.cn
 cds.3.cn.gslb.qianxun.com
 cds.51y5.net
 cds.apple.com
@@ -26442,8 +26437,6 @@ d1--cn-gotcha103.bilivideo.com
 d1--cn-gotcha108.bilivideo.com
 d1--cn-gotcha202.bilivideo.com
 d1--cn-gotcha203.bilivideo.com
-d1--cn-gotcha203.bilivideo.com.w.alikunlun.com
-d1--cn-gotcha203.bilivideo.com.w.alikunlun.com.qr.uuhimalayanqm.com
 d1--cn-gotcha204.bilivideo.com
 d1--cn-gotcha204.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha204.bilivideo.com.tcdnlive.com
@@ -27711,7 +27704,6 @@ dd373.com
 dd3d.xyz
 dd4.com
 dd6300.fun
-dd66778899.com
 dd713.bj.bcebos.com
 dd7474a61d209bac3e80f1d6d5a5b023.safeframe.googlesyndication.com
 dd8828.com
@@ -33392,6 +33384,7 @@ exiqu.com
 exmail.qq.com
 exmailqq.com
 exmrw.com
+exness.com
 exnpk.com
 exntech.com
 exo-mk.com
@@ -34652,6 +34645,7 @@ fhthkz.cn
 fhtj.com
 fhtlw.com
 fhtre.com
+fhtzvip.com
 fhwlgs.com
 fhycs.com
 fhyx.com
@@ -38512,7 +38506,6 @@ guanli.chaoxing.com
 guanli360.com
 guanlixinli.com
 guanmeikj.com
-guanmeixiangsu.com
 guannews.com
 guannin.com
 guanplus.com
@@ -44094,7 +44087,6 @@ i.baidu.com
 i.cctv.com
 i.chaoxing.com
 i.clkservice.youdao.com
-i.ctags.cn
 i.dell.com
 i.dmzj.com
 i.eastmoney.com
@@ -44239,7 +44231,6 @@ i574ou0.cdnnodedns.cn
 i5i6.net
 i5mai.com
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i62.lanzoug.com
 i6879.com
@@ -45766,7 +45757,6 @@ img.docin.com
 img.dota2.com.cn
 img.douyucdn.cn
 img.douyucdn.cn.w.cdngslb.com
-img.downk.cc
 img.duoyi.com
 img.duoyi.com.dycdn.com
 img.eqbyc.com
@@ -45865,7 +45855,6 @@ img.t.sinajs.cn
 img.t58b.com
 img.taobaocdn.com
 img.taobaocdn.com.danuoyi.tbcache.com
-img.taotaosou.cn
 img.tapimg.com
 img.tencentmusic.com
 img.tenpay.com
@@ -47972,7 +47961,6 @@ jb51.cc
 jb51.com
 jb51.net
 jb6636.cn
-jb88app.com
 jbaier023.com
 jbaobao.com
 jbb.one
@@ -50081,6 +50069,7 @@ js2.a.kwimgs.com.download.ks-cdn.com
 js2.a.yximgs.com
 js2.t.sinajs.cn
 js3.org
+js3768.zhudiaosz.com
 js3n.com
 js4.eastmoney.com
 js412.yqjxzw.com
@@ -55435,7 +55424,6 @@ log.kajicam.com
 log.kuaigeng.com
 log.kuwo.cn
 log.l.ywopt.com
-log.liusha.info
 log.m.sm.cn
 log.mengtuiapp.com
 log.mix.sina.com.cn
@@ -56763,7 +56751,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
@@ -56880,6 +56867,7 @@ m.travelzoo.com
 m.tsgyg.cn
 m.tuhu.cn
 m.uc123.com
+m.ucaii.com
 m.uczzd.cn
 m.umbbs.cn
 m.v.qq.com
@@ -57285,7 +57273,6 @@ mainvyou.com
 mainwww.com
 mainwww.newsmth.net
 maipu.com
-maiquan.me
 mairoot.com
 mairuan.com
 maisanqi.com
@@ -57601,6 +57588,7 @@ mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
 mapi.m.jd.com
+mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
 mapi.vip.com
@@ -58407,7 +58395,6 @@ memsensor.com
 memuu.com
 men.ci
 menchuang.biz
-mendoc.cn
 meng.360zuowen.com
 meng2468.51sole.com
 meng2u.com
@@ -58487,7 +58474,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
@@ -58612,7 +58598,6 @@ mg.glwxw.net
 mg.hrgame.com.cn
 mg.listc.cn
 mg.uu.163.com
-mg.uu.163.com.wsglb0.com
 mg09.zhaopin.com
 mg21.com
 mg3721.com
@@ -59586,7 +59571,6 @@ moapi.wps.cn
 moawx.hotwater.com.cn
 mob.com
 mob26.jnjszl.com
-mob29.shqcbus.com
 mob55.com
 mobaders.com
 mobaders.oss-cn-beijing.aliyuncs.com
@@ -60859,6 +60843,7 @@ myhuaweicloud.com
 myhug.cn
 myhuilv.com
 myhwclouds.com
+myhx120.com
 myicloud.vip
 myie.me
 myie9.com
@@ -61050,7 +61035,6 @@ mzhujia.com
 mzi8.com
 mzjmedia.com
 mzmjapp.com
-mzokqm.cn
 mzone.site
 mzread.com
 mzres.com
@@ -62201,6 +62185,7 @@ njrc365.com
 njrsrc.com
 njrx.cc
 njs.manhuahome.com
+njs.myhx120.com
 njsd-china.org
 njshengyuanli.com
 njsjz.com
@@ -64002,6 +63987,7 @@ otlnwyp.cn
 otms.com
 otome.me
 otomedream.com
+otorrentv.com
 otosaas.com
 otovc.com
 otp-express.com
@@ -64247,7 +64233,6 @@ p.lu.sogou.com
 p.m.jd.com
 p.m.jd.com.gslb.qianxun.com
 p.m5bn.com
-p.mendoc.cn
 p.ninebox.cn
 p.niudashu.com
 p.pstatp.com
@@ -66325,6 +66310,7 @@ plum.metgs.com
 pluosi.com
 plures.net
 plus-static.jd.com
+plus.m.jd.com
 plus.m.jd.com.gslb.qianxun.com
 plus.wps.cn
 plusgantt.com
@@ -72918,6 +72904,7 @@ sbiquge.com
 sbk-h5.com
 sbkh5.com
 sbkk8.com
+sbldw.cn
 sblunwen.com
 sbo8.com
 sbpb1.chuiyue.com
@@ -75179,7 +75166,6 @@ shphschool.com
 shpost01.mqtt.aliyuncs.com
 shppa.net
 shpuyuxxkj.com
-shqcbus.com
 shqcplw.com
 shqi7.net
 shqingzao.com
@@ -77563,6 +77549,7 @@ stat.m.jj.cn
 stat.meitudata.com
 stat.mobgi.com
 stat.moji.com
+stat.onemob.mobi
 stat.openinstall.io
 stat.pandora.xiaomi.com
 stat.pchome.net
@@ -81593,6 +81580,7 @@ tlqwine.com
 tlrcbk.com
 tls-eleme.dingtalk.com
 tls1.cdnudns.com
+tlsgq.cn
 tlsj-hd.com
 tlstwy.com
 tlsy.cy.com
@@ -81600,7 +81588,6 @@ tlte.com
 tltesoft.com
 tltuan.net
 tltzg.com
-tlu.dl.delivery.mp.microsoft.com
 tlwok.com
 tlyy.cc
 tlyy.tv
@@ -82163,6 +82150,7 @@ tp1.sinaimg.cn
 tp2.sinaimg.cn
 tp3.sinaimg.cn
 tp4.sinaimg.cn
+tp4sul.jwzd.com.cn
 tp8.me
 tpappicon.oss-cn-shenzhen.aliyuncs.com
 tpbook.com
@@ -83715,6 +83703,7 @@ uc56.com
 uc669.com
 uc9.suinidai.com.cn
 ucai123.com
+ucaii.com
 ucaiyuan.com
 ucaiyun.com
 ucancs.com
