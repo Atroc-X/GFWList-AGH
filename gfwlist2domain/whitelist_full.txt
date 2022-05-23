@@ -6752,7 +6752,6 @@
 5zai.com
 5zewin.tdum.alibaba.com
 5zg.com
-5zhibo.com
 5zi5.top
 5zzu.com
 6-china.com
@@ -8726,7 +8725,6 @@
 907e1a843b95dd82b608a5757fd2aff6.safeframe.googlesyndication.com
 90880.com
 90907.com
-90a.cc
 90ab53da9d2a3c198ca9e28c3ae73f3e.safeframe.googlesyndication.com
 90bola.cc
 90bola.top
@@ -11319,7 +11317,6 @@ afzhan.com
 ag.qq.com
 ag17.wang
 ag365.com
-ag8vip6.com
 agalwood.net
 agamepower.com
 agcloudcs.com
@@ -14887,7 +14884,6 @@ axuer.com
 axure.us
 axureshop.com
 axureux.com
-axureyun.com
 axvert.chsi.com.cn
 axxiaoshuo.com
 axyahaxn.tokyo
@@ -15176,7 +15172,6 @@ babaxiong.com
 babeijiu.com
 babel-general.dreport.meituan.net
 babel-statistics-android.dreport.meituan.net
-babidou.com
 babidou.net
 babihu.com
 babsoft.net
@@ -19923,6 +19918,7 @@ ccnvpt.com
 ccoalnews.com
 ccoco.vip
 ccoi.ren
+ccops.net
 ccopyright.com
 ccpc360.com
 ccpce-cn.consumer.huawei.com
@@ -22028,7 +22024,6 @@ chinaore.com
 chinaosx.com
 chinaosx.net
 chinaott.net
-chinaowps.com
 chinapastel.com
 chinapay.com
 chinape168.com
@@ -23611,7 +23606,6 @@ cn-hbcd2-cu-v-16.bilivideo.com
 cn-hbcd2-cu-v-17.bilivideo.com
 cn-healthcare.com
 cn-http2.cootek.com
-cn-java.com
 cn-jsnt-dx-live-01.bilivideo.com
 cn-jsnt-dx-live-03.bilivideo.com
 cn-jsnt-dx-v-07.bilivideo.com
@@ -29406,16 +29400,11 @@ dns12345.com
 dns2.oadz.com
 dns2008.com
 dns383.com
-dns456456123.com
 dns567.com
 dns6132.com
 dns6868.com
 dns800.com
 dns999999.com
-dnsabc-a.com
-dnsabc-b.com
-dnsabc-f.com
-dnsabc-g.com
 dnsapi.cn
 dnsapple.com
 dnsapple.net
@@ -31647,6 +31636,7 @@ eastftp.net
 eastfu.com
 easthome.com
 eastib.com
+easticloud.com
 eastled.com
 eastlending.com
 eastmannplastics.com
@@ -32513,7 +32503,6 @@ embryform.com
 embsky.com
 emc77.com
 emcbj.com
-emcbtc.com
 emcite.com
 emcsosin.com
 emdcadvertise.eastmoney.com
@@ -33651,6 +33640,7 @@ fajiayun.com
 fajjj.com
 fajuer.xyz
 faka.cat
+fakeloc.cc
 fala114.com
 fallback.signal.xm.meituan.com
 falomall.com
@@ -40212,7 +40202,6 @@ hbkqw.com
 hbksw.com
 hbky.com
 hbla.net
-hblady.com
 hblccy.com
 hbliti.com
 hblszq.com
@@ -41586,6 +41575,7 @@ hljtv.com
 hljucm.net
 hljyestar.com
 hljyqnj.com
+hljzl.icu
 hlkncse.com
 hlm51fyt.v1d.szbdyd.com
 hlmdctel.v1d.szbdyd.com
@@ -41631,7 +41621,6 @@ hm120.com
 hm16888.net
 hm2.cnzz.com
 hm3.cnzz.com
-hm648.com
 hm86.com
 hmcdn.baidu.com
 hmecw.com
@@ -41731,7 +41720,6 @@ hnfa.org
 hnfapiao.com
 hnfaren.com
 hnfdx.com
-hnfjwh.com
 hnfjz.com
 hnfpgm.com
 hnfyqmj.com
@@ -42177,7 +42165,6 @@ houqinbao.com
 houqun.me
 houqun.net
 houquner.com
-houruitouzi.com
 house.163.com
 house.china.com.cn
 house.cnfol.com
@@ -48318,7 +48305,6 @@ jianai360.com
 jianan5.com
 jianbaizhan.com
 jianbaolife.com
-jianbh.com
 jianbihua.com
 jianbihua.org
 jianbihua360.com
@@ -48930,7 +48916,6 @@ jinliniuan.com
 jinlishenghuo.com
 jinliyu.cc
 jinlong-jiaxiao.com
-jinmaojie.com
 jinmaopartners.com
 jinmei8.1688.com
 jinmenrc.com
@@ -60434,7 +60419,6 @@ mvcat.com
 mvhere.com
 mvideopic.bdstatic.com
 mvmpg.com
-mvnas.com
 mvnjar.com
 mvo.myt7th.xyz
 mvod.itunes.apple.com
@@ -63651,7 +63635,6 @@ orient-fund.com
 orient-safety.com
 orientalgame.com.tw
 orientalhorse.com
-orientalpatek.com
 orientalpearltower.com
 orientalwisdom.com
 orientcasa.com
@@ -65461,7 +65444,6 @@ php-z.com
 php.cn
 php06.com
 php168.com
-php2.cc
 php318.com
 php7.site
 phpad.cqnews.net
@@ -68356,7 +68338,6 @@ qianqiankeji.xyz
 qianqiantao.com
 qianqianxs.com
 qianqu.cc
-qianquduo.com
 qianrenge.cc
 qianrihong.net
 qianrong.me
@@ -70253,6 +70234,7 @@ qxka.com
 qxkp.net
 qxlib.com
 qxm.pluto.sogou.com
+qxnav.com
 qxnecn.com
 qxnic.com
 qxnzx.com
@@ -70969,6 +70951,7 @@ renderoffice.alipaydns.com
 rendna.com
 renesas.cn
 renew.console.aliyun.com
+rengwan.com
 renhaisiwang.1688.com
 renhence.com
 renji.com
@@ -80765,7 +80748,6 @@ tianhuicun.com.cn
 tianhujy.com
 tianji.com
 tianji368.com
-tianjieleather.com
 tianjigame.com
 tianjihr.com
 tianjimedia.com
@@ -93169,7 +93151,6 @@ xinfu888.com
 xinfushe.com
 xing008.com
 xing73.com
-xingaiming.com
 xingames.com
 xingbangip.com
 xingbo.tv
@@ -99391,7 +99372,6 @@ yeapcloud.com
 year.gamecenter.qq.com
 yearnfar.com
 yeastar.com
-yeax.com
 yebaike.com
 yebangyu.org
 yebao-client.oss-cn-beijing.aliyuncs.com
@@ -102416,7 +102396,6 @@ yywt.online
 yywz123.com
 yywzw.com
 yyx168.com
-yyxfzy.com
 yyxl.duowan.com
 yyxscn.com
 yyxt.com
@@ -103525,6 +103504,7 @@ zhengdaotang.com
 zhengdichaiqian.com
 zhengding.cc
 zhengdongwuye.cn
+zhengdongzulin.com
 zhengfenduojin.com
 zhenggongdianxian.com
 zhengguzhishen.com
@@ -104208,7 +104188,6 @@ zhuanzhuyuwin7.com
 zhuashouru.com
 zhuatang.com
 zhuatongji.com
-zhuax.com
 zhuaxia.com
 zhuayou.com
 zhuayoukong.com
