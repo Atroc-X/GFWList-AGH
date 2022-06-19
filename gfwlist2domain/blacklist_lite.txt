@@ -5579,6 +5579,7 @@ bg508.com
 bg919.com
 bg9444.com
 bgabbin.com
+bgme.me
 bgov.com
 bgproxy.org
 bgvpn.com
@@ -5896,6 +5897,7 @@ blm9.app
 blmdc66.com
 blmdc7.com
 blockbuster.com
+blockcast.it
 blockcn.com
 blockedbyhk.com
 blockedinchina.net
@@ -6689,6 +6691,7 @@ burubudur.com
 busayari.com
 business-humanrights.org
 business-standard.com
+business.page
 business.site
 businesscatalyst.com
 businessfocus.io
@@ -9019,6 +9022,7 @@ data-vocabulary.org
 data.com
 datadefiner.com
 datafilehost.com
+datalabour.com
 datalak3.ml
 dataliberation.org
 datalore.io
@@ -9768,6 +9772,7 @@ doubleclickbygoogle.com
 doublehop.me
 doublemoney.site
 doubmirror.cf
+douchi.space
 dougscripts.com
 douhokanko.net
 doujin-eromanga.com
@@ -10423,6 +10428,7 @@ edominations.com
 edoors.com
 edsby.com
 edu-research.org
+edu.ci
 edu.hk
 edu.kw
 edu.sa
@@ -13320,6 +13326,7 @@ go2av.com
 go2free.xyz
 go365.cf
 go365.ml
+go5.dev
 goagent.biz
 goagentplus.com
 goalinn.com
@@ -18666,6 +18673,7 @@ masterintelligence.com
 masterpassteststore.com
 mastodon.cloud
 mastodon.host
+mastodon.online
 mastodon.social
 mastodon.xyz
 mastodont.cat
@@ -18866,6 +18874,7 @@ meraki-go.com
 merakigo.com
 mercaderias.cl
 mercari.com
+mercari.jp
 mercatox.com
 mercdn.net
 mercurynews.com
@@ -19247,6 +19256,7 @@ mirailab.tech
 mirar.xxx
 miro.com
 miroguide.com
+mirror.xyz
 mirrorbooks.com
 mirrormedia.mg
 mirrormediagroup.com
@@ -19534,6 +19544,7 @@ moralesbrothers.com
 morazzia.com
 morbell.com
 moreheadphones.com
+moresci.sale
 morganclaypool.com
 morlive.com
 morningstar.com
@@ -19704,6 +19715,7 @@ msropendata.com
 mssi.pw
 mssm.edu
 mstdn.io
+mstdn.social
 msturing.org
 msudalosti.com
 msunlimitedcloudsummit.com
@@ -20847,6 +20859,7 @@ nra.com
 nradio.me
 nrk.no
 nroute.pro
+ns.ci
 ns01.biz
 ns01.gq
 ns01.info
@@ -21020,6 +21033,7 @@ o33285.com
 o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
+o3o.ca
 o8919.com
 oakland.edu
 oakville.ca
@@ -21699,6 +21713,7 @@ papaxtv.site
 paper-replika.com
 paper.li
 paperb.us
+paperclip.tk
 paperxtv.site
 paradisehill.cc
 paradisehill.tv
@@ -25027,6 +25042,7 @@ slamav.com
 slandr.net
 slantedeyes.com
 slashdot.org
+slashine.onl
 slate.com
 slate.fr
 slaytizle.com
@@ -25436,6 +25452,7 @@ sprinklesapp.com
 sprint.com
 sprint0.net
 sprite.org
+sprite.page
 sproutcore.com
 sproxy.info
 sproxy.net
