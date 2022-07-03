@@ -9791,6 +9791,7 @@ corriere.it
 cors-anywhere.herokuapp.com
 cortanaanalytics.com
 cortanaskills.com
+cortexrpg.com
 corumcollege.com
 cos-moe.com
 cosersuki.net
@@ -17326,6 +17327,7 @@ hikinggfw.org
 hilive.tv
 hiload.com
 him.slyip.net
+himalaya-exchange.zendesk.com
 himalaya.exchange
 himalaya2020.com
 himalayan-foundation.org
