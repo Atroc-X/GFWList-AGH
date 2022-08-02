@@ -20637,6 +20637,8 @@ cernet.net
 cernet2.net
 cersp.com
 certify.alipay.com
+certs-lb.apple.com.akadns.net
+certs.apple.com
 ces-transaction.com
 cescnb.com
 ceseasons.com
@@ -25320,10 +25322,12 @@ crifst.com
 crimoon.net
 crispstata.com
 crjfw.com
+crl-lb.apple.com.akadns.net
 crl.apple.com
 crl.globalsign.net
 crl.kaspersky.com
 crl.pki.goog
+crl2.alphassl.com
 crlcn.com
 crlf0710.com
 crlg.com
@@ -73342,6 +73346,7 @@ secun.com
 secure.dsp.com
 secure.globalsign.com
 secure.mediav.com
+secure2.alphassl.com
 securelogin.com.cn
 securemetrics.apple.com.cn
 securepubads.g.doubleclick.net
