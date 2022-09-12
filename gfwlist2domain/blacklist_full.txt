@@ -1665,6 +1665,7 @@
 4club.com
 4dq.com
 4ebaytraders.com
+4everland.io
 4everproxy.com
 4freemam.myfw.us
 4freeproxy.com
@@ -4448,6 +4449,7 @@ anontext.com
 anonvpn.io
 anonymise.us
 anonymitynetwork.com
+anonymize.com
 anonymize.net
 anonymizer.com
 anonymous-proxies.net
@@ -4918,6 +4920,7 @@ arabxn.com
 arabxnxx.org
 arabysexy.com
 arabysexy.mobi
+aragon.network
 aransrl.com.ar
 arapurayil.com
 aravas.io
@@ -5429,6 +5432,7 @@ awayoutgame.com
 awc7.com
 awebproxy.com
 aweencore.com
+awempire.com
 awetv.com
 awflapp.top
 awk.so
@@ -8171,6 +8175,7 @@ c3285.app
 c3344.com
 c3j.fun
 c4288.com
+c4rex.co
 c4story.com
 c4v6d7v3.stackpathcdn.com
 c5.etowns.net
@@ -8820,6 +8825,7 @@ cervetoria.pt
 cetsedu.org
 cevin.me
 cex.io
+cf-ipfs.com
 cf.gs
 cf0009.com
 cf5.herokuapp.com
@@ -10217,6 +10223,7 @@ crsna2015.tk
 crucial.com
 cruisecritic.com
 crunchyroll.com
+crustwebsites.net
 crv2000.com
 crwdcntrl.net
 cryptocat.com
@@ -12026,6 +12033,8 @@ doceapower.com
 docker.com
 docker.io
 dockerizer.com
+docleradn.com
+doclercdn.com
 docs-examples.firebaseio.com
 docs.cfw.lbyczf.com
 docs.com
@@ -13495,6 +13504,7 @@ etadult.com
 etaireia.gr
 etaiwannews.com
 eternal-group.com
+eternum.io
 etet22.com
 eth0.org.uk
 etherdelta.com
@@ -14678,6 +14688,7 @@ flc111.com
 flckr.com
 fldsolar.com
 flecheinthepeche.fr
+fleek.co
 fleshbot.com
 fleursdeslettres.com
 flgg.us
@@ -15852,6 +15863,7 @@ gateswq.net
 gateway.dev
 gateway.jb88app.com
 gateway.jbo25.com
+gateway.pinata.cloud
 gateway.tlc801.com
 gateway2travel.com
 gatewayus.com
@@ -19680,8 +19692,15 @@ ipchanging.com
 ipconceal.com
 ipdisguiser.com
 ipfire.org
+ipfs-gateway.cloud
+ipfs.anonymize.com
+ipfs.eternum.io
+ipfs.eth.aragon.network
+ipfs.fleek.co
 ipfs.infura.io
 ipfs.io
+ipfs.lain.la
+ipfs.runfission.com
 ipfs.smartsignature.io
 ipfspin.com
 ipge.com
@@ -19737,6 +19756,7 @@ ipjlvpn.com
 ipkmedia.com
 ipleadership.org
 iplogger.org
+ipns.co
 ipo-90.maaii.com
 ipobar.com
 ipod.ch
@@ -20662,6 +20682,7 @@ jonward.com
 jorn.net
 jornaldacidadeonline.com.br
 jornaldiario.com
+jorropo.net
 jos.com
 joshinweb.jp
 joshuarue.com
@@ -21469,6 +21490,7 @@ ladyboypornonly.com
 lagrandeepoque.com
 lagranepoca.com
 lahauntedhouse.com
+lain.la
 lain.li
 laintranet.es
 lakeballs.fi
@@ -21945,6 +21967,7 @@ library.usc.cuhk.edu.hk
 libraryinformationtechnology.com
 librarylovefest.com
 libraryofmoria.com
+libredd.it
 libredns.gr
 libreswan.org
 librox.co.za
@@ -22248,6 +22271,7 @@ logos.com.hk
 logular.com
 loholidayhk.com
 loixtv.com
+lokinet.org
 lol-europe.com
 lolclub.org
 lolespor.com
@@ -23331,6 +23355,7 @@ mesubuta.net
 meszhmet.com
 met-art.com
 met-nude.com
+meta.com
 metacafe.com
 metacloud.com
 metacpan.org
@@ -25221,6 +25246,7 @@ nfoxo.com
 nfsc.global
 nfscdict.com
 nfsworld.com
+nftstorage.link
 ng.mil
 nga.mil
 ngan.ml
@@ -26362,6 +26388,7 @@ oracleinfinity.io
 orange01.org
 orangemail.okstate.edu
 oranges.idv.tw
+oranum.com
 orbitera.com
 orcam.com
 orchid.com
@@ -27311,6 +27338,7 @@ pin1188.com
 pin2288.com
 pin6.com
 pin9988.com
+pinata.cloud
 pinbet88.com
 pincong.org
 pincong.rocks
@@ -29467,6 +29495,7 @@ run.app
 runbtx.com
 rundf665.cyou
 runescape.com
+runfission.com
 runhomefast.com
 runnerinn.com
 runnike.com
@@ -35035,6 +35064,7 @@ vhxqa2.com
 vhxqa3.com
 vhxqa4.com
 vhxqa6.com
+via0.com
 viacbs.com
 viacom.com
 viacomcbs.com
