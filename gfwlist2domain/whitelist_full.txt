@@ -36,6 +36,7 @@
 00544.com
 0061.com.au
 00615.net
+007.pub
 00791.com
 007hd.com
 007manhua.com
@@ -1693,7 +1694,6 @@
 16.tlu.dl.delivery.mp.microsoft.com
 160.com
 160.me
-160edu.net
 160yx.com
 1614352030.2167539694.sngdia.imtmp.net
 1614575.p23.tc.cdntip.com
@@ -5668,6 +5668,7 @@
 521szlx.com
 521tieba.com
 521up.com
+521wmy.com
 5221.net
 52237377.com
 522g.com
@@ -7135,6 +7136,7 @@
 6uck6zs5.sched.s2-dk.tdnsv5.com
 6up2ot.tdum.alibaba.com
 6v.com
+6v6.work
 6vhao.kkcaicai.com
 6vps.net
 6wan.com
@@ -18085,7 +18087,6 @@ brandadsstatic.vivo.com.cn
 brandcn.com
 brandshow.58.com
 brandvista.com
-brandzg.com
 braoa3.tdum.alibaba.com
 brasil.gallerycdn.azure.cn
 brbtyt.com
@@ -19103,7 +19104,6 @@ cafachine.com
 cafagame.com
 cafamuseum.org
 cafebeta.com
-cafecole-maison.com
 caffci.org
 caffeenglish.com
 cagesblog.com
@@ -20879,6 +20879,7 @@ chabeichong.com
 chacha.com
 chachaba.com
 chachaqu.com
+chacheliang.com
 chachongba.cc
 chachongba.com
 chacuo.net
@@ -20922,6 +20923,7 @@ chaishiguan.com
 chaitin.com
 chajian110.com
 chajiandaquan.com
+chajiaotong.com
 chajie.com
 chajn.org
 chakahao.com
@@ -32544,7 +32546,6 @@ endcard-pack.pangolin-sdk-toutiao.com
 endcard-pack.pangolin-sdk-toutiao.com.w.cdngslb.com
 enec.net
 enelcn.com
-enen6.com
 enennsa.gushiwen.cn
 energy.people.com.cn
 enet360.com
@@ -33265,7 +33266,6 @@ exthin.net
 extlog.snssdk.com
 extmail.org
 extrabux.cn
-extremep2p.com
 extron-tech.com
 extshort.weixin.qq.com
 extstars.com
@@ -37679,7 +37679,6 @@ googleplex.com
 googlesyndication-cn.com
 googlesyndication.com
 googletagmanager-cn.com
-googletagmanager.com
 googletagservices-cn.com
 googletagservices.com
 googletraveladservices-cn.com
@@ -43705,6 +43704,7 @@ hyrz.qq.com
 hysdknb.com
 hysec.com
 hysemi-ic.com
+hyshi.net
 hysou.com
 hysteeltube.com
 hyt368.com
@@ -48147,7 +48147,6 @@ jdxs5200.net
 jdxzz.com
 jdy.com
 jdy33.cn
-jdy8848.com
 jdycdn.com
 jdyou.com
 jdypf.com
@@ -49510,7 +49509,6 @@ jmhapp.com
 jmhd8.com
 jmj1995.com
 jmjc.tech
-jmjiuchang.com
 jmjxc.com
 jmkjmob2.xyz
 jmkjmob5.xyz
@@ -50861,6 +50859,7 @@ jzpxyd.com
 jzrb.com
 jzrc.net
 jzrsrc.com
+jzsadlkfadf.com
 jzsc.mohurd.gov.cn
 jzsc.net
 jzsc8.com
@@ -51263,7 +51262,6 @@ kaobeitu.com
 kaocat.com
 kaochong.com
 kaoder.com
-kaodianer.com
 kaogua.com
 kaojionline.com
 kaola-haitao.oss.kaolacdn.com
@@ -51373,6 +51371,7 @@ kc.yeyou.com
 kc9.cn
 kcart.alipay.com
 kccqgj.cn
+kcdn0.com
 kcdns.net
 kcdnvip.com
 kchance.com
@@ -56281,7 +56280,6 @@ lvshedesign.com
 lvshi567.com
 lvshiminglu.com
 lvshou.com
-lvshouwe.com
 lvshunfang.com
 lvshunmuseum.org
 lvsongguo.com
@@ -57904,7 +57902,6 @@ mch5k.com
 mchat.com
 mchifi.com
 mcidc.net
-mcjcjx.com
 mcjd.net
 mcjjsdhfg.cn
 mclean.f.360.cn
@@ -59510,7 +59507,6 @@ mng0303.com
 mnihyc.com
 mnjj.group
 mnkan.com
-mnlscz.com
 mnoswqa.com
 mnpz8.com
 mnqlog.ldmnq.com
@@ -63475,6 +63471,7 @@ ooopic.com
 ooopn.com
 ooppoo.com
 ooss.oss.aliyuncs.com
+ootu.cc
 oouee.com
 oouyan.com
 ooxx.me
@@ -68693,6 +68690,7 @@ qijee.com
 qiji.tech
 qiji1.jdwx.info
 qijiadianzi.com
+qijian99.com
 qijianzs.com
 qijiapay.com
 qijiarui-test.com
@@ -69079,6 +69077,7 @@ qiyewenhua.net
 qiyexinyong.org
 qiyexun.com
 qiyexxw.com
+qiyeyougou.com
 qiyeyouxiang.net
 qiyeyun.co
 qiyezs.aiwen.cc
@@ -69469,6 +69468,7 @@ qqopenapp.com
 qqpao.com
 qqpifu.com
 qqppt.com
+qqpss.cc
 qqpublic-pxdktdns.tcdn.qq.com
 qqpublic.qpic.cn
 qqpublic.qpic.cn.sched.px.tdnsv6.com
@@ -74777,7 +74777,6 @@ shiciyun.com
 shida66.com
 shidaedu.vip
 shidaikejivip.cn
-shidaiyuhu.com
 shidapx.com
 shidastudy.com
 shidi.org
@@ -76445,6 +76444,7 @@ smtdc.com
 smth.org
 smthome.net
 smtiger.com
+smtlzb.com
 smtsvs.com
 smttouch.com
 smtvip.com
@@ -78740,7 +78740,6 @@ swallow.apple.com
 swan-api.iqiyi.com
 swang8.com
 swansea86.com
-swansonchina.com
 swap.wang
 swappdl.duoyi.com
 swaqds.com
@@ -80058,6 +80057,7 @@ taokezhushou.com
 taokouling.com
 taoku.com
 taolusm.com
+taoluzhibo56.com
 taolx.com
 taomanhua.com
 taomee.com
@@ -81446,7 +81446,6 @@ tips1000.com
 tiqiaa.com
 tiqianhuandai.cc
 tiqianle.com
-tired.im
 tiruna-cn.com
 tisgame.com
 tisino.com
@@ -89835,6 +89834,7 @@ write.youdao.com
 writebp.com
 wrjzj.com
 wrkdih.com
+wrl163.com
 wrltxt.com
 wrmjk.com
 wrsa.net
@@ -94005,6 +94005,7 @@ xixisys.com
 xixiwg.com
 xixiyishu.com
 xiyacs.com
+xiyamaoyi.com
 xiyang1.icu
 xiyijiang.com
 xiyin.life
