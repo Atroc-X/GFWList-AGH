@@ -118,7 +118,7 @@ function GenerateRules() {
                 # "https://doh.360.cn:443/dns-query"
                 # "https://doh.pub:443/dns-query"
                 # "tls://dot-57751c26.dot.pub:853"
-                # "tls://1.12.12.12:853"
+                "tls://1.12.12.12:853"
                 # "tls://120.53.53.53:853"
                 # "tls://dns.alidns.com:853"
                 # "tls://dns.ipv6dns.com:853"
