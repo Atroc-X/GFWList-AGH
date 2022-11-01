@@ -34956,6 +34956,7 @@ twitonmsn.com
 twitpic.com
 twitstat.com
 twittbot.net
+twitter.biz
 twitter.com
 twitter.de
 twitter.fr
@@ -34998,8 +34999,10 @@ twtr2src.ogaoga.org
 twtrdns.net
 twtrland.com
 twttr.com
+twttr.net
 twuph.com
 twurl.nl
+twvid.com
 twwiki.com
 twyac.org
 twylah.com
