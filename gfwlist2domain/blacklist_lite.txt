@@ -11285,6 +11285,7 @@ ero-guide.com
 ero-kawa.com
 ero-labs.com
 ero-labs.net
+ero-labs.online
 ero-ma-nia.com
 ero-manga-platinum.net
 ero-mangalife.com
@@ -31154,6 +31155,8 @@ vs9933.com
 vsallin.net
 vsassets.io
 vsco.com
+vscode-cdn.net
+vscode-unpkg.net
 vscode.dev
 vsezoo.com
 vsh.org
