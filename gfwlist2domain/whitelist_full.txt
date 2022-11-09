@@ -29880,6 +29880,7 @@ douyi.com
 douyin.com
 douyincdn.com
 douyinec.com
+douyinliving.com
 douyinpic.com
 douyinstatic.com
 douyinvideo.net
@@ -39136,6 +39137,7 @@ gzsy07.com
 gzszgas.com
 gztaiyou.com
 gztcdj.com
+gztclwx.net
 gztfgame.com
 gzthrc.com
 gztlbm.com
@@ -49051,6 +49053,7 @@ jindun007.net
 jindunfan.com
 jinduoduo.net
 jinenrunze.com
+jinet.org
 jinfangka.com
 jinfantongyici.com
 jinfengkou.com
@@ -60270,6 +60273,7 @@ movie.douban.com
 movie.hupu.com
 movie.youku.com
 moviemore.com
+moviereviewtoday.com
 movit-tech.com
 mowan123.com
 mowowo.com
@@ -60457,6 +60461,7 @@ mscbsc.com
 msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
+mscodecloud.com
 mscto.com
 msddp.com
 msdn.itellyou.cn
@@ -66139,6 +66144,7 @@ pig66.com
 pigai.org
 pigcms.com
 pigeon.sina.cn
+pigji.com
 pigjian.com
 pigqq.com
 pigvideo.cn
