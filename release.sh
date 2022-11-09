@@ -126,8 +126,8 @@ function GenerateRules() {
                 # "tls://dot.pub:853"
             )
             foreign_dns=(
-                "h3://dns.google/dns-query"
-                # "h3://cloudflare-dns.com/dns-query"
+                #"h3://dns.google/dns-query"
+                "h3://cloudflare-dns.com/dns-query"
                 # "https://dns.opendns.com:443/dns-query"
                 # "https://dns11.quad9.net:443/dns-query"
                 # "https://dns64.dns.google:443/dns-query"
