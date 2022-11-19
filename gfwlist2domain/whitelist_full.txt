@@ -2334,7 +2334,6 @@
 1903it.com
 1905.com
 1905210.s1txipv6.cdntip.com
-190757.com
 19196.com
 1919game.net
 192ly.com
@@ -2775,7 +2774,6 @@
 21cp.cc
 21cp.com
 21ctest.com
-21dagong.com
 21datasheet.com
 21dianyuan.com
 21edu8.com
@@ -3521,7 +3519,6 @@
 317hu.com
 3188.la
 318ek.com
-31966.net
 3198.com
 3199.cn
 3199.com
@@ -5933,6 +5930,7 @@
 53666.org
 5367.com
 537.com
+537882736.com
 5379yx.com
 537a.com
 538618.com
@@ -7711,6 +7709,7 @@
 7jk.com
 7jocbc.tdum.alibaba.com
 7jubao.com
+7juju.com
 7junshi.com
 7jv8x5b3.n.gaofangz.com
 7k35.com
@@ -8909,6 +8908,7 @@
 9354b156628c048a665d94cf77b19509.dl.txcdns.com
 9355.com
 93636.com
+93665.xin
 936ff8053b1e2981c3bb4c60d.mdbook.cn
 936u.com
 9377.com
@@ -11388,6 +11388,8 @@ aicu8.com
 aicunfu.com
 aid-golf-golfdust-training.tabrays.com
 aid.m.taobao.com
+aida64.cc
+aida64cn.com
 aidafen.com
 aidai.com
 aidaily.com
@@ -11819,7 +11821,6 @@ akng.net
 akniu.com
 aknzb.com
 akomr.com
-akoofs.com
 akozxay.cn
 akppt.net
 akq.ee
@@ -14588,7 +14589,6 @@ av2.me
 av269.com
 av380.net
 av6p.urfjeqgl.cn
-avacvisa.com
 avail.googleflights.net
 availability.fe.apple-dns.cn
 avalon.pw
@@ -23044,7 +23044,6 @@ cloopen.com
 cloopen.net
 cloopm.com
 closertb.site
-clostone.com
 clotfun.mobi
 clotfun.online
 clotfun.xyz
@@ -27875,7 +27874,6 @@ del.chinaz.com
 delanauto.com
 delegation.a.shifen.com
 deli-tools.com
-deli-tuma.com
 delib2b.com
 delibao.com
 delicloud.com
@@ -28112,6 +28110,7 @@ dfham.com
 dfhon.com
 dfhs.tanx.com
 dfhtjn.com
+dfkan.com
 dfkcgs.com
 dfkhgj.com
 dfkj.cc
@@ -30744,7 +30743,6 @@ dun.ppdaicdn.com.w.kunlungr.com
 dunjiaodu.com
 dunkelhost.de
 dunkhome.com
-dunlve.com
 dunwang.com
 duobaoqibin.com
 duobei.com
@@ -32176,6 +32174,7 @@ eecn.cc
 eecnt.com
 eecourse.com
 eecso.com
+eedevice.com
 eedns.com
 eeds.c21.com.cn
 eee-eee.com
@@ -36293,6 +36292,7 @@ gammatimes.com
 gamutsoft.com
 gamux.org
 gan-ren.com
+ganduee.com
 ganggg.com
 ganghaowang.com
 ganglonggou.com
@@ -40139,6 +40139,7 @@ hardkr.com
 hardspell.com
 hardware.tgp.qq.com
 hareric.com
+hariogame.com
 harlanc.vip
 harmay.com
 harmight.com
@@ -42370,6 +42371,7 @@ hpd.baidu.com
 hpdwfd2.com
 hpe.cn
 hpejlsb.com
+hpicss.com
 hpoi.net
 hpool.online
 hpplay.cdn.cibn.cc
@@ -43017,6 +43019,7 @@ huaxia77.com
 huaxiaci.com
 huaxiaf.com
 huaxiangdiao.com
+huaxianpai.com
 huaxiao5.com
 huaxiaobaokeji.com
 huaxiayatong.com
@@ -43031,6 +43034,7 @@ huaxiu.ink
 huaxj.net
 huaxuezoo.com
 huayala.com
+huayanchayu.com
 huayanghui.net
 huayanxiu.com
 huayanxiu.net
@@ -46753,6 +46757,7 @@ insta360.com
 instafogging.com
 install.kugou.com
 install.yzapi.top
+installgreat.com
 instreet.cn
 insun-china.com
 insuns.com
@@ -51613,7 +51618,6 @@ kd.allcitysz.net
 kd.api.agrantsem.com
 kd.qpic.cn
 kd.qpic.cn.sched.px-dk.tdnsv6.com
-kd028.com
 kd1.svideo.sched.dcloudstc.com
 kd1.svideo.tc.qq.com
 kd120.com
@@ -53090,6 +53094,7 @@ kyxnz.cn
 kyy6.com
 kyyj.net
 kyzf.net
+kyzx.xyz
 kyzyj.com
 kz.admaster.com.cn
 kz8yx.com
@@ -55055,7 +55060,6 @@ listc.cn
 listen.10155.com
 listeneer.com
 listener.jia.com
-listenerri.com
 listentide.com
 listentoworld.com
 listenvod.com
@@ -55798,6 +55802,7 @@ logx.mtime.com
 lohaa.com
 lohalink.com
 lohaslady.com
+lohasor.com
 loho88.com
 loj.ac
 loji.com
@@ -58156,7 +58161,6 @@ mconf.douyucdn.cn
 mcooks.com
 mcool.com
 mcore.vcgame.cn
-mcoy.cloud
 mcpemaster.com
 mcpmaid.com
 mcqyy.com
@@ -59248,6 +59252,7 @@ mingdao.net
 mingdao8.com
 mingdaocloud.com
 mingdongman.com
+mingfengtang.com
 mingin.com
 mingjian.com
 mingjinglu.com
@@ -62309,6 +62314,7 @@ nitutu.com
 niu-ba.com
 niu.com
 niua.com
+niuaa1688.com
 niuacc.com
 niuap.com
 niubb.com
@@ -63053,6 +63059,7 @@ nysdyyh.com
 nyshszh.com
 nysmfc.com
 nyu.edu
+nyxr-home.com
 nyyxyx.com.cn
 nyyzjg.com
 nyzda.top
@@ -68378,6 +68385,7 @@ qdjnbgjj.com
 qdjxhz.com
 qdkebang.com
 qdkingst.com
+qdkmjc.com
 qdkongtiao.com
 qdl.duoyi.com
 qdl.duoyi.com.wswebpic.com
@@ -69123,7 +69131,6 @@ qingpanduola.com
 qingpinji.com
 qingqikeji.com
 qingqin.com
-qingquwu.net
 qingrenw.com
 qingruanit.net
 qingshow.net
@@ -69806,7 +69813,6 @@ qqweb.qq.com
 qqwechat.com
 qqwmly.com
 qqwmx.com
-qqwtb.com
 qqwwr.com
 qqwxmail.com
 qqwys.net
@@ -71045,7 +71051,6 @@ raisecom.com
 raisinsta.com
 raiyi.com
 rajax.me
-rajjzs.com
 rakdwn6x.mirror.aliyuncs.com
 rakinda-xm.com
 ralf.ren
@@ -71209,6 +71214,7 @@ rdplat.com
 rds-buy.aliyun.com
 rds.console.aliyun.com
 rdsdk.com
+rdsqs.net
 rdstat.tanx.com
 rdsvsh.com
 rdtuijian.com
@@ -76524,6 +76530,7 @@ sl-tk.oray.com
 sl.al
 sl.fancyapi.com
 sl.hpplay.cn
+sl153.com
 sl91d.com
 sla-media.immomo.com
 sladjust.com
@@ -77437,7 +77444,6 @@ spibj.com
 spiiker.com
 spin-view.com
 spinfo.wps.cn
-spinytech.com
 spirit-doll.net
 spirithy.com
 spischolar.com
@@ -82545,6 +82551,7 @@ tourscool.com
 toursforfun.com
 tourye.com
 toushibao.com
+toushivip.com
 tousu.sina.com.cn
 toutiao-frontier.snssdk.com
 toutiao-xinwen.com
@@ -84425,7 +84432,6 @@ ugvip.com
 ugxsd.com
 uhandak.com
 uhdog.com
-uhgal.com
 uhomecp.com
 uhomes.com
 uhouzz.com
@@ -88699,6 +88705,7 @@ wenshijiawei.com
 wenshitiandi.com
 wenshu.court.gov.cn
 wenshuba.com
+wenshubang.com
 wensuocaster.com
 wenten.net
 wentu.io
@@ -89060,7 +89067,6 @@ whkc.com
 whkingdom.com
 whkjz.com
 whkpcnc.com
-whkt.net
 whkwpzz.cn
 whkyjz.com
 whkykj.com
@@ -93952,7 +93958,6 @@ xingfuu.com
 xinggan.com
 xinggan.net
 xinghai365.com
-xinghao8.xyz
 xinghao89.com
 xinghengedu.com
 xinghongcentre73.51sole.com
@@ -95418,7 +95423,6 @@ xuzhou.anjuke.com
 xuzhou.baixing.com
 xuzhoujob.com
 xv5b.com
-xvision.club
 xvista.com
 xvna.com
 xvv.cc
@@ -100820,7 +100824,6 @@ yingxiaoo.com
 yingxin.sspu.edu.cn
 yingxintea.com
 yingxiong.com
-yingxuan.io
 yingyang630.com
 yingyinglicai.com
 yingyongbei.com
@@ -103414,6 +103417,7 @@ z5y.bnnxklj.cn
 z5z4.com
 z6.cnzz.com
 z6.sinaimg.cn
+z6r7.com
 z7.cnzz.com
 z7.sinaimg.cn
 z701.com
@@ -106199,7 +106203,6 @@ zsrt88.cn
 zsshlsh.cn
 zsso03.com
 zssph.com
-zssq8.com
 zssxczxyey.com
 zstack.io
 zstczx.com
