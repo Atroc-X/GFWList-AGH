@@ -15,7 +15,6 @@
 000e.com
 001.com
 001133.app
-0012482.com
 001cndc.com
 001daima.com
 001en.com
@@ -6317,7 +6316,6 @@
 59hi.com
 59hs.com
 59iedu.com
-59na.com
 59pk.net
 59store.com
 59w.net
@@ -6994,6 +6992,7 @@
 69hpfx83.sched.s11t.tdnsv5.com
 69hr.com
 69jianzhi.com
+69mok.com
 69ps.com
 69shu.org
 69xiu.com
@@ -7835,7 +7834,6 @@
 800lj.com
 800mei.net
 800pharm.com
-800t.net
 800tu.com
 800ux.com
 800vod.com
@@ -8707,7 +8705,6 @@
 91huoke.com
 91ios.com
 91ivr.com
-91jbz.com
 91jf.com
 91jiabohui.com
 91jiafang.com
@@ -10625,6 +10622,7 @@ ade.wooboo.com.cn
 adeao.com
 adeaz.com
 adebang.com
+adebibi.com
 adeline.cc
 aden.baidu.com
 adeng.hpplay.cn
@@ -13919,7 +13917,6 @@ appying.com
 appykt.com
 appzhonghua.com
 appzhu.com
-apqianzhuo.com
 aps.115.com
 aps.aliyun.com
 aps.amap.com
@@ -17336,7 +17333,6 @@ bjmti.com
 bjmu.edu.cn
 bjmu.studyatpku.com
 bjmxcy.cn
-bjmyw.com
 bjnaxl.com
 bjnsr.com
 bjp321.com
@@ -25552,7 +25548,6 @@ csdeshang.com
 csdh.com
 csdian.net
 csdiy.wiki
-csdjy.com
 csdl.ac.cn
 csdn-app.cn-beijing.log.aliyuncs.com
 csdn-ebook-resources.oss-cn-beijing.aliyuncs.com
@@ -36223,6 +36218,7 @@ gameitop.com
 gameiy.com
 gamejym.com
 gamekee.com
+gamekuaishou.com
 gamelauncher.samsung.com.cn
 gameley.com
 gameloop.com
@@ -42533,7 +42529,6 @@ hsigus.com
 hsiii.com
 hsjk.com
 hsjkaoyan.com
-hsjss.com
 hslj.net
 hsm.sspu.edu.cn
 hsmc.com
@@ -51811,6 +51806,7 @@ kewail.com
 kexianggroup.com
 kexin001.com
 kexing100.com
+kexingchem.com
 kexinguoji.com
 kexinhaoma.org
 kexinshe.com
@@ -52332,7 +52328,6 @@ koopei.com
 koorun.com
 kooshui.com
 kooteam.com
-koouoo.com
 koovin.com
 koovoo.com
 koowo.com
@@ -52438,7 +52433,6 @@ krshadow.com
 krszf.com
 krwz.com
 krxo588peycx.com
-krzer.com
 krzzjn.com
 ks-adaptive.pull.yximgs.com
 ks-bj-live-comet-01.chat.bilibili.com
@@ -55793,7 +55787,6 @@ loldytt.com
 loldytt.org
 loldytt.tv
 lolgo.net
-loli.cd
 loli.cloud
 loli.ee
 loli.my
@@ -62424,7 +62417,6 @@ njxsmfyh.com
 njxsmz.com
 njxyh66.cn
 njxzwh.com
-njyayishipin.net
 njycwy.com
 njyingtaoya.com
 njyongji.com
@@ -70762,6 +70754,7 @@ qygzbxpt.com
 qyham.com
 qyi.io
 qyiliao.com
+qyjks.com
 qyjnxh.com
 qyjpzx.com
 qyjzleh.cn
@@ -71060,7 +71053,6 @@ rastargame.com
 rata-catering.com
 rate.taobao.com
 rate.tmall.com
-ratina.org
 rationmcu.com
 ratuo.com
 raven.xiaojukeji.com
@@ -75152,7 +75144,6 @@ shinianonline.com
 shiningmidas.com
 shinnytech.com
 shinsoukun.com
-shinybbs.info
 shinycg.com
 shinyway.org
 shiove.com
@@ -79666,7 +79657,6 @@ sztaijier.com
 sztalent.org
 sztara.com
 sztkc.com
-sztmt.com
 sztopbrand.com
 sztspi.com
 sztxcpa.com
@@ -83045,7 +83035,6 @@ tt1h.com
 tt286.com
 tt3edd.com
 tt4.agrantsem.com
-tt56w.com
 tt65.org
 tt96596.com
 tt98.com
@@ -83801,7 +83790,6 @@ ty.vletv.admaster.com.cn
 ty2y.com
 ty3w.net
 ty8866.com
-tya.company
 tyalxx.com
 tyaqy.m.cn.miaozhen.com
 tybai.com
@@ -85805,7 +85793,6 @@ v86.douyinvod.com
 v86.org
 v89.douyinvod.com
 v896lo0.cachenode.cn
-v8d8.com
 v8s1co3a.v1d.szbdyd.com
 v8s1co5o.v1d.szbdyd.com
 v8s1co7z.v1d.szbdyd.com
@@ -92827,6 +92814,7 @@ xdgalaxy.com
 xdh0808.com
 xdhbs.com
 xdhcn.com
+xdiarys.com
 xdj-sz.com
 xdja.com
 xdjc.org
@@ -93224,7 +93212,6 @@ xiannanyou.com
 xianning.baixing.com
 xianning.c21.com.cn
 xianniuzu.com
-xiannvtu.com
 xianpp.com
 xianruan.com
 xianshiqiba.com
@@ -101256,7 +101243,6 @@ yluu.com
 ylwl.cc
 ylwpx8.com
 ylws.net
-ylwt33.com
 ylwyw.com
 ylxbxgtg.com
 ylxdtww.com
@@ -106714,7 +106700,6 @@ zyzkb.net
 zyzw.com
 zyzxgy.com
 zyzxs.com
-zz-news.com
 zz-qq.com
 zz-zigzag.com
 zz.bdstatic.com
