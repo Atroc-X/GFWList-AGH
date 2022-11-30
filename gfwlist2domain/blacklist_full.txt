@@ -3457,6 +3457,7 @@ a248.e.akamai.net
 a2646.com
 a2776.com
 a2z.com
+a2z.org.cn
 a2zapk.com
 a3236.com
 a3285.com
@@ -3948,6 +3949,7 @@ affirmtrust.com
 affnoads.ghcqsal.ujy7gjfcpwdl.in
 affsal365.com
 afftb388.com
+affyun.com
 affyun.org
 aflamporn.com
 aflamsex.net
@@ -4465,7 +4467,9 @@ amazon.red
 amazonalexavoxcon.com
 amazonauthorinsights.com
 amazonaws-china.com
+amazonaws.cn
 amazonaws.com
+amazonaws.com.cn
 amazonaws.tv
 amazonbusiness.cn
 amazonbusiness.com.cn
@@ -4500,7 +4504,10 @@ amazontrust.com
 amazonvideo.cc
 amazonvideo.com
 amazonvideodirect.com
+amazonwebservices.com.cn
+amazonworkdocs.cn
 amazonworkdocs.com
+amazonworkdocs.com.cn
 ambit.chat
 ambitvpn.com
 ambjl20.com
@@ -5389,6 +5396,7 @@ aserrinyajugar.com.ar
 aseschool.org
 asesoria.cl
 asezwao.org
+asfiovnxocqpcry.com.cn
 asg.to
 asgam.com
 asha.org
@@ -5839,10 +5847,14 @@ awetv.com
 awflapp.top
 awk.so
 awn1.icu
+aws-border.cn
+aws-icp-domain-manager.cn
 aws-iot-hackathon.com
 aws.adana123.site
 aws.e8play.cc
+awsapps.cn
 awsapps.com
+awsapps.com.cn
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
@@ -5855,6 +5867,7 @@ awsglobalaccelerator.com
 awsloft-johannesburg.com
 awsloft-stockholm.com
 awssecworkshops.com
+awsstatic.cn
 awsstatic.com
 awsthinkbox.com
 awstrack.me
@@ -5921,6 +5934,7 @@ azure-dns.org
 azure-mobile.net
 azure-sphere.com
 azure-test.net
+azure.cn
 azure.com
 azure.microsoft.com
 azure.net
@@ -7221,6 +7235,8 @@ bipics.net
 bird.so
 birdbeep.net
 birdhouseapp.com
+bisheng.cn
+bishengcompiler.cn
 bisq.io
 bisq.network
 bit-z.com
@@ -8212,6 +8228,7 @@ bravoteens.com
 bravotube.com
 bravotube.net
 bravotube.tv
+brawlstars.cn
 braze.com
 brazilpartneruniversity.com
 brazzer.com
@@ -10160,6 +10177,8 @@ cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
 cloudfoundry.com
+cloudfront-test.cn
+cloudfront.cn
 cloudfront.glb.cellopoint.com
 cloudfront.net
 cloudfunctions.net
@@ -10523,6 +10542,7 @@ com.bn
 com.bo
 com.by
 com.bz
+com.cn
 com.co
 com.com
 com.cu
@@ -12028,6 +12048,7 @@ dchome.net
 dcj0f5wks23rq.cloudfront.net
 dcm3cu7yundx2.cloudfront.net
 dcmilitary.com
+dcocsp.cn
 dcpress.net
 dcs-live.apis.anvato.net
 dctbeatsbydre.com
@@ -17488,6 +17509,7 @@ gnavi.com
 gnbccarson.com
 gnc.com
 gnci.org.hk
+gneec.com.cn
 gnews.org
 gnom-cham.com
 gnowbe-app-2.firebaseio.com
@@ -17680,6 +17702,7 @@ google.ch
 google.ci
 google.cl
 google.cm
+google.cn
 google.co.ao
 google.co.bw
 google.co.ck
@@ -17976,6 +17999,7 @@ gotgayporn.com
 gotgeeks.com
 gothdporn.com
 gothub.com
+goto-game.net.cn
 gotporn.com
 gotquestions.com
 gotraffic.net
@@ -17986,6 +18010,7 @@ gouhuo.qq.com
 gouri.xyz
 gouv.fr
 gov.au
+gov.cn
 gov.hk
 gov.il
 gov.in
@@ -18532,6 +18557,7 @@ hayabusa.media
 hayatnuri.app
 hayatnuri.com
 hayatnuri.org
+haydaypop.cn
 hayvip.com
 hazblog.com
 hb0e.dsn1151a.com
@@ -18955,6 +18981,7 @@ hi-on.org.tw
 hi27.ml
 hi5.tv
 hiapphere.com
+hiascend.cn
 hibdontire.com
 hibet.com
 hicam.net
@@ -19023,6 +19050,8 @@ hihistory.net
 hiitch.com
 hijabilicious.com
 hikinggfw.org
+hikunpeng.cn
+hikunpeng.com.cn
 hilive.tv
 hiload.com
 hilostripper.com
@@ -19048,6 +19077,7 @@ hipzoom.net
 hireatradesman.com
 hiroseuk.com
 hishadowsocks.com
+hisilicon.com.cn
 hispanidad.com
 hispavista.com
 hissr.club
@@ -20295,6 +20325,7 @@ iguge.club
 igvita.com
 ihakka.net
 ihao.org
+ihappystudio.cn
 ihavesmalltits.com
 iheart.com
 ihearttibet.org
@@ -22817,6 +22848,7 @@ labiblia.com
 labiennale.org
 labour.org.hk
 labyc.com.ar
+labycore.cn
 lacaixa.es
 lachirigringa.org
 lacnic.net
@@ -23599,6 +23631,7 @@ livingyourambition.com
 liwangyang.com
 liwenlianghero.github.io
 liwuxiao.com
+liyuans.com
 liyuwiki.com
 lizakii.000webhostapp.com
 lizhizhuangbi.com
@@ -23883,6 +23916,7 @@ luckyissue.com
 luckyyou.vip
 lucrorfx.org
 lucyintheskywithdi.com
+ludosuperstar.cn
 ludwigvonkoopa.com
 lufi.ethibox.fr
 luguan.com
@@ -24213,6 +24247,7 @@ magzter.com
 mahabodhi.org
 mahajantech.com
 mahimakapoor.co.in
+mahjongcup.cn
 maiahoje.pt
 maicloud.io
 maicloud.me
@@ -24900,6 +24935,7 @@ mhhanman.xyz
 mhradio.org
 mhshosting.com
 mhub.dafapoker.com
+mhyurl.cn
 mhzj.xyz
 mi.minecraftnoob.com
 mi513.com
@@ -25095,6 +25131,7 @@ mindmeld.com
 mindnode.com
 mindprince.in
 mindrolling.org
+mindspore.cn
 mine.bz
 mine.nu
 minecloud.in
@@ -25839,6 +25876,7 @@ msturing.org
 msudalosti.com
 msunlimitedcloudsummit.com
 mswe1.org
+mszdld.cn
 mt-ssul1.com
 mt0.google.cn
 mt1.google.cn
@@ -26554,6 +26592,7 @@ net-fits.pro
 net-tv.tw
 net.au
 net.br
+net.cn
 net.co
 net.in
 net.my
@@ -27498,6 +27537,10 @@ nvquan.org
 nvsr.com.au
 nvtongzhisheng.org
 nwanime.tv
+nwcdcloud.cn
+nwcdcloud.com.cn
+nwcddns.cn
+nwcdinfosec.cn
 nwi.com
 nwipvideo.com
 nwsource.com
@@ -28081,6 +28124,7 @@ orfonline.org
 org.ar
 org.au
 org.br
+org.cn
 org.es
 org.hk
 org.il
@@ -30196,6 +30240,7 @@ pu889.com
 pu9900.com
 pu9955.com
 puba.com
+pubgno1.cn
 publiabril.abril.com.br
 public-sex-porn.com
 public-trust.com
@@ -31222,7 +31267,9 @@ robertwalters.cn
 robfuscate.com
 robinlintec.com
 robinlintech.com
+roblox.cn
 roblox.qq.com
+robloxdev.cn
 roboforex.com
 roboforex.tw
 roboforexchina.com
@@ -31295,6 +31342,7 @@ rou.video
 roucdn.link
 roughman.net
 roupacaipira.com
+route53.cn
 routledgehandbooks.com
 royalcams.com
 royalluxurywatch.com
@@ -31552,6 +31600,7 @@ safetunnel.tk
 safety.google
 safevpn.net
 saffrontech.com
+sagemaker.com.cn
 sagernet.org
 sagitario.com.ar
 sahabatsetiasmartone.com
@@ -31780,11 +31829,14 @@ scatsite.com
 scatvids.club
 scatville.com
 scc.ott.hinet.net
+sccreator.cn
+sccreators.cn
 sccycles.cl
 scdn.co
 scene7.com
 scenesource.me
 sceper.ws
+scescdn.cn
 scgpbl.cn
 schalk.com.br
 scharferporno.com
@@ -31880,6 +31932,7 @@ schonenaci.sk
 schooltunnel.net
 sci-hub.mksa.top
 sci.hubg.org
+scid.cn
 science.com
 science.org
 sciencedaily.com
@@ -31943,6 +31996,7 @@ scriptspot.com
 scriusa.org
 scrivinor.com
 scroll.com
+scsentry.cn
 scss.pw
 scubastore.com
 sd-bbs.net
@@ -32861,6 +32915,7 @@ skyassets.com
 skyav.me
 skybet.com
 skybet98.com
+skydweller.cn
 skyking.com.tw
 skyking.net-tv.tw
 skykiwi.com
@@ -34050,6 +34105,8 @@ superadultgames.com
 superair.tw
 superbookcity.com
 superbrownbear.com
+supercellcommunity.cn
+supercellsupport.cn
 superchina.xyz
 superearsenjoy.com
 superfastdatanet.com
@@ -34740,6 +34797,7 @@ tex-talk.net
 texasartsacademics.org
 texasboyschoir.org
 texasdanceconservatory.org
+texasholdemcup.cn
 texon.com
 texstudio.org
 textcashnetwork.com
@@ -38464,6 +38522,7 @@ weekmag.info
 weetok.com
 wefightcensorship.org
 wefong.com
+wegame.com.cn
 wego.here.com
 weiboleak.com
 weiboscope.jmsc.hku.hk
@@ -38507,6 +38566,7 @@ wenyunchao.com
 wenyunchao.spaces.live.com
 wenzhao.ca
 were.moe
+werepository.com.cn
 wesi301.xyz
 westca.com
 westenvik.no
@@ -44612,6 +44672,7 @@ xn--noss43i.com
 xn--octt84bmki.com
 xn--ohq11k7pl25iyo8a.cn
 xn--oiq.cc
+xn--owtw8cc49ajfl.cn
 xn--pearsonenespaol-brb.com
 xn--q41am8x.com
 xn--qoq462m.com
@@ -45661,6 +45722,7 @@ yx3305.com
 yx51.net
 yx8811.com
 yxcp.me
+yximg.cn
 yy.etowns.net
 yy011.com
 yy0110.com
