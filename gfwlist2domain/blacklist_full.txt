@@ -10092,7 +10092,6 @@ cleansolutions.mx
 clearasil.cn
 clearasil.com.cn
 clearharmony.net
-clearlinux.cn
 clearlinux.org
 clearsurance.com
 clearwisdom.net
@@ -16043,6 +16042,7 @@ fr24news.com
 fracebook.com
 fractal-design.com
 fradkin.com.ar
+fragment.com
 fragrancebay.com
 framote.com
 france24.com

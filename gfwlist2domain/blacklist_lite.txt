@@ -8763,7 +8763,6 @@ cleansite.us
 cleansolutions.mx
 clearasil.cn
 clearharmony.net
-clearlinux.cn
 clearlinux.org
 clearsurance.com
 clearwisdom.net
@@ -13409,6 +13408,7 @@ fr2135.com
 fr24news.com
 fracebook.com
 fractal-design.com
+fragment.com
 fragrancebay.com
 framote.com
 france24.com
