@@ -5340,6 +5340,7 @@ arewereadyyet.com
 arexv.com
 areyouawesome.net84.net
 areyoucreditwise.com
+argotunnel.com
 aria.ms
 arieltorres.com.ar
 arily.moe
@@ -10168,6 +10169,7 @@ cloudflare-quic.com
 cloudflare.com
 cloudflare.net
 cloudflare.tv
+cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
 cloudflareclient.com
