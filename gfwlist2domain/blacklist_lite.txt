@@ -3414,6 +3414,9 @@ adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-video-partner-finder.com
 adobe.io
+adobe.ipp
+adobe.newoa
+adobe.ntp
 adobeaemcloud.com
 adobeaemcloud.net
 adobeawards.com
@@ -3426,6 +3429,7 @@ adobedc.cn
 adobedc.net
 adobedemo.com
 adobedtm.com
+adobeereg.com
 adobeexchange.com
 adobeexperienceawards.com
 adobegov.com
@@ -6845,6 +6849,7 @@ bluemix.com
 bluemix.net
 blueseek.com
 bluesprig.com
+bluestacks.com
 bluffave.com
 bluffavenue.com
 bluffyporn.com
@@ -7394,6 +7399,7 @@ britsexcash.com
 brizzly.com
 brkmd.com
 brliilantsdates.com
+broadbandreports.com
 broadbook.com
 broadpressinc.com
 brocaproject.com
@@ -11153,6 +11159,8 @@ dsdv001.com
 dsfhgfuyh.com
 dsh111.com
 dslady.com
+dslr.net
+dslreports.com
 dsmtp.com
 dsn01.com
 dsn02.co
@@ -19019,6 +19027,7 @@ jove.com
 joyandkin.hk
 joyclub.de
 joyhentai.com
+joyjoy.net
 joylovedolls.com
 joymii.com
 joymiihub.com
@@ -24308,6 +24317,7 @@ oppainorakuen.com
 oppapers.com
 oppc.tk
 opposix.com
+opsource.net
 opsxtv.com
 optanedifference.com
 opte.org
@@ -24640,6 +24650,7 @@ panasonic.com
 pandafan.me
 pandafe.com
 pandamovies.pw
+pandanet-igs.com
 pandapow.co
 pandapow.com
 pandapow.net
@@ -25443,6 +25454,7 @@ pogledaj.name
 pogo.com
 pogobeta.com
 pohill.com
+poi.moe
 poikilmavillas.gr
 point2hk.com
 point2this.com
@@ -25974,6 +25986,7 @@ pr0pgutf0hp089.com
 practicalbusinessskills.com
 practicaldigitalprotection.com
 practicalmoneyskills.cn
+practivate.adobe
 pratikpatel.in
 prayforchina.net
 prchistory.org
@@ -26232,6 +26245,7 @@ prozz.net
 prpops.com
 prprcloud.com
 prs188188.com
+prts.plus
 prutoncapital.com
 prxch.com
 ps8318.com
@@ -28412,7 +28426,9 @@ shouxue001.com
 show-live.tw
 showav.tv
 showhaotu.com
+showtime.com
 showtime.jp
+showtimeanytime.com
 showup.tv
 showwe.tw
 showybeauty.com
@@ -32410,6 +32426,7 @@ verkkouutiset.fi
 vermonttibet.org
 verpeliculasporno.gratis
 versavpn.com
+versign.net
 versly.com
 vervesex.com
 verybs.com
