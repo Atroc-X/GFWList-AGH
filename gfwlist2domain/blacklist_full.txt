@@ -14425,6 +14425,7 @@ podcast.app
 podcast.co
 podictionary.com
 poe.com
+poecdn.net
 pogo.com
 pogobeta.com
 poi.moe
@@ -20389,6 +20390,7 @@ yjcontentdelivery.com
 ymail.com
 ymp4.download
 yn.cn
+ynoproject.net
 yo1health.com
 yobit.net
 yobt.com
