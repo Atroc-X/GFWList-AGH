@@ -7611,6 +7611,7 @@ gamedownloads-rockstargames-com.akamaized.net
 gamejolt.com
 gameloft.com
 gameon-masters.com
+gamepass.com
 gamepedia.com
 gamer-cds.cdn.hinet.net
 gamer.com.tw
@@ -19887,6 +19888,7 @@ xboxlive.cn
 xboxone.co
 xboxone.com
 xboxplayanywhere.com
+xboxservices.com
 xboxstudios.com
 xboyvids.com
 xbrasilporno.com
