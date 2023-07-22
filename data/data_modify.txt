@@ -172,7 +172,7 @@
 (@%!)sol-ict.com
 (@%!)global-idc.net
 (@%!)global-idt.net
-(@&!)it-global.ml
+(@&!)it-global.xyz
 
 # UC 浏览器 #8
 (@%!)uc.cn
