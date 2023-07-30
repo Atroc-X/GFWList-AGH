@@ -5474,7 +5474,6 @@
 765q.com
 766.com
 7663.com
-76676.com
 766z.com
 7676.com
 767stock.com
@@ -10241,6 +10240,7 @@ beileike.com
 beimai.com
 beimeigoufang.com
 beimeihongfeng.com
+beimiyouchuan.com
 beimu.com
 beingmate.com
 beipy.com
@@ -16305,7 +16305,6 @@ cptae.com
 cpu114.com
 cpu668.com
 cpubbs.com
-cpupack.com
 cpvjob.com
 cpython.org
 cpzjzx.com
@@ -35236,7 +35235,6 @@ laomaotao.com
 laomaotao.net
 laomaotao.org
 laomaotaopan.com
-laomudong.cc
 laonanren.cc
 laoniushuju.com
 laoqiange.club
@@ -39798,7 +39796,6 @@ muniao.com
 muomou.com
 mupao.com
 mupceet.com
-mupmstx.com
 murdermysterypa.com
 murl.tv
 murphysec.com
@@ -45393,7 +45390,6 @@ raymx-micro.com
 rayoptek.com
 rayps.com
 rayrjx.com
-raysd.com
 raysilicon.com
 raythonsoft.com
 raytoon.net
@@ -49465,7 +49461,6 @@ spongeliu.com
 sportnanoapi.com
 sportq.com
 sports-idea.com
-sports8.cc
 sports8.net
 sportsdt.com
 sposter.net
@@ -50738,7 +50733,6 @@ t1networks.com
 t1y4.com
 t1y5.com
 t20000.com
-t262.com
 t2cn.com
 t3315.com
 t4lover.com
@@ -57500,7 +57494,6 @@ x3china.com
 x3cn.com
 x431.com
 x5dj.com
-x5yue.com
 x64go.com
 x64pro.com
 x6d.com
@@ -62487,7 +62480,6 @@ yunpaiwang.net
 yunpan.com
 yunpansou.cc
 yunpanx.com
-yunpanziyuan.com
 yunpei.com
 yunpian.com
 yunpiao.net
