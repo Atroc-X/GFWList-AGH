@@ -8295,6 +8295,7 @@ amhl.net
 amicool.net
 amif-expo.com
 amijiaoyu.com
+amindbox.com
 aminer.org
 aminglinux.com
 amo9.com
@@ -18877,6 +18878,7 @@ doh.plus
 doh.pub
 dohuo.com
 doido.com
+doii.cc
 doit.am
 doitim.com
 doiua.com
@@ -23626,7 +23628,6 @@ gh8s.com
 ghatg.com
 ghboke.com
 ghgy.com
-ghgy.net
 ghibliwiki.org
 ghjie.com
 ghlawyer.net
@@ -29867,7 +29868,6 @@ imipy.com
 imitui.com
 imixpark.com
 imjiayin.com
-imkerwin.com
 imkevinyang.com
 imkira.com
 imlaidian.com
@@ -31227,7 +31227,6 @@ jdzbth.com
 jdzdeyy.com
 jdzeduyun.com
 jdzj.com
-jdzjdz.com
 jdzmc.com
 jdzol.com
 jdzol.net
@@ -36117,6 +36116,7 @@ linglong.dev
 linglongart.com
 linglonglife.com
 linglongtech.com
+lingmo.org
 lingmovie.com
 lingnanpass.com
 lingocn.com
@@ -40424,6 +40424,7 @@ nearcharge.com
 nearsnet.com
 nease.net
 neat-reader.com
+neatifyapp.com
 nebulogy.com
 nedaex.com
 nedigitals.com
@@ -45698,6 +45699,7 @@ rim20.com
 rinbowe.com
 ringdoll.com
 rinlink.com
+rinvay.cc
 ripic.xyz
 rippleos.com
 rippletek.com
@@ -49621,6 +49623,7 @@ startos.org
 startssl.com
 startup-partner.com
 starwarschina.com
+starx-w.com
 starxn.com
 stat-nba.com
 stat18.com
@@ -52649,7 +52652,6 @@ tsybsmz.com
 tsyqb.com
 tsyvps.com
 tsyzm.com
-tsz.com
 tszckj.com
 tszhjk.com
 tszyzx.com
@@ -55389,7 +55391,6 @@ weica.net
 weicaifu.com
 weicewang.com
 weichaishi.com
-weichen.org
 weicher-sz.com
 weiclicai.com
 weico.cc
@@ -58510,6 +58511,7 @@ xinfenlei.com
 xinfu888.com
 xinfushe.com
 xing73.com
+xingai.com
 xingames.com
 xingbangip.com
 xingbo.tv
