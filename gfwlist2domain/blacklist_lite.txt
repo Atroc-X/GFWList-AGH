@@ -4883,6 +4883,7 @@ do.co
 dobbyporn.com
 doceapower.com
 docker.com
+docker.io
 dockerizer.com
 docleradn.com
 doclercdn.com
