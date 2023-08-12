@@ -115,7 +115,7 @@ function GenerateRules() {
         adguardhome)
             domestic_dns=(
                 # 223.5.5.5
-                "h3://dns.alidns.com/dns-query"
+                "h3://223.5.5.5/dns-query"
                 # "https://dns.ipv6dns.com:443/dns-query"
                 # "https://doh.360.cn:443/dns-query"
                 # "https://doh.pub:443/dns-query"
@@ -129,7 +129,7 @@ function GenerateRules() {
             )
             foreign_dns=(
                 #"h3://dns.google/dns-query"
-                "h3://cloudflare-dns.com/dns-query"
+                "h3://1.1.1.1/dns-query"
                 # "https://dns.opendns.com:443/dns-query"
                 # "https://dns11.quad9.net:443/dns-query"
                 # "https://dns64.dns.google:443/dns-query"
