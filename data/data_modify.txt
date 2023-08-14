@@ -171,7 +171,9 @@
 # sol-ict.com #8
 (@%!)global-idc.net
 (@%!)global-idt.net
-
+(@&!)it-global.xy
+(@&!)sol-ict.com
+(@&!)xssx.win
 
 # UC 浏览器 #8
 (@%!)uc.cn
