@@ -2574,9 +2574,7 @@ blinkload.zone
 blinkx.com
 blinw.com
 blip.tv
-blizzard.cn
 blizzard.com
-blizzardgames.cn
 blizzardgearstore.com
 blockcast.it
 blockcn.com
@@ -2713,7 +2711,6 @@ bluestacks.com
 bluffyporn.com
 blurams.com
 blz-contentstack.com
-blzstatic.cn
 bmfinn.com
 bmia.org
 bml.info
@@ -2878,6 +2875,7 @@ bnef.com
 bnews.co
 bnn.co
 bnrmetal.com
+bntrace.com
 boardreader.com
 boboporn.com
 boboporn.net
