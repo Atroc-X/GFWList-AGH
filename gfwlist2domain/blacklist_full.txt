@@ -587,6 +587,7 @@ activeteachonline.com
 activpn.com
 aculo.us
 ad69.com
+ada.support
 adanaatikhaber.com
 adbecrsl.com
 adbkm.com
@@ -2011,6 +2012,7 @@ backpackers.com.tw
 backroomcastingcouch.com
 backtotiananmen.com
 bacon.com
+bad.news
 badaas.com
 badasianpussy.com
 badgen.net
@@ -3500,8 +3502,13 @@ bwin.com
 bwsj.hk
 bx.in.th
 bx.tl
+byapis.com
 bybeatsdre.com
+bybit-exchange.github.io
+bybit.ada.support
 bybit.com
+bycbe.com
+bycsi.com
 bydrebeats.com
 byjav.me
 byjhd.com
@@ -3510,6 +3517,7 @@ bypasscensorship.org
 byrut.org
 byspotify.com
 byteoversea.com
+bytick.com
 bzazi.com
 c-est-simple.com
 c-ij.com
@@ -5017,6 +5025,8 @@ depositphotos.com
 deps.dev
 deps.info
 derekhsu.homeip.net
+deribit.cdn.prismic.io
+deribit.com
 derpibooru.org
 desc.se
 descargasgay.com
@@ -7696,6 +7706,10 @@ gate-project.com
 gate.cc
 gate.io
 gatecoin.com
+gatedata.org
+gateimg.com
+gateio.live
+gateio.services
 gateway.dev
 gateway.pinata.cloud
 gather.com
@@ -15078,6 +15092,7 @@ printfriendly.com
 printspots.com
 printspots.net
 prism-break.org
+prismic.io
 prisoneralert.com
 pritunl.com
 privacybox.de
