@@ -2026,6 +2026,7 @@ archive.fastgit.org
 archive.fo
 archive.is
 archive.li
+archive.md
 archive.org
 archive.ph
 archive.today
@@ -25387,6 +25388,7 @@ yy8y.com
 yyfb.cyou
 yyii.org
 yyjlymb.xyz
+yysub.net
 yzld188.top
 yzzk.com
 z-lib.org
