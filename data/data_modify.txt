@@ -168,6 +168,9 @@
 # UUP dump
 (@&!)uupdump.net
 
+# cityline
+(@&!)cityline.com
+
 # sol-ict.com #8
 (@%!)global-idc.net
 (@%!)global-idt.net
