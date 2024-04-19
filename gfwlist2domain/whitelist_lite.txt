@@ -478,7 +478,6 @@
 0731cfw.com
 0731fdc.com
 0731i.com
-0731jiaju.com
 0731job.com
 0731pgy.com
 0731tg.com
@@ -1668,7 +1667,6 @@
 17xxl.com
 17ya.com
 17yaoqu.com
-17yc.com
 17ym.org
 17you.com
 17yucai.com
@@ -13676,6 +13674,7 @@ casdoor.com
 casdoor.org
 case91.com
 casece.org
+casemic.com
 cashtoutiao.com
 cashwaytech.com
 casic-addsino.com
@@ -21007,7 +21006,6 @@ dongtu.com
 dongua.com
 dongwm.com
 dongxi.net
-dongxicha.com
 dongxingkonggu.com
 dongxuyitai.com
 dongyaods.com
@@ -32066,6 +32064,7 @@ hzchengdun.com
 hzcnc.com
 hzcopyright.com
 hzcourse.com
+hzctxh.com
 hzdajiangdong.com
 hzdjr.com
 hzdjy.com
@@ -33275,7 +33274,6 @@ imagehub.cc
 imagelol.com
 imagepy.org
 images-cache.com
-images-huoshan.com
 imagestoryai.com
 imagetasks.com
 imageter.com
@@ -41253,7 +41251,6 @@ lou86.com
 loubobooo.com
 louding.com
 louge.ltd
-louguazi.com
 louislivi.com
 loukee.com
 loukky.com
@@ -43297,7 +43294,6 @@ mibaoxian.com
 mibokids.com
 mibugs.com
 mic-s.com
-micad.org
 micai.com
 micai315.com
 micaihu.net
@@ -43658,6 +43654,7 @@ mitaozhibo.org
 miteno.com
 mitiplus.com
 mittrchina.com
+mitvos.com
 miued.com
 miui.com
 miuiver.com
@@ -44059,7 +44056,6 @@ molegu.com
 molerose.com
 molesdn.com
 molibaike.com
-molibiancheng.com
 molie.com
 molihe.cc
 molihua.net
@@ -46309,7 +46305,6 @@ nyxlzy.com
 nyxr-home.com
 nyxx365.com
 nyxz166.com
-nyyuze.com
 nyzdjj.com
 nyzy.com
 nz86.com
@@ -49247,6 +49242,7 @@ qianjingkeji.com
 qianju.org
 qianka.com
 qiankunxin.com
+qianlht.com
 qianliao.net
 qianliao.tv
 qianliaowang.com
@@ -55941,7 +55937,6 @@ stupidet.com
 stuq.com
 stutimes.com
 stvgame.com
-stw77.com
 stweiwang.com
 stxsw.com
 stxsw.org
@@ -57028,6 +57023,7 @@ szzhangchu.com
 szzhaodaxin.com
 szzs360.com
 szzunbao.com
+szzuting.com
 szzxks.net
 szzyqc.net
 szzyqy.com
@@ -60383,6 +60379,7 @@ unitymanual.com
 univ-bio.com
 uniview.com
 univsport.com
+uniwaf.com
 unixhot.com
 unixidc.com
 unixs.org
@@ -62474,7 +62471,6 @@ weilongshipin.com
 weilt.net
 weimai.com
 weimaqi.net
-weimeiba.com
 weimeifan.net
 weimeigu.net
 weimiaocaishang.com
@@ -62614,7 +62610,6 @@ weiye.me
 weiyes.com
 weiyi.com
 weiyi.link
-weiyianws.com
 weiyichina.org
 weiyiqibj.com
 weiyitec.com
@@ -66637,7 +66632,6 @@ xn--iiq222b6igvp5c.com
 xn--jvrp4x1zyfta.net
 xn--jvrr72kgma408a.com
 xn--mnqs00c24c2pw0ii.com
-xn--nqvxwikn87h.com
 xn--ntsp37j.net
 xn--nyqx2gbsm8u0b.com
 xn--pbt1sj69ag8b.com
@@ -69448,7 +69442,6 @@ youshixiu.com
 youshop04.com
 youshop10.com
 youshu.cc
-youshuba.cc
 youshuge.com
 yousuu.com
 youtaidoors.com
@@ -73885,7 +73878,6 @@ zzjxbg.com
 zzliot.com
 zzlirui.com
 zzllq.com
-zzloop.com
 zzmama.net
 zzmetro.com
 zzmscg.com
