@@ -8841,6 +8841,7 @@ globalsign.cloud
 globalsign.es
 globalsign.eu
 globalsign.fr
+globalsign.net
 globalsign.nl
 globalspec.com
 globaltm.org
