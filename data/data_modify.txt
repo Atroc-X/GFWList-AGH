@@ -117,6 +117,9 @@
 # Cloudflare Workers
 (@&!)workers.dev
 
+# hellotalk
+(@&!)www.hellotalk.com
+
 # DNSPod
 (@%!)dns.pub
 (@%!)doh.pub
