@@ -118,7 +118,7 @@
 (@&!)workers.dev
 
 # hellotalk
-(@&!)www.hellotalk.com
+(@&!)hellotalk.com
 
 # DNSPod
 (@%!)dns.pub
