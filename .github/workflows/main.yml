@@ -32,5 +32,5 @@ jobs:
                 access-key-id: ${{ secrets.ACCESSID }}
                 access-key-secret: ${{ secrets.ACCESSSECRET }}
                 endpoint: "oss-cn-shanghai.aliyuncs.com"
-            - run: ossutil cp -rf ./gfwlist2domain/blacklist_full.txt oss://dh-download-sh-cnip-list-2024-8-7/Domainlist/blacklist_full.txt
-            - run: ossutil cp -rf ./gfwlist2domain/whitelist_full.txt oss://dh-download-sh-cnip-list-2024-8-7/Domainlist/whitelist_full.txt
+            - run: ossutil cp -rf ./gfwlist2domain/blacklist_full.txt oss://private-download-sh-asn-list-sy-0808/Domainlist/blacklist_full.txt
+            - run: ossutil cp -rf ./gfwlist2domain/whitelist_full.txt oss://private-download-sh-asn-list-sy-0808/Domainlist/whitelist_full.txt
