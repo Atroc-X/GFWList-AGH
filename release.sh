@@ -228,7 +228,7 @@ function GenerateRules() {
             )
             foreign_dns=(
                 "h3://1.1.1.1/dns-query"
-                "https://1.1.1.1:dns-query"
+                "https://1.1.1.1/dns-query"
                 # "https://dns.google:443/dns-query"
                 #"https://dns.opendns.com:443/dns-query"
                 # "https://dns11.quad9.net:443/dns-query"
