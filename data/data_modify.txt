@@ -120,6 +120,9 @@
 # hellotalk
 (@&!)hellotalk.com
 
+# slate.com
+(@&!)slate.com
+
 # DNSPod
 (@%!)dns.pub
 (@%!)doh.pub
