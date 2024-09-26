@@ -120,6 +120,12 @@
 # hellotalk
 (@&!)hellotalk.com
 
+# privacyredirect.com
+(@&!)privacyredirect.com
+
+# jing.rocks
+(@&!)jing.rocks
+
 # slate.com
 (@&!)slate.com
 
