@@ -16739,6 +16739,7 @@ prismlive.com
 prisoneralert.com
 pritunl.com
 privacybox.de
+privacyredirect.com
 privacysandbox.com
 privacysimplified.com
 privacytools.io
