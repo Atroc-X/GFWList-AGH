@@ -203,4 +203,11 @@
 # 支付宝
 (@%!)mobilegw.alipay.com
 
+# Manual
+(@&!)jotform.com
+(@&!)froth.zone
+(@&!)adminforge.de
+(@&!)funami.tech
+(@&!)r4fo.com
+
 ## 自定义规则 - 结束
