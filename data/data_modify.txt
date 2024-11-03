@@ -209,5 +209,8 @@
 (@&!)adminforge.de
 (@&!)funami.tech
 (@&!)r4fo.com
+(@%!)xssx.win
+(@%!)b-b.win
+(@%!)it-global.xyz
 
 ## 自定义规则 - 结束
