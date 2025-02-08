@@ -9385,6 +9385,7 @@ gravatar.com
 gravitytank.com
 grazie.ai
 greasespot.net
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatergothammini.com
@@ -11308,6 +11309,7 @@ ipadmini.cm
 ipadmini.lk
 ipadpro.buzz
 ipalter.com
+ipdefenseforum.com
 ipfire.org
 ipfs-gateway.cloud
 ipfs.io
@@ -15059,6 +15061,7 @@ nobelprize.org
 nobodycanstop.us
 nocookie.net
 nodejs.org
+nodeseek.com
 nodesnoop.com
 nodesource.com
 noellabo.jp
@@ -15737,6 +15740,7 @@ packagist.org
 packer.io
 packetix.net
 pacloudflare.com
+pacom.mil
 pacopacomama.com
 paddle.com
 paddleapi.com

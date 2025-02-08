@@ -5822,6 +5822,7 @@ cccu.ac.uk
 ccdc.ac.uk
 ccdtr.org
 ccesd.ac.uk
+ccfd.org.tw
 ccfe.ac.uk
 cch.ac.uk
 cchere.com
@@ -12638,6 +12639,7 @@ grazie.ai
 grcb.ac.uk
 gre.ac.uk
 greasespot.net
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatapedictionary.ac.uk
@@ -15208,6 +15210,7 @@ ipadmini.lk
 ipadpro.buzz
 ipalter.com
 ipcc-wg3.ac.uk
+ipdefenseforum.com
 ipem.ac.uk
 ipfire.org
 ipforesightforum.ac.uk
@@ -20445,6 +20448,7 @@ nocookie.net
 nocs.ac.uk
 nodejs.org
 nodes.ac.uk
+nodeseek.com
 nodesnoop.com
 nodesource.com
 noellabo.jp
@@ -21496,6 +21500,7 @@ packagist.org
 packer.io
 packetix.net
 pacloudflare.com
+pacom.mil
 pacopacomama.com
 pact.ac.uk
 paddle.com
@@ -28713,7 +28718,6 @@ usgs.gov
 ushare.ac.uk
 ushaw.ac.uk
 ushuarencity.echainhost.com
-usinfo.state.gov
 usma.edu
 usmc.mil
 usmgtcg.ning.com
@@ -30717,7 +30721,6 @@ www-sms-apple.com
 www.abclite.net
 www.acgnx.se
 www.ajsands.com
-www.americorps.gov
 www.anix.moe
 www.antd.org
 www.aolnews.com
