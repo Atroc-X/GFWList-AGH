@@ -64123,7 +64123,6 @@ noxgroup.com
 noxue.com
 noxxxx.com
 noyes88.com
-np-edge.itunes.apple.com
 npbdp.com
 npbeta.com
 npc.ink
@@ -64289,6 +64288,7 @@ ntrc.com
 ntrcb.com
 ntrun.com
 ntsanta.com
+ntservicepack.microsoft.com
 ntsgx.com
 ntsloadcell.com
 ntsuye.com
@@ -83934,6 +83934,7 @@ upchinaproduct.com
 upd.kaspersky.com
 update.crashlytics.com
 update.googleapis.com
+update.microsoft.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
@@ -87632,6 +87633,7 @@ windows10.pro
 windows10zj.com
 windows11.pro
 windows7en.com
+windowsupdate.microsoft.com
 windowszj.com
 winds.red
 windsns.com
@@ -88998,6 +89000,7 @@ www.dell.com
 www.destinationurl.com
 www.dji.com
 www.djivideos.com
+www.entrust.cn
 www.epsonconnect.com
 www.googleadapis.com
 www.gov.mo
