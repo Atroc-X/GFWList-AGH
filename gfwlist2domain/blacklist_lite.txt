@@ -9979,6 +9979,7 @@ hetzner.cloud
 hetzner.com
 hetzner.company
 hetzner.de
+hetzner.social
 heungkongdiscuss.com
 hewlett-packard.asia
 hewlett-packard.ch
