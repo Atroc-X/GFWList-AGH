@@ -3987,6 +3987,7 @@ brliilantsdates.com
 brni.com
 broadbandreports.com
 broadbook.com
+broadcom.com
 broadpressinc.com
 brocaproject.com
 brockbbs.com
@@ -14363,6 +14364,7 @@ msgamesresearch.com
 msguancha.com
 msha.gov
 mshome.net
+msi.cn
 msidentity.com
 msinnovationchallenge.com
 msn.com
@@ -18737,6 +18739,7 @@ simplyipod.com
 simsquad.com
 simulationsquad.com
 sinchew.my
+sing-box.app
 sing4.lat
 sing68.com
 singfortibet.com
@@ -22702,7 +22705,6 @@ xiaogirls.com
 xiaohexie.com
 xiaolan.me
 xiaoma.org
-xiaomi.eu
 xiaoou.io
 xiaoou.tv
 xiaoshuobb.life
