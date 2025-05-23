@@ -1284,6 +1284,9 @@ ajplus.net
 ajsands.com
 ajsjx.com
 ajtalk.com
+ak-p.tripcdn.com
+ak-s-cw.tripcdn.com
+ak-s.tripcdn.com
 ak1.net
 aka-ai.com
 aka-ai.net
@@ -1348,6 +1351,7 @@ akamqi.com
 akasha.world
 akastream.com
 akastream.net
+akatest.tripcdn.com
 akatns.net
 akiba-online.com
 akiba-web.com
@@ -2964,6 +2968,9 @@ avxhm.se
 avxlive.icu
 avxxc.com
 avyahoo.com
+aw-d.tripcdn.com
+aw-p.tripcdn.com
+aw-s.tripcdn.com
 awayoutgame.com
 aweencore.com
 awempire.com
