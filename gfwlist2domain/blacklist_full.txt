@@ -14920,6 +14920,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 img.dlsite.jp
 img.ly
+img.picgo.net
 imgasd.com
 imgbb.com
 imgchili.net
@@ -22428,6 +22429,7 @@ picasa.com
 picasaweb.com
 picasaweb.net
 picasaweb.org
+picgo.net
 pichunter.com
 picidae.net
 picjs.xyz
