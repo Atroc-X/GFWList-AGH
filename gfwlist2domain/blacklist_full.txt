@@ -22111,6 +22111,7 @@ paltalk.com
 panamapapers.sueddeutsche.de
 panasonic.com
 panasonic.jp
+pancakeswap.finance
 pancolle-movie.jp
 panda.ac.uk
 panda30.shop
@@ -23498,6 +23499,7 @@ prismlive.com
 prisoneralert.com
 pritunl.com
 privacybox.de
+privacyguides.org
 privacyredirect.com
 privacysandbox.com
 privacysimplified.com
