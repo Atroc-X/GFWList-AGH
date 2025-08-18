@@ -372,21 +372,21 @@ function GenerateRules() {
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-                        echo "${gfwlist_data[$gfwlist_data_task]}" >> "${file_path}"
+                        echo "domain:${gfwlist_data[$gfwlist_data_task]}" >> "${file_path}"
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for cnacc_data_task in "${!cnacc_data[@]}"; do
-                        echo "${cnacc_data[$cnacc_data_task]}" >> "${file_path}"
+                        echo "domain:${cnacc_data[$cnacc_data_task]}" >> "${file_path}"
                     done
                 fi
             elif [ "${generate_mode}" == "lite" ]; then
                 if [ "${generate_file}" == "black" ]; then
                     FileName && for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                        echo "${lite_gfwlist_data[$lite_gfwlist_data_task]}" >> "${file_path}"
+                        echo "domain:${lite_gfwlist_data[$lite_gfwlist_data_task]}" >> "${file_path}"
                     done
                 elif [ "${generate_file}" == "white" ]; then
                     FileName && for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
-                        echo "${lite_cnacc_data[$lite_cnacc_data_task]}" >> "${file_path}"
+                        echo "domain:${lite_cnacc_data[$lite_cnacc_data_task]}" >> "${file_path}"
                     done
                 fi
             fi
