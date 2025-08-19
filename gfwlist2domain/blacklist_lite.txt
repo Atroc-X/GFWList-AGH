@@ -5870,6 +5870,7 @@ domain:demosisto.hk
 domain:dengeamerika.com
 domain:dengiamerika.com
 domain:deno.com
+domain:deno.dev
 domain:deno.land
 domain:denpasoft.com
 domain:dentalhypotheses.com

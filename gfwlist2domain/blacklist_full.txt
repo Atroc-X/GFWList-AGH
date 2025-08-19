@@ -8015,6 +8015,7 @@ domain:den.ac.uk
 domain:dengeamerika.com
 domain:dengiamerika.com
 domain:deno.com
+domain:deno.dev
 domain:deno.land
 domain:denpasoft.com
 domain:dentalhypotheses.com
@@ -8576,6 +8577,7 @@ domain:docleradn.com
 domain:doclercdn.com
 domain:docs.cfw.lbyczf.com
 domain:docs.com
+domain:docs.deno.com
 domain:docs.new
 domain:docs.rs
 domain:doctor-videos.com
