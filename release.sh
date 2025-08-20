@@ -51,7 +51,7 @@ function GetData() {
         curl -s --connect-timeout 15 "${gfwlist2agh_modify[$gfwlist2agh_modify_task]}" >> ./gfwlist2agh_modify.tmp
     done
     # 获取权威的顶级域名列表
-    curl -s --connect-timeout 15 "https://publicsuffix.org/list/public_suffix_list.dat" | grep -v "^//" | grep -v "^$" | grep -v "^\*" | tr 'A-Z' 'a-z' > ./public_suffixes.tmp
+    curl -s --connect-timeout 15 "https://publicsuffix.org/list/public_suffix_list.dat" | grep -v "^//" | grep -v "^$" | grep -v "^\*" | grep -v "^!" | tr 'A-Z' 'a-z' > ./public_suffixes.tmp
 }
 
 # Analyse Data
