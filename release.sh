@@ -158,6 +158,19 @@ BEGIN {
     
     print best_match
 }' "./lite_gfwlist_data.tmp" | sort | uniq))
+echo "=== 详细调试 ===" >&2
+echo "lite_gfwlist_checklist.tmp:" >&2
+grep -i "google.*hk" "./Temp/lite_gfwlist_checklist.tmp" >&2
+echo "lite_gfwlist_raw.tmp:" >&2  
+grep -i "google.*hk" "./Temp/lite_gfwlist_raw.tmp" >&2
+echo "lite_gfwlist_added.tmp:" >&2
+grep -i "google.*hk" "./Temp/lite_gfwlist_added.tmp" >&2
+echo "lite_gfwlist_data.tmp:" >&2
+grep -i "google.*hk" "./Temp/lite_gfwlist_data.tmp" >&2
+echo "gfwlist_data.tmp:" >&2
+grep -i "google.*hk" "./Temp/gfwlist_data.tmp" >&2
+echo "排除规则:" >&2
+cat "./Temp/lite_gfwlist_exclusion.tmp" >&2
 }
 # Generate Rules
 function GenerateRules() {
@@ -631,15 +644,3 @@ GetData
 AnalyseData
 # Call OutputData
 OutputData
-
-echo "=== 详细调试 ===" >&2
-echo "lite_gfwlist_checklist.tmp:" >&2
-grep -i "google.*hk" "./lite_gfwlist_checklist.tmp" >&2
-echo "lite_gfwlist_raw.tmp:" >&2  
-grep -i "google.*hk" "./lite_gfwlist_raw.tmp" >&2
-echo "lite_gfwlist_added.tmp:" >&2
-grep -i "google.*hk" "./lite_gfwlist_added.tmp" >&2
-echo "lite_gfwlist_data.tmp:" >&2
-grep -i "google.*hk" "./lite_gfwlist_data.tmp" >&2
-echo "排除规则:" >&2
-cat "./lite_gfwlist_exclusion.tmp" >&2
