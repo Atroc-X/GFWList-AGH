@@ -16606,6 +16606,7 @@ domain:keezmovies.com
 domain:keiba.net
 domain:keighleycollege.ac.uk
 domain:kemomi.me
+domain:kemono.cr
 domain:kemono.party
 domain:kemono.su
 domain:kendal.ac.uk
@@ -31818,6 +31819,7 @@ domain:xiaogirls.com
 domain:xiaohexie.com
 domain:xiaolan.me
 domain:xiaoma.org
+domain:xiaomi.eu
 domain:xiaoou.io
 domain:xiaoou.tv
 domain:xiaoshuobb.life

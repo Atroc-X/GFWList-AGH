@@ -12441,6 +12441,7 @@ domain:keepyourcad.com
 domain:keezmovies.com
 domain:keiba.net
 domain:kemomi.me
+domain:kemono.cr
 domain:kemono.party
 domain:kemono.su
 domain:kendatire.com
@@ -23001,6 +23002,7 @@ domain:xiaogirls.com
 domain:xiaohexie.com
 domain:xiaolan.me
 domain:xiaoma.org
+domain:xiaomi.eu
 domain:xiaoou.io
 domain:xiaoou.tv
 domain:xiaoshuobb.life
