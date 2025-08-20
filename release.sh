@@ -69,7 +69,7 @@ BEGIN {
     close("./public_suffixes.tmp")
 }
 {
-    domain = $0
+    domain = $2
     split(domain, parts, ".")
     n = length(parts)
     
@@ -119,7 +119,7 @@ BEGIN {
     close("./public_suffixes.tmp")
 }
 {
-    domain = $0
+    domain = $2
     split(domain, parts, ".")
     n = length(parts)
     
@@ -158,23 +158,6 @@ BEGIN {
     
     print best_match
 }' "./lite_gfwlist_data.tmp" | sort | uniq))
-echo "=== 详细调试 ===" >&2
-echo "lite_gfwlist_checklist.tmp:" >&2
-grep -i "google.*hk" "./lite_gfwlist_checklist.tmp" || echo "未找到" >&2
-echo "lite_gfwlist_raw.tmp:" >&2  
-grep -i "google.*hk" "./lite_gfwlist_raw.tmp" || echo "未找到" >&2
-echo "lite_gfwlist_added.tmp:" >&2
-grep -i "google.*hk" "./lite_gfwlist_added.tmp" || echo "未找到" >&2
-echo "lite_gfwlist_data.tmp:" >&2
-grep -i "google.*hk" "./lite_gfwlist_data.tmp" || echo "未找到" >&2
-echo "gfwlist_data.tmp (full版本):" >&2
-grep -i "google.*hk" "./gfwlist_data.tmp" || echo "未找到" >&2
-echo "排除规则:" >&2
-cat "./lite_gfwlist_exclusion.tmp" >&2
-echo "lite_gfwlist_data.tmp 的具体内容格式:" >&2
-head -5 "./lite_gfwlist_data.tmp" >&2
-echo "public_suffixes.tmp 是否正确:" >&2
-head -5 "./public_suffixes.tmp" >&2
 }
 # Generate Rules
 function GenerateRules() {
