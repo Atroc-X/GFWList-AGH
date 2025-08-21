@@ -11993,6 +11993,7 @@ domain:ggpds.com
 domain:ggpht.com
 domain:ggsrv.com
 domain:ggssl.com
+domain:gh.io
 domain:ghanely.me
 domain:ghbi.ir
 domain:ghcr.io
@@ -28902,6 +28903,7 @@ domain:udn.com.tw
 domain:udnbkk.com
 domain:udndata.com
 domain:udnfunlife.com
+domain:udomain.hk
 domain:udtrucksmeena.com
 domain:uea.ac.uk
 domain:ueberamazon.de
