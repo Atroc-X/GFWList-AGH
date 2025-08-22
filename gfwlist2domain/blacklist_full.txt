@@ -7149,6 +7149,7 @@ domain:courtauld.ac.uk
 domain:cov.ac.uk
 domain:covcollege.ac.uk
 domain:cove4careinkent.ac.uk
+domain:covenantswatch.org.tw
 domain:coventry.ac.uk
 domain:coventrycollege.ac.uk
 domain:coventryuniversity.ac.uk
@@ -12063,6 +12064,7 @@ domain:gitbook.io
 domain:gitbooks.io
 domain:githack.com
 domain:github-cloud.s3.amazonaws.com
+domain:github.ai
 domain:github.blog
 domain:github.com
 domain:github.community
