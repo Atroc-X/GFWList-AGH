@@ -19495,6 +19495,7 @@ domain:navisworks.com
 domain:navisworks.net
 domain:navy.mil
 domain:naweeklytimes.com
+domain:naydex.net
 domain:nazarene.ac.uk
 domain:nbabot.net
 domain:nbc.co
@@ -25266,6 +25267,7 @@ domain:sneakerskick.com
 domain:sneakme.net
 domain:snjulebu.com
 domain:snk-corp.co.jp
+domain:snk-corp.info
 domain:snkplaymore.info
 domain:snow-plus.net
 domain:snow.me
@@ -27768,6 +27770,8 @@ domain:tubevintageporn.com
 domain:tubewolf.com
 domain:tubexclips.com
 domain:tubi.io
+domain:tubi.tv
+domain:tubi.video
 domain:tubinge.com
 domain:tubitv.com
 domain:tubous.com
@@ -31131,6 +31135,7 @@ domain:yandex-bank.net
 domain:yandex.aero
 domain:yandex.az
 domain:yandex.by
+domain:yandex.cloud
 domain:yandex.co.il
 domain:yandex.com
 domain:yandex.com.am
