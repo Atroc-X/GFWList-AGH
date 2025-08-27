@@ -10255,6 +10255,7 @@ domain:afanti100.com
 domain:afarway.com
 domain:afca-asia.org
 domain:afcec.com
+domain:afcs.dell.com
 domain:afdian.com
 domain:afdian.net
 domain:afdiancdn.com
@@ -23869,6 +23870,7 @@ domain:client.amplifi.com
 domain:client51.com
 domain:clientflow.apple.com
 domain:clientflow.apple.com.akadns.net
+domain:clientperipherals.dell.com
 domain:clientservices.googleapis.com
 domain:clifford-hospital.org
 domain:cliffordtrading.com
@@ -25842,7 +25844,6 @@ domain:copcsc.org
 domain:copl.com.hk
 domain:copperalliance.asia
 domain:copperhome.net
-domain:copy-manga.com
 domain:copyedu.com
 domain:copyfuture.com
 domain:copyswisswatches.com
@@ -26762,7 +26763,6 @@ domain:crane-china.cc
 domain:crane-net.com
 domain:cranewh.com
 domain:crash.work
-domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:cravatar.com
 domain:crazepony.com
@@ -27549,6 +27549,7 @@ domain:cusdvs.com
 domain:cusdvs.net
 domain:custeel.com
 domain:customer.lenovo.com
+domain:customization-cdn.dell.com
 domain:customizedfasteners.com
 domain:customsapp.com
 domain:custouch.com
@@ -29167,6 +29168,7 @@ domain:ddove.com
 domain:ddpai.com
 domain:ddpoc.com
 domain:ddqcw.com
+domain:dds.dell.com
 domain:ddsaas.com
 domain:ddsiojf.xyz
 domain:ddsk.la
@@ -30612,6 +30614,7 @@ domain:dl-origin.ubnt.com
 domain:dl-rc.com
 domain:dl-vip.pcfaster.baidu.co.th
 domain:dl.delivery.mp.microsoft.com
+domain:dl.dell.com
 domain:dl.djicdn.com
 domain:dl.google.com
 domain:dl.l.google.com
@@ -32726,6 +32729,9 @@ domain:e99999.com
 domain:ea-china.com
 domain:ea-retina.com
 domain:ea-xing.com
+domain:ea2cn-dev-outlet.dell.com
+domain:ea2cn-prod-outlet.dell.com
+domain:ea2cn-staging-outlet.dell.com
 domain:ea360.com
 domain:ea3w.com
 domain:eabax.com
@@ -35510,6 +35516,7 @@ domain:fcport.com
 domain:fcpowerup.com
 domain:fcqjc.com
 domain:fcrc114.com
+domain:fcs.dell.com
 domain:fcs1.com
 domain:fcsc.com
 domain:fcsccz.com
@@ -37341,7 +37348,11 @@ domain:ft22.com
 domain:ft3e.com
 domain:ft77.com
 domain:ft98.com
+domain:fta.dell.com
+domain:ftaapj.dell.com
+domain:ftaemea.dell.com
 domain:ftaro.com
+domain:ftasitapj.dell.com
 domain:ftbj.net
 domain:ftcoaster.com
 domain:ftd.nz
@@ -37517,6 +37528,7 @@ domain:funcrea.com
 domain:functionads.com
 domain:functionaltextilesshanghai.com
 domain:functioncool.com
+domain:functiongraph.run
 domain:fund001.com
 domain:fundebug.com
 domain:fundebug.net
@@ -38488,6 +38500,8 @@ domain:gbt88.com
 domain:gbtranswins.com
 domain:gbvh.com
 domain:gbw114.com
+domain:gbxgateway-dev.dell.com
+domain:gbxgateway.dell.com
 domain:gc-zb.com
 domain:gc0771.com
 domain:gc1616.com
@@ -68349,9 +68363,7 @@ domain:manfen5.com
 domain:manfred-auto.com
 domain:manfrottoclub.com
 domain:manga.bilibili.com
-domain:mangacopy.com
 domain:mangafuna.xyz
-domain:mangafunb.fun
 domain:manganesenanhai.com
 domain:mangg.com
 domain:mangguo.com
@@ -77995,6 +78007,7 @@ domain:plateno.cc
 domain:plateno.com
 domain:platenogroup.com
 domain:platform-cn.com
+domain:platform.dell.com
 domain:platinum-traveller.com
 domain:platinumchina.com
 domain:play-analytics.com
@@ -82994,6 +83007,7 @@ domain:roaing.com
 domain:robam.com
 domain:robei.com
 domain:roboeyeai.com
+domain:robomaster.com
 domain:roboo.com
 domain:robook.com
 domain:robopeak.net
@@ -84541,6 +84555,7 @@ domain:sceea.org
 domain:sceeo.com
 domain:sceia.org
 domain:scemrq.com
+domain:scene7-cdn.dell.com
 domain:scengine.com
 domain:scenictc.com
 domain:scensmart.com
@@ -88323,6 +88338,7 @@ domain:si-en.com
 domain:si-era.com
 domain:si-in.com
 domain:si-win.com
+domain:si.cdn.dell.com
 domain:sia1995.net
 domain:siad-c.com
 domain:siaedu.net
@@ -89313,6 +89329,7 @@ domain:slzww.com
 domain:sm-check.com
 domain:sm-cq.com
 domain:sm-main.com
+domain:sm.dell.com
 domain:sm0.fun
 domain:sm160.com
 domain:sm160.net
@@ -89630,6 +89647,8 @@ domain:snowflake.pink
 domain:snowkey.com
 domain:snowlotusgroup.com
 domain:snowyimall.com
+domain:snp.cdn.dell.com
+domain:snpi.dell.com
 domain:snps.tech
 domain:snptc.com
 domain:snrat.com
@@ -91521,6 +91540,7 @@ domain:support.apple.com
 domain:support.dji.com
 domain:support.globalsign.com
 domain:support.lenovo.com
+domain:supportassist.dell.com
 domain:supreme-oe.com
 domain:supuvalve.com
 domain:supwisdom.com
@@ -103985,6 +104005,7 @@ domain:www-666789.com
 domain:www-76244.com
 domain:www-api.dji.com
 domain:www-cdn.icloud.com.akadns.net
+domain:www-csb.dell.com
 domain:www-google-analytics.l.google.com
 domain:www-googletagmanager.l.google.com
 domain:www-v1.dji.com
