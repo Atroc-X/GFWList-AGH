@@ -430,6 +430,7 @@ domain:54647.online
 domain:54647.org
 domain:55comic.com
 domain:55dndn.com
+domain:5657.com.tw
 domain:567321.online
 domain:568xe.com
 domain:58avgo.com
@@ -1643,6 +1644,7 @@ domain:amazonaws.org
 domain:amazonaws.tv
 domain:amazonbusiness.org
 domain:amazonbusinessblog.com
+domain:amazoncognito.com
 domain:amazondevicesupport.com
 domain:amazonfctours.com
 domain:amazonianblog.com
@@ -2918,6 +2920,8 @@ domain:awjq.cc
 domain:awlc.ac.uk
 domain:aws-iot-hackathon.com
 domain:aws.com
+domain:awsapprunner.com
+domain:awsapps.com
 domain:awsautopilot.com
 domain:awsautoscaling.com
 domain:awsbraket.com
@@ -9242,6 +9246,7 @@ domain:edisebay.com
 domain:editorx.com
 domain:edlab.ac.uk
 domain:edmontonchina.cn
+domain:edmontonservice.com
 domain:edninfo.com
 domain:edns.biz
 domain:edoors.com
@@ -15648,6 +15653,7 @@ domain:javbooks.com
 domain:javbraze.com
 domain:javbus.co
 domain:javbus.com
+domain:javbus.sbs
 domain:javbus22.com
 domain:javbuz.com
 domain:javcc.cc
@@ -16461,6 +16467,7 @@ domain:krakenjs.com
 domain:krhentai.com
 domain:kristenbjorn.com
 domain:krosspictures.com
+domain:krtc.com.tw
 domain:krtco.com.tw
 domain:krux.com
 domain:krymr.com
@@ -31328,6 +31335,7 @@ domain:yahooapis.com
 domain:yahoodns.net
 domain:yahoofinance.com
 domain:yahoohealth.com
+domain:yahooinc.com
 domain:yahoomusic.com
 domain:yahoosandbox.com
 domain:yahoosportsbook.com
