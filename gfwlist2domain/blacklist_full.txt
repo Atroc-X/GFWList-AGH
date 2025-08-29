@@ -492,6 +492,7 @@ domain:69loli.com
 domain:69luolie.com
 domain:69re.net
 domain:69shu.com
+domain:69shuba.com
 domain:69shuba.cx
 domain:69story.com
 domain:69tubesex.com
@@ -1367,6 +1368,7 @@ domain:akthelp.com
 domain:al-islam.com
 domain:al-qimmah.net
 domain:alabout.com
+domain:alanhou.com
 domain:alarab.qa
 domain:alasbarricadas.org
 domain:albagals.com
