@@ -5117,6 +5117,8 @@ domain:bsw.co.jp
 domain:bsw.jp
 domain:bsxm1213.pro
 domain:bt2mag.com
+domain:bt4g.org
+domain:bt4gprx.com
 domain:bt95.com
 domain:btaia.com
 domain:btas.ac.uk
