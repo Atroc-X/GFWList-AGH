@@ -2960,6 +2960,7 @@ domain:236501.xyz
 domain:2366.com
 domain:23673.com
 domain:236z.com
+domain:2375sj.com
 domain:237y.com
 domain:238000.net
 domain:238090.com
@@ -16008,6 +16009,7 @@ domain:biqufu.com
 domain:biqugao.cc
 domain:biquge.info
 domain:biquge.la
+domain:biquge123.com
 domain:biquge365.com
 domain:biquge8.com
 domain:biquge9.cc
@@ -18072,6 +18074,7 @@ domain:bxrfund.com
 domain:bxshopya.com
 domain:bxshscc.xyz
 domain:bxsnews.com
+domain:bxtag.com
 domain:bxv8.com
 domain:bxwatch.com
 domain:bxwljt.com
@@ -19373,6 +19376,7 @@ domain:ccnt.com
 domain:ccoalnews.com
 domain:ccoaonline.com
 domain:ccoco.vip
+domain:ccode.cc
 domain:ccoi.ren
 domain:cconn.cc
 domain:ccoop.net
@@ -31008,6 +31012,7 @@ domain:driverchina.com
 domain:driverdevelop.com
 domain:drivergenius.com
 domain:driverzeng.com
+domain:driverzj.com
 domain:drivethelife.com
 domain:drjou.cc
 domain:drjy6688.com
@@ -34929,6 +34934,7 @@ domain:feigo.fun
 domain:feihe.com
 domain:feihe168.com
 domain:feiheair.com
+domain:feihengip.com
 domain:feihonghb.com
 domain:feihongtec.com
 domain:feihu.me
@@ -35815,6 +35821,7 @@ domain:fleetlogd.com
 domain:fleety.com
 domain:flexifont.com
 domain:fleyun.com
+domain:flfc5999.com
 domain:flgame.net
 domain:flhimalayandn.com
 domain:fliggy.com
@@ -37545,6 +37552,7 @@ domain:gaojihealth.com
 domain:gaojima.com
 domain:gaojipro.com
 domain:gaojitui.com
+domain:gaojiua.com
 domain:gaokao.com
 domain:gaokao365.com
 domain:gaokao789.com
@@ -44466,6 +44474,7 @@ domain:halsplastics.com
 domain:haluan2u.com
 domain:haluoha.com
 domain:haluolinks.com
+domain:halvie.com
 domain:hamdl.com
 domain:hamedal.com
 domain:haminol.com
@@ -55986,6 +55995,7 @@ domain:jike800.com
 domain:jikecdn.com
 domain:jikedata.com
 domain:jikedingyue.com
+domain:jikedog.com
 domain:jikefan.com
 domain:jikegou.net
 domain:jikeiot.cloud
@@ -57020,6 +57030,7 @@ domain:jkcn365.com
 domain:jkcorkpads.com
 domain:jkcsjd.com
 domain:jkd.com
+domain:jkd360.com
 domain:jkdsz.com
 domain:jkelec.com
 domain:jkh-ym.com
@@ -59522,6 +59533,7 @@ domain:kafeng.com
 domain:kagirl.net
 domain:kah8.com
 domain:kahaozhushou.com
+domain:kahuodong.com
 domain:kai-asia-hk.com
 domain:kai-lun.net
 domain:kai-ying.com
@@ -63902,6 +63914,7 @@ domain:likamao.com
 domain:likangwei.com
 domain:like.video
 domain:like996.icu
+domain:likeaboat2023.com
 domain:likeacg.com
 domain:likebuy.com
 domain:likecha.com
@@ -67538,6 +67551,7 @@ domain:mc-ccpit.com
 domain:mc-dj.com
 domain:mc-f.com
 domain:mc-test.com
+domain:mc-user.com
 domain:mc-xborder.com
 domain:mc.cc
 domain:mc1314.com
@@ -67620,6 +67634,7 @@ domain:mcwizrd.com
 domain:mcwshop.com
 domain:mcx666.com
 domain:mcxzs.com
+domain:mcy003.org
 domain:mcyhfl.com
 domain:mcypls.com
 domain:mcyz.com
@@ -70503,6 +70518,7 @@ domain:mycosresearch.net
 domain:mycoss.com
 domain:mycoss.net
 domain:mycoss.org
+domain:mycplife.com
 domain:mycqgc.com
 domain:mycreate.net
 domain:mycyjg.com
@@ -71480,6 +71496,7 @@ domain:neccsh.com
 domain:necool.com
 domain:nedfon.co
 domain:nedigitals.com
+domain:neeca.net
 domain:neefood.com
 domain:neegle.net
 domain:neeinn.com
@@ -77064,6 +77081,7 @@ domain:printhome.com
 domain:printhr.com
 domain:printidea.art
 domain:printlake.com
+domain:privateapi.xyz
 domain:privatehd.to
 domain:privatess.win
 domain:privspace.net
@@ -81272,6 +81290,7 @@ domain:rj889.net
 domain:rjaaa.com
 domain:rjcopy.com
 domain:rjdk.org
+domain:rjdownd.com
 domain:rjetech.com
 domain:rjeye.com
 domain:rjfc110.com
@@ -88034,6 +88053,7 @@ domain:softbank.best
 domain:softbanks.net
 domain:softbar.com
 domain:softbingo.net
+domain:softdownd.com
 domain:softgostop.com
 domain:softhome.cc
 domain:softjinzhou.com
@@ -88908,6 +88928,7 @@ domain:stage3rd.com
 domain:staginfo.com
 domain:staidson.com
 domain:standard-groups.com
+domain:standardchartered.com
 domain:standardcn.com
 domain:standardshop.net
 domain:standatrans.com
@@ -92083,6 +92104,7 @@ domain:tceratronix.com
 domain:tcfhty.com
 domain:tcfmglobal.com
 domain:tcgcardgame.com
+domain:tcgdxyb.xyz
 domain:tcggkj.com
 domain:tcgke.com
 domain:tcgsw.com
@@ -95766,6 +95788,7 @@ domain:u9time.com
 domain:u9u8.com
 domain:u9u9.com
 domain:u9wan.com
+domain:uabkrsj.xyz
 domain:uaff7j.com
 domain:uahh.site
 domain:uancf.com
@@ -99166,6 +99189,7 @@ domain:weihuo.site
 domain:weihz.net
 domain:weii.cc
 domain:weiixxin.com
+domain:weijia1999.com
 domain:weijiancloud.com
 domain:weijianmen.com
 domain:weijingzhijia.com
@@ -99565,6 +99589,7 @@ domain:wenjuan.ltd
 domain:wenjuan.net
 domain:wenjuan.pub
 domain:wenjuanba.com
+domain:wenjuanbang.com
 domain:wenjuanshow.com
 domain:wenjuntech.com
 domain:wenkaoba.com
@@ -100495,6 +100520,7 @@ domain:windows11.pro
 domain:windows7en.com
 domain:windowsphone.com
 domain:windowssearch.com
+domain:windowstool.net
 domain:windowsupdate.com
 domain:windowszj.com
 domain:windpayer.com
@@ -102543,6 +102569,7 @@ domain:x81zw.co
 domain:x81zw2.com
 domain:x821.com
 domain:x86android.com
+domain:x86pi.com
 domain:x8ds.com
 domain:x8sb.com
 domain:x9393.com
@@ -103436,6 +103463,7 @@ domain:xiangyue.life
 domain:xiangyueedu.com
 domain:xiangyuezhongxue.com
 domain:xiangyujiankang.com
+domain:xiangyuncdn.com
 domain:xiangyungx.com
 domain:xiangyuyaoye.com
 domain:xiangzhan.com
@@ -111782,6 +111810,7 @@ domain:yuqiaolong.com
 domain:yuqinpin.com
 domain:yuquanhosp.com
 domain:yuque.com
+domain:yur09130og.com
 domain:yuren.org
 domain:yuriimg.com
 domain:yurongoptical.com
