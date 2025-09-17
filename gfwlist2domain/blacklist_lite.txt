@@ -4101,6 +4101,7 @@ domain:btguard.com
 domain:btku.me
 domain:btku.org
 domain:btlibrary.me
+domain:btloader.com
 domain:btspread.com
 domain:btsynckeys.com
 domain:btt804.com
