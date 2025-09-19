@@ -20497,7 +20497,6 @@ domain:ndtc.ac.uk
 domain:ndtv.com
 domain:ne-worcs.ac.uk
 domain:ne-worcscol.ac.uk
-domain:ne.jp
 domain:neab.ac.uk
 domain:neaco.ac.uk
 domain:near.by
@@ -29359,6 +29358,7 @@ domain:txdirectv.com
 domain:txmblr.com
 domain:txqzz34r.com
 domain:txvia.com
+domain:txvlog.com
 domain:txxx.com
 domain:txxx1.com
 domain:tycool.com

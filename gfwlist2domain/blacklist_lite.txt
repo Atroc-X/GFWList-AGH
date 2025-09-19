@@ -15144,7 +15144,6 @@ domain:nde.de
 domain:ndi.org
 domain:ndr.de
 domain:ndtv.com
-domain:ne.jp
 domain:near.by
 domain:nebay.net
 domain:neborder.com
@@ -21357,6 +21356,7 @@ domain:txdirectv.com
 domain:txmblr.com
 domain:txqzz34r.com
 domain:txvia.com
+domain:txvlog.com
 domain:txxx.com
 domain:txxx1.com
 domain:tycool.com
