@@ -9009,6 +9009,7 @@ domain:garenanow.com
 domain:garotaporno.com
 domain:garotoesperto.com
 domain:gartlive.com
+domain:garudalinux.org
 domain:gastrointestinalexam.com
 domain:gate-project.com
 domain:gate.cc
@@ -15606,6 +15607,7 @@ domain:nintendowii.com
 domain:ninth.biz
 domain:niosii.com
 domain:niosii.net
+domain:nirsoft.net
 domain:nist.gov
 domain:nitter.cc
 domain:nitter.net
@@ -19930,6 +19932,7 @@ domain:studioluxus.com
 domain:studioncorp.com
 domain:studiopaint.com
 domain:studiosucks.com
+domain:studybuddhism.com
 domain:studywatchbyverily.com
 domain:studywatchbyverily.org
 domain:stufferdb.com
@@ -22400,6 +22403,7 @@ domain:vporn.com
 domain:vpornvideos.com
 domain:vpro.com
 domain:vpro.net
+domain:vpsxb.net
 domain:vr.org
 domain:vraiesagesse.net
 domain:vrbgay.com

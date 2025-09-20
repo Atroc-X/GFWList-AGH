@@ -12119,6 +12119,7 @@ domain:garenanow.com
 domain:garotaporno.com
 domain:garotoesperto.com
 domain:gartlive.com
+domain:garudalinux.org
 domain:gashe.ac.uk
 domain:gastrointestinalexam.com
 domain:gate-project.com
@@ -21168,6 +21169,7 @@ domain:ninth.biz
 domain:niosii.com
 domain:niosii.net
 domain:niran.ac.uk
+domain:nirsoft.net
 domain:nishinipponbank.co.jp
 domain:nismod.ac.uk
 domain:nist.gov
@@ -27423,6 +27425,7 @@ domain:studioluxus.com
 domain:studioncorp.com
 domain:studiopaint.com
 domain:studiosucks.com
+domain:studybuddhism.com
 domain:studygroup.ac.uk
 domain:studyhigher.ac.uk
 domain:studyinengland.ac.uk
@@ -30908,6 +30911,7 @@ domain:vporn.com
 domain:vpornvideos.com
 domain:vpro.com
 domain:vpro.net
+domain:vpsxb.net
 domain:vr.org
 domain:vraiesagesse.net
 domain:vrbgay.com
