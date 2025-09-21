@@ -738,6 +738,7 @@ domain:abitno.linpie.com
 domain:ablmm.com
 domain:ablwang.com
 domain:aboluowang.com
+domain:about.gitlab.com
 domain:about.me
 domain:aboutamazon.co.uk
 domain:aboutamazon.com
