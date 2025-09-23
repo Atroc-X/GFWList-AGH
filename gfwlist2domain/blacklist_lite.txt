@@ -15934,6 +15934,7 @@ domain:ocry.com
 domain:ocsp-certum.com
 domain:ocsp-responder.com
 domain:october-review.org
+domain:octocaptcha.com
 domain:ocul.us
 domain:oculus-china.com
 domain:oculus.com
@@ -16377,6 +16378,7 @@ domain:pali.ltd
 domain:paljorpublications.com
 domain:palmislife.com
 domain:paltalk.com
+domain:palworldgame.com
 domain:panasonic.com
 domain:panasonic.jp
 domain:pancakeswap.finance

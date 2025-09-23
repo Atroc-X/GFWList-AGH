@@ -2025,6 +2025,7 @@ domain:api.dropboxapi.com
 domain:api.mixpanel.com
 domain:api.nebula-emby.com
 domain:api.news
+domain:api.palworldgame.com
 domain:api.pureapk.com
 domain:api.recaptcha.net
 domain:api.steampowered.com
@@ -21780,6 +21781,7 @@ domain:ocsp-certum.com
 domain:ocsp-responder.com
 domain:ocsp.microsoft.com
 domain:october-review.org
+domain:octocaptcha.com
 domain:ocul.us
 domain:oculus-china.com
 domain:oculus.com
@@ -22373,6 +22375,7 @@ domain:palmers.ac.uk
 domain:palmislife.com
 domain:pals.ac.uk
 domain:paltalk.com
+domain:palworldgame.com
 domain:panamapapers.sueddeutsche.de
 domain:panasonic.com
 domain:panasonic.jp
