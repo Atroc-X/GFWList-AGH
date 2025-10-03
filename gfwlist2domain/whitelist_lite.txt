@@ -91290,7 +91290,6 @@ domain:tapque.com
 domain:tapsvc.com
 domain:taptap-api.com
 domain:taptap.com
-domain:taptap.io
 domain:taptapcode.com
 domain:taptapdada.com
 domain:tapulsads.ru
