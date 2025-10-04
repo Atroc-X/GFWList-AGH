@@ -623,6 +623,7 @@ domain:9550.fun
 domain:978.life
 domain:97dounai.top
 domain:991.com
+domain:996.icu
 domain:99btgc01.com
 domain:99cn.info
 domain:99quse.cc
@@ -4328,7 +4329,6 @@ domain:bloglovin.com
 domain:blogo.jp
 domain:blogoverflow.com
 domain:blogs.com
-domain:blogs.tampabay.com
 domain:blogsmithmedia.com
 domain:blogspot.ae
 domain:blogspot.al
