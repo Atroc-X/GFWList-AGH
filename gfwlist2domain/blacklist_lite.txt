@@ -19384,6 +19384,7 @@ domain:solarcity.com
 domain:solidaritetibet.org
 domain:solidfiles.com
 domain:solostudioksale.com
+domain:solscan.io
 domain:solutionstation.com
 domain:solv.finance
 domain:solveforx.com
