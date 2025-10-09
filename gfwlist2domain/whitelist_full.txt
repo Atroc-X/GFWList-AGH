@@ -30736,6 +30736,7 @@ domain:doooor.net
 domain:door-expo.com
 domain:dooready.com
 domain:doorhr.com
+domain:doorqr.com
 domain:doorzo.app
 domain:doorzo.net
 domain:doosunggroup.com
@@ -35066,6 +35067,7 @@ domain:feimalv.com
 domain:feimao666.com
 domain:feimaoweb.com
 domain:feimaoyun.com
+domain:feimawaiqin.com
 domain:feimayun.com
 domain:feimooo.com
 domain:feimosheji.com
@@ -39552,7 +39554,6 @@ domain:gmm01.com
 domain:gmmicro.com
 domain:gmmsj.com
 domain:gmmtcc.com
-domain:gmnetworks.net
 domain:gmoe.cc
 domain:gmonline-all.com
 domain:gmpanel.com
@@ -44990,6 +44991,7 @@ domain:haomai.net
 domain:haomaikeji.com
 domain:haomaishe.com
 domain:haomaishou.com
+domain:haomaitong.com
 domain:haomaizhizao.com
 domain:haomaku.com
 domain:haomei-alu.com
@@ -79344,6 +79346,7 @@ domain:qqb.pub
 domain:qqba.com
 domain:qqbiaoqing.com
 domain:qqbibile.com
+domain:qqbytrans.com
 domain:qqcdn.com
 domain:qqcg.com
 domain:qqcjw.com
@@ -82358,6 +82361,7 @@ domain:sac-china.com
 domain:sacdr.net
 domain:sachenpharm.com
 domain:sact-digital.com
+domain:sadidc.com
 domain:sae-china.org
 domain:saebbs.com
 domain:saec.cc
@@ -97361,6 +97365,7 @@ domain:verygslb.net
 domain:veryhappy.pw
 domain:veryhuo.com
 domain:veryide.com
+domain:veryim.com
 domain:veryitman.com
 domain:verykuai.com
 domain:verym.com
@@ -98982,6 +98987,7 @@ domain:wbtech.com
 domain:wbtrans.com
 domain:wbw.im
 domain:wbwbwb.net
+domain:wbxcx.net
 domain:wbxinxi.com
 domain:wbzd.net
 domain:wc-soft.com
