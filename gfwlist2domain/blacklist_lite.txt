@@ -8686,6 +8686,8 @@ domain:freegao.com
 domain:freegaypornfinder.com
 domain:freegaypornhdtube.com
 domain:freegaysexgames.com
+domain:freegpt.es
+domain:freegpt.tech
 domain:freehdinterracialporn.in
 domain:freehdvideos.xxx
 domain:freehentaipic.com
@@ -11304,6 +11306,7 @@ domain:imdb.com
 domain:imdb.to
 domain:imessage.tv
 domain:img.ly
+domain:img2go.com
 domain:imgasd.com
 domain:imgbb.com
 domain:imgchili.net

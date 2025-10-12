@@ -11746,6 +11746,8 @@ domain:freegao.com
 domain:freegaypornfinder.com
 domain:freegaypornhdtube.com
 domain:freegaysexgames.com
+domain:freegpt.es
+domain:freegpt.tech
 domain:freehdinterracialporn.in
 domain:freehdvideos.xxx
 domain:freehentaipic.com
@@ -15266,6 +15268,7 @@ domain:img-s-msn-com.akamaized.net
 domain:img.dlsite.jp
 domain:img.ly
 domain:img.picgo.net
+domain:img2go.com
 domain:imgasd.com
 domain:imgbb.com
 domain:imgchili.net
