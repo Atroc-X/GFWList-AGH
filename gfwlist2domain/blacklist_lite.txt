@@ -24053,6 +24053,7 @@ domain:z-lib.gd
 domain:z-lib.gl
 domain:z-lib.io
 domain:z-lib.org
+domain:z-library.ec
 domain:z-library.se
 domain:z-library.sk
 domain:z00.world
