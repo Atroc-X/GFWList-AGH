@@ -660,6 +660,7 @@ domain:abigass.com
 domain:ablmm.com
 domain:ablwang.com
 domain:aboluowang.com
+domain:about.google
 domain:about.me
 domain:aboutamazon.com
 domain:aboutamazon.de
@@ -956,6 +957,7 @@ domain:agemys.org
 domain:agendaweek.com
 domain:agilebits.com
 domain:agnesb.fr
+domain:agnss.goog
 domain:agoogleaday.com
 domain:agrd.eu
 domain:agrd.io
@@ -982,6 +984,7 @@ domain:ahvideosexe.com
 domain:ahxxx.club
 domain:ai-kan.net
 domain:ai-wen.net
+domain:ai.google
 domain:ai.ls
 domain:ai7995.site
 domain:ai91porn.cc
@@ -2008,6 +2011,7 @@ domain:asianboygay.com
 domain:asiancamgirllive.com
 domain:asiancamly.com
 domain:asianews.it
+domain:asianfanfics.com
 domain:asianfreeforum.com
 domain:asianfreeporn.net
 domain:asiangfvideos.com
@@ -3122,6 +3126,10 @@ domain:beyondfirewall.com
 domain:bffshd.com
 domain:bfnn.org
 domain:bfsh.hk
+domain:bg-call-donation-alpha.goog
+domain:bg-call-donation-canary.goog
+domain:bg-call-donation-dev.goog
+domain:bg-call-donation.goog
 domain:bgm.tv
 domain:bgme.me
 domain:bgov.com
@@ -3365,6 +3373,7 @@ domain:blocktempo.com
 domain:blog.br
 domain:blog.com
 domain:blog.de
+domain:blog.google
 domain:blog.jp
 domain:blogblog.com
 domain:blogcatalog.com
@@ -4160,6 +4169,7 @@ domain:businessinsider.mx
 domain:businessinsider.my
 domain:businessinsider.nl
 domain:businessinsider.sg
+domain:businessmessages.google
 domain:businesswebwise.com
 domain:businessweek.com
 domain:businessweekmag.com
@@ -4879,6 +4889,7 @@ domain:chrlawyers.hk
 domain:chrome.com
 domain:chromebook.com
 domain:chromecast.com
+domain:chromeenterprise.google
 domain:chromeexperiments.com
 domain:chromeos.dev
 domain:chromercise.com
@@ -5093,6 +5104,7 @@ domain:cloudlock.com
 domain:cloudmagic.com
 domain:cloudn.me
 domain:cloudokyo.cloud
+domain:cloudpartnerservices.goog
 domain:cloudproxy.app
 domain:cloudrobotics.com
 domain:cloudvolumes.com
@@ -5288,6 +5300,7 @@ domain:com.fr
 domain:com.ge
 domain:com.gh
 domain:com.gi
+domain:com.google
 domain:com.gr
 domain:com.gt
 domain:com.gy
@@ -5891,6 +5904,7 @@ domain:deepfreeze.net
 domain:deepfreeze.tech
 domain:deepl.com
 domain:deepmind.com
+domain:deepmind.google
 domain:deezer.com
 domain:definebabe.com
 domain:definefetish.com
@@ -6028,6 +6042,7 @@ domain:descargasgay.com
 domain:desertbmw.com
 domain:design-ledrev.com
 domain:design-ledrevolution.com
+domain:design.google
 domain:designeriphonescases.com
 domain:designledrevolution.com
 domain:designsformovement.com
@@ -6336,6 +6351,7 @@ domain:disqus.com
 domain:disquscdn.com
 domain:disqusservice.com
 domain:dit-inc.us
+domain:diversity.google
 domain:diyarbakirescort.com
 domain:diyin.org
 domain:diyuser.buzz
@@ -6417,6 +6433,7 @@ domain:dnaspaces.io
 domain:dndbeyond.com
 domain:dns-dns.com
 domain:dns-stuff.com
+domain:dns.google
 domain:dns.sb
 domain:dns04.com
 domain:dns05.com
@@ -6482,6 +6499,7 @@ domain:dollf.com
 domain:dollnight.com
 domain:dolphiners.com
 domain:domain.glass
+domain:domains.google
 domain:domywife.com
 domain:donatecarsoh.org
 domain:donga.com
@@ -7269,6 +7287,9 @@ domain:entensity.net
 domain:entermap.com
 domain:entermediadb.net
 domain:entermediadb.org
+domain:enterprisedemo-google.com
+domain:enterprisedemogoogle.org
+domain:enterprisemarketingportal.google
 domain:enterprisepaging.com
 domain:enterprisessl.com
 domain:entnt.com
@@ -7871,6 +7892,7 @@ domain:faluninfo.net
 domain:falunpilipinas.net
 domain:falunworld.net
 domain:fameregistry.com
+domain:families.google
 domain:family-sex.me
 domain:family-simulator.io
 domain:familyds.com
@@ -9786,6 +9808,7 @@ domain:grotty-monday.com
 domain:ground.news
 domain:groupfun.com
 domain:groups.com
+domain:grow.google
 domain:grss-ieee.org
 domain:grupobmw.com
 domain:gs-discuss.com
@@ -10800,7 +10823,6 @@ domain:hua-yue.net
 domain:huabansp.com
 domain:huabansp7.club
 domain:huaglad.com
-domain:huaibinmall.com
 domain:huanghuagang.org
 domain:huangse.love
 domain:huangyiyu.com
@@ -11699,6 +11721,7 @@ domain:invidio.us
 domain:invity.io
 domain:inxian.com
 domain:inxporn.com
+domain:io.google
 domain:io.io
 domain:ioe.com
 domain:ioffergift.com
@@ -12782,6 +12805,7 @@ domain:l-msedge.net
 domain:la-forum.org
 domain:la-mama.ru
 domain:labiennale.org
+domain:labs.google
 domain:lacomics.org
 domain:ladbrokes.com
 domain:ladies.com
@@ -16126,6 +16150,7 @@ domain:openreality.com
 domain:openresty.org
 domain:openrouter.ai
 domain:opensea.io
+domain:opensource.google
 domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
@@ -17787,6 +17812,7 @@ domain:qualphone.com
 domain:quanben-xiaoshuo.com
 domain:quanben.io
 domain:quannengshen.org
+domain:quantumai.google
 domain:quantumbooter.net
 domain:quatrowireless.com
 domain:quay.io
@@ -18103,6 +18129,7 @@ domain:regex101.com
 domain:regiongold.com
 domain:registerhulu.com
 domain:registeridm.com
+domain:registry.google
 domain:reimu.net
 domain:reiporno.com
 domain:relateiq.com
@@ -18128,6 +18155,7 @@ domain:repsneakermall.com
 domain:repswing.com
 domain:rerouted.org
 domain:resao.com
+domain:research.google
 domain:researchandcare.org
 domain:researchgate.net
 domain:researchintel.com
@@ -18384,6 +18412,7 @@ domain:safebooru.org
 domain:safechat.com
 domain:safeguarddefenders.com
 domain:safervpn.com
+domain:safety.google
 domain:saffrontech.com
 domain:sagernet.org
 domain:sahabatsetiasmartone.com
@@ -18907,6 +18936,7 @@ domain:shaparak.ir
 domain:shapelcounset.xyz
 domain:shapeservices.com
 domain:share-videos.se
+domain:share.google
 domain:sharebee.com
 domain:sharecool.org
 domain:sharepointonline.com
@@ -19112,6 +19142,7 @@ domain:simplifycommerce.com
 domain:simply-hentai.com
 domain:simplyipod.com
 domain:simsquad.com
+domain:simtransfer.goog
 domain:simulationsquad.com
 domain:sinabank.ir
 domain:sinchew.my
@@ -19189,6 +19220,7 @@ domain:sketchfab.com
 domain:skillshare.com
 domain:skimtube.com
 domain:skinstrip.net
+domain:skintone.google
 domain:skk.moe
 domain:skokka.com
 domain:sksarab.top
@@ -19617,6 +19649,7 @@ domain:squirrelgroup.net
 domain:squirrelvpn.com
 domain:sqyzh-dh.sbs
 domain:sr.ht
+domain:sre.google
 domain:srebrenica360.com
 domain:srocket.us
 domain:srtcdn.net
@@ -19830,6 +19863,7 @@ domain:stoptibetcrisis.net
 domain:storagenewsletter.com
 domain:store-bridgestonesports.com
 domain:storesense.com
+domain:stories.google
 domain:storiesonline.net
 domain:storify.com
 domain:storj.io
@@ -19874,7 +19908,6 @@ domain:strepsils.ru
 domain:strepsils.si
 domain:strepsils.us
 domain:strepsilsarabia.com
-domain:striek.com
 domain:strikingly.com
 domain:strikinglycdn.com
 domain:strip-poker.xxx
@@ -20093,6 +20126,7 @@ domain:synapse.org
 domain:synaptic.net
 domain:syncback.com
 domain:syncbak.com
+domain:syndicatedsearch.goog
 domain:synergyse.com
 domain:synology.com
 domain:synology.me
@@ -21173,6 +21207,7 @@ domain:tuvpn.com
 domain:tuzaijidi.com
 domain:tv.br
 domain:tv.com
+domain:tv.google
 domain:tvappstore.net
 domain:tvb.com
 domain:tvbanywhere.com
@@ -24085,6 +24120,7 @@ domain:zbporn.com
 domain:zctb.buzz
 domain:zdassets.com
 domain:zdnet.com
+domain:zdns.google
 domain:zdusercontent.com
 domain:zee.com
 domain:zee5.com

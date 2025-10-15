@@ -740,6 +740,7 @@ domain:ablmm.com
 domain:ablwang.com
 domain:aboluowang.com
 domain:about.gitlab.com
+domain:about.google
 domain:about.me
 domain:aboutamazon.co.uk
 domain:aboutamazon.com
@@ -1155,6 +1156,7 @@ domain:agendaweek.com
 domain:agenet.ac.uk
 domain:agilebits.com
 domain:agnesb.fr
+domain:agnss.goog
 domain:agocg.ac.uk
 domain:agoogleaday.com
 domain:agrd.eu
@@ -1198,6 +1200,7 @@ domain:ahxxx.club
 domain:ai-kan.net
 domain:ai-wen.net
 domain:ai.binwang.me
+domain:ai.google
 domain:ai.google.dev
 domain:ai.ls
 domain:ai3sd.ac.uk
@@ -2600,6 +2603,7 @@ domain:asianboygay.com
 domain:asiancamgirllive.com
 domain:asiancamly.com
 domain:asianews.it
+domain:asianfanfics.com
 domain:asianfreeforum.com
 domain:asianfreeporn.net
 domain:asiangfvideos.com
@@ -3954,6 +3958,10 @@ domain:bfmat.ac.uk
 domain:bfnn.org
 domain:bfsh.hk
 domain:bftv.ac.uk
+domain:bg-call-donation-alpha.goog
+domain:bg-call-donation-canary.goog
+domain:bg-call-donation-dev.goog
+domain:bg-call-donation.goog
 domain:bgc.ac.uk
 domain:bgm.tv
 domain:bgme.me
@@ -4298,6 +4306,7 @@ domain:blog.fizzik.com
 domain:blog.foolsmountain.com
 domain:blog.fuckgfw233.org
 domain:blog.goo.ne.jp
+domain:blog.google
 domain:blog.jackjia.com
 domain:blog.jp
 domain:blog.kangye.org
@@ -5438,6 +5447,7 @@ domain:businessinsider.mx
 domain:businessinsider.my
 domain:businessinsider.nl
 domain:businessinsider.sg
+domain:businessmessages.google
 domain:businesstoday.com.tw
 domain:businesswebwise.com
 domain:businessweek.com
@@ -6537,6 +6547,7 @@ domain:chrlawyers.hk
 domain:chrome.com
 domain:chromebook.com
 domain:chromecast.com
+domain:chromeenterprise.google
 domain:chromeexperiments.com
 domain:chromeos.dev
 domain:chromercise.com
@@ -6839,6 +6850,7 @@ domain:cloudlock.com
 domain:cloudmagic.com
 domain:cloudn.me
 domain:cloudokyo.cloud
+domain:cloudpartnerservices.goog
 domain:cloudproxy.app
 domain:cloudrobotics.com
 domain:cloudsync-prod.s3.amazonaws.com
@@ -7126,6 +7138,7 @@ domain:com.fr
 domain:com.ge
 domain:com.gh
 domain:com.gi
+domain:com.google
 domain:com.gr
 domain:com.gt
 domain:com.gy
@@ -8045,6 +8058,7 @@ domain:deepfreeze.tech
 domain:deeping.ac.uk
 domain:deepl.com
 domain:deepmind.com
+domain:deepmind.google
 domain:deeside.ac.uk
 domain:deezer.com
 domain:defac.ac.uk
@@ -8278,6 +8292,7 @@ domain:descargasgay.com
 domain:desertbmw.com
 domain:design-ledrev.com
 domain:design-ledrevolution.com
+domain:design.google
 domain:designeriphonescases.com
 domain:designledrevolution.com
 domain:designsformovement.com
@@ -8676,6 +8691,7 @@ domain:distribution.qcpp1.net
 domain:distribution.qpdp1.net
 domain:dit-inc.us
 domain:divas.com.uy
+domain:diversity.google
 domain:diversityuk.ac.uk
 domain:diyarbakirescort.com
 domain:diyin.org
@@ -8855,6 +8871,7 @@ domain:dolphiners.com
 domain:domain.club.tw
 domain:domain.glass
 domain:domainhelp.search.com
+domain:domains.google
 domain:domaintoday.com.au
 domain:dombosco.com.br
 domain:domesticabuserisk.ac.uk
@@ -9988,6 +10005,9 @@ domain:entermediadb.net
 domain:entermediadb.org
 domain:enterprise.ac.uk
 domain:enterprisebydesign.ac.uk
+domain:enterprisedemo-google.com
+domain:enterprisedemogoogle.org
+domain:enterprisemarketingportal.google
 domain:enterprisepaging.com
 domain:enterpriseresearch.ac.uk
 domain:enterprisessl.com
@@ -10767,6 +10787,7 @@ domain:falunpilipinas.net
 domain:falunworld.net
 domain:fameregistry.com
 domain:famifun.com.tw
+domain:families.google
 domain:family-sex.me
 domain:family-simulator.io
 domain:family.co.jp
@@ -13209,6 +13230,7 @@ domain:grotty-monday.com
 domain:ground.news
 domain:groupfun.com
 domain:groups.com
+domain:grow.google
 domain:grows.ac.uk
 domain:grpeng.ac.uk
 domain:grss-ieee.org
@@ -14579,7 +14601,6 @@ domain:hua-yue.net
 domain:huabansp.com
 domain:huabansp7.club
 domain:huaglad.com
-domain:huaibinmall.com
 domain:huanghuagang.org
 domain:huangse.love
 domain:huangyiyu.com
@@ -15753,6 +15774,7 @@ domain:invidio.us
 domain:invity.io
 domain:inxian.com
 domain:inxporn.com
+domain:io.google
 domain:io.io
 domain:ioe.ac.uk
 domain:ioe.com
@@ -17117,6 +17139,7 @@ domain:laban.ac.uk
 domain:labiennale.org
 domain:labinacell.ac.uk
 domain:labo.wovs.tk
+domain:labs.google
 domain:lackcoll.ac.uk
 domain:lackham.ac.uk
 domain:lacomics.org
@@ -22027,6 +22050,7 @@ domain:opensciencelab.ac.uk
 domain:opensciencelaboratory.ac.uk
 domain:opensea.io
 domain:opensource.ac.uk
+domain:opensource.google
 domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
@@ -24091,6 +24115,7 @@ domain:quanben.io
 domain:quannengshen.org
 domain:quantic.ac.uk
 domain:quantitativemethods.ac.uk
+domain:quantumai.google
 domain:quantumbooter.net
 domain:quatrowireless.com
 domain:quatrum.com.br
@@ -24538,6 +24563,7 @@ domain:regionalvisions.ac.uk
 domain:regiongold.com
 domain:registerhulu.com
 domain:registeridm.com
+domain:registry.google
 domain:reid-kerr.ac.uk
 domain:reidkerr.ac.uk
 domain:reigate.ac.uk
@@ -24581,6 +24607,7 @@ domain:research-clinician.ac.uk
 domain:research-councils.ac.uk
 domain:research-scotland.ac.uk
 domain:research-socialsciences.ac.uk
+domain:research.google
 domain:research4justice.ac.uk
 domain:researchandcare.org
 domain:researchconcordat.ac.uk
@@ -25046,6 +25073,7 @@ domain:safechat.com
 domain:safeguarddefenders.com
 domain:safepodnetwork.ac.uk
 domain:safervpn.com
+domain:safety.google
 domain:saffrontech.com
 domain:sagabank.co.jp
 domain:sagernet.org
@@ -25901,6 +25929,7 @@ domain:share-videos.se
 domain:share.acgnx.net
 domain:share.acgnx.se
 domain:share.america.gov
+domain:share.google
 domain:share.ovi.com
 domain:share.youthwant.com.tw
 domain:sharebee.com
@@ -26167,6 +26196,7 @@ domain:simplifycommerce.com
 domain:simply-hentai.com
 domain:simplyipod.com
 domain:simsquad.com
+domain:simtransfer.goog
 domain:simulationsquad.com
 domain:sina.com.hk
 domain:sina.com.tw
@@ -26275,6 +26305,7 @@ domain:skillshare.com
 domain:skillswestyorks.ac.uk
 domain:skimtube.com
 domain:skinstrip.net
+domain:skintone.google
 domain:skk.moe
 domain:skokka.com
 domain:sksarab.top
@@ -26916,6 +26947,7 @@ domain:sqyzh-dh.sbs
 domain:sr.ht
 domain:src.ac.uk
 domain:srcf.ucam.org
+domain:sre.google
 domain:srebrenica360.com
 domain:srf.ac.uk
 domain:srhe.ac.uk
@@ -27280,6 +27312,7 @@ domain:storcuram.ac.uk
 domain:store-bridgestonesports.com
 domain:store.steampowered.com
 domain:storesense.com
+domain:stories.google
 domain:storiesofchange.ac.uk
 domain:storiesonline.net
 domain:storify.com
@@ -27350,7 +27383,6 @@ domain:strepsils.si
 domain:strepsils.us
 domain:strepsilsarabia.com
 domain:streva.ac.uk
-domain:striek.com
 domain:strikingly.com
 domain:strikinglycdn.com
 domain:strip-poker.xxx
@@ -27700,6 +27732,7 @@ domain:synaptic.net
 domain:synbio-cdt.ac.uk
 domain:syncback.com
 domain:syncbak.com
+domain:syndicatedsearch.goog
 domain:synergyse.com
 domain:synology.com
 domain:synology.me
@@ -29142,6 +29175,7 @@ domain:tuzaijidi.com
 domain:tv.applemusic.com
 domain:tv.br
 domain:tv.com
+domain:tv.google
 domain:tv.jtbc.joins.com
 domain:tvappstore.net
 domain:tvb.com
@@ -33222,6 +33256,7 @@ domain:zdassets.com
 domain:zdnet.com
 domain:zdnet.com.tw
 domain:zdnet.redvideo.io
+domain:zdns.google
 domain:zdusercontent.com
 domain:zee.com
 domain:zee5.com
