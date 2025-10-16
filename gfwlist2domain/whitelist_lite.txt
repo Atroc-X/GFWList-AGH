@@ -21802,6 +21802,7 @@ domain:chinaningbo.com
 domain:chinanmi.com
 domain:chinanrb.com
 domain:chinanums.com
+domain:chinanwa.com
 domain:chinaobp.com
 domain:chinaoceanwide.com
 domain:chinaoct.com
@@ -28370,6 +28371,7 @@ domain:deehon.com
 domain:deemos.com
 domain:deep-os.com
 domain:deep56.com
+domain:deepblog.net
 domain:deepc.cc
 domain:deepcloudsdp.com
 domain:deepcoin.red
@@ -35646,6 +35648,7 @@ domain:fontong.com
 domain:fontoohotels.com
 domain:fontowns.com
 domain:fontsfile.com
+domain:fontshow.com
 domain:fontvip.com
 domain:fontyi.com
 domain:fonye.com
@@ -60498,6 +60501,7 @@ domain:ks-cdnv6.com
 domain:ks-fag.com
 domain:ks-live.com
 domain:ks-spring.com
+domain:ks-terminals.com
 domain:ks-wg.com
 domain:ks1688.com
 domain:ks321.com
@@ -69762,7 +69766,6 @@ domain:myezdns.com
 domain:myfans.cc
 domain:myfdmg.com
 domain:myfhospital.com
-domain:myfreshnet.com
 domain:myfrfr.com
 domain:myfun7.com
 domain:myfund.com
@@ -85494,6 +85497,7 @@ domain:shuzhibaogao.net
 domain:shuzhiduo.com
 domain:shuzhou.cc
 domain:shuzibao.com
+domain:shuzifuyu.com
 domain:shuzigd.com
 domain:shuzigonggao.com
 domain:shuziguanxing.com
@@ -105958,6 +105962,7 @@ domain:y007.com
 domain:y0mwy.icu
 domain:y1995.com
 domain:y2002.com
+domain:y3pm.com
 domain:y5000.com
 domain:y55l6.com
 domain:y56.com
