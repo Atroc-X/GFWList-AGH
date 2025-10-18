@@ -1958,6 +1958,7 @@ domain:argotunnel.com
 domain:aria.ms
 domain:arirangmeari.com
 domain:ark.to
+domain:arkoselabs.com
 domain:arlingtoncemetery.mil
 domain:armorgames.com
 domain:armovs.com
@@ -4641,6 +4642,7 @@ domain:cepacol.ca
 domain:cepacol.com
 domain:ceramics-cadcam.com
 domain:cerdas.com
+domain:cerebras.ai
 domain:cern.ch
 domain:certificat2.com
 domain:certificate-transparency.org
@@ -5019,6 +5021,8 @@ domain:classicalguitarblog.net
 domain:classicnike.com
 domain:classymomsex.com
 domain:claude.ai
+domain:claude.com
+domain:claudemcpclient.com
 domain:claudeusercontent.com
 domain:clco.cc
 domain:cleansite.biz
@@ -12059,6 +12063,7 @@ domain:jav-angel.net
 domain:jav-legend.com
 domain:jav-subtitles.com
 domain:jav-vr.net
+domain:jav.app
 domain:jav.com
 domain:jav.dog
 domain:jav.gallery
@@ -13568,6 +13573,7 @@ domain:marketwatch.com
 domain:markingmenus.com
 domain:markzuckerberg.com
 domain:marranazas.com
+domain:marscode.com
 domain:martau.com
 domain:martincartoons.com
 domain:martinoei.com
@@ -15368,6 +15374,7 @@ domain:nfsc.global
 domain:nfscdict.com
 domain:nfscofficial.com
 domain:nfsworld.com
+domain:nftstatic.com
 domain:nftstorage.link
 domain:ng.mil
 domain:nga.mil
@@ -20964,6 +20971,7 @@ domain:tracker.network
 domain:tracking-location.com
 domain:tradevip1.com
 domain:tradingview.com
+domain:trae.ai
 domain:traffichaus.com
 domain:trafficmanager.net
 domain:trakt.tv
