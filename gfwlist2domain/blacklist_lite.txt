@@ -1068,6 +1068,7 @@ domain:ajplus.net
 domain:ajsands.com
 domain:ajsjx.com
 domain:ajtalk.com
+domain:ajunews.com
 domain:ak1.net
 domain:aka-ai.com
 domain:aka-ai.net
@@ -2143,6 +2144,7 @@ domain:attwirelesssolutions.com
 domain:atube.sex
 domain:atube.xxx
 domain:atubex.com
+domain:atvnewsonline.com
 domain:atwiki.jp
 domain:atypi.org
 domain:aucheapbeats.com
@@ -3912,6 +3914,7 @@ domain:boomerang.com
 domain:boomssr.com
 domain:boomtrain.com
 domain:booru.org
+domain:boosty.to
 domain:booth.pm
 domain:bootstrapcdn.com
 domain:bootyliciousmag.com
@@ -4592,6 +4595,7 @@ domain:cdkworkshop.com
 domain:cdmatech.com
 domain:cdn-telegram.org
 domain:cdn-terapeak.com
+domain:cdn-vk.ru
 domain:cdn77.com
 domain:cdn77.org
 domain:cdninstagram.com
@@ -5819,6 +5823,7 @@ domain:dastrassi.org
 domain:dat.foundation
 domain:data-vocabulary.org
 domain:data.com
+domain:data.taipei
 domain:dataframeworks.com
 domain:datalabour.com
 domain:dataliberation.org
@@ -6129,6 +6134,7 @@ domain:dharmakara.net
 domain:dhcp.biz
 domain:diablo3.com
 domain:diabloimmortal.com
+domain:diabrowser.com
 domain:dialga.com
 domain:dialogflow.com
 domain:diamantewebcam.com
@@ -6506,6 +6512,7 @@ domain:domain.glass
 domain:domains.google
 domain:domywife.com
 domain:donatecarsoh.org
+domain:donationalerts.com
 domain:donga.com
 domain:dongtaiwang.com
 domain:dongtaiwang.net
@@ -9839,6 +9846,7 @@ domain:guaneryu.com
 domain:guangming.org
 domain:guangnianvpn.com
 domain:guaranitermal.com
+domain:guardarian.com
 domain:guardianapis.com
 domain:guardianproject.info
 domain:guardster.com
@@ -9931,6 +9939,7 @@ domain:haitangbook.com
 domain:haitbook.com
 domain:haitenjp.com
 domain:haiwaikan.com
+domain:haiwaiwai.com
 domain:half.com
 domain:half.tv
 domain:halfcanada.com
@@ -11081,6 +11090,7 @@ domain:icons8.com
 domain:icu-project.org
 domain:icuminside.com
 domain:id.au
+domain:id.taipei
 domain:idaiwan.com
 domain:idarkdoll.com
 domain:idea-server.com
@@ -12768,6 +12778,7 @@ domain:ktachibana.party
 domain:ktvu.com
 domain:ktzhk.com
 domain:ku77.xyz
+domain:kuai.media
 domain:kuaichedao.co
 domain:kuaimao-app.com
 domain:kuaipa.net
@@ -13850,6 +13861,7 @@ domain:melon365.com
 domain:melonstube.com
 domain:meltoday.com
 domain:meme111.com
+domain:memealerts.com
 domain:memehk.com
 domain:memes.tw
 domain:memorybbs.com
@@ -15986,6 +15998,7 @@ domain:ok.ru
 domain:ok.xxx
 domain:okayfreedom.com
 domain:okazudouga.tokyo
+domain:okcdn.ru
 domain:okcoin.com
 domain:okex.com
 domain:okk.tw
@@ -17864,6 +17877,7 @@ domain:qwant.it
 domain:qwapi.com
 domain:qx.net
 domain:qxbbs.org
+domain:qycz.org
 domain:qysg.cc
 domain:qysg7.buzz
 domain:qysg8.buzz
@@ -18444,10 +18458,14 @@ domain:sambaporno.com
 domain:sambhota.org
 domain:samebags.com
 domain:samsungcloud.com
+domain:samsungconsent.com
 domain:samsungdm.com
 domain:samsunggalaxyfriends.com
+domain:samsunghealth.com
+domain:samsungiotcloud.com
 domain:samsungknox.com
 domain:samsungqbe.com
+domain:samsungrs.com
 domain:sandisk.ae
 domain:sandisk.com
 domain:sandisk.de
@@ -18691,6 +18709,7 @@ domain:serverlesslibrary.net
 domain:serveuser.com
 domain:serveusers.com
 domain:service-now.com
+domain:service.taipei
 domain:services-apple.net
 domain:services-exchange.com
 domain:serviceshp.com
@@ -19821,6 +19840,7 @@ domain:stboy.net
 domain:stc-server.com
 domain:stcroixmosquito.com
 domain:stcroixmosquitoproject.com
+domain:stealthex.io
 domain:steam-api.com
 domain:steam-chat.com
 domain:steam.tv
@@ -21795,6 +21815,7 @@ domain:vercel-dns.com
 domain:vercel-status.com
 domain:vercel.app
 domain:vercel.blog
+domain:vercel.dev
 domain:vercel.events
 domain:vercel.live
 domain:vercel.pub
@@ -22118,6 +22139,7 @@ domain:vk.me
 domain:vk.ru
 domain:vk.team
 domain:vkcache.com
+domain:vkcloud-static.ru
 domain:vkgo.app
 domain:vklive.app
 domain:vkmessenger.app
