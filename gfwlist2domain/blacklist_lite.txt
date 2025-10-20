@@ -2675,6 +2675,7 @@ domain:bbycontent.net
 domain:bbyintl.com
 domain:bbystatic.com
 domain:bbyurl.us
+domain:bcbay.com
 domain:bcbits.com
 domain:bcchinese.net
 domain:bcex.ca
@@ -3019,6 +3020,7 @@ domain:berkeley.edu
 domain:berlincompanions.com
 domain:berlinerbericht.de
 domain:berlintwitterwall.com
+domain:berrraka.com
 domain:best-practice.se
 domain:best-sex-games.com
 domain:best3dhere.com
@@ -4815,6 +4817,7 @@ domain:chinaaid.org
 domain:chinaaid.us
 domain:chinachange.org
 domain:chinachannel.hk
+domain:chinachristiantimes.com
 domain:chinacitynews.be
 domain:chinaclothesstore.com
 domain:chinacomments.org
@@ -4888,6 +4891,7 @@ domain:chosun.com
 domain:chped.com
 domain:chrdnet.com
 domain:christianfreedom.org
+domain:christianpost.com
 domain:christianstudy.com
 domain:christusrex.org
 domain:christymarks.com
@@ -4935,6 +4939,7 @@ domain:cinepornogratis.com
 domain:cinny.in
 domain:cios.org
 domain:cipfg.org
+domain:circle19.org
 domain:circlethebayfortibet.org
 domain:cirosantilli.com
 domain:cisco-returns.com
@@ -6164,6 +6169,7 @@ domain:digisfera.com
 domain:digital-anime.com
 domain:digital-id.ch
 domain:digital-rb.com
+domain:digitalarchives.tw
 domain:digitalassetlinks.org
 domain:digitalcertvalidation.com
 domain:digitaldesire.com
@@ -8232,11 +8238,13 @@ domain:findacard.com
 domain:findasians.live
 domain:findbare.com
 domain:findbook.tw
+domain:findbooks.info
 domain:findcams.live
 domain:findhername.net
 domain:findmespot.com
 domain:findmybeats.com
 domain:findmyipad.com
+domain:findresultsquick.com
 domain:findsav.com
 domain:findtubes.com
 domain:findvrporn.com
@@ -8744,6 +8752,7 @@ domain:freenet-china.org
 domain:freenetproject.org
 domain:freenewscn.com
 domain:freenode.net
+domain:freenuts.com
 domain:freeomovie.to
 domain:freeones.com
 domain:freeopenoutside.com
@@ -9951,6 +9960,7 @@ domain:hanbao-tv.lol
 domain:handbags-nike.com
 domain:handbagsoutletebay.com
 domain:handcraftedsoftware.org
+domain:handelsblatt.com
 domain:handjobcumvideos.com
 domain:handjobhub.com
 domain:handjobtube4free.com
@@ -10843,6 +10853,7 @@ domain:huanyuju.com
 domain:huaren.us
 domain:huaren4us.com
 domain:huarenav.com
+domain:huarenjie.com
 domain:huarenporn.com
 domain:huashangnews.com
 domain:huashundg.com
@@ -11340,6 +11351,7 @@ domain:imaypb.com
 domain:imb.org
 domain:imdb.com
 domain:imdb.to
+domain:imds-api.com
 domain:imessage.tv
 domain:img.ly
 domain:img2go.com
@@ -12557,6 +12569,7 @@ domain:kaob3.xyz
 domain:kaotic.com
 domain:karafarinbank.ir
 domain:karayou.com
+domain:kards.com
 domain:karechat.ai
 domain:karinahart.com
 domain:karkhung.com
@@ -13025,6 +13038,7 @@ domain:licdn.com
 domain:licensebuttons.net
 domain:licenseparser.com
 domain:life-global.org
+domain:lifeattiktok.com
 domain:lifemiles.com
 domain:lifeselector.com
 domain:lifewire.com
@@ -13890,6 +13904,7 @@ domain:meridian-trust.org
 domain:meridian.net
 domain:meripet.biz
 domain:meripet.com
+domain:merit-times.com
 domain:merlinblog.xyz
 domain:meshmixer.com
 domain:meshmixerforum.com
@@ -14357,6 +14372,7 @@ domain:miroguide.com
 domain:mirror.xyz
 domain:mirrorbooks.com
 domain:mirrormedia.mg
+domain:mirrormediagroup.com
 domain:mirrorsedge.com
 domain:mirrorsedge.jp
 domain:mirrorsedge.net
@@ -15036,6 +15052,7 @@ domain:myyoungmomisnude.com
 domain:myyoungwifeisnude.com
 domain:myz.info
 domain:mzed.com
+domain:n-tv.de
 domain:n15zev3w.shop
 domain:n26.com
 domain:n3ro.lol
@@ -15341,6 +15358,7 @@ domain:newstarnet.com
 domain:newstatesman.com
 domain:newsukadops.com
 domain:newsupermariobrosu.com
+domain:newswav.com
 domain:newsweek.com
 domain:newtalk.tw
 domain:newthuhole.com
@@ -16740,6 +16758,7 @@ domain:perplexity.ai
 domain:perplexity.com
 domain:persagg.com
 domain:persecutionblog.com
+domain:persgroep.net
 domain:persianepochtimes.com
 domain:persiankitty.com
 domain:person.com
@@ -16805,6 +16824,7 @@ domain:picidae.net
 domain:picjs.xyz
 domain:pickinguppussy.com
 domain:picknicekicks.net
+domain:pickpackapp.com
 domain:pickshoesclothes.com
 domain:picnik.com
 domain:picpost.com
@@ -16821,6 +16841,7 @@ domain:pieceofplastic.com
 domain:pifpafarabia.com
 domain:pigav.com
 domain:pikabu.monster
+domain:pikpak.io
 domain:pikpak.me
 domain:pikpakdrive.com
 domain:pillbeatsblackfridaysale.com
@@ -17077,6 +17098,7 @@ domain:popvote.hk
 domain:popxi.click
 domain:popyard.com
 domain:popyard.org
+domain:popyard.space
 domain:porcore.com
 domain:poringa.net
 domain:porkahd.co
@@ -17973,6 +17995,7 @@ domain:ratx.com
 domain:ravm.tv
 domain:rawgit.com
 domain:rawgithub.com
+domain:rawstory.com
 domain:raxcdn.com
 domain:razer.com
 domain:razerofficial.com
@@ -18275,6 +18298,7 @@ domain:roboforex.com
 domain:roborecall.com
 domain:robotoffice.com
 domain:robustnessiskey.com
+domain:roc-taiwan.org
 domain:rocket-inc.net
 domain:rocket.chat
 domain:rocketbbs.com
@@ -18323,6 +18347,7 @@ domain:rplay.live
 domain:rpmfusion.org
 domain:rprimelab.com
 domain:rqbank.ir
+domain:rri.ro
 domain:rrl28.buzz
 domain:rrs1.xyz
 domain:rrtis.com
@@ -19200,6 +19225,7 @@ domain:sinomontreal.ca
 domain:sinonet.ca
 domain:sinopitt.info
 domain:sinoquebec.com
+domain:sinovision.net
 domain:sipml5.org
 domain:siport.com
 domain:sipriyearbook.org
@@ -19257,6 +19283,7 @@ domain:sky.com
 domain:skyassets.com
 domain:skybet.com
 domain:skykiwi.com
+domain:skylinktv.us
 domain:skymatter.com
 domain:skynet.be
 domain:skyoceanrescue.com
@@ -19397,6 +19424,7 @@ domain:social.com
 domain:socialblade.com
 domain:socialcam.com
 domain:socialcammail.com
+domain:socialism.hk
 domain:socialkam.com
 domain:socialmediagirls.com
 domain:socialwhale.com
@@ -19551,6 +19579,7 @@ domain:soundofhope.eu
 domain:soundofhope.kr
 domain:soundofhope.org
 domain:soundon.fm
+domain:soup-dev.com
 domain:soup.io
 domain:soupofmedia.com
 domain:sourceforge.com
@@ -20213,6 +20242,7 @@ domain:taiwanbible.com
 domain:taiwancon.com
 domain:taiwandaily.net
 domain:taiwandc.org
+domain:taiwanembassy.org
 domain:taiwanhot.net
 domain:taiwanjustice.com
 domain:taiwanjustice.net
@@ -20220,6 +20250,7 @@ domain:taiwankiss.com
 domain:taiwannation.com
 domain:taiwanonline.cc
 domain:taiwansex.tw
+domain:taiwantoday.tw
 domain:taiwantp.net
 domain:taiwanus.net
 domain:taiwanyes.com
@@ -20366,6 +20397,7 @@ domain:tegrazone.jp
 domain:tegrazone.kr
 domain:tehrantimes.com
 domain:tejaratbank.ir
+domain:teldap.tw
 domain:telebay.com
 domain:telecomspace.com
 domain:telega.one
@@ -20957,6 +20989,7 @@ domain:torrindex.net
 domain:tortoisesvn.net
 domain:torvpn.com
 domain:tospo-keiba.jp
+domain:tospotify.com
 domain:totalmateria.com
 domain:totalvpn.com
 domain:totoleak.com
@@ -21249,6 +21282,7 @@ domain:tvider.com
 domain:tvnaviweb.jp
 domain:tvplayvideos.com
 domain:tvpromise.com
+domain:tvr.ro
 domain:tvunetworks.com
 domain:tw-blog.com
 domain:tw-npo.org
@@ -21597,6 +21631,7 @@ domain:us.to
 domain:usa-beatsbydreheadphonesonsale.net
 domain:usacn.com
 domain:usaco.org
+domain:usagm.gov
 domain:usaip.eu
 domain:usatoday.com
 domain:usatodaynetworkservice.com
@@ -22374,6 +22409,7 @@ domain:volvotrucks.uy
 domain:vomitkings.com
 domain:vortexmachining.com
 domain:vot.org
+domain:votetw.com
 domain:votolia.com
 domain:vovo2000.com
 domain:vox-cdn.com
@@ -22662,6 +22698,7 @@ domain:weekmag.info
 domain:wefightcensorship.org
 domain:wefong.com
 domain:weiboleak.com
+domain:weights.com
 domain:weihuo.org
 domain:weijingsheng.org
 domain:weimi180.com
@@ -23264,6 +23301,7 @@ domain:xlstudio.com
 domain:xlydh.cc
 domain:xm.com
 domain:xmalay.com
+domain:xmart.tw
 domain:xmature.su
 domain:xmav99.com
 domain:xmbsyj.top

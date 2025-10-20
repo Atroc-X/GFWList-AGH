@@ -69865,8 +69865,6 @@ domain:msfpay.com
 domain:msftonlinelab.com
 domain:msgamego.com
 domain:msgcarry.com
-domain:msgr.dlservice.microsoft.com
-domain:msgruser.dlservice.microsoft.com
 domain:msgtjj.com
 domain:msh2020.com
 domain:mshandong.com
@@ -77846,7 +77844,6 @@ domain:qh-cdn.com
 domain:qh-dl.com
 domain:qh-hospital.org
 domain:qh-lb.com
-domain:qh.dlservice.microsoft.com
 domain:qh24.com
 domain:qh4321.com
 domain:qh6bc.com
@@ -86667,7 +86664,6 @@ domain:siluke.cc
 domain:siluke.info
 domain:silukex.com
 domain:siluwu.com
-domain:silverlight.dlservice.microsoft.com
 domain:sim.djicdn.com
 domain:sim.lenovo.com
 domain:sim800.com
@@ -87474,7 +87470,6 @@ domain:sltgj.com
 domain:slthxx.com
 domain:sltv.net
 domain:sltxantonline.com
-domain:slupdate.dlservice.microsoft.com
 domain:sluyu.com
 domain:slwh-dfh.com
 domain:slwwedding.com
@@ -100746,7 +100741,6 @@ domain:wkzf.com
 domain:wkzk.com
 domain:wkzuche.com
 domain:wkzw.me
-domain:wl.dlservice.microsoft.com
 domain:wl369.com
 domain:wl890.com
 domain:wlaforum.com
@@ -102692,7 +102686,6 @@ domain:xazysoft.net
 domain:xazyy.com
 domain:xazzs.com
 domain:xb.app
-domain:xb.dlservice.microsoft.com
 domain:xb0.cc
 domain:xb2s.com
 domain:xba123.com

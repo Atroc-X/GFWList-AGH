@@ -3438,6 +3438,7 @@ domain:bca.ac.uk
 domain:bcam.ac.uk
 domain:bcast.ac.uk
 domain:bcast.co.nz
+domain:bcbay.com
 domain:bcbits.com
 domain:bcc.ac.uk
 domain:bcc.com.tw
@@ -3835,6 +3836,7 @@ domain:berlintwitterwall.com
 domain:berm.co.nz
 domain:bern.ac.uk
 domain:bernards.ac.uk
+domain:berrraka.com
 domain:besa.ac.uk
 domain:besc.ac.uk
 domain:beside.ac.uk
@@ -5673,6 +5675,7 @@ domain:cambb.xxx
 domain:cambiaip.org
 domain:camborne.ac.uk
 domain:cambria.ac.uk
+domain:cambridge-hotel.com.tw
 domain:cambridge-university.ac.uk
 domain:cambridge.ac.uk
 domain:cambridgedigital.net
@@ -6119,6 +6122,7 @@ domain:cdninstagram.com
 domain:cdnjs.com
 domain:cdnlab.live
 domain:cdnpure.com
+domain:cdns.com.tw
 domain:cdnst.net
 domain:cdp1989.org
 domain:cdp1998.org
@@ -6270,6 +6274,7 @@ domain:chanworld.org
 domain:chaoex.com
 domain:chaos.social
 domain:chapm25.com
+domain:char.iis.sinica.edu.tw
 domain:character.ai
 domain:chardb.iis.sinica.edu.tw
 domain:chargenow.com
@@ -6446,6 +6451,7 @@ domain:chinaaid.org
 domain:chinaaid.us
 domain:chinachange.org
 domain:chinachannel.hk
+domain:chinachristiantimes.com
 domain:chinacitynews.be
 domain:chinaclothesstore.com
 domain:chinacomments.org
@@ -6544,6 +6550,7 @@ domain:chosun.com
 domain:chped.com
 domain:chrdnet.com
 domain:christianfreedom.org
+domain:christianpost.com
 domain:christianstudy.com
 domain:christiantimes.org.hk
 domain:christredeemer.ac.uk
@@ -6614,6 +6621,7 @@ domain:cinny.in
 domain:cios.org
 domain:ciota.ac.uk
 domain:cipfg.org
+domain:circle19.org
 domain:circlethebayfortibet.org
 domain:cirencester.ac.uk
 domain:cirius.ac.uk
@@ -6778,7 +6786,6 @@ domain:climate-lab-book.ac.uk
 domain:climate-server.com
 domain:climatechangewales.ac.uk
 domain:climb.ac.uk
-domain:cling.omy.sg
 domain:clinica-tibet.ru
 domain:clinical-videos.com
 domain:clinicalkey.com
@@ -6906,6 +6913,7 @@ domain:cmule.com
 domain:cmule.org
 domain:cmx.im
 domain:cn-proxy.com
+domain:cn.chosun.com
 domain:cn.fmnnow.com
 domain:cn.freeones.com
 domain:cn.nytstyle.com
@@ -7742,6 +7750,7 @@ domain:cwb.gov.tw
 domain:cwc.ac.uk
 domain:cwcams.com
 domain:cwcfe.ac.uk
+domain:cwgv.com.tw
 domain:cwrc.ac.uk
 domain:cws.ac.uk
 domain:cws.conviva.com
@@ -8457,6 +8466,7 @@ domain:digisfera.com
 domain:digital-anime.com
 domain:digital-id.ch
 domain:digital-rb.com
+domain:digitalarchives.tw
 domain:digitalassetlinks.org
 domain:digitalcertvalidation.com
 domain:digitalcreativity.ac.uk
@@ -11192,12 +11202,14 @@ domain:findacard.com
 domain:findasians.live
 domain:findbare.com
 domain:findbook.tw
+domain:findbooks.info
 domain:findcams.live
 domain:finder.ac.uk
 domain:findhername.net
 domain:findmespot.com
 domain:findmybeats.com
 domain:findmyipad.com
+domain:findresultsquick.com
 domain:findsav.com
 domain:findtubes.com
 domain:findvrporn.com
@@ -11806,6 +11818,7 @@ domain:freenet-china.org
 domain:freenetproject.org
 domain:freenewscn.com
 domain:freenode.net
+domain:freenuts.com
 domain:freeomovie.to
 domain:freeones.com
 domain:freeopenoutside.com
@@ -13090,6 +13103,7 @@ domain:gosetsuden.jp
 domain:gosexpod.com
 domain:goshemalecams.com
 domain:gospelherald.com
+domain:gospelherald.com.hk
 domain:gosport.ac.uk
 domain:gosportmarineskillscentre.ac.uk
 domain:gosq.co
@@ -13120,6 +13134,7 @@ domain:gov.mm
 domain:gov.pk
 domain:gov.taipei
 domain:gov.tw
+domain:govbooks.com.tw
 domain:governmentengineer.com
 domain:govforce.com
 domain:gowales.ac.uk
@@ -13423,6 +13438,7 @@ domain:hanbao-tv.lol
 domain:handbags-nike.com
 domain:handbagsoutletebay.com
 domain:handcraftedsoftware.org
+domain:handelsblatt.com
 domain:handjobcumvideos.com
 domain:handjobhub.com
 domain:handjobtube4free.com
@@ -14624,6 +14640,7 @@ domain:huanyuju.com
 domain:huaren.us
 domain:huaren4us.com
 domain:huarenav.com
+domain:huarenjie.com
 domain:huarenporn.com
 domain:huashangnews.com
 domain:huashundg.com
@@ -15298,6 +15315,7 @@ domain:imaypb.com
 domain:imb.org
 domain:imdb.com
 domain:imdb.to
+domain:imds-api.com
 domain:imems.ac.uk
 domain:imessage.tv
 domain:imet.ac.uk
@@ -16802,6 +16820,7 @@ domain:kaob3.xyz
 domain:kaotic.com
 domain:karafarinbank.ir
 domain:karayou.com
+domain:kards.com
 domain:karechat.ai
 domain:karinahart.com
 domain:karkhung.com
@@ -17531,6 +17550,7 @@ domain:life-global.org
 domain:life.ac.uk
 domain:lifearc.ac.uk
 domain:lifeatkings.ac.uk
+domain:lifeattiktok.com
 domain:lifelab.ac.uk
 domain:lifelonglearning.ac.uk
 domain:lifemiles.com
@@ -18636,6 +18656,7 @@ domain:mayimayi.com
 domain:maying.co
 domain:mba.ac.uk
 domain:mbc.ac.uk
+domain:mbct.mlc.edu.tw
 domain:mbeats-tech.com
 domain:mbheadphone.com
 domain:mbn.ac.uk
@@ -18844,6 +18865,7 @@ domain:meridian-trust.org
 domain:meridian.net
 domain:meripet.biz
 domain:meripet.com
+domain:merit-times.com
 domain:merit-times.com.tw
 domain:merlin.ac.uk
 domain:merlinblog.xyz
@@ -19425,6 +19447,7 @@ domain:mirror.xyz
 domain:mirrorbooks.com
 domain:mirrormedia.com.tw
 domain:mirrormedia.mg
+domain:mirrormediagroup.com
 domain:mirrorsedge.com
 domain:mirrorsedge.jp
 domain:mirrorsedge.net
@@ -20265,6 +20288,7 @@ domain:myyoungmomisnude.com
 domain:myyoungwifeisnude.com
 domain:myz.info
 domain:mzed.com
+domain:n-tv.de
 domain:n15zev3w.shop
 domain:n26.com
 domain:n3ro.lol
@@ -20566,6 +20590,7 @@ domain:nengcard.com
 domain:nenitas.club
 domain:nentindo.net
 domain:neo-miracle.com
+domain:neo.com.tw
 domain:neodaas.ac.uk
 domain:neoforged.net
 domain:neonatalsociety.ac.uk
@@ -20828,6 +20853,7 @@ domain:newstarnet.com
 domain:newstatesman.com
 domain:newsukadops.com
 domain:newsupermariobrosu.com
+domain:newswav.com
 domain:newsweek.com
 domain:newsxtend.com.au
 domain:newtaiwan.com.tw
@@ -21384,6 +21410,7 @@ domain:npsc.ac.uk
 domain:nptc.ac.uk
 domain:nptcgroup.ac.uk
 domain:nptsibinbank.com
+domain:nqu.edu.tw
 domain:nradio.me
 domain:nrc.ac.uk
 domain:nrc.ca
@@ -22820,6 +22847,7 @@ domain:perplexity.ai
 domain:perplexity.com
 domain:persagg.com
 domain:persecutionblog.com
+domain:persgroep.net
 domain:pershore.ac.uk
 domain:persianepochtimes.com
 domain:persiankitty.com
@@ -22911,6 +22939,7 @@ domain:pickereurope.ac.uk
 domain:pickering.ac.uk
 domain:pickinguppussy.com
 domain:picknicekicks.net
+domain:pickpackapp.com
 domain:pickshoesclothes.com
 domain:picnik.com
 domain:picpost.com
@@ -22929,6 +22958,7 @@ domain:pifpafarabia.com
 domain:pigav.com
 domain:piirus.ac.uk
 domain:pikabu.monster
+domain:pikpak.io
 domain:pikpak.me
 domain:pikpakdrive.com
 domain:pilgrimageandcathedrals.ac.uk
@@ -23244,6 +23274,7 @@ domain:popvote.hk
 domain:popxi.click
 domain:popyard.com
 domain:popyard.org
+domain:popyard.space
 domain:porcore.com
 domain:poringa.net
 domain:porkahd.co
@@ -24326,6 +24357,7 @@ domain:raw.fastgit.org
 domain:raw.githack.com
 domain:rawgit.com
 domain:rawgithub.com
+domain:rawstory.com
 domain:raxcdn.com
 domain:razer.com
 domain:razerofficial.com
@@ -24799,6 +24831,7 @@ domain:roboforex.com
 domain:roborecall.com
 domain:robotoffice.com
 domain:robustnessiskey.com
+domain:roc-taiwan.org
 domain:rochdalesfc.ac.uk
 domain:rocket-inc.net
 domain:rocket.chat
@@ -24886,6 +24919,7 @@ domain:rpmfusion.org
 domain:rprimelab.com
 domain:rps.ac.uk
 domain:rqbank.ir
+domain:rri.ro
 domain:rrl28.buzz
 domain:rrs1.xyz
 domain:rrtis.com
@@ -25549,6 +25583,7 @@ domain:search.com
 domain:search.xxx
 domain:search.yahoo.co.jp
 domain:search25.ac.uk
+domain:searchapi.culture.tw
 domain:searchtruth.com
 domain:searx.me
 domain:seas.ac.uk
@@ -25597,6 +25632,7 @@ domain:seevic-college.ac.uk
 domain:seevic.ac.uk
 domain:seevpn.com
 domain:seezone.net
+domain:sef.org.tw
 domain:sefton-acl.ac.uk
 domain:sefton.ac.uk
 domain:segment.com
@@ -26267,6 +26303,7 @@ domain:sinomontreal.ca
 domain:sinonet.ca
 domain:sinopitt.info
 domain:sinoquebec.com
+domain:sinovision.net
 domain:sinto.ac.uk
 domain:sip.ac.uk
 domain:sipher.ac.uk
@@ -26347,6 +26384,7 @@ domain:skyassets.com
 domain:skybet.com
 domain:skyking.com.tw
 domain:skykiwi.com
+domain:skylinktv.us
 domain:skymansion.net
 domain:skymatter.com
 domain:skynet.be
@@ -26540,6 +26578,7 @@ domain:social.edu.ci
 domain:socialblade.com
 domain:socialcam.com
 domain:socialcammail.com
+domain:socialism.hk
 domain:socialkam.com
 domain:socialmediagirls.com
 domain:socialpolicy.ac.uk
@@ -26764,6 +26803,7 @@ domain:soundofhope.org
 domain:soundon.fm
 domain:soundsoftware.ac.uk
 domain:soundwell.ac.uk
+domain:soup-dev.com
 domain:soup.io
 domain:soupofmedia.com
 domain:source.ac.uk
@@ -27362,6 +27402,7 @@ domain:stpadarns.ac.uk
 domain:straightouttasomewhere.com
 domain:straightpornstuds.com
 domain:straitstimes.com
+domain:straitstimes.com.sg
 domain:stran.ac.uk
 domain:stranabg.com
 domain:straplessdildo.com
@@ -27838,11 +27879,13 @@ domain:taipeitimes.com
 domain:taisounds.com
 domain:tait.ac.uk
 domain:taiwan-sex.com
+domain:taiwan.net.tw
 domain:taiwanadultexpo.com
 domain:taiwanbible.com
 domain:taiwancon.com
 domain:taiwandaily.net
 domain:taiwandc.org
+domain:taiwanembassy.org
 domain:taiwanhot.net
 domain:taiwanjobs.gov.tw
 domain:taiwanjustice.com
@@ -27855,6 +27898,8 @@ domain:taiwanncf.org.tw
 domain:taiwannews.com.tw
 domain:taiwanonline.cc
 domain:taiwansex.tw
+domain:taiwanstay.net.tw
+domain:taiwantoday.tw
 domain:taiwantp.net
 domain:taiwantt.org.tw
 domain:taiwanus.net
@@ -27969,6 +28014,10 @@ domain:tcewf.org
 domain:tcg.ac.uk
 domain:tchrd.org
 domain:tcm.ac.uk
+domain:tcmb.culture.tw
+domain:tcmbdata.culture.tw
+domain:tcmbfile.culture.tw
+domain:tcmm.com.tw
 domain:tcnynj.org
 domain:tcpartnership.ac.uk
 domain:tcpspeed.co
@@ -28062,6 +28111,7 @@ domain:tegrazone.kr
 domain:tehrantimes.com
 domain:tejaratbank.ir
 domain:tel.ac.uk
+domain:teldap.tw
 domain:telebay.com
 domain:telecomspace.com
 domain:telega.one
@@ -28591,6 +28641,7 @@ domain:tidal.com
 domain:tidalhifi.com
 domain:tidelift.com
 domain:tiendabestbuy.com
+domain:tier.org.tw
 domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigervpn.com
@@ -28842,6 +28893,7 @@ domain:tortoisesvn.net
 domain:torvpn.com
 domain:tosh.comedycentral.com
 domain:tospo-keiba.jp
+domain:tospotify.com
 domain:totalmateria.com
 domain:totalvpn.com
 domain:totoleak.com
@@ -29066,6 +29118,7 @@ domain:tspline.com
 domain:tsplines.com
 domain:tsquare.tv
 domain:tsrc.ac.uk
+domain:tssdnews.com.tw
 domain:tssp.best
 domain:tsthai.com
 domain:tsu.org.tw
@@ -29233,6 +29286,7 @@ domain:tvnaviweb.jp
 domain:tvof.ac.uk
 domain:tvplayvideos.com
 domain:tvpromise.com
+domain:tvr.ro
 domain:tvu.ac.uk
 domain:tvunetworks.com
 domain:tw-blog.com
@@ -29850,6 +29904,7 @@ domain:usa-beatsbydreheadphonesonsale.net
 domain:usablepast.ac.uk
 domain:usacn.com
 domain:usaco.org
+domain:usagm.gov
 domain:usaip.eu
 domain:usatoday.com
 domain:usatodaynetworkservice.com
@@ -30299,7 +30354,6 @@ domain:video.aol.ca
 domain:video.aol.co.uk
 domain:video.aol.com
 domain:video.foxbusiness.com
-domain:video.pbs.org
 domain:video01.org
 domain:videoactive.ac.uk
 domain:videobam.com
@@ -30877,6 +30931,7 @@ domain:volvotrucks.uy
 domain:vomitkings.com
 domain:vortexmachining.com
 domain:vot.org
+domain:votetw.com
 domain:votolia.com
 domain:vovo2000.com
 domain:vows.ac.uk
@@ -31248,6 +31303,7 @@ domain:wefightcensorship.org
 domain:wefong.com
 domain:wego.here.com
 domain:weiboleak.com
+domain:weights.com
 domain:weihuo.org
 domain:weijingsheng.org
 domain:weimi180.com
@@ -32193,6 +32249,7 @@ domain:xlstudio.com
 domain:xlydh.cc
 domain:xm.com
 domain:xmalay.com
+domain:xmart.tw
 domain:xmas.ac.uk
 domain:xmat.ac.uk
 domain:xmature.su
@@ -32798,6 +32855,7 @@ domain:yazhouse8.com
 domain:ycc.ac.uk
 domain:ycoastco.ac.uk
 domain:ycombinator.com
+domain:ycrc.com.tw
 domain:ycuc.ac.uk
 domain:ycw.ac.uk
 domain:ydds.ac.uk
