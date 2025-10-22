@@ -23863,6 +23863,7 @@ domain:cn-zhongrui.com
 domain:cn.bing.com
 domain:cn.bing.net
 domain:cn.download.nvidia.com
+domain:cn.eset.com
 domain:cn.mm.bing.net
 domain:cn.net
 domain:cn.online.standardchartered.com
@@ -59794,8 +59795,6 @@ domain:kashen8.com
 domain:kashengauto.com
 domain:kasitesoft.com
 domain:kaslyju.com
-domain:kaspersky-labs.com
-domain:kaspersky.com
 domain:kasscloud.com
 domain:kataliya.net
 domain:kate-kanebo.net

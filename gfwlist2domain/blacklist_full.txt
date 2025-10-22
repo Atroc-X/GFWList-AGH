@@ -1556,6 +1556,7 @@ domain:alphabet.uk
 domain:alphabet.us
 domain:alphabetfinance.net
 domain:alphaporno.com
+domain:alphaxiv.org
 domain:alphera-finance.co.in
 domain:alphera-finance.com.hk
 domain:alphera-finance.in
@@ -1856,6 +1857,10 @@ domain:androidpolice.com
 domain:androidtv.com
 domain:andygod.com
 domain:andysparis.com
+domain:anexia-engine.com
+domain:anexia-it.com
+domain:anexia.at
+domain:anexia.com
 domain:anfutong.com
 domain:angel-gto.com
 domain:angel.ac.uk
@@ -2969,6 +2974,7 @@ domain:av6k.com
 domain:av6k.vip
 domain:avaaz.org
 domain:avant.ac.uk
+domain:avast.com
 domain:avatara.com
 domain:avatargarenanow-a.akamaihd.net
 domain:avbebe.com
@@ -3002,6 +3008,7 @@ domain:avhu.com
 domain:avidemux.org
 domain:avinetworks.com
 domain:avinin.com
+domain:avira.com
 domain:avizoon.site
 domain:avizoone.com
 domain:avjb.com
@@ -4210,6 +4217,7 @@ domain:bitchute.com
 domain:bitcoin.org
 domain:bitcointalk.org
 domain:bitcoinworld.com
+domain:bitdefender.com
 domain:bite.ac.uk
 domain:bitfinex.com
 domain:bitflyer.com
@@ -6737,6 +6745,7 @@ domain:clackmannan-college.ac.uk
 domain:clacks.ac.uk
 domain:clacton.ac.uk
 domain:clad.ac.uk
+domain:clamwin.com
 domain:clannad-movie.jp
 domain:claravenger.com
 domain:clarendon.ac.uk
@@ -9366,6 +9375,7 @@ domain:e-zone.com.hk
 domain:e122475.dscg.akamaiedge.net
 domain:e123.hk
 domain:e3an.ac.uk
+domain:e5.sk
 domain:e621.net
 domain:ea-anz-press.com
 domain:ea.com
@@ -10043,6 +10053,7 @@ domain:enveast.ac.uk
 domain:environment-health.ac.uk
 domain:epa.gov.tw
 domain:epac.to
+domain:epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 domain:epc.ac.uk
 domain:epic.ac.uk
 domain:epic.network
@@ -10251,6 +10262,12 @@ domain:esdi.ac.uk
 domain:esds.ac.uk
 domain:ese.ac.uk
 domain:eselondon.ac.uk
+domain:eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+domain:eset.com
+domain:eset.eu
+domain:eset.sk
+domain:eset.systems
+domain:esetsoftware.com
 domain:esg.ac.uk
 domain:esg.t91y.com
 domain:eshcru.ac.uk
@@ -10482,6 +10499,7 @@ domain:f-boro-sfc.ac.uk
 domain:f-dro1d.org
 domain:f-droid.com
 domain:f-droid.org
+domain:f-secure.com
 domain:f2pool.com
 domain:f3b7q2p3.ssl.hwcdn.net
 domain:f5.si
@@ -11159,6 +11177,7 @@ domain:fifastreet.com
 domain:fifastreet3.com
 domain:fife.ac.uk
 domain:fifeglen.ac.uk
+domain:fifthns.com
 domain:fiftythree.com
 domain:fightforux.com
 domain:figma.com
@@ -11325,6 +11344,7 @@ domain:firstasianpussy.com
 domain:firstchancesfife.ac.uk
 domain:firstfivefollowers.com
 domain:firstgynexam.com
+domain:firstns.cc
 domain:firstory.me
 domain:firstpelvicexam.com
 domain:firstpost.com
@@ -11520,6 +11540,7 @@ domain:foundationyear.ac.uk
 domain:fountmedia.io
 domain:fourface.nodesnoop.com
 domain:fourthinternational.org
+domain:fourthns.systems
 domain:fox-corporation.com
 domain:fox-news.com
 domain:fox.com
@@ -14309,6 +14330,7 @@ domain:hotbeatsonsale.com
 domain:hotbed.ac.uk
 domain:hotcandyland.com
 domain:hotcool.tw
+domain:hotcrp.com
 domain:hotcuckoldwife.com
 domain:hotcumporn.com
 domain:hotels.cn
@@ -16829,6 +16851,7 @@ domain:karmapa-teachings.org
 domain:karmapa.org
 domain:karupsha.com
 domain:karupspc.com
+domain:kaspersky.com
 domain:kastatic.org
 domain:kat.cr
 domain:katestube.com
@@ -18667,6 +18690,7 @@ domain:mc6.ac.uk
 domain:mca.ac.uk
 domain:mcadforums.com
 domain:mcaf.ee
+domain:mcafee.com
 domain:mcb.com.mm
 domain:mcc.ac.uk
 domain:mcd-holdings.co.jp
@@ -21334,6 +21358,7 @@ domain:northtrafford.ac.uk
 domain:northumberland-acl.ac.uk
 domain:northumberland.ac.uk
 domain:northumbria.ac.uk
+domain:norton.com
 domain:norwichresearchpark.ac.uk
 domain:nos.nl
 domain:notary-submissions-prod.s3-accelerate.amazonaws.com
@@ -22098,6 +22123,7 @@ domain:openlibrary.org
 domain:openmaps.org
 domain:openreality.com
 domain:openresty.org
+domain:openreview.net
 domain:openrouter.ai
 domain:opensciencelab.ac.uk
 domain:opensciencelaboratory.ac.uk
@@ -22424,6 +22450,7 @@ domain:pandamovies.pw
 domain:pandanet-igs.com
 domain:pandapow.co
 domain:pandapow.net
+domain:pandasecurity.com
 domain:pandavpn-jp.com
 domain:pandavpnpro.com
 domain:pandora.com
@@ -25594,6 +25621,7 @@ domain:secom.co.jp
 domain:secomtrust.net
 domain:second-ns.com
 domain:second-ns.de
+domain:secondns.at
 domain:secret-flirt-hub.com
 domain:secretbabes.co.uk
 domain:secretchina.com
@@ -26216,6 +26244,7 @@ domain:sie.ac.uk
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
 domain:sifa.ac.uk
+domain:sigcomm.org
 domain:sigma-cetl.ac.uk
 domain:sigma-network.ac.uk
 domain:sigmoidoscopeexam.com
@@ -26231,6 +26260,7 @@ domain:signalbar.com
 domain:signalprocessingsociety.org
 domain:signalr.net
 domain:signalusers.org
+domain:sigops.org
 domain:sihe.ac.uk
 domain:sijihuisuo.club
 domain:sijihuisuo.com
@@ -28472,6 +28502,7 @@ domain:thinkquarterly.com
 domain:thinkwales.ac.uk
 domain:thinkwithgoogle.com
 domain:thirdmill.org
+domain:thirdns.de
 domain:thisav.com
 domain:thisav.org
 domain:thisismoney.co.uk
@@ -29917,6 +29948,7 @@ domain:use.typekit.net
 domain:usefreevpn.com
 domain:uselessjunk.com
 domain:usembassy.gov
+domain:usenix.org
 domain:useplannr.com
 domain:userapi.com
 domain:usercontent.dev

@@ -59199,8 +59199,6 @@ domain:kashen8.com
 domain:kashengauto.com
 domain:kasitesoft.com
 domain:kaslyju.com
-domain:kaspersky-labs.com
-domain:kaspersky.com
 domain:kasscloud.com
 domain:kataliya.net
 domain:kate-kanebo.net

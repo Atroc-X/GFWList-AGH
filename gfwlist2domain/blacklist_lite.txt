@@ -1269,6 +1269,7 @@ domain:alphabet.uk
 domain:alphabet.us
 domain:alphabetfinance.net
 domain:alphaporno.com
+domain:alphaxiv.org
 domain:alphera-finance.in
 domain:alphera.ca
 domain:alphera.com
@@ -1507,6 +1508,10 @@ domain:androidpolice.com
 domain:androidtv.com
 domain:andygod.com
 domain:andysparis.com
+domain:anexia-engine.com
+domain:anexia-it.com
+domain:anexia.at
+domain:anexia.com
 domain:anfutong.com
 domain:angel-gto.com
 domain:angela-merkel.de
@@ -2323,6 +2328,7 @@ domain:av69.us
 domain:av6k.com
 domain:av6k.vip
 domain:avaaz.org
+domain:avast.com
 domain:avatara.com
 domain:avbebe.com
 domain:avbody.tv
@@ -2355,6 +2361,7 @@ domain:avhu.com
 domain:avidemux.org
 domain:avinetworks.com
 domain:avinin.com
+domain:avira.com
 domain:avizoon.site
 domain:avizoone.com
 domain:avjb.com
@@ -3304,6 +3311,7 @@ domain:bitchute.com
 domain:bitcoin.org
 domain:bitcointalk.org
 domain:bitcoinworld.com
+domain:bitdefender.com
 domain:bitfinex.com
 domain:bitflyer.com
 domain:bitflyer.jp
@@ -5018,6 +5026,7 @@ domain:ckcdn.com
 domain:ckck.fun
 domain:ckss98.com
 domain:cl.ly
+domain:clamwin.com
 domain:clannad-movie.jp
 domain:claravenger.com
 domain:clarionproject.org
@@ -6877,6 +6886,7 @@ domain:e-szigno.hu
 domain:e-traderland.net
 domain:e-tugra.com
 domain:e123.hk
+domain:e5.sk
 domain:e621.net
 domain:ea-anz-press.com
 domain:ea.com
@@ -7454,6 +7464,10 @@ domain:escortamsterdam1.com
 domain:escortdude.com
 domain:escortgirls.be
 domain:escortrankings.uk
+domain:eset.eu
+domain:eset.sk
+domain:eset.systems
+domain:esetsoftware.com
 domain:eskimotube.com
 domain:eslite.com
 domain:esm.run
@@ -7601,6 +7615,7 @@ domain:ezua.com
 domain:f-dro1d.org
 domain:f-droid.com
 domain:f-droid.org
+domain:f-secure.com
 domain:f2pool.com
 domain:f5.si
 domain:f5pf.com
@@ -8202,6 +8217,7 @@ domain:ficeboock.com
 domain:fictionmania.tv
 domain:fifastreet.com
 domain:fifastreet3.com
+domain:fifthns.com
 domain:fiftythree.com
 domain:fightforux.com
 domain:figma.com
@@ -8322,6 +8338,7 @@ domain:firstanalvideos.com
 domain:firstasianpussy.com
 domain:firstfivefollowers.com
 domain:firstgynexam.com
+domain:firstns.cc
 domain:firstory.me
 domain:firstpelvicexam.com
 domain:firstpost.com
@@ -8479,6 +8496,7 @@ domain:fotoscaserasx.com
 domain:foundationdb.org
 domain:fountmedia.io
 domain:fourthinternational.org
+domain:fourthns.systems
 domain:fox-corporation.com
 domain:fox-news.com
 domain:fox.com
@@ -10582,6 +10600,7 @@ domain:hotbak.net
 domain:hotbeatsonsale.com
 domain:hotcandyland.com
 domain:hotcool.tw
+domain:hotcrp.com
 domain:hotcuckoldwife.com
 domain:hotcumporn.com
 domain:hotels.cn
@@ -13774,6 +13793,7 @@ domain:mbeats-tech.com
 domain:mbheadphone.com
 domain:mcadforums.com
 domain:mcaf.ee
+domain:mcafee.com
 domain:mcd.com
 domain:mcdindia.com
 domain:mcdindonesia.com
@@ -15696,6 +15716,7 @@ domain:nordstromrack.com
 domain:nordvpn.com
 domain:noroutetohost.net
 domain:norsk.mobi
+domain:norton.com
 domain:nos.nl
 domain:note.com
 domain:notepad-plus-plus.org
@@ -16188,6 +16209,7 @@ domain:openlibrary.org
 domain:openmaps.org
 domain:openreality.com
 domain:openresty.org
+domain:openreview.net
 domain:openrouter.ai
 domain:opensea.io
 domain:opensource.google
@@ -16419,6 +16441,7 @@ domain:pandamovies.pw
 domain:pandanet-igs.com
 domain:pandapow.co
 domain:pandapow.net
+domain:pandasecurity.com
 domain:pandavpn-jp.com
 domain:pandavpnpro.com
 domain:pandora.com
@@ -18659,6 +18682,7 @@ domain:seattlefdc.com
 domain:secomtrust.net
 domain:second-ns.com
 domain:second-ns.de
+domain:secondns.at
 domain:secret-flirt-hub.com
 domain:secretchina.com
 domain:secretgarden.no
@@ -19154,6 +19178,7 @@ domain:sidelinesnews.com
 domain:sidelinessportseatery.com
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
+domain:sigcomm.org
 domain:sigmoidoscopeexam.com
 domain:sign.new
 domain:signal.art
@@ -19166,6 +19191,7 @@ domain:signalbar.com
 domain:signalprocessingsociety.org
 domain:signalr.net
 domain:signalusers.org
+domain:sigops.org
 domain:sijihuisuo.club
 domain:sijihuisuo.com
 domain:sikiswap.com
@@ -20666,6 +20692,7 @@ domain:thinkofliving.com
 domain:thinkquarterly.com
 domain:thinkwithgoogle.com
 domain:thirdmill.org
+domain:thirdns.de
 domain:thisav.com
 domain:thisav.org
 domain:thisispolaris.com
@@ -21642,6 +21669,7 @@ domain:uscnpm.org
 domain:usefreevpn.com
 domain:uselessjunk.com
 domain:usembassy.gov
+domain:usenix.org
 domain:useplannr.com
 domain:userapi.com
 domain:usercontent.dev
