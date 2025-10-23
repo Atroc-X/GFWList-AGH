@@ -6125,6 +6125,7 @@ domain:deviantart.net
 domain:deviantclip.com
 domain:device-manager.us
 domain:devilsfilm.com
+domain:devin.ai
 domain:devio.us
 domain:devm2m.com
 domain:devopsassessment.net
@@ -6485,6 +6486,7 @@ domain:docker.io
 domain:dockerhub.com
 domain:dockerizer.com
 domain:dockerstatic.com
+domain:dockerstatus.com
 domain:docleradn.com
 domain:doclercdn.com
 domain:docs.com
@@ -8824,6 +8826,7 @@ domain:freezhihu.org
 domain:freieporno.com
 domain:freindfeed.com
 domain:frescolib.org
+domain:freshchat.com
 domain:freshporno.net
 domain:freshscat.com
 domain:freudbox.com
@@ -12725,6 +12728,7 @@ domain:kinkyfamily.com
 domain:kinkypeepz.com
 domain:kinmen.travel
 domain:kinokuniya.com
+domain:kinopoisk.ru
 domain:kir.jp
 domain:kir2kos.net
 domain:kirbysepicyarn.com
@@ -15286,6 +15290,7 @@ domain:netflixdnstest8.com
 domain:netflixdnstest9.com
 domain:netflixinvestor.com
 domain:netflixtechblog.com
+domain:netherrealm.com
 domain:netlify.app
 domain:netlify.com
 domain:netlifystatus.com
@@ -19959,6 +19964,7 @@ domain:stoweboyd.com
 domain:straightouttasomewhere.com
 domain:straightpornstuds.com
 domain:straitstimes.com
+domain:straitsx.com
 domain:stranabg.com
 domain:straplessdildo.com
 domain:stream-mydirtyhobby.biz
@@ -20620,6 +20626,7 @@ domain:thepervs.com
 domain:thepiratebay.ee
 domain:thepiratebay.org
 domain:theplatform.com
+domain:thepoizon.ru
 domain:theporn.cc
 domain:thepornarea.com
 domain:thepornbest.com
@@ -22616,6 +22623,7 @@ domain:warddogs.com
 domain:warehouse333.com
 domain:wariolandshakeit.com
 domain:wariowarediy.com
+domain:warnerbrosgames.com
 domain:warnermediacdn.com
 domain:warp.plus
 domain:warroom.org
@@ -22655,9 +22663,12 @@ domain:wawatv.net
 domain:waybig.com
 domain:waymo.com
 domain:waze.com
+domain:wbagora.com
 domain:wballiance.com
 domain:wbd.ms
 domain:wbdnbo.net
+domain:wbgames.com
+domain:wbinsights.com
 domain:wbvm4s.com
 domain:wd.bible
 domain:wd.com
