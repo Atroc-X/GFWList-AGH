@@ -20157,6 +20157,7 @@ domain:ceydz.com
 domain:ceyice.net
 domain:ceyige.com
 domain:cezhu.net
+domain:cf-china.info
 domain:cf-ns.com
 domain:cf-ns.net
 domain:cf-ns.site
@@ -28696,7 +28697,6 @@ domain:deepermobile.com
 domain:deepfast.com
 domain:deepin-ai.com
 domain:deepin.com
-domain:deepin.io
 domain:deepin.org
 domain:deepinghost.com
 domain:deepinmind.com
@@ -63886,6 +63886,7 @@ domain:lingla.com
 domain:linglingkaimen.com
 domain:linglingmo.site
 domain:linglong.dev
+domain:linglong.space
 domain:linglongart.com
 domain:linglonglife.com
 domain:linglongtech.com
