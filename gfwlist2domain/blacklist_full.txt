@@ -13397,6 +13397,7 @@ domain:gyutto.com
 domain:gzm.tv
 domain:gzone-anime.info
 domain:h-cdn.com
+domain:h-chan.me
 domain:h-china.org
 domain:h-comic.com
 domain:h-doujinshi.xyz
@@ -13768,6 +13769,8 @@ domain:henshaws.ac.uk
 domain:hentai-ani.me
 domain:hentai-archive.com
 domain:hentai-books.com
+domain:hentai-chan.com
+domain:hentai-chan.live
 domain:hentai-cosplays.com
 domain:hentai-covers.site
 domain:hentai-eroanime.net
@@ -13813,6 +13816,8 @@ domain:hentaibaka.one
 domain:hentaibar.com
 domain:hentaiblue.com
 domain:hentaibros.com
+domain:hentaichan.live
+domain:hentaichan.me
 domain:hentaicity.com
 domain:hentaicloud.com
 domain:hentaiclub.net
@@ -15371,6 +15376,7 @@ domain:imgcrl.org
 domain:imgix.com
 domain:imgix.net
 domain:imgmega.com
+domain:imgschan.xyz
 domain:imgsmail.ru
 domain:imgur.com
 domain:imgur.io
@@ -31156,6 +31162,7 @@ domain:w-mt.co
 domain:w.idaiwan.com
 domain:w.org
 domain:w.wiki
+domain:w0512.com
 domain:w3.org
 domain:w3s.link
 domain:w3schools.com
