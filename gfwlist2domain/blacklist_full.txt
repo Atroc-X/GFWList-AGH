@@ -8083,6 +8083,7 @@ domain:deepdiscount.com
 domain:deeper.com
 domain:deepfake-porn.com
 domain:deepfakeporn.net
+domain:deepflood.com
 domain:deepfreeze.co.uk
 domain:deepfreeze.com
 domain:deepfreeze.com.br
@@ -32501,6 +32502,7 @@ domain:xsela.cc
 domain:xshaker.net
 domain:xshr.online
 domain:xsijishe.com
+domain:xsijishe.net
 domain:xskywalker.com
 domain:xskywalker.net
 domain:xslist.org
