@@ -16659,6 +16659,7 @@ domain:joinmastodon.org
 domain:joinpeertube.org
 domain:joins.com
 domain:joinside.org
+domain:joinsquad.com
 domain:joinup.ac.uk
 domain:jokerlu-go.buzz
 domain:jokerlu.asia
@@ -21916,6 +21917,8 @@ domain:officialheadphone.com
 domain:offresspecialesbmw.ca
 domain:offrezdesipods.com
 domain:offshorerenewables.ac.uk
+domain:offworldindustries.com
+domain:offworldindustries.net
 domain:ofile.org
 domain:ofs.ac.uk
 domain:ogakikyoritsu.co.jp
