@@ -639,6 +639,7 @@ domain:aalah.me
 domain:aamacau.com
 domain:aanaan.com
 domain:aapl.tw
+domain:aastocks.com
 domain:aave.com
 domain:aavs.xyz
 domain:abbywintersfree.com
@@ -4910,6 +4911,7 @@ domain:chromecast.com
 domain:chromeenterprise.google
 domain:chromeexperiments.com
 domain:chromeos.dev
+domain:chromeos.google
 domain:chromercise.com
 domain:chromestatus.com
 domain:chronicle.security
@@ -9202,6 +9204,7 @@ domain:gelbooru.me
 domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
+domain:gemini.google
 domain:gen.tr
 domain:gendai.net
 domain:generated.photos
@@ -9568,6 +9571,7 @@ domain:goodsdunk.net
 domain:goodsexporn.org
 domain:goodsrv.de
 domain:goodtv.tv
+domain:goody25.com
 domain:goofind.com
 domain:googel.com
 domain:googel.de
@@ -10123,6 +10127,7 @@ domain:headphonesretailer.com
 domain:headphonessupply.com
 domain:headphonezip.com
 domain:headset987.com
+domain:health.google
 domain:health026.click
 domain:healthcarecareeronline.com
 domain:healthreach.hk
@@ -10478,6 +10483,7 @@ domain:hkjc.com
 domain:hkjp.org
 domain:hklft.com
 domain:hkmap.live
+domain:hkong.hk
 domain:hkopentv.com
 domain:hkpeanut.com
 domain:hkporn.net
@@ -15754,6 +15760,7 @@ domain:norsk.mobi
 domain:norton.com
 domain:nos.nl
 domain:note.com
+domain:notebooklm.google
 domain:notepad-plus-plus.org
 domain:notion-static.com
 domain:notion.com
@@ -17029,6 +17036,7 @@ domain:platinumlinks.org
 domain:play-asia.com
 domain:play-bmm.shop
 domain:play-bmmer.buzz
+domain:play.google
 domain:play4free.com
 domain:playapex.com
 domain:playartifact.com
@@ -19221,6 +19229,7 @@ domain:sibreal.org
 domain:siddharthasintent.org
 domain:sidelinesnews.com
 domain:sidelinessportseatery.com
+domain:sidewalklabs.com
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
 domain:sigcomm.org

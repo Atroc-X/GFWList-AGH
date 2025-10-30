@@ -688,6 +688,7 @@ domain:aamacau.com
 domain:aanaan.com
 domain:aapl.tw
 domain:aaschool.ac.uk
+domain:aastocks.com
 domain:aau.ac.uk
 domain:aave.com
 domain:aavs.xyz
@@ -6572,6 +6573,7 @@ domain:chromecast.com
 domain:chromeenterprise.google
 domain:chromeexperiments.com
 domain:chromeos.dev
+domain:chromeos.google
 domain:chromercise.com
 domain:chromestatus.com
 domain:chromium.org
@@ -12365,6 +12367,7 @@ domain:gem.ac.uk
 domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
+domain:gemini.google
 domain:gen.lib.rus.ec
 domain:gen.tr
 domain:gen2.ac.uk
@@ -12849,6 +12852,7 @@ domain:goodsexporn.org
 domain:goodsrv.de
 domain:goodtv.com.tw
 domain:goodtv.tv
+domain:goody25.com
 domain:goofind.com
 domain:googel.com
 domain:googel.de
@@ -13673,6 +13677,7 @@ domain:heads4-ak-spotify-com.akamaized.net
 domain:headset987.com
 domain:headteachers.ac.uk
 domain:health.ac.uk
+domain:health.google
 domain:health026.click
 domain:healthcare.ac.uk
 domain:healthcarecareeronline.com
@@ -14171,6 +14176,7 @@ domain:hkjp.org
 domain:hklft.com
 domain:hklts.org.hk
 domain:hkmap.live
+domain:hkong.hk
 domain:hkopentv.com
 domain:hkpeanut.com
 domain:hkporn.net
@@ -21402,6 +21408,7 @@ domain:nos.nl
 domain:notary-submissions-prod.s3-accelerate.amazonaws.com
 domain:notary-submissions-prod.s3.us-west-2.amazonaws.com
 domain:note.com
+domain:notebooklm.google
 domain:notepad-plus-plus.org
 domain:notify.dropboxapi.com
 domain:notify.ppy.sh
@@ -23181,6 +23188,7 @@ domain:play-asia.com
 domain:play-bmm.shop
 domain:play-bmmer.buzz
 domain:play-edge.itunes.apple.com
+domain:play.google
 domain:play4free.com
 domain:playapex.com
 domain:playartifact.com
@@ -26288,6 +26296,7 @@ domain:siddharthasintent.org
 domain:side.ac.uk
 domain:sidelinesnews.com
 domain:sidelinessportseatery.com
+domain:sidewalklabs.com
 domain:sie.ac.uk
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
@@ -27815,6 +27824,7 @@ domain:sweetsext.com
 domain:sweetsinner.com
 domain:swegold.com
 domain:sweltec.ac.uk
+domain:swiffy.co.za
 domain:swift.ac.uk
 domain:swift.org
 domain:swiftbank.info
