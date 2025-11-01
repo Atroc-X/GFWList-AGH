@@ -8768,6 +8768,7 @@ domain:dlhe.ac.uk
 domain:dlib.eastview.com
 domain:dlive.tv
 domain:dlmobilegarena-a.akamaihd.net
+domain:dln1.ncdn.ec
 domain:dls.ac.uk
 domain:dlsite.com
 domain:dlsite.com.tw
@@ -20552,6 +20553,7 @@ domain:nccc.ac.uk
 domain:ncccs.ac.uk
 domain:ncclondon.ac.uk
 domain:nccwatch.org.tw
+domain:ncdn.ec
 domain:ncdoncaster.ac.uk
 domain:nceo.ac.uk
 domain:ncess.ac.uk
@@ -28242,6 +28244,7 @@ domain:telri.ac.uk
 domain:temenos.ac.uk
 domain:temetube.xyz
 domain:tempusuk.ac.uk
+domain:temu.com
 domain:tenacy.com
 domain:tenbyfotolia.com
 domain:tencentcos.cn

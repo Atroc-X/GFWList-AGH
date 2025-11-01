@@ -15223,6 +15223,7 @@ domain:nbtvpn.com
 domain:nbys.tv
 domain:nbys1.tv
 domain:nbyy.tv
+domain:ncdn.ec
 domain:nchrd.org
 domain:ncloud.com
 domain:ncn.org
@@ -20513,6 +20514,7 @@ domain:tellapart.com
 domain:tellme.pw
 domain:tellmewhygame.com
 domain:temetube.xyz
+domain:temu.com
 domain:tenacy.com
 domain:tenbyfotolia.com
 domain:tencentcos.cn

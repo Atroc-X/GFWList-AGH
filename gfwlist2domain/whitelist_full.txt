@@ -114548,6 +114548,7 @@ domain:zhuanhuamao.com
 domain:zhuanhuanqi.com
 domain:zhuanhuanqi.net
 domain:zhuaniao.com
+domain:zhuaninc.com
 domain:zhuankeapp.com
 domain:zhuankebang.com
 domain:zhuankezu.com
