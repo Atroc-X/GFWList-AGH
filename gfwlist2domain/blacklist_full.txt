@@ -20874,7 +20874,6 @@ domain:news.msn.com.tw
 domain:news.mt.co.kr
 domain:news.nationalgeographic.com
 domain:news.net.au
-domain:news.now.com
 domain:news.seehua.com
 domain:news.sina.com.hk
 domain:news.sinchew.com.my
@@ -32275,7 +32274,6 @@ domain:xfantazy.com
 domain:xfemaledom.com
 domain:xfiles.to
 domain:xfinity.com
-domain:xfm.pp.ru
 domain:xfockers.com
 domain:xfreehd.com
 domain:xfuckonline.com
