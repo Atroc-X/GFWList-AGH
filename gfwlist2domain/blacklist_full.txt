@@ -11182,6 +11182,7 @@ domain:fi11av1.com
 domain:fi11tv1.com
 domain:fibank.bg
 domain:fibre-diffraction.ac.uk
+domain:ficbook.net
 domain:ficeboock.com
 domain:ficm.ac.uk
 domain:fictionmania.tv
@@ -12513,6 +12514,8 @@ domain:ggjav.com
 domain:ggoogle.com
 domain:ggpds.com
 domain:ggpht.com
+domain:ggsel.com
+domain:ggsel.net
 domain:ggsrv.com
 domain:ggssl.com
 domain:gh.io
@@ -19524,10 +19527,12 @@ domain:mirrorsedge2d.com
 domain:misa-prod.s3.ap-northeast-1.amazonaws.com
 domain:misoc.ac.uk
 domain:missav.ai
+domain:missav.app
 domain:missav.com
 domain:missav.uno
 domain:missav.vip
 domain:missav.ws
+domain:missav123.com
 domain:missendenabbey.ac.uk
 domain:misshotgirls.com
 domain:misskey-square.net
@@ -20424,6 +20429,7 @@ domain:namgyal.org
 domain:namgyalmonastery.org
 domain:namsisi.com
 domain:namss.ac.uk
+domain:namu.wiki
 domain:nan-net.com
 domain:nanhuyt.com
 domain:nanocmos.ac.uk
@@ -21290,6 +21296,7 @@ domain:nixos.org
 domain:niziero.info
 domain:njactb.org
 domain:njav.tv
+domain:njavtv.com
 domain:njncscotlandscolleges.ac.uk
 domain:njuice.com
 domain:nkc.ac.uk

@@ -8222,6 +8222,7 @@ domain:fhreports.net
 domain:fi11av1.com
 domain:fi11tv1.com
 domain:fibank.bg
+domain:ficbook.net
 domain:ficeboock.com
 domain:fictionmania.tv
 domain:fifastreet.com
@@ -9325,6 +9326,8 @@ domain:ggjav.com
 domain:ggoogle.com
 domain:ggpds.com
 domain:ggpht.com
+domain:ggsel.com
+domain:ggsel.net
 domain:ggsrv.com
 domain:ggssl.com
 domain:gh.io
@@ -14439,10 +14442,12 @@ domain:mirrorsedge.net
 domain:mirrorsedge2.com
 domain:mirrorsedge2d.com
 domain:missav.ai
+domain:missav.app
 domain:missav.com
 domain:missav.uno
 domain:missav.vip
 domain:missav.ws
+domain:missav123.com
 domain:misshotgirls.com
 domain:misskey-square.net
 domain:misskey.art
@@ -15152,6 +15157,7 @@ domain:namethatpornad.com
 domain:namgyal.org
 domain:namgyalmonastery.org
 domain:namsisi.com
+domain:namu.wiki
 domain:nan-net.com
 domain:nanhuyt.com
 domain:nanonamad.com
@@ -15712,6 +15718,7 @@ domain:nixos.org
 domain:niziero.info
 domain:njactb.org
 domain:njav.tv
+domain:njavtv.com
 domain:njuice.com
 domain:nke6.com
 domain:nlfreevpn.com
