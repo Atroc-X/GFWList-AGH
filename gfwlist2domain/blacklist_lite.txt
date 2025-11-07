@@ -676,6 +676,7 @@ domain:aboutfacebook.com
 domain:aboutgfw.com
 domain:aboutmcdonalds.com
 domain:aboutporno.net
+domain:aboutschwab.com
 domain:aboutyourmini.com
 domain:abow.jp
 domain:abpchina.org
@@ -3348,6 +3349,7 @@ domain:bjs.org
 domain:bjzc.org
 domain:bkkdown.site
 domain:bkrtx.com
+domain:bktai.com
 domain:bl-doujinsouko.com
 domain:blackamateurfuck.com
 domain:blackamateursvideos.com
@@ -6524,6 +6526,7 @@ domain:dojinmanga.net
 domain:dojinwatch.com
 domain:dok-forum.net
 domain:dokusho-ojikan.jp
+domain:dola.com
 domain:dolc.de
 domain:dollarfotoclub.com
 domain:dollarphotoclub.com
@@ -7222,6 +7225,8 @@ domain:elephantlist.com
 domain:elephantsdream.org
 domain:elephanttube.com
 domain:elephanttubenew.com
+domain:elevenlabs.com
+domain:elevenlabs.io
 domain:elgaronline.com
 domain:elgoog.im
 domain:elifesciences.org
@@ -8381,6 +8386,7 @@ domain:fleek.co
 domain:fleshbot.com
 domain:fleshlyx.com
 domain:fleursdeslettres.com
+domain:flexclip.com
 domain:flexibits.com
 domain:flexpool.io
 domain:flexsig.com
@@ -8987,6 +8993,8 @@ domain:futanarihq.com
 domain:futhead.com
 domain:futoka.jp
 domain:futpromos.com
+domain:futuhk.com
+domain:futuholdings.com
 domain:futunited.com
 domain:futurechinaforum.org
 domain:futuremessage.org
@@ -17603,6 +17611,7 @@ domain:prastitutki.ru
 domain:prayforchina.net
 domain:prcleader.org
 domain:pre-bmwgroup.jobs
+domain:predb.me
 domain:predictivetechnologies.com
 domain:premeforwindows7.com
 domain:premium-beauty.com
@@ -18682,6 +18691,9 @@ domain:schema.org
 domain:schemer.com
 domain:schiffvitamins.com
 domain:scholarpedia.org
+domain:schwab.com
+domain:schwabassetmanagement.com
+domain:schwabplan.com
 domain:sci-hub.se
 domain:sci-hub.st
 domain:science.com
