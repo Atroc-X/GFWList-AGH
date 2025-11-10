@@ -7062,6 +7062,8 @@ domain:cof.ac.uk
 domain:cofacts.tw
 domain:coffeemanga.to
 domain:cogc.ac.uk
+domain:cohere.ai
+domain:cohere.com
 domain:coin2co.in
 domain:coinalyze.net
 domain:coinbase.com
