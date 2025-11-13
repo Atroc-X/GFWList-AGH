@@ -1132,6 +1132,8 @@ domain:afao.ac.uk
 domain:afappyending.com
 domain:afewmomentswith.com
 domain:affect3dstore.com
+domain:affinity.api.serifservices.com
+domain:affinity.studio
 domain:affirmtrust.com
 domain:afi.ac.uk
 domain:afkv28.com
@@ -3978,6 +3980,7 @@ domain:bg-call-donation-canary.goog
 domain:bg-call-donation-dev.goog
 domain:bg-call-donation.goog
 domain:bgc.ac.uk
+domain:bgicdn.com
 domain:bgm.tv
 domain:bgme.me
 domain:bgov.com
@@ -5836,6 +5839,7 @@ domain:canterbury.ac.uk
 domain:canterburycollege.ac.uk
 domain:canterburytrust.ac.uk
 domain:cantonese.asia
+domain:canva.com
 domain:canyu.org
 domain:cao.im
 domain:caobian.info
@@ -13097,6 +13101,7 @@ domain:googleartproject.com
 domain:googleblog.com
 domain:googlebot.com
 domain:googlecapital.com
+domain:googlecensorship.org
 domain:googlecert.net
 domain:googlechinawebmaster.com
 domain:googlecode.com
@@ -13269,6 +13274,7 @@ domain:greatermanchesterinternationalmedicalschool.ac.uk
 domain:greatermanchestermedicalschool.ac.uk
 domain:greatfire.org
 domain:greatfire.us7.list-manage.com
+domain:greatfirevpn.com
 domain:greatfirewall.biz
 domain:greatfirewallofchina.net
 domain:greatfirewallofchina.org
@@ -20715,6 +20721,7 @@ domain:neodaas.ac.uk
 domain:neoforged.net
 domain:neonatalsociety.ac.uk
 domain:neotokyo.supertop-100.com
+domain:neovim.io
 domain:neow.in
 domain:neowin.net
 domain:nepusoku.com
@@ -25838,6 +25845,7 @@ domain:serbiporno.net
 domain:serc.ac.uk
 domain:serena.ac.uk
 domain:serialssolutions.com
+domain:serifservices.com
 domain:serio.ac.uk
 domain:serl.ac.uk
 domain:serlucap.lol
@@ -33558,6 +33566,7 @@ domain:zeit.co
 domain:zeit.sh
 domain:zeitworld.com
 domain:zello.com
+domain:zen-browser.app
 domain:zen8ok.xyz
 domain:zencdn.net
 domain:zencoder.com

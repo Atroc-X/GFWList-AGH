@@ -939,6 +939,7 @@ domain:afantibbs.com
 domain:afappyending.com
 domain:afewmomentswith.com
 domain:affect3dstore.com
+domain:affinity.studio
 domain:affirmtrust.com
 domain:afkv28.com
 domain:aflamporn.com
@@ -3144,6 +3145,7 @@ domain:bg-call-donation-alpha.goog
 domain:bg-call-donation-canary.goog
 domain:bg-call-donation-dev.goog
 domain:bg-call-donation.goog
+domain:bgicdn.com
 domain:bgm.tv
 domain:bgme.me
 domain:bgov.com
@@ -4457,6 +4459,7 @@ domain:canonfoundation.org
 domain:canonical.com
 domain:canonproprinters.com
 domain:cantonese.asia
+domain:canva.com
 domain:canyu.org
 domain:cao.im
 domain:caobian.info
@@ -9727,6 +9730,7 @@ domain:googleartproject.com
 domain:googleblog.com
 domain:googlebot.com
 domain:googlecapital.com
+domain:googlecensorship.org
 domain:googlecert.net
 domain:googlechinawebmaster.com
 domain:googlecode.com
@@ -9852,6 +9856,7 @@ domain:great-firewall.com
 domain:great-roc.org
 domain:greatergothammini.com
 domain:greatfire.org
+domain:greatfirevpn.com
 domain:greatfirewall.biz
 domain:greatfirewallofchina.net
 domain:greatfirewallofchina.org
@@ -15309,6 +15314,7 @@ domain:nenitas.club
 domain:nentindo.net
 domain:neo-miracle.com
 domain:neoforged.net
+domain:neovim.io
 domain:neow.in
 domain:neowin.net
 domain:nepusoku.com
@@ -18844,6 +18850,7 @@ domain:ser7.cc
 domain:seraph.me
 domain:serbiporno.net
 domain:serialssolutions.com
+domain:serifservices.com
 domain:serlucap.lol
 domain:serlutv258.xyz
 domain:servebom.com
@@ -24366,6 +24373,7 @@ domain:zeit.co
 domain:zeit.sh
 domain:zeitworld.com
 domain:zello.com
+domain:zen-browser.app
 domain:zen8ok.xyz
 domain:zencdn.net
 domain:zencoder.com
