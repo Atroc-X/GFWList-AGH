@@ -540,6 +540,7 @@ domain:91-cg.com
 domain:91av.one
 domain:91avfuli.com
 domain:91beiyong.com
+domain:91cg1.com
 domain:91dasai.com
 domain:91dy.club
 domain:91fans.org
@@ -1610,6 +1611,7 @@ domain:aolnews.com
 domain:aomedia.org
 domain:aomiwang.com
 domain:aorus.com
+domain:aoxvpn.com
 domain:aoxx69.net
 domain:ap.org
 domain:ap0le.com
@@ -2447,6 +2449,7 @@ domain:awstrack.me
 domain:awstrust.com
 domain:awwcn.buzz
 domain:awwcn.xyz
+domain:awxcdn.com
 domain:axios.com
 domain:axureformac.com
 domain:ayabank.com
@@ -3123,6 +3126,7 @@ domain:bethesdagamestudios.com
 domain:bethsoft.com
 domain:betterbim.com
 domain:betterexplained.com
+domain:bettergpt.chat
 domain:betterhash.net
 domain:betterhdporn.com
 domain:betternet.co
@@ -4584,6 +4588,7 @@ domain:cccat.co
 domain:cccat.io
 domain:ccdtr.org
 domain:cchere.com
+domain:cchostvps.xyz
 domain:cciernslabs.com
 domain:cciesecuritylabs.com
 domain:ccievoicelabs.com
@@ -4717,6 +4722,7 @@ domain:chatgpt.com
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatnook.com
+domain:chatpdf.com
 domain:chatsex.xxx
 domain:chatter.com
 domain:chatterbate.io
@@ -5831,6 +5837,7 @@ domain:darknun.com
 domain:darksidemagazine.com
 domain:darktech.org
 domain:darktoy.net
+domain:darmau.co
 domain:darpa.mil
 domain:darrenliuwei.com
 domain:dart.dev
@@ -7326,6 +7333,7 @@ domain:englishforeveryone.org
 domain:englishpen.org
 domain:enjoyasianporn.com
 domain:enjoyfuck.com
+domain:enpass.io
 domain:enpirion.com
 domain:enspireformula.com
 domain:enteentegeh.de
@@ -8425,6 +8433,7 @@ domain:flow.dev
 domain:flow.org
 domain:flowfront.com
 domain:flowfront.net
+domain:flowgpt.com
 domain:flowhongkong.net
 domain:flowtype.org
 domain:fluffychat.im
@@ -8484,6 +8493,7 @@ domain:forbiddenasian.com
 domain:forbiddenmomsarchive.com
 domain:force.com
 domain:forduck.cyou
+domain:forefront.ai
 domain:foreignaffairs.com
 domain:foreignpolicy.com
 domain:forgecdn.net
@@ -11037,6 +11047,7 @@ domain:hybrid-analysis.com
 domain:hycgm1324.shop
 domain:hydrogenaud.io
 domain:hyper.is
+domain:hyperbeam.com
 domain:hyperdreams.com
 domain:hyperrate.com
 domain:hyperscan.io
@@ -12695,6 +12706,9 @@ domain:kechara.com
 domain:kechtube.com
 domain:keemail.me
 domain:keepandshare.com
+domain:keepass.info
+domain:keeper.io
+domain:keepersecurity.com
 domain:keepmovingwithmovefree.com
 domain:keepyourcad.com
 domain:keezmovies.com
@@ -12973,6 +12987,8 @@ domain:lasersawapp.com
 domain:last.fm
 domain:lastcombat.com
 domain:lastfm.es
+domain:lastpass.com
+domain:lastpass.eu
 domain:lasvegasbmw.com
 domain:latampartneruniversity.com
 domain:latamvmwareforum.com
@@ -13082,6 +13098,7 @@ domain:levyhsu.com
 domain:lewdthots.com
 domain:lewdvrgames.com
 domain:lewdweb.net
+domain:lexica.art
 domain:lexisnexis.com
 domain:lexuemei.com
 domain:lezpoo.com
@@ -13394,6 +13411,7 @@ domain:lowergiseries.com
 domain:lowiro.com
 domain:lp99.pw
 domain:lpsg.com
+domain:lputil.com
 domain:lqh0bon3.xyz
 domain:lqpjw.cyou
 domain:lrfdsoftware.com
@@ -18314,6 +18332,7 @@ domain:renovacionoffice.com
 domain:renovacionxboxlive.com
 domain:rentaride.com
 domain:rentaride.de
+domain:rentry.co
 domain:renyurenquan.org
 domain:renzhe.cloud
 domain:repe21.com
@@ -18417,6 +18436,7 @@ domain:road-crew.com
 domain:roadshow.hk
 domain:robobat.com
 domain:roboforex.com
+domain:roboform.com
 domain:roborecall.com
 domain:robotoffice.com
 domain:robustnessiskey.com
@@ -19550,6 +19570,7 @@ domain:snow.me
 domain:snowcorp.com
 domain:snowlionpub.com
 domain:snowmiku.com
+domain:sntp.uk
 domain:soasta-dswb.com
 domain:soav.com
 domain:sobees.com
@@ -20122,6 +20143,7 @@ domain:stripparadise.com
 domain:stripselector.com
 domain:stripskunk.com
 domain:stripst.com
+domain:strongboxsafe.com
 domain:strongvpn.com
 domain:strongwindpress.com
 domain:student.tw
@@ -20584,6 +20606,7 @@ domain:termius.com
 domain:termux.com
 domain:termux.dev
 domain:termux.org
+domain:terobox.com
 domain:terraform.io
 domain:terragraph.com
 domain:terrapeak.com
