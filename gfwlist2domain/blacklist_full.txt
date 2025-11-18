@@ -14936,6 +14936,7 @@ domain:i-scmp.com
 domain:i.111666.best
 domain:i.jeded.com
 domain:i.lithium.com
+domain:i.mij.rip
 domain:i.org
 domain:i1.hk
 domain:i234.me
@@ -19277,6 +19278,7 @@ domain:mihr.com
 domain:mihua.org
 domain:miitomo.com
 domain:miiverse.com
+domain:mij.rip
 domain:mikanani.me
 domain:mike.cz.cc
 domain:mikesoltys.com
@@ -19682,6 +19684,8 @@ domain:miyazakibank.co.jp
 domain:mizuhobank.co.jp
 domain:mizzmona.com
 domain:mjib.gov.tw
+domain:mjj.rip
+domain:mjj.today
 domain:mjlsh.usc.cuhk.edu.hk
 domain:mjv-art.org
 domain:mk.shrimpia.network

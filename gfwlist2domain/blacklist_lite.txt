@@ -14223,6 +14223,7 @@ domain:mihr.com
 domain:mihua.org
 domain:miitomo.com
 domain:miiverse.com
+domain:mij.rip
 domain:mikanani.me
 domain:mikesoltys.com
 domain:mikocon.com
@@ -14560,6 +14561,8 @@ domain:mixpod.com
 domain:mixvintagesex.com
 domain:mixx.com
 domain:mizzmona.com
+domain:mjj.rip
+domain:mjj.today
 domain:mjv-art.org
 domain:mk5000.com
 domain:mksa.top
