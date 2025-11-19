@@ -1215,6 +1215,7 @@ domain:ahxxx.club
 domain:ai-kan.net
 domain:ai-wen.net
 domain:ai.binwang.me
+domain:ai.dev
 domain:ai.google
 domain:ai.google.dev
 domain:ai.ls

@@ -998,6 +998,7 @@ domain:ahvideosexe.com
 domain:ahxxx.club
 domain:ai-kan.net
 domain:ai-wen.net
+domain:ai.dev
 domain:ai.google
 domain:ai.ls
 domain:ai7995.site
