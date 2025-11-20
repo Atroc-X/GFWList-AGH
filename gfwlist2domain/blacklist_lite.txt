@@ -1594,6 +1594,7 @@ domain:anthonycalzadilla.com
 domain:anthropic.com
 domain:anti1984.com
 domain:antichristendom.com
+domain:antigravity.google
 domain:antisocial.science
 domain:antiwave.net
 domain:antpool.com
@@ -4169,6 +4170,7 @@ domain:bugzilla.org
 domain:buhidoh.net
 domain:buicha.social
 domain:building3dcontent.com
+domain:built-in.google
 domain:builtfromebay.com
 domain:bukkake-jav.com
 domain:bukkake.link
@@ -5299,6 +5301,7 @@ domain:cointobe.com
 domain:coinut.com
 domain:coithienthai.com
 domain:coitustube.com
+domain:colab.google
 domain:colacloud.net
 domain:colegialasdeverdad.com
 domain:colegialasreales.com
@@ -5604,6 +5607,7 @@ domain:crececonebay.com
 domain:creditcardsbay.com
 domain:creditkarma.com
 domain:cricketcountry.com
+domain:crisisresponse.google
 domain:cristyli.com
 domain:crit-staging.com
 domain:critiquebrainz.org
@@ -6579,6 +6583,7 @@ domain:dontfilter.us
 domain:dontmovetochina.com
 domain:donttrack.us
 domain:doodhwali.com
+domain:doodles.google
 domain:doom.com
 domain:doom9.org
 domain:doosho.com
@@ -13065,6 +13070,7 @@ domain:leaksmodels.com
 domain:leakxxx.com
 domain:leancloud.com
 domain:leannecrowvideos.com
+domain:learning.google
 domain:learnwithleague.com
 domain:leavinghpinc.com
 domain:lecloud.net
@@ -13093,6 +13099,7 @@ domain:lencr.org
 domain:lenkino.xxx
 domain:lenporno.net
 domain:lenporno.red
+domain:lens.google
 domain:lenwhite.com
 domain:leorockwell.com
 domain:lepoint.fr
@@ -13164,6 +13171,7 @@ domain:libgen.me
 domain:libgen.rs
 domain:libgen.st
 domain:liboggirls.net
+domain:library-access.sk
 domain:library.lol
 domain:libraryinformationtechnology.com
 domain:librarylovefest.com
@@ -14562,6 +14570,7 @@ domain:mixpod.com
 domain:mixvintagesex.com
 domain:mixx.com
 domain:mizzmona.com
+domain:mji.rip
 domain:mjj.rip
 domain:mjj.today
 domain:mjv-art.org
@@ -17871,6 +17880,7 @@ domain:public-sex-porn.com
 domain:public-trust.com
 domain:publicagentxxx.com
 domain:publichealthdepartment.info
+domain:publicpolicy.google
 domain:publicpornvideo.com
 domain:publicsexhub.com
 domain:publishproxy.com
@@ -18838,6 +18848,7 @@ domain:seaofsolitude.com
 domain:seaporn.org
 domain:seapuff.com
 domain:search.com
+domain:search.google
 domain:search.xxx
 domain:searchtruth.com
 domain:searx.me
@@ -20297,6 +20308,7 @@ domain:suruga-ya.jp
 domain:sushi.com
 domain:sushi.ski
 domain:susiewildin.com
+domain:sustainability.google
 domain:sustainablebuildingstudio.com
 domain:sustainabledesigncouncil.com
 domain:sustainabledesigncouncil.net
@@ -21256,6 +21268,7 @@ domain:translate.goog
 domain:translatetheweb.com
 domain:translatewiki.net
 domain:translatewiki.org
+domain:transparency.google
 domain:transparency.org
 domain:transpornsites.com
 domain:travelcontroller.com
@@ -22766,6 +22779,7 @@ domain:wakwak.com
 domain:wal-mart.com
 domain:wal.co
 domain:wallet.com
+domain:wallet.google
 domain:walletconnect.com
 domain:wallhaven.cc
 domain:wallmama.com
@@ -23560,6 +23574,7 @@ domain:xn--7hv594h.com
 domain:xn--80aaazx1an0a.lol
 domain:xn--8uq428d76d.tokyo
 domain:xn--90wwvt03e.com
+domain:xn--9iqy04a7fi01l.com
 domain:xn--9kr7l.com
 domain:xn--9pr62r24a.com
 domain:xn--9trs65b.com
