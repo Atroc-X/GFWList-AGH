@@ -776,6 +776,7 @@ domain:addthisedge.com
 domain:addtoany.com
 domain:addyoutube.com
 domain:adelaidebbs.com
+domain:adfox.ru
 domain:adgoogle.net
 domain:adguard-dns.com
 domain:adguard-dns.io
@@ -806,6 +807,7 @@ domain:adidas.ru
 domain:adidas.se
 domain:adinst.com
 domain:admeld.com
+domain:admetrica.ru
 domain:adminforge.de
 domain:adobe-aemassets-value.com
 domain:adobe-audience-finder.com
@@ -10408,6 +10410,7 @@ domain:heywire.com
 domain:heyzo.com
 domain:hf-iphone.com
 domain:hf.co
+domain:hf.space
 domain:hg.cool
 domain:hgamefree.info
 domain:hgamer.pro
@@ -17010,6 +17013,7 @@ domain:picnik.com
 domain:picpost.com
 domain:pics.ee
 domain:pics.vc
+domain:picsart.com
 domain:picsee.co
 domain:picsee.pro
 domain:pictoa.com
@@ -22934,6 +22938,8 @@ domain:websnapr.com
 domain:webtoons.com
 domain:webtoonscorp.com
 domain:webtype.com
+domain:webvisor.com
+domain:webvisor.org
 domain:webwarper.net
 domain:webworkerdaily.com
 domain:wechatlawsuit.com
@@ -23907,6 +23913,7 @@ domain:yaburi.men
 domain:yaddal.tv
 domain:yadi.sk
 domain:yadori.club
+domain:yads.tech
 domain:yaeby.info
 domain:yaeby.pro
 domain:yahoo.ae
@@ -24010,6 +24017,7 @@ domain:yammer.com
 domain:yamoon.club
 domain:yande.re
 domain:yandex-bank.net
+domain:yandex-team.ru
 domain:yandex.aero
 domain:yandex.az
 domain:yandex.by
@@ -24039,6 +24047,7 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexmetrica.com
 domain:yandexwebcache.org
 domain:yangjianli.com
 domain:yangzhi.app
@@ -24053,6 +24062,7 @@ domain:yaptube.com
 domain:yarininsuyu.com
 domain:yarnpkg.com
 domain:yasarang.net
+domain:yastat.net
 domain:yastatic.net
 domain:yatong.info
 domain:yavtube.com

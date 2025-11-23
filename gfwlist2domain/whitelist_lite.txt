@@ -20761,6 +20761,7 @@ domain:cheonhyeong.com
 domain:cheoo.com
 domain:cheoz.com
 domain:cherentec.com
+domain:cheriexsky.love
 domain:cherry-ai.com
 domain:chervonauto.com
 domain:chervongroup.com

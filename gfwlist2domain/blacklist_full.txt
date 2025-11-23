@@ -922,6 +922,7 @@ domain:addyoutube.com
 domain:adelaidebbs.com
 domain:adelaidenow.com.au
 domain:adeptt.ac.uk
+domain:adfox.ru
 domain:adgoogle.net
 domain:adguard-dns.com
 domain:adguard-dns.io
@@ -958,6 +959,7 @@ domain:adinst.com
 domain:adlib.ac.uk
 domain:adls.ac.uk
 domain:admeld.com
+domain:admetrica.ru
 domain:admin.recaptcha.net
 domain:adminforge.de
 domain:admob.com
@@ -14060,6 +14062,7 @@ domain:heywire.com
 domain:heyzo.com
 domain:hf-iphone.com
 domain:hf.co
+domain:hf.space
 domain:hfaes.ac.uk
 domain:hfals.ac.uk
 domain:hfma.ac.uk
@@ -17187,6 +17190,7 @@ domain:kinkypeepz.com
 domain:kinmen.org.tw
 domain:kinmen.travel
 domain:kinokuniya.com
+domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
 domain:kir.jp
 domain:kir2kos.net
@@ -23158,6 +23162,7 @@ domain:picnik.com
 domain:picpost.com
 domain:pics.ee
 domain:pics.vc
+domain:picsart.com
 domain:picsee.co
 domain:picsee.pro
 domain:pictoa.com
@@ -31582,6 +31587,8 @@ domain:webster.ac.uk
 domain:webtoons.com
 domain:webtoonscorp.com
 domain:webtype.com
+domain:webvisor.com
+domain:webvisor.org
 domain:webwarper.net
 domain:webworkerdaily.com
 domain:wechatlawsuit.com
@@ -32916,6 +32923,7 @@ domain:yaburi.men
 domain:yaddal.tv
 domain:yadi.sk
 domain:yadori.club
+domain:yads.tech
 domain:yaeby.info
 domain:yaeby.pro
 domain:yahoo-news.com.hk
@@ -33089,6 +33097,7 @@ domain:yamoon.club
 domain:yande.re
 domain:yandex-bank.net
 domain:yandex-images.clstorage.net
+domain:yandex-team.ru
 domain:yandex.aero
 domain:yandex.az
 domain:yandex.by
@@ -33124,6 +33133,7 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexmetrica.com
 domain:yandexwebcache.org
 domain:yangjianli.com
 domain:yangzhi.app
@@ -33139,6 +33149,7 @@ domain:yarininsuyu.com
 domain:yarnpkg.com
 domain:yasarang.net
 domain:yasni.co.uk
+domain:yastat.net
 domain:yastatic.net
 domain:yasukuni.or.jp
 domain:yatong.info
