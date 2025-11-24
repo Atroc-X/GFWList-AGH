@@ -1216,6 +1216,7 @@ domain:ahua.ac.uk
 domain:ahvideosexe.com
 domain:ahxxx.club
 domain:ai-kan.net
+domain:ai-sdk.dev
 domain:ai-wen.net
 domain:ai.binwang.me
 domain:ai.dev
@@ -22410,6 +22411,7 @@ domain:origin.com
 domain:origin.tv
 domain:originalhulu.com
 domain:originalindianporn.com
+domain:originlab.com
 domain:orithegame.com
 domain:orkut.com
 domain:orl.ly

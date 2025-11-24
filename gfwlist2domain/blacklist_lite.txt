@@ -1000,6 +1000,7 @@ domain:ahtranny.com
 domain:ahvideosexe.com
 domain:ahxxx.club
 domain:ai-kan.net
+domain:ai-sdk.dev
 domain:ai-wen.net
 domain:ai.dev
 domain:ai.google
@@ -16443,6 +16444,7 @@ domain:origin.com
 domain:origin.tv
 domain:originalhulu.com
 domain:originalindianporn.com
+domain:originlab.com
 domain:orithegame.com
 domain:orkut.com
 domain:orl.ly
