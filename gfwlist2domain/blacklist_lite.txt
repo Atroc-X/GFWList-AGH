@@ -13059,6 +13059,7 @@ domain:ldstatic.com
 domain:le-direct.tv
 domain:le-vpn.com
 domain:leafyvpn.net
+domain:league-funny.com
 domain:leaguehighschool.com
 domain:leagueoflegends.ca
 domain:leagueoflegends.com

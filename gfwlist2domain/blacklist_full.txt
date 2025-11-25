@@ -17512,6 +17512,7 @@ domain:le.ac.uk
 domain:leadershipfoundation.ac.uk
 domain:leadershiphe.ac.uk
 domain:leafyvpn.net
+domain:league-funny.com
 domain:leaguehighschool.com
 domain:leagueoflegends.ca
 domain:leagueoflegends.co.kr
