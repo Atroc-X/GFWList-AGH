@@ -20084,7 +20084,6 @@ domain:ms365surfaceoffer.com
 domain:ms4dre.com
 domain:msa-it.org
 domain:msa.ac.uk
-domain:msads.net
 domain:mscassessment.ac.uk
 domain:mschallenge2018.com
 domain:mscos.ac.uk
@@ -25932,6 +25931,7 @@ domain:senss-dtp.ac.uk
 domain:sensualgirls.org
 domain:sensualmothers.com
 domain:sensueel.net
+domain:sentry-cdn.com
 domain:sentry.io
 domain:sentry.ppy.sh
 domain:senzuritv.net

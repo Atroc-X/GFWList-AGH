@@ -14883,7 +14883,6 @@ domain:ms-studiosmedia.com
 domain:ms365surfaceoffer.com
 domain:ms4dre.com
 domain:msa-it.org
-domain:msads.net
 domain:mschallenge2018.com
 domain:msdn.com
 domain:msedge.net
@@ -18924,6 +18923,7 @@ domain:sensorynetworks.com
 domain:sensualgirls.org
 domain:sensualmothers.com
 domain:sensueel.net
+domain:sentry-cdn.com
 domain:sentry.io
 domain:senzuritv.net
 domain:seqing.one
