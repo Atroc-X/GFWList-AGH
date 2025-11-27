@@ -1153,6 +1153,7 @@ domain:akiba-online.com
 domain:akiba-web.com
 domain:akinator.com
 domain:akow.org
+domain:akstat.io
 domain:akthelp.com
 domain:al-islam.com
 domain:al-qimmah.net
@@ -24045,6 +24046,7 @@ domain:yandex.st
 domain:yandex.sx
 domain:yandex.tj
 domain:yandex.tm
+domain:yandex.tr
 domain:yandex.ua
 domain:yandex.uz
 domain:yandexadexchange.net
