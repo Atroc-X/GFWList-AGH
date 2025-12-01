@@ -17957,6 +17957,7 @@ domain:lkcn.net
 domain:lkl.ac.uk
 domain:ll82y2ifdd.top
 domain:llakes.ac.uk
+domain:llama.com
 domain:llambed.ac.uk
 domain:llandrillo.ac.uk
 domain:llas.ac.uk
@@ -29550,6 +29551,7 @@ domain:turbo.com
 domain:turbobit.net
 domain:turbogvideos.com
 domain:turbohide.com
+domain:turbopages.org
 domain:turborepo.org
 domain:turbotax.com
 domain:turbotwitter.com

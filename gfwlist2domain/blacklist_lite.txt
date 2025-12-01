@@ -13340,6 +13340,7 @@ domain:lizardporn.com
 domain:lizhizhuangbi.com
 domain:lkcn.net
 domain:ll82y2ifdd.top
+domain:llama.com
 domain:llbd10.shop
 domain:llcaoxm-avi.sbs
 domain:lldns.net
@@ -21510,6 +21511,7 @@ domain:turbo.com
 domain:turbobit.net
 domain:turbogvideos.com
 domain:turbohide.com
+domain:turbopages.org
 domain:turborepo.org
 domain:turbotax.com
 domain:turbotwitter.com
