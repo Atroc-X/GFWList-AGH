@@ -44485,6 +44485,7 @@ domain:hapierxia.com
 domain:hapingapp.com
 domain:hapipixia.com
 domain:hapiyixia.com
+domain:hapjs.org
 domain:haplat.net
 domain:happi123.com
 domain:happigo.com

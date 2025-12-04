@@ -14521,7 +14521,6 @@ domain:bbs-go.com
 domain:bbs.dji.com
 domain:bbs.dji.net
 domain:bbs.djicdn.com
-domain:bbs.ztedevices.com
 domain:bbs0415.com
 domain:bbs0551.com
 domain:bbs1x.net
@@ -45014,6 +45013,7 @@ domain:hapierxia.com
 domain:hapingapp.com
 domain:hapipixia.com
 domain:hapiyixia.com
+domain:hapjs.org
 domain:haplat.net
 domain:happi123.com
 domain:happigo.com
@@ -102040,7 +102040,6 @@ domain:www.uz0.xyz
 domain:www.viveport.com
 domain:www.volvocars.com
 domain:www.yxssp.com
-domain:www.ztedevices.com
 domain:www1.djicdn.com
 domain:www2.djicdn.com
 domain:www2489.com
