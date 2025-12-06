@@ -2543,7 +2543,6 @@ domain:arirangmeari.com
 domain:ark-genomics.ac.uk
 domain:ark.ac.uk
 domain:ark.to
-domain:arkoselabs.co
 domain:arkoselabs.com
 domain:arlingtoncemetery.mil
 domain:arm.ac.uk
@@ -25107,7 +25106,6 @@ domain:road-crew.com
 domain:roadblocks.com
 domain:roadshow.hk
 domain:roblocks.com
-domain:roblox-api.arkoselabs.co
 domain:roblox-api.arkoselabs.com
 domain:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 domain:roblox-poc.global.ssl.fastly.net
@@ -29001,11 +28999,14 @@ domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigervpn.com
 domain:tiipple.ac.uk
+domain:tiktok-row.net
 domain:tiktok.com
 domain:tiktokcdn-eu.com
 domain:tiktokcdn-us.com
 domain:tiktokcdn.com
 domain:tiktokeu-cdn.com
+domain:tiktokglobalshopv.com
+domain:tiktokminis.us
 domain:tiktokv.com
 domain:tiktokv.eu
 domain:tiktokv.us
@@ -33915,6 +33916,7 @@ domain:zophar.net
 domain:zopim.com
 domain:zorglist.com
 domain:zorrovpn.com
+domain:zotero.org
 domain:zozotown.com
 domain:zpn.im
 domain:zqqpwz.com
