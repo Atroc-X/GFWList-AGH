@@ -1978,6 +1978,7 @@ domain:archives.gov
 domain:archivx.to
 domain:archlinux.org
 domain:archlinuxarm.org
+domain:arcraiders.com
 domain:arctosia.com
 domain:area120.com
 domain:area51.to
@@ -7298,6 +7299,8 @@ domain:emaga.com
 domain:emagic.de
 domain:email-once.com
 domain:emanna.com
+domain:embark-studios.com
+domain:embark.games
 domain:embase.com
 domain:embed-cdn.com
 domain:embed.ly
@@ -7910,6 +7913,8 @@ domain:facegbook.com
 domain:faceid99.com
 domain:faceid99.net
 domain:faceidglobal.com
+domain:faceit-cdn.net
+domain:faceit.com
 domain:faceless.me
 domain:faceobk.com
 domain:faceobok.com
@@ -18270,6 +18275,7 @@ domain:rea.io
 domain:rea.tech
 domain:reabble.com
 domain:reachporn.com
+domain:reachthefinals.com
 domain:reachtheworldonfacebook.com
 domain:react.com
 domain:reactjs.com
