@@ -15431,6 +15431,7 @@ domain:imageab.com
 domain:imagebam.com
 domain:imagecurl.com
 domain:imagecurl.org
+domain:imagedelivery.net
 domain:imagefap.com
 domain:imageflea.com
 domain:imageglass.org
@@ -18328,7 +18329,6 @@ domain:lzmtnews.org
 domain:m-power.com
 domain:m-rhex.ac.uk
 domain:m-sport.co.uk
-domain:m-team.cc
 domain:m.hkgalden.com
 domain:m.me
 domain:m.moegirl.org

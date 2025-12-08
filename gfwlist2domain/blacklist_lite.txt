@@ -11454,6 +11454,7 @@ domain:imageab.com
 domain:imagebam.com
 domain:imagecurl.com
 domain:imagecurl.org
+domain:imagedelivery.net
 domain:imagefap.com
 domain:imageflea.com
 domain:imageglass.org
@@ -13553,7 +13554,6 @@ domain:lyzsxx.com
 domain:lzjscript.com
 domain:lzmtnews.org
 domain:m-power.com
-domain:m-team.cc
 domain:m.me
 domain:m12.vc
 domain:m2m.com
