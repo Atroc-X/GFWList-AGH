@@ -18144,6 +18144,7 @@ domain:r18.com
 domain:r18av.com
 domain:r18lu-avi.shop
 domain:r18lu.com
+domain:r2.dev
 domain:r34porn.net
 domain:r4fo.com
 domain:ra.gg
