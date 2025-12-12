@@ -17940,7 +17940,6 @@ domain:bytedance.org
 domain:bytedanceapi.com
 domain:bytedancehermestest.com
 domain:bytedancevod.com
-domain:bytedapm.com
 domain:bytedcdn.com
 domain:bytedeliver.com
 domain:bytedgames.com

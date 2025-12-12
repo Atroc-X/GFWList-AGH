@@ -21136,6 +21136,7 @@ domain:nextwork.com.hk
 domain:nextwork.com.tw
 domain:nextwork.hk
 domain:nextwork.tw
+domain:nexus-cdn.com
 domain:nexusmods.com
 domain:nf.id.au
 domain:nfacstem.ac.uk
@@ -25194,6 +25195,10 @@ domain:ronjoneswriter.com
 domain:roodo.com
 domain:root-signing.ch
 domain:rootsigning.com
+domain:roovza-launches.appsflyersdk.com
+domain:roovza.inapps.appsflyersdk.com
+domain:roovza.launches.appsflyersdk.com
+domain:roovza.skadsdk.appsflyersdk.com
 domain:rosechina.net
 domain:rosemarydoll.com
 domain:rosemount.ac.uk
@@ -29011,6 +29016,7 @@ domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigervpn.com
 domain:tiipple.ac.uk
+domain:tiktok-minis.com
 domain:tiktok-row.net
 domain:tiktok.com
 domain:tiktokcdn-eu.com

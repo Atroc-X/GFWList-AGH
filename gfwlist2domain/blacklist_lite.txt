@@ -15585,6 +15585,7 @@ domain:nexton-net.jp
 domain:nextstop.com
 domain:nextwork.hk
 domain:nextwork.tw
+domain:nexus-cdn.com
 domain:nexusmods.com
 domain:nfjtyd.com
 domain:nflhotsalejerseys.com
@@ -21118,6 +21119,7 @@ domain:tiendabestbuy.com
 domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigervpn.com
+domain:tiktok-minis.com
 domain:tiktok-row.net
 domain:tiktok.com
 domain:tiktokcdn-eu.com
