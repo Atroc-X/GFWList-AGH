@@ -353,6 +353,7 @@ domain:4everland.io
 domain:4everoutside.com
 domain:4everproxy.com
 domain:4f1v1.top
+domain:4gamer.net
 domain:4greedy.com
 domain:4gtv.tv
 domain:4hu.one
@@ -1154,6 +1155,7 @@ domain:akastream.com
 domain:akastream.net
 domain:akatns.net
 domain:akiba-online.com
+domain:akiba-souken.com
 domain:akiba-web.com
 domain:akinator.com
 domain:akow.org
@@ -1695,6 +1697,7 @@ domain:appdynamics.jp
 domain:appdynamics.org
 domain:appe-store.com
 domain:appexchange.com
+domain:appget.com
 domain:apphb.com
 domain:appl-e.com
 domain:appl.com
@@ -1927,6 +1930,7 @@ domain:applicationinsights.io
 domain:applicationinsights.net
 domain:applle.com
 domain:applw.com
+domain:appmedia.jp
 domain:appmediagroup.com
 domain:approvedusedbmw.com
 domain:appsflayer.com
@@ -2331,6 +2335,7 @@ domain:autodeskviewer.com
 domain:autodeskworkshop.com
 domain:autodeskworkshop.net
 domain:autodraw.com
+domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
 domain:autosketch.com
@@ -5506,6 +5511,7 @@ domain:cookielaw.org
 domain:cookiepro.com
 domain:cool-comics.com
 domain:cool18.com
+domain:cool3c.com
 domain:coolaler.com
 domain:coolder.com
 domain:coolinet.net
@@ -6098,7 +6104,9 @@ domain:democrats.org
 domain:demonoid.is
 domain:demoprint.com
 domain:demosisto.hk
+domain:denfaminicogamer.jp
 domain:dengeamerika.com
+domain:dengekionline.com
 domain:dengiamerika.com
 domain:deno.com
 domain:deno.dev
@@ -6793,6 +6801,7 @@ domain:dualeotruyen1s.com
 domain:dubai-escort-list.com
 domain:dubaihotties.org
 domain:dubox.com
+domain:duck.ai
 domain:duck.co
 domain:duck.com
 domain:duckdns.org
@@ -7473,6 +7482,7 @@ domain:erogazo-ngo.com
 domain:erogazopple.com
 domain:erogazou-pinkline.com
 domain:erogazoufactory.com
+domain:eroge-road.com
 domain:erohentai.net
 domain:erolabs.cloud
 domain:erolabs.com
@@ -8006,6 +8016,7 @@ domain:familysimulator.io
 domain:familystrokes.com
 domain:familyswap.xxx
 domain:famima.vn
+domain:famitsu.com
 domain:famosascalvas.com
 domain:famous-nudes.com
 domain:famousinternetgirls.com
@@ -9109,9 +9120,12 @@ domain:game-platform.net
 domain:game-repack.site
 domain:game735.com
 domain:gamebeforethegame.com
+domain:gamebiz.jp
+domain:gamebusiness.jp
 domain:gamejolt.com
 domain:gameloft.com
 domain:gamelore.fun
+domain:gamemeca.com
 domain:gameon-masters.com
 domain:gamepass.com
 domain:gamepedia.com
@@ -9122,6 +9136,7 @@ domain:gamesathletes.com
 domain:gamesfirsthelsinki.com
 domain:gamesfuckgirls.com
 domain:gamesofdesire.com
+domain:gamespark.jp
 domain:gamesstack.com
 domain:gameuxmasterguide.com
 domain:gaming-notebooks.com
@@ -9327,6 +9342,7 @@ domain:getjetso.com
 domain:getlantern.org
 domain:getmalus.com
 domain:getmdl.io
+domain:getnews.jp
 domain:getoutline.org
 domain:getpocket.com
 domain:getporn.tv
@@ -9915,6 +9931,7 @@ domain:greatfirevpn.com
 domain:greatfirewall.biz
 domain:greatfirewallofchina.net
 domain:greatfirewallofchina.org
+domain:greatgame.asia
 domain:greatretroporn.com
 domain:greatroc.org
 domain:greatroc.tw
@@ -10593,6 +10610,7 @@ domain:hnext.jp
 domain:hnjhj.com
 domain:hnntube.com
 domain:ho5ho.com
+domain:hobbigame.com
 domain:hobonichielog.com
 domain:hochi.news
 domain:hochu.tv
@@ -11323,7 +11341,9 @@ domain:igfw.net
 domain:igfw.tech
 domain:igi-global.com
 domain:igmg.de
+domain:ign.com
 domain:ign.jp
+domain:ignimg.com
 domain:ignitedetroit.net
 domain:ignites.com
 domain:ignitesasia.com
@@ -11609,6 +11629,7 @@ domain:insecam.org
 domain:insendi.com
 domain:inshot.cc
 domain:inshot.com
+domain:inside-games.jp
 domain:insidefilms.com
 domain:insidemacintosh.com
 domain:insider-intelligence.com
@@ -12936,6 +12957,7 @@ domain:kostenlosepornoclips.com
 domain:kotlinlang.org
 domain:koubaibu.jp
 domain:kouwobb.com
+domain:kpacg.com
 domain:kphimsex.net
 domain:kpht85.com
 domain:kpinsurances.com
@@ -13566,6 +13588,7 @@ domain:mac.com
 domain:mac.eu
 domain:mac.rs
 domain:mac.wang
+domain:macaodaily.com
 domain:macappsto.re
 domain:macbook.co
 domain:macbook.hk
@@ -13624,6 +13647,7 @@ domain:maddenseason.org
 domain:madewithcode.com
 domain:madewithmaya.com
 domain:madewithstudiotools.com
+domain:madewithunity.jp
 domain:madhomemadeporn.com
 domain:madonna-av.com
 domain:madou.club
@@ -13641,6 +13665,7 @@ domain:madvagina.com
 domain:madvr.com
 domain:madvr.net
 domain:madvrlabs.llc
+domain:maedahiroyuki.com
 domain:mafia-linkz.to
 domain:mageconf.com
 domain:magento.com
@@ -13742,6 +13767,7 @@ domain:mansionglobal.com
 domain:mansionpoker.com
 domain:mansurfer.com
 domain:manta.com
+domain:mantan-web.jp
 domain:mantochichi.com
 domain:manurefetish.com
 domain:manytoon.com
@@ -14004,6 +14030,7 @@ domain:meccontroller.com
 domain:media-amazon.com
 domain:media-imdb.com
 domain:mediachinese.com
+domain:mediaclip.jp
 domain:mediafiles-cisco.com
 domain:mediafire.com
 domain:mediafreakcity.com
@@ -14667,6 +14694,7 @@ domain:moeerolibrary.com
 domain:moefuns.co
 domain:moeimg.net
 domain:moemax.net
+domain:moepedia.net
 domain:moeshare.cc
 domain:moez-m.com
 domain:mofaxiehui.com
@@ -16319,6 +16347,7 @@ domain:online-instagram.com
 domain:onlineapplestore.com
 domain:onlinecha.com
 domain:onlinefucktube.com
+domain:onlinegamer.jp
 domain:onlinegeeksquad.com
 domain:onlineinstagram.com
 domain:onlinemonsterbeatsonsale.com
@@ -18056,6 +18085,7 @@ domain:qmzdd.com
 domain:qnap.com
 domain:qobuz.com
 domain:qombol.com
+domain:qoo-app.com
 domain:qoo10.jp
 domain:qooqlevideo.com
 domain:qoos.com
@@ -18340,6 +18370,7 @@ domain:realpornclip.com
 domain:realraptalk.com
 domain:realsexdoll.com
 domain:realsexpass.com
+domain:realsound.jp
 domain:realteengirls.com
 domain:realtor.com
 domain:realtype.jp
@@ -18743,6 +18774,7 @@ domain:safety.google
 domain:saffrontech.com
 domain:sagernet.org
 domain:sahabatsetiasmartone.com
+domain:saiganak.com
 domain:saintyculture.com
 domain:saiq.me
 domain:sakura-paris.org
@@ -20979,6 +21011,7 @@ domain:thirdmill.org
 domain:thirdns.de
 domain:thisav.com
 domain:thisav.org
+domain:thisisgame.com
 domain:thisispolaris.com
 domain:thismon.ee
 domain:thisvid.com
@@ -22911,6 +22944,7 @@ domain:want-media.com
 domain:want520.com
 domain:wantblogger.com
 domain:wantmywife.com
+domain:wanuxi.com
 domain:wanz-factory.com
 domain:wapedia.mobi
 domain:waplog.com
@@ -24232,6 +24266,7 @@ domain:yong.hu
 domain:yopo.work
 domain:yopornshop.com
 domain:yorkbbs.ca
+domain:yorozoonews.jp
 domain:yoshisnewisland.com
 domain:you-get.org
 domain:you.com
