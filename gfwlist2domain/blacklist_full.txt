@@ -12271,6 +12271,7 @@ domain:gamesstack.com
 domain:gameuxmasterguide.com
 domain:gamez.com.tw
 domain:gaming-notebooks.com
+domain:gamma.app
 domain:gamme.com.tw
 domain:gamousa.com
 domain:gandhara.ru

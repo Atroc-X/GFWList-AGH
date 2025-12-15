@@ -9141,6 +9141,7 @@ domain:gamespark.jp
 domain:gamesstack.com
 domain:gameuxmasterguide.com
 domain:gaming-notebooks.com
+domain:gamma.app
 domain:gamousa.com
 domain:gandhara.ru
 domain:ganges.com
