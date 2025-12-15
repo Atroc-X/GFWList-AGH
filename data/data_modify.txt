@@ -120,6 +120,9 @@
 # hellotalk
 (@&!)hellotalk.com
 
+# gamma.app
+(@&!)gamma.app
+
 # privacyredirect.com
 (@&!)privacyredirect.com
 
