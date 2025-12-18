@@ -3343,6 +3343,7 @@ domain:bit-z.com
 domain:bit.com
 domain:bit.do
 domain:bit.ly
+domain:bitbaby.com
 domain:bitballoon.com
 domain:bitbank.cc
 domain:bitbay.net
@@ -11265,6 +11266,7 @@ domain:id.au
 domain:id.taipei
 domain:idaiwan.com
 domain:idarkdoll.com
+domain:idcflare.com
 domain:idea-server.com
 domain:ideal-teens.com
 domain:ideapocket.com
@@ -15444,6 +15446,7 @@ domain:nde.de
 domain:ndi.org
 domain:ndr.de
 domain:ndtv.com
+domain:ne.jp
 domain:near.by
 domain:nebay.net
 domain:neborder.com
