@@ -2459,6 +2459,7 @@ domain:awflapp.top
 domain:awjq.cc
 domain:aws-iot-hackathon.com
 domain:aws.com
+domain:aws.dev
 domain:awsapprunner.com
 domain:awsapps.com
 domain:awsautopilot.com

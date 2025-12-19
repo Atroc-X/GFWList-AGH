@@ -68958,6 +68958,7 @@ domain:moonton.com
 domain:moontonapp.com
 domain:moontontech.net
 domain:moonvy.com
+domain:moonvy.cool
 domain:moooc.cc
 domain:mooooc.com
 domain:mooool.com
