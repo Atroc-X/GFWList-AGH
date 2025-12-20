@@ -5212,6 +5212,7 @@ domain:cmcn.org
 domain:cmegroup.com
 domain:cmhalq.com
 domain:cmoinc.org
+domain:cmoney.tw
 domain:cmpaas.com
 domain:cms-twdigitalassets.com
 domain:cms.gov
@@ -16758,6 +16759,7 @@ domain:parstream.com
 domain:parstream.net
 domain:parstream.org
 domain:partmaker.com
+domain:partnerstack.xyz
 domain:partycasino.com
 domain:partylikeits1986.org
 domain:partypoker.com
@@ -16959,6 +16961,7 @@ domain:pcloud.com
 domain:pcloud.tw
 domain:pcre.org
 domain:pctlwm.com
+domain:pdetails.com
 domain:pdf.new
 domain:pdfexpert.com
 domain:pdncommunity.com
@@ -23907,6 +23910,7 @@ domain:xvbelink.com
 domain:xvds.tv
 domain:xvedo.net
 domain:xvideo-jp.com
+domain:xvideo.cc
 domain:xvideo.com
 domain:xvideo.org
 domain:xvideo.run
