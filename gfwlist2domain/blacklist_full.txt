@@ -8865,6 +8865,8 @@ domain:dmcdn.net
 domain:dmed.technology
 domain:dmgmediaprivacy.co.uk
 domain:dmhy.org
+domain:dmit.io
+domain:dmit.sh
 domain:dml-lang.org
 domain:dml.ac.uk
 domain:dmm-extension.com
@@ -10155,6 +10157,7 @@ domain:entrust.net
 domain:entrustdatacard.com
 domain:enveast.ac.uk
 domain:environment-health.ac.uk
+domain:eotarchive.org
 domain:epa.gov.tw
 domain:epac.to
 domain:epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
@@ -12635,6 +12638,7 @@ domain:ghcr.io
 domain:ghettotube.com
 domain:ghidra-sre.org
 domain:ghil.ac.uk
+domain:ghostarchive.org
 domain:ghostgames.com
 domain:ghostnoteapp.com
 domain:ghostpath.com
@@ -19142,6 +19146,7 @@ domain:meltoday.com
 domain:meme111.com
 domain:memealerts.com
 domain:memehk.com
+domain:mementoweb.org
 domain:memes.tw
 domain:memorybbs.com
 domain:memri.org
@@ -23195,6 +23200,7 @@ domain:perfectvpn.net
 domain:performancescience.ac.uk
 domain:periscope.tv
 domain:perl.org
+domain:perma.cc
 domain:perplexity.ai
 domain:perplexity.com
 domain:persagg.com
@@ -27700,6 +27706,7 @@ domain:static-hamivideo.cdn.hinet.net
 domain:static-nike.com
 domain:static-verizon.com
 domain:static.fun
+domain:static.pocketcasts.com
 domain:static.shemalez.com
 domain:static.siege-amazon.com
 domain:static01.nyt.com
@@ -31749,6 +31756,7 @@ domain:webcammedellin.co
 domain:webcams.tv
 domain:webcamtubexxx.com
 domain:webchannel-alkalimakersuite-pa.clients6.google.com
+domain:webcitation.org
 domain:webevader.org
 domain:webex.ca
 domain:webex.co.in

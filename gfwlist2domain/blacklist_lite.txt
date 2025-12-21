@@ -6497,6 +6497,8 @@ domain:dmc.nico
 domain:dmcdn.net
 domain:dmed.technology
 domain:dmhy.org
+domain:dmit.io
+domain:dmit.sh
 domain:dml-lang.org
 domain:dmm-extension.com
 domain:dmm.com
@@ -7416,6 +7418,7 @@ domain:entnt.com
 domain:entrust.com
 domain:entrust.net
 domain:entrustdatacard.com
+domain:eotarchive.org
 domain:epac.to
 domain:epic.network
 domain:epicbrowser.com
@@ -9436,6 +9439,7 @@ domain:ghbi.ir
 domain:ghcr.io
 domain:ghettotube.com
 domain:ghidra-sre.org
+domain:ghostarchive.org
 domain:ghostgames.com
 domain:ghostnoteapp.com
 domain:ghostpath.com
@@ -14143,6 +14147,7 @@ domain:meltoday.com
 domain:meme111.com
 domain:memealerts.com
 domain:memehk.com
+domain:mementoweb.org
 domain:memes.tw
 domain:memorybbs.com
 domain:memri.org
@@ -17057,6 +17062,7 @@ domain:perfecttitspics.com
 domain:perfectvpn.net
 domain:periscope.tv
 domain:perl.org
+domain:perma.cc
 domain:perplexity.ai
 domain:perplexity.com
 domain:persagg.com
@@ -23088,6 +23094,7 @@ domain:webcamjackers.com
 domain:webcammedellin.co
 domain:webcams.tv
 domain:webcamtubexxx.com
+domain:webcitation.org
 domain:webevader.org
 domain:webex.ca
 domain:webex.com
