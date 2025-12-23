@@ -13421,6 +13421,7 @@ domain:grimsby.ac.uk
 domain:grimsbytec.ac.uk
 domain:grindr.com
 domain:grok.com
+domain:grokipedia.com
 domain:grooby.com
 domain:groq.com
 domain:grotty-monday.com
@@ -30456,6 +30457,7 @@ domain:utcreading.ac.uk
 domain:utopianpal.com
 domain:uts-api.itunes.apple.com
 domain:uu-gg.com
+domain:uug22.com
 domain:uug23.com
 domain:uug25.com
 domain:uug26.com
@@ -31513,7 +31515,12 @@ domain:vr.org
 domain:vraiesagesse.net
 domain:vrbgay.com
 domain:vrcams.io
+domain:vrcdn.cloud
+domain:vrcdn.live
+domain:vrcdn.video
+domain:vrchat.cloud
 domain:vrchat.com
+domain:vrchat.net
 domain:vred-essentials.com
 domain:vredessentials.com
 domain:vredprofessional.com
