@@ -35,6 +35,7 @@ domain:111666.best
 domain:112263.com
 domain:114av.xyz
 domain:114bank.co.jp
+domain:119474.xyz
 domain:11jav.com
 domain:123-hp.com
 domain:123bin.cc
@@ -300,6 +301,7 @@ domain:36717.info
 domain:36rain.com
 domain:3789av.com
 domain:39group.info
+domain:3a5a.com
 domain:3aaa.ac.uk
 domain:3animalsextube.com
 domain:3arabporn.com
@@ -7195,6 +7197,7 @@ domain:collemergencymed.ac.uk
 domain:colliderporn.com
 domain:collins.co.uk
 domain:collins.in
+domain:collinsdictionary.com
 domain:collyers.ac.uk
 domain:colombianas.webcam
 domain:colorado.edu
@@ -12187,6 +12190,7 @@ domain:futhead.com
 domain:futoka.jp
 domain:futpromos.com
 domain:futuhk.com
+domain:futuhkapp.com
 domain:futuholdings.com
 domain:futunited.com
 domain:future-media.ac.uk
@@ -17618,6 +17622,7 @@ domain:lcuck.ac.uk
 domain:lcwc.ac.uk
 domain:ld.hao123img.com
 domain:ldoc-cdt.ac.uk
+domain:ldoceonline.com
 domain:ldplayer.tw
 domain:ldstatic.com
 domain:le-direct.tv
@@ -19160,6 +19165,7 @@ domain:mendel.ac.uk
 domain:mendeley.com
 domain:mengnan.shop
 domain:menhdv.com
+domain:mensheaven.jp
 domain:menshin-channel.com
 domain:meoriental.com
 domain:meplg.ac.uk
@@ -21119,6 +21125,7 @@ domain:newmonst1erbeatsto1re.com
 domain:newmonsterbeatsheadphones.com
 domain:newnews.ca
 domain:newphd.ac.uk
+domain:newpipe.net
 domain:newport.ac.uk
 domain:newpppp.com
 domain:newroutephd.ac.uk
@@ -31789,6 +31796,7 @@ domain:webjb.org
 domain:webkit.org
 domain:webkitgtk.org
 domain:weblagu.com
+domain:weblate.org
 domain:weblive-hamivideo.cdn.hinet.net
 domain:webmoneyinfo.com
 domain:webmproject.org

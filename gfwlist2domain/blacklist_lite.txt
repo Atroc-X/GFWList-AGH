@@ -32,6 +32,7 @@ domain:1111modpo.info
 domain:111666.best
 domain:112263.com
 domain:114av.xyz
+domain:119474.xyz
 domain:11jav.com
 domain:123-hp.com
 domain:123bin.cc
@@ -278,6 +279,7 @@ domain:36717.info
 domain:36rain.com
 domain:3789av.com
 domain:39group.info
+domain:3a5a.com
 domain:3animalsextube.com
 domain:3arabporn.com
 domain:3arabtv.com
@@ -5353,6 +5355,7 @@ domain:collegepornonly.com
 domain:collegesexgames.com
 domain:colliderporn.com
 domain:collins.in
+domain:collinsdictionary.com
 domain:colombianas.webcam
 domain:colorado.edu
 domain:colorfulpalette.org
@@ -9083,6 +9086,7 @@ domain:futhead.com
 domain:futoka.jp
 domain:futpromos.com
 domain:futuhk.com
+domain:futuhkapp.com
 domain:futuholdings.com
 domain:futunited.com
 domain:futurechinaforum.org
@@ -13161,6 +13165,7 @@ domain:lbtube.com
 domain:lbyczf.com
 domain:lcgirls.com
 domain:lcsmerch.com
+domain:ldoceonline.com
 domain:ldplayer.tw
 domain:ldstatic.com
 domain:le-direct.tv
@@ -14159,6 +14164,7 @@ domain:menatplay.com
 domain:mendeley.com
 domain:mengnan.shop
 domain:menhdv.com
+domain:mensheaven.jp
 domain:menshin-channel.com
 domain:meoriental.com
 domain:mepn.com
@@ -15611,6 +15617,7 @@ domain:newmitbbs.com
 domain:newmonst1erbeatsto1re.com
 domain:newmonsterbeatsheadphones.com
 domain:newnews.ca
+domain:newpipe.net
 domain:newpppp.com
 domain:news1.kr
 domain:news18.com
@@ -23117,6 +23124,7 @@ domain:webjb.org
 domain:webkit.org
 domain:webkitgtk.org
 domain:weblagu.com
+domain:weblate.org
 domain:webmoneyinfo.com
 domain:webmproject.org
 domain:webobjects.com
