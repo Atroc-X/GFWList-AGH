@@ -3919,6 +3919,7 @@ domain:bobvoyeur.com
 domain:bocici.buzz
 domain:bod.asia
 domain:bodgirls.com
+domain:bodog88.com
 domain:bodyfluids-jav.com
 domain:boingboing.net
 domain:bokep.net
@@ -15504,6 +15505,7 @@ domain:neoforged.net
 domain:neovim.io
 domain:neow.in
 domain:neowin.net
+domain:nephobox.com
 domain:nepusoku.com
 domain:nerdnudes.com
 domain:nervanasys.com
@@ -22970,6 +22972,7 @@ domain:vxxsred.xyz
 domain:vyprvpn.com
 domain:vzw.com
 domain:w-mt.co
+domain:w-pool.com
 domain:w.org
 domain:w.wiki
 domain:w0512.com

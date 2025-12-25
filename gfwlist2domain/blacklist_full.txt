@@ -4992,6 +4992,7 @@ domain:bocici.buzz
 domain:bod.asia
 domain:bodc.ac.uk
 domain:bodgirls.com
+domain:bodog88.com
 domain:bodyandsoul.com.au
 domain:bodyfluids-jav.com
 domain:bognor-training.ac.uk
@@ -20930,6 +20931,7 @@ domain:neotokyo.supertop-100.com
 domain:neovim.io
 domain:neow.in
 domain:neowin.net
+domain:nephobox.com
 domain:nepusoku.com
 domain:nerap.ac.uk
 domain:nerc-arsf.ac.uk
@@ -31582,6 +31584,7 @@ domain:vxxsred.xyz
 domain:vyprvpn.com
 domain:vzw.com
 domain:w-mt.co
+domain:w-pool.com
 domain:w.idaiwan.com
 domain:w.org
 domain:w.wiki
