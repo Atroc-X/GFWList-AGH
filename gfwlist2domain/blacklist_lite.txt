@@ -13539,6 +13539,7 @@ domain:lordofultima.com
 domain:lostbetsgames.com
 domain:lotcrap.com
 domain:lotsawahouse.org
+domain:lovart.ai
 domain:love4porn.com
 domain:love6.tv
 domain:love7.xyz
@@ -20289,6 +20290,7 @@ domain:steamcommunity.com
 domain:steamdb.info
 domain:steamdeck.com
 domain:steamgames.com
+domain:steamladder.com
 domain:steamofporn.com
 domain:steampowered.com
 domain:steamserver.net

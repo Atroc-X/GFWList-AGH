@@ -18241,6 +18241,7 @@ domain:lotuslight.org.tw
 domain:lou.ac.uk
 domain:loucoll.ac.uk
 domain:loughborough.ac.uk
+domain:lovart.ai
 domain:love-sextoys.co.uk
 domain:love4porn.com
 domain:love6.tv
@@ -27773,6 +27774,7 @@ domain:steamcontent.com
 domain:steamdb.info
 domain:steamdeck.com
 domain:steamgames.com
+domain:steamladder.com
 domain:steammobile.akamaized.net
 domain:steamofporn.com
 domain:steampipe-kr.akamaized.net
