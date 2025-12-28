@@ -9181,6 +9181,7 @@ domain:gannettdigital.com
 domain:gao1.cc
 domain:gaofuwu.cc
 domain:gaoming.net
+domain:gaopi.net
 domain:gaozhisheng.net
 domain:gaozhisheng.org
 domain:gaozs18.buzz
@@ -9424,6 +9425,7 @@ domain:gfsale.com
 domain:gfw.press
 domain:gfw.report
 domain:gfwatch.org
+domain:gfwbao.com
 domain:gfwlist.end
 domain:gfwlist.start
 domain:gfx.ms
@@ -18881,6 +18883,7 @@ domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
 domain:samsungiotcloud.com
 domain:samsungknox.com
+domain:samsungosp.com
 domain:samsungqbe.com
 domain:samsungrs.com
 domain:sandisk.ae

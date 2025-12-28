@@ -8957,7 +8957,6 @@ domain:docleradn.com
 domain:doclercdn.com
 domain:docs.cfw.lbyczf.com
 domain:docs.com
-domain:docs.deno.com
 domain:docs.new
 domain:docs.rs
 domain:doctor-videos.com
@@ -12312,6 +12311,7 @@ domain:gannettdigital.com
 domain:gao1.cc
 domain:gaofuwu.cc
 domain:gaoming.net
+domain:gaopi.net
 domain:gaozhisheng.net
 domain:gaozhisheng.org
 domain:gaozs18.buzz
@@ -12622,6 +12622,7 @@ domain:gfw.org.ua
 domain:gfw.press
 domain:gfw.report
 domain:gfwatch.org
+domain:gfwbao.com
 domain:gfwlist.end
 domain:gfwlist.start
 domain:gfx.ms
@@ -16287,6 +16288,7 @@ domain:iss138.com
 domain:issitedownrightnow.com
 domain:issquaredown.com
 domain:issquareup.com
+domain:issues.chromium.org
 domain:issuu.com
 domain:istar.ac.uk
 domain:istars.co.nz
@@ -25645,6 +25647,7 @@ domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
 domain:samsungiotcloud.com
 domain:samsungknox.com
+domain:samsungosp.com
 domain:samsungqbe.com
 domain:samsungrs.com
 domain:sandisk.ae
