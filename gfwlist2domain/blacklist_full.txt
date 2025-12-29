@@ -2524,6 +2524,7 @@ domain:archiveshub.ac.uk
 domain:archivx.to
 domain:archlinux.org
 domain:archlinuxarm.org
+domain:archlinuxcn.org
 domain:archway.ac.uk
 domain:arcom.ac.uk
 domain:arcraiders.com
@@ -12893,6 +12894,7 @@ domain:gobuyonlinestore.net
 domain:gockhuatviet.com
 domain:godaddy.com
 domain:godalming.ac.uk
+domain:godbolt.org
 domain:godfootsteps.org
 domain:godns.work
 domain:godoc.org
