@@ -10461,6 +10461,7 @@ domain:herokucharge.com
 domain:herokussl.com
 domain:herominers.com
 domain:herringnetwork.com
+domain:hetzner-cloud.de
 domain:hetzner.cloud
 domain:hetzner.com
 domain:hetzner.company

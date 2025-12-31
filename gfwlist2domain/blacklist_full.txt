@@ -14109,6 +14109,7 @@ domain:hesin.ac.uk
 domain:hespa.ac.uk
 domain:hestem.ac.uk
 domain:heswbusnet.ac.uk
+domain:hetzner-cloud.de
 domain:hetzner.cloud
 domain:hetzner.com
 domain:hetzner.company
