@@ -5483,6 +5483,8 @@ domain:bumptop.org
 domain:bumptunes.com
 domain:bunbunhk.com
 domain:bunka.go.jp
+domain:bunny.net
+domain:bunnycdn.com
 domain:bunnylust.com
 domain:burningcamel.com
 domain:burnley.ac.uk
@@ -23085,6 +23087,7 @@ domain:pdncommunity.com
 domain:pdproxy.com
 domain:pds.ac.uk
 domain:pds.nasa.gov
+domain:pdst.fm
 domain:pdxbmw.com
 domain:peace.ca
 domain:peacefire.org
@@ -30361,6 +30364,7 @@ domain:uoherald.com
 domain:uol.ac.uk
 domain:uos.ac.uk
 domain:uoutside.org
+domain:up.audio
 domain:up.gcp.googlers.com
 domain:up01.cc
 domain:upa.ac.uk

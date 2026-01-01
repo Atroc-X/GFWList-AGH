@@ -4214,6 +4214,8 @@ domain:bumptop.net
 domain:bumptop.org
 domain:bumptunes.com
 domain:bunbunhk.com
+domain:bunny.net
+domain:bunnycdn.com
 domain:bunnylust.com
 domain:burningcamel.com
 domain:burstly.net
@@ -16988,6 +16990,7 @@ domain:pdf.new
 domain:pdfexpert.com
 domain:pdncommunity.com
 domain:pdproxy.com
+domain:pdst.fm
 domain:pdxbmw.com
 domain:peace.ca
 domain:peacefire.org
@@ -22033,6 +22036,7 @@ domain:uo.com
 domain:uocn.org
 domain:uoherald.com
 domain:uoutside.org
+domain:up.audio
 domain:up01.cc
 domain:upbit.com
 domain:updatestar.com
