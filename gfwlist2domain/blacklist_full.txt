@@ -2543,6 +2543,7 @@ domain:arena.taipei
 domain:arethusa.su
 domain:arewereadyyet.com
 domain:areyoucreditwise.com
+domain:argo-bdp.com
 domain:argotunnel.com
 domain:argyllcollege.ac.uk
 domain:aria.ms
@@ -3322,6 +3323,7 @@ domain:bandpage.com
 domain:bandpcoll.ac.uk
 domain:bandwagonhost.com
 domain:banff-buchan.ac.uk
+domain:bang-dream.com
 domain:bang-movies.com
 domain:bangbros.com
 domain:bangbrosnetwork.com
@@ -5497,6 +5499,17 @@ domain:burtonandsouthderbyshirecollege.ac.uk
 domain:buryacl.ac.uk
 domain:burycollege.ac.uk
 domain:busayari.com
+domain:bushi-navi.com
+domain:bushimo.jp
+domain:bushiroad-creative.com
+domain:bushiroad-global-online-store.com
+domain:bushiroad-move.com
+domain:bushiroad-music.com
+domain:bushiroad-store.com
+domain:bushiroad-works.com
+domain:bushiroad.co.jp
+domain:bushiroad.com
+domain:bushiroadgames.com
 domain:business-humanrights.org
 domain:business-i.jp
 domain:business-intelligence.ac.uk
@@ -6310,6 +6323,7 @@ domain:cetl4musicne.ac.uk
 domain:ceug.ac.uk
 domain:cex.io
 domain:cf-ipfs.com
+domain:cf-vanguard.com
 domain:cf.ac.uk
 domain:cfake.com
 domain:cfargotunnel.com
@@ -7140,6 +7154,7 @@ domain:coinegg.com
 domain:coinex.com
 domain:coingecko.com
 domain:coingi.com
+domain:coinglass.com
 domain:coinmap.org
 domain:coinmarketcap.com
 domain:coinone.co.kr
@@ -7305,8 +7320,10 @@ domain:comffvpn.com
 domain:comfy.org
 domain:comfyci.org
 domain:comfyregistry.org
+domain:comic-growl.com
 domain:comic-mega.me
 domain:comicbox.xyz
+domain:comicbushi-web.com
 domain:comico.tw
 domain:comics.ac.uk
 domain:comicscartoonporn.com
@@ -7923,6 +7940,7 @@ domain:d3aqoihi2n8ty8.cloudfront.net
 domain:d3c27h4odz752x.cloudfront.net
 domain:d3r7nsslvs6aaf.cloudfront.net
 domain:d3vd9lfkzbru3h.cloudfront.net
+domain:d4dj-pj.com
 domain:d6d4ismr40iw.cloudfront.net
 domain:d6tizftlrpuof.cloudfront.net
 domain:da-files.com
@@ -9137,6 +9155,7 @@ domain:dreamamateurs.com
 domain:dreambmw.ca
 domain:dreamforce.com
 domain:dreammovies.com
+domain:dreamorder.com
 domain:dreamteamfc.com
 domain:dreamtoplay.com
 domain:dreamworks.com
@@ -11166,6 +11185,7 @@ domain:fbthirdpartypixel.org
 domain:fburl.com
 domain:fbwat.ch
 domain:fbworkmail.com
+domain:fc-buddyfight.com
 domain:fc2.com
 domain:fc2blog.net
 domain:fc2china.com
@@ -12482,6 +12502,7 @@ domain:geileomas.com
 domain:geinoueroch.com
 domain:geiriadur.ac.uk
 domain:gekikame.com
+domain:gekkan-bushi.com
 domain:gelbooru.com
 domain:gelbooru.me
 domain:gelbooru.wjcodes.com
@@ -14163,6 +14184,7 @@ domain:hhvm.com
 domain:hi-on.org.tw
 domain:hibank24.com
 domain:hibdontire.com
+domain:hibiki-cast.jp
 domain:hicairo.com
 domain:hiccears.com
 domain:hidden-advent.org
@@ -14207,6 +14229,7 @@ domain:hihigv.com
 domain:hihistory.net
 domain:hiitch.com
 domain:hikinggfw.org
+domain:hikosen.co.jp
 domain:hilderstone.ac.uk
 domain:hilive.tv
 domain:hillcroft.ac.uk
@@ -16950,6 +16973,7 @@ domain:judeporn.com
 domain:judicial.gov.tw
 domain:juggsjoy.com
 domain:juhachibank.co.jp
+domain:juhuaren.com
 domain:juiceced.xyz
 domain:juicytwink.com
 domain:jukujo-club.com
@@ -21568,6 +21592,8 @@ domain:njactb.org
 domain:njav.tv
 domain:njavtv.com
 domain:njncscotlandscolleges.ac.uk
+domain:njpw.co.jp
+domain:njpw1972.com
 domain:njuice.com
 domain:nkc.ac.uk
 domain:nke6.com
@@ -24944,6 +24970,7 @@ domain:reastatic.net
 domain:reaxys.com
 domain:rebates.jp
 domain:rebatesrule.net
+domain:rebirth-fy.com
 domain:rebrandly.com
 domain:rebuildingmacroeconomics.ac.uk
 domain:recelebrity.com
@@ -25136,6 +25163,7 @@ domain:revleft.com
 domain:revocationcheck.com
 domain:revolv.com
 domain:revsci.net
+domain:revuestarlight.com
 domain:revver.com
 domain:rewind.ac.uk
 domain:rewrite-anime.tv
@@ -26454,6 +26482,7 @@ domain:shadowsocks.nl
 domain:shadowsocks.nu
 domain:shadowsocks.org
 domain:shadowsocks9.com
+domain:shadowverse-evolve.com
 domain:shadowverse.jp
 domain:shafaqna.com
 domain:shahit.biz
@@ -32372,6 +32401,8 @@ domain:writtleuniversitycollege.ac.uk
 domain:wrocah.ac.uk
 domain:wroxton-college.ac.uk
 domain:wrssdtp.ac.uk
+domain:ws-blau.com
+domain:ws-tcg.com
 domain:wsc.ac.uk
 domain:wscinternational.ac.uk
 domain:wsfc.ac.uk
@@ -32516,6 +32547,7 @@ domain:wwis-dubc1-vip98.adobe.com
 domain:wwis-dubc1-vip99.adobe.com
 domain:wwitv.com
 domain:wwmpcrn.ac.uk
+domain:wwr-stardom.com
 domain:wwtbam.com
 domain:www-bestbuystores.com
 domain:www-facebook.com

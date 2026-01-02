@@ -1995,6 +1995,7 @@ domain:arena.taipei
 domain:arethusa.su
 domain:arewereadyyet.com
 domain:areyoucreditwise.com
+domain:argo-bdp.com
 domain:argotunnel.com
 domain:aria.ms
 domain:arirangmeari.com
@@ -2618,6 +2619,7 @@ domain:bandgirlz.com
 domain:bandisoft.com
 domain:bandpage.com
 domain:bandwagonhost.com
+domain:bang-dream.com
 domain:bang-movies.com
 domain:bangbros.com
 domain:bangbrosnetwork.com
@@ -4221,6 +4223,16 @@ domain:burningcamel.com
 domain:burstly.net
 domain:burstlyrewards.com
 domain:busayari.com
+domain:bushi-navi.com
+domain:bushimo.jp
+domain:bushiroad-creative.com
+domain:bushiroad-global-online-store.com
+domain:bushiroad-move.com
+domain:bushiroad-music.com
+domain:bushiroad-store.com
+domain:bushiroad-works.com
+domain:bushiroad.com
+domain:bushiroadgames.com
 domain:business-humanrights.org
 domain:business-i.jp
 domain:business.page
@@ -4732,6 +4744,7 @@ domain:cervical-exam.com
 domain:ceskeporno.cz
 domain:cex.io
 domain:cf-ipfs.com
+domain:cf-vanguard.com
 domain:cfake.com
 domain:cfargotunnel.com
 domain:cfblob.com
@@ -5333,6 +5346,7 @@ domain:coinegg.com
 domain:coinex.com
 domain:coingecko.com
 domain:coingi.com
+domain:coinglass.com
 domain:coinmap.org
 domain:coinmarketcap.com
 domain:coinonecore.com
@@ -5459,8 +5473,10 @@ domain:comffvpn.com
 domain:comfy.org
 domain:comfyci.org
 domain:comfyregistry.org
+domain:comic-growl.com
 domain:comic-mega.me
 domain:comicbox.xyz
+domain:comicbushi-web.com
 domain:comico.tw
 domain:comicscartoonporn.com
 domain:comicsporno.es
@@ -5819,6 +5835,7 @@ domain:d100.net
 domain:d2bay.com
 domain:d2mrry2to5rg.com
 domain:d2pass.com
+domain:d4dj-pj.com
 domain:da-files.com
 domain:da3dsoul.dev
 domain:daboja18.com
@@ -6725,6 +6742,7 @@ domain:dreamamateurs.com
 domain:dreambmw.ca
 domain:dreamforce.com
 domain:dreammovies.com
+domain:dreamorder.com
 domain:dreamteamfc.com
 domain:dreamtoplay.com
 domain:dreamworks.com
@@ -8219,6 +8237,7 @@ domain:fbthirdpartypixel.org
 domain:fburl.com
 domain:fbwat.ch
 domain:fbworkmail.com
+domain:fc-buddyfight.com
 domain:fc2.com
 domain:fc2blog.net
 domain:fc2china.com
@@ -9311,6 +9330,7 @@ domain:geilegratisporno.com
 domain:geileomas.com
 domain:geinoueroch.com
 domain:gekikame.com
+domain:gekkan-bushi.com
 domain:gelbooru.com
 domain:gelbooru.me
 domain:gemfire.net
@@ -10502,6 +10522,7 @@ domain:hhthesakyatrizin.org
 domain:hhvm.com
 domain:hibank24.com
 domain:hibdontire.com
+domain:hibiki-cast.jp
 domain:hicairo.com
 domain:hiccears.com
 domain:hidden-advent.org
@@ -12687,6 +12708,7 @@ domain:jtvnw.net
 domain:jubushoushen.com
 domain:judeporn.com
 domain:juggsjoy.com
+domain:juhuaren.com
 domain:juiceced.xyz
 domain:juicytwink.com
 domain:jukujo-club.com
@@ -15955,6 +15977,7 @@ domain:niziero.info
 domain:njactb.org
 domain:njav.tv
 domain:njavtv.com
+domain:njpw1972.com
 domain:njuice.com
 domain:nke6.com
 domain:nlfreevpn.com
@@ -18471,6 +18494,7 @@ domain:reastatic.net
 domain:reaxys.com
 domain:rebates.jp
 domain:rebatesrule.net
+domain:rebirth-fy.com
 domain:rebrandly.com
 domain:recelebrity.com
 domain:reckitt.net
@@ -18604,6 +18628,7 @@ domain:revleft.com
 domain:revocationcheck.com
 domain:revolv.com
 domain:revsci.net
+domain:revuestarlight.com
 domain:revver.com
 domain:rewrite-anime.tv
 domain:rexcha.com
@@ -19381,6 +19406,7 @@ domain:shadowsocks.nl
 domain:shadowsocks.nu
 domain:shadowsocks.org
 domain:shadowsocks9.com
+domain:shadowverse-evolve.com
 domain:shadowverse.jp
 domain:shafaqna.com
 domain:shahit.biz
@@ -23515,6 +23541,8 @@ domain:wrchina.org
 domain:wrenchead.com
 domain:wretch.cc
 domain:writesonic.com
+domain:ws-blau.com
+domain:ws-tcg.com
 domain:wsimg.com
 domain:wsj.com
 domain:wsj.jobs
@@ -23548,6 +23576,7 @@ domain:wwapple.net
 domain:wwe.com
 domain:wwe9.com
 domain:wwitv.com
+domain:wwr-stardom.com
 domain:wwtbam.com
 domain:www-bestbuystores.com
 domain:www-facebook.com
