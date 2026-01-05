@@ -22557,6 +22557,7 @@ domain:onxxxvideo.com
 domain:oocdtp.ac.uk
 domain:ood.opsource.net
 domain:oojj.de
+domain:ooni.io
 domain:ooni.org
 domain:oopsforum.com
 domain:ootbstudio.co.kr
@@ -32821,6 +32822,7 @@ domain:xbx.lv
 domain:xcafe.com
 domain:xcafe.in
 domain:xcams.com
+domain:xcancel.com
 domain:xcg123.com
 domain:xchina.co
 domain:xchina.fun
