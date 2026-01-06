@@ -1295,6 +1295,7 @@ domain:ai.dev
 domain:ai.google
 domain:ai.google.dev
 domain:ai.ls
+domain:ai.studio
 domain:ai3sd.ac.uk
 domain:ai7995.site
 domain:ai91porn.cc
@@ -25653,6 +25654,7 @@ domain:rutc.ac.uk
 domain:ruten.com.tw
 domain:rutherford.ac.uk
 domain:rutlandcollege.ac.uk
+domain:rutor.info
 domain:rutracker.cc
 domain:rutracker.cr
 domain:rutracker.me

@@ -1057,6 +1057,7 @@ domain:ai-wen.net
 domain:ai.dev
 domain:ai.google
 domain:ai.ls
+domain:ai.studio
 domain:ai7995.site
 domain:ai91porn.cc
 domain:aiasahi.jp
@@ -18923,6 +18924,7 @@ domain:rust-lang.org
 domain:rustdesk.com
 domain:rustup.rs
 domain:rusvpn.com
+domain:rutor.info
 domain:rutracker.cc
 domain:rutracker.cr
 domain:rutracker.me
