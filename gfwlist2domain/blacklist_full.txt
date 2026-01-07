@@ -16424,7 +16424,6 @@ domain:iss138.com
 domain:issitedownrightnow.com
 domain:issquaredown.com
 domain:issquareup.com
-domain:issues.chromium.org
 domain:issuu.com
 domain:istar.ac.uk
 domain:istars.co.nz
@@ -21418,6 +21417,15 @@ domain:nginx.com
 domain:nginx.org
 domain:nginxconfig.io
 domain:ngodupdongchung.com
+domain:ngrok-free.app
+domain:ngrok-free.dev
+domain:ngrok-free.pizza
+domain:ngrok.app
+domain:ngrok.com
+domain:ngrok.dev
+domain:ngrok.io
+domain:ngrok.pizza
+domain:ngrok.pro
 domain:ngs.ac.uk
 domain:ngwnet.ac.uk
 domain:nhc.ac.uk
@@ -23493,6 +23501,8 @@ domain:ping.fm
 domain:ping.pe
 domain:ping.sx
 domain:pingguotv.xyz
+domain:pinggy.io
+domain:pinggy.link
 domain:pingxiangpuer.com
 domain:pinimg.com
 domain:pinkcore.com
