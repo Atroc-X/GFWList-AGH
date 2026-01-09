@@ -35232,6 +35232,7 @@ domain:fnkslift.com
 domain:fnkvision.com
 domain:fnmobi.com
 domain:fnnas.com
+domain:fnnas.net
 domain:fnnsh.com
 domain:fnnspa.com
 domain:fnos.net
@@ -90191,6 +90192,7 @@ domain:tapafun.com
 domain:tapai.com
 domain:tapaijiu.com
 domain:tapapis.com
+domain:tapapks.com
 domain:tapas.net
 domain:tapbooster.net
 domain:tapdata.net
