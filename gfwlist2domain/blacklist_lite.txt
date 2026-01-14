@@ -6362,6 +6362,7 @@ domain:digitaltrends.com
 domain:diigo.com
 domain:dilber.se
 domain:dilcdn.com
+domain:dinopoloclub.com
 domain:dinotube.com
 domain:dipity.com
 domain:dirctv.com
@@ -16184,6 +16185,7 @@ domain:nowjav.com
 domain:nownews.com
 domain:nowtorrents.com
 domain:noxinfluencer.com
+domain:noxygames.com
 domain:noypf.com
 domain:nozomi.la
 domain:npm.community
@@ -18505,6 +18507,8 @@ domain:rawgit.com
 domain:rawgithub.com
 domain:rawstory.com
 domain:raxcdn.com
+domain:rayark.download
+domain:rayark.net
 domain:razer.com
 domain:razerofficial.com
 domain:razersupport.com

@@ -2043,7 +2043,9 @@ domain:anthropology.ac.uk
 domain:anti1984.com
 domain:antichristendom.com
 domain:anticipate.ac.uk
+domain:antigravity-pa.googleapis.com
 domain:antigravity.google
+domain:antigravity.googleapis.com
 domain:antiquity.ac.uk
 domain:antislavery.ac.uk
 domain:antislaverylaw.ac.uk
@@ -6979,11 +6981,13 @@ domain:cloud.cupronickel.goog
 domain:cloud.dify.ai
 domain:cloud.mail.ru
 domain:cloud.oracle.com
+domain:cloudaicompanion.googleapis.com
 domain:cloudapp.net
 domain:cloudappsecurity.com
 domain:cloudburstresearch.com
 domain:cloudc.one
 domain:cloudchoose.com
+domain:cloudcode-pa.googleapis.com
 domain:cloudcone.com
 domain:cloudcone.net
 domain:cloudconvert.com
@@ -8049,6 +8053,7 @@ domain:dagelijksestandaard.nl
 domain:dagfs.com
 domain:daidostup.ru
 domain:daiichibank.co.jp
+domain:daily-cloudcode-pa.googleapis.com
 domain:dailybasis.com
 domain:dailym.ai
 domain:dailymail.co.uk
@@ -8699,6 +8704,7 @@ domain:dilber.se
 domain:dilcdn.com
 domain:dilstoncollege.ac.uk
 domain:dingchin.com.tw
+domain:dinopoloclub.com
 domain:dinotube.com
 domain:dipity.com
 domain:dippam.ac.uk
@@ -20057,6 +20063,7 @@ domain:mobileview.page
 domain:mobilevrxxx.com
 domain:mobileways.de
 domain:mobilitymoodplace.ac.uk
+domain:mobimon.com.tw
 domain:mobmyanmar.com
 domain:moby.to
 domain:mobypicture.com
@@ -21859,7 +21866,9 @@ domain:nos.nl
 domain:notary-submissions-prod.s3-accelerate.amazonaws.com
 domain:notary-submissions-prod.s3.us-west-2.amazonaws.com
 domain:note.com
+domain:notebooklm-pa.googleapis.com
 domain:notebooklm.google
+domain:notebooklm.googleapis.com
 domain:notepad-plus-plus.org
 domain:notify.dropboxapi.com
 domain:notify.ppy.sh
@@ -21911,6 +21920,7 @@ domain:nownews.com
 domain:nowtorrents.com
 domain:nox.ac.uk
 domain:noxinfluencer.com
+domain:noxygames.com
 domain:noypf.com
 domain:nozomi.la
 domain:npa.go.jp
@@ -24945,6 +24955,8 @@ domain:rawgit.com
 domain:rawgithub.com
 domain:rawstory.com
 domain:raxcdn.com
+domain:rayark.download
+domain:rayark.net
 domain:razer.com
 domain:razerofficial.com
 domain:razersupport.com
