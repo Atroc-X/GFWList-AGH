@@ -120,6 +120,9 @@
 # hellotalk
 (@&!)hellotalk.com
 
+# teacherspayteachers
+(@&!)teacherspayteachers.com
+
 # gamma.app
 (@&!)gamma.app
 
