@@ -26909,6 +26909,8 @@ domain:signalr.net
 domain:signalusers.org
 domain:sigops.org
 domain:sigopt.com
+domain:sih-db.com
+domain:sih.app
 domain:sihe.ac.uk
 domain:sijihuisuo.club
 domain:sijihuisuo.com
@@ -27982,6 +27984,7 @@ domain:steamcontent.com
 domain:steamdb.info
 domain:steamdeck.com
 domain:steamgames.com
+domain:steaminventoryhelper.com
 domain:steamladder.com
 domain:steammobile.akamaized.net
 domain:steamofporn.com
