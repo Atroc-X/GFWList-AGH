@@ -28734,6 +28734,7 @@ domain:tdm.com.mo
 domain:tdotp.ac.uk
 domain:teachenergy.ac.uk
 domain:teacherfucksteens.com
+domain:teacherspayteachers.com
 domain:teachingaccessibility.ac.uk
 domain:teachingshakespeare.ac.uk
 domain:teachmyass.com
