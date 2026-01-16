@@ -33194,6 +33194,7 @@ domain:xuehua.us
 domain:xuite.net
 domain:xujan.com
 domain:xuzhiyong.net
+domain:xv-ru.com
 domain:xv1.monster
 domain:xvbelink.com
 domain:xvds.tv
@@ -33207,8 +33208,10 @@ domain:xvideo.vlog.br
 domain:xvideo1.org
 domain:xvideo2.org
 domain:xvideoporno.tv
+domain:xvideos-ar.com
 domain:xvideos-cdn.com
 domain:xvideos-dl.top
+domain:xvideos-india.com
 domain:xvideos-porn-video.com
 domain:xvideos-xxxx.com
 domain:xvideos.blog
