@@ -1625,7 +1625,10 @@ domain:aniscartujo.com
 domain:anistreaming.xyz
 domain:ankarazirvesi2018.com
 domain:annamilk.com
+domain:annas-archive.in
+domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pm
 domain:annas-archive.se
 domain:annatam.com
 domain:annstores.net

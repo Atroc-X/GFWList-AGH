@@ -1437,6 +1437,7 @@ domain:akamai-thailand.net
 domain:akamai-trials.com
 domain:akamai.co.kr
 domain:akamai.net
+domain:akamai.tvb.com
 domain:akamaiedge.net
 domain:akamaientrypoint.net
 domain:akamaietpcnctest.com
@@ -2006,7 +2007,10 @@ domain:anistreaming.xyz
 domain:ankarazirvesi2018.com
 domain:anm.co.uk
 domain:annamilk.com
+domain:annas-archive.in
+domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pm
 domain:annas-archive.se
 domain:annatam.com
 domain:anniesland-fe.ac.uk
