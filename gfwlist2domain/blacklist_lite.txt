@@ -16227,11 +16227,14 @@ domain:ntdtv-dc.com
 domain:ntdtv.ca
 domain:ntdtv.com
 domain:ntdtv.cz
+domain:ntdtv.fr
 domain:ntdtv.jp
 domain:ntdtv.kr
 domain:ntdtv.org
 domain:ntdtv.ru
+domain:ntdtv.se
 domain:ntdtvla.com
+domain:ntdvideo.tw
 domain:ntdvn.com
 domain:ntp-servers.net
 domain:ntp.se
