@@ -3484,6 +3484,7 @@ domain:battlefront2.com
 domain:battlefrontii.com
 domain:battlelog.com
 domain:battlenet.com
+domain:battleye.com
 domain:bavs.ac.uk
 domain:baxsound.com
 domain:bayareabmw.com
@@ -17566,6 +17567,7 @@ domain:kpinsurances.com
 domain:kpkuang.org
 domain:kpptoto.info
 domain:kqes.net
+domain:kraftonde.com
 domain:kraken.com
 domain:kraken.onl
 domain:krakenjs.com
@@ -23687,6 +23689,7 @@ domain:play4free.com
 domain:playapex.com
 domain:playartifact.com
 domain:playbar.biz
+domain:playbattlegrounds.com
 domain:playbeasts.com
 domain:playboy.com
 domain:playboy.com.uk
@@ -24535,6 +24538,8 @@ domain:pttyes.com
 domain:ptwxz.com
 domain:ptzwx.com
 domain:pub.dev
+domain:pubg.com
+domain:pubg1.battleye.com
 domain:public-sex-porn.com
 domain:public-trust.com
 domain:public-us-pingsx.api.clonoth.com
