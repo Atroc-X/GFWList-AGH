@@ -2095,23 +2095,17 @@ domain:aoxvpn.com
 domain:aoxx69.net
 domain:aozorabank.co.jp
 domain:ap-bangkok.myqcloud.com
-domain:ap-bangkok.tencentcos.cn
 domain:ap-bangkok.tencentcos.com
 domain:ap-hongkong.myqcloud.com
-domain:ap-hongkong.tencentcos.cn
 domain:ap-hongkong.tencentcos.com
 domain:ap-jakarta.myqcloud.com
-domain:ap-jakarta.tencentcos.cn
 domain:ap-jakarta.tencentcos.com
 domain:ap-mumbai.myqcloud.com
-domain:ap-mumbai.tencentcos.cn
 domain:ap-mumbai.tencentcos.com
 domain:ap-northeast-201.myhuaweicloud.com
 domain:ap-seoul.myqcloud.com
-domain:ap-seoul.tencentcos.cn
 domain:ap-seoul.tencentcos.com
 domain:ap-singapore.myqcloud.com
-domain:ap-singapore.tencentcos.cn
 domain:ap-singapore.tencentcos.com
 domain:ap-southeast-201.myhuaweicloud.com
 domain:ap-southeast-202.myhuaweicloud.com
@@ -2119,7 +2113,6 @@ domain:ap-southeast-203.myhuaweicloud.com
 domain:ap-southeast-4.myhuaweicloud.com
 domain:ap-southeast-5.myhuaweicloud.com
 domain:ap-tokyo.myqcloud.com
-domain:ap-tokyo.tencentcos.cn
 domain:ap-tokyo.tencentcos.com
 domain:ap.org
 domain:ap0le.com
@@ -5710,7 +5703,6 @@ domain:bynet.co.il
 domain:bypasscensorship.org
 domain:byrut.org
 domain:byspotify.com
-domain:bytedance.map.fastly.net
 domain:byteglb.com
 domain:byteoversea.com
 domain:byteoversea.net
@@ -10581,10 +10573,8 @@ domain:eu-central-201.myhuaweicloud.com
 domain:eu-central-202.myhuaweicloud.com
 domain:eu-consumer-empowerment.com
 domain:eu-frankfurt.myqcloud.com
-domain:eu-frankfurt.tencentcos.cn
 domain:eu-frankfurt.tencentcos.com
 domain:eu-moscow.myqcloud.com
-domain:eu-moscow.tencentcos.cn
 domain:eu-moscow.tencentcos.com
 domain:eu-north-201.myhuaweicloud.com
 domain:eu-west-1.myhuaweicloud.com
@@ -18204,6 +18194,7 @@ domain:liveleak.com
 domain:livemint.com
 domain:livemodels.co
 domain:livenet.ac.uk
+domain:liveperson.net
 domain:livephotos.tv
 domain:liveporngirls.com
 domain:liveprivates.com
@@ -18450,6 +18441,7 @@ domain:lp99.pw
 domain:lpc.ac.uk
 domain:lpmde.ac.uk
 domain:lpsg.com
+domain:lpsnmedia.net
 domain:lputil.com
 domain:lqh0bon3.xyz
 domain:lqpjw.cyou
@@ -20807,16 +20799,13 @@ domain:n3ro.net
 domain:n3ro.wtf
 domain:n8agrifood.ac.uk
 domain:na-ashburn.myqcloud.com
-domain:na-ashburn.tencentcos.cn
 domain:na-ashburn.tencentcos.com
 domain:na-att-idns.net
 domain:na-east-0.myhuaweicloud.com
 domain:na-me.ac.uk
 domain:na-siliconvalley.myqcloud.com
-domain:na-siliconvalley.tencentcos.cn
 domain:na-siliconvalley.tencentcos.com
 domain:na-toronto.myqcloud.com
-domain:na-toronto.tencentcos.cn
 domain:na-toronto.tencentcos.com
 domain:na1r.services.adobe.com
 domain:naacoalition.org
@@ -25777,7 +25766,6 @@ domain:s81c.com
 domain:s8ds5gfm.xyz
 domain:s8forum.com
 domain:sa-saopaulo.myqcloud.com
-domain:sa-saopaulo.tencentcos.cn
 domain:sa-saopaulo.tencentcos.com
 domain:sa.com
 domain:sa.hao123.com
@@ -25979,6 +25967,7 @@ domain:sbux.com.my
 domain:sbuxcard.com
 domain:sc-cdn.net
 domain:sc-toolkit.ac.uk
+domain:sc.com
 domain:sc1.ac.uk
 domain:sca-tolo.info
 domain:scaan.ac.uk
@@ -27832,7 +27821,10 @@ domain:stak.ac.uk
 domain:stamford.ac.uk
 domain:stamfordparktrust.ac.uk
 domain:standard.co.uk
+domain:standardchartered.com
 domain:standardsuniversity.org
+domain:standchartbank.sc.omtrdc.net
+domain:standchartbank.tt.omtrdc.net
 domain:standupfortibet.org
 domain:standwithhk.org
 domain:stanford.edu
@@ -28871,7 +28863,6 @@ domain:tempusuk.ac.uk
 domain:temu.com
 domain:tenacy.com
 domain:tenbyfotolia.com
-domain:tencentcos.cn
 domain:tenor.com
 domain:tensorflow.org
 domain:tentowns.ac.uk
@@ -30621,7 +30612,6 @@ domain:upmedia.mg
 domain:upmg.ac.uk
 domain:upornia.com
 domain:uporno.xxx
-domain:upos-hz-mirrorakam.akamaized.net
 domain:uproxy.org
 domain:uptodown.com
 domain:upwill.org
@@ -33772,6 +33762,9 @@ domain:youjizz.com
 domain:youjizz.sex
 domain:youlucky.com
 domain:youmaker.com
+domain:youmind.ai
+domain:youmind.com
+domain:youmind.site
 domain:young-amateur-movies.com
 domain:young-webcam.net
 domain:young-xxx.net
