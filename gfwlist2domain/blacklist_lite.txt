@@ -986,7 +986,6 @@ domain:adwords-community.com
 domain:adwords.com
 domain:adwordsexpress.com
 domain:adx.promo
-domain:ae-rus.net
 domain:ae.org
 domain:aeasyshop.com
 domain:aebn.com
@@ -997,7 +996,6 @@ domain:aerisapi.com
 domain:aerogardcn.com
 domain:aerospace-cadcam.com
 domain:aerospace-design.com
-domain:aestatic.net
 domain:aesworkshops.com
 domain:aex.com
 domain:af.mil
@@ -4394,9 +4392,7 @@ domain:bymj.io
 domain:bypasscensorship.org
 domain:byrut.org
 domain:byspotify.com
-domain:byteglb.com
 domain:byteoversea.com
-domain:byteoversea.net
 domain:bytick.com
 domain:bzazi.com
 domain:c-est-simple.com
@@ -5809,7 +5805,6 @@ domain:cuckwatchingwife.com
 domain:cuckwimp.com
 domain:cuebic.biz
 domain:cuffiesaldi.com
-domain:cuguplus.com
 domain:cuhkacs.org
 domain:cuihua.org
 domain:cuinc.tw
@@ -5828,7 +5823,6 @@ domain:cumswappingsis.com
 domain:cumteenporn.com
 domain:cunhua.pics
 domain:cuniq.com
-domain:cuniq.sg
 domain:cuntcrack.com
 domain:cuntempire.com
 domain:cuntwars.com
@@ -9430,6 +9424,7 @@ domain:geobasket.ru
 domain:geocities.com
 domain:geocities.jp
 domain:geodesummit.com
+domain:geogebra.org
 domain:geolytics.com
 domain:geoport.com
 domain:geospatialimaging.com
@@ -18963,7 +18958,6 @@ domain:ruleporn.com
 domain:rumah123.com
 domain:rumble.com
 domain:rumporn.com
-domain:rumt-us.com
 domain:run.app
 domain:runbtx.com
 domain:rundf665.cyou
@@ -21219,7 +21213,6 @@ domain:thepervs.com
 domain:thepiratebay.ee
 domain:thepiratebay.org
 domain:theplatform.com
-domain:thepoizon.ru
 domain:theporn.cc
 domain:thepornarea.com
 domain:thepornbest.com
@@ -23510,6 +23503,7 @@ domain:wiiugamepad.com
 domain:wiivc.net
 domain:wikaba.com
 domain:wikawika.xyz
+domain:wiki.gg
 domain:wikia.com
 domain:wikia.org
 domain:wikibooks.org
