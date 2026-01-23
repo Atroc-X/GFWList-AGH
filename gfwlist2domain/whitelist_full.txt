@@ -78898,6 +78898,7 @@ domain:redmagic.com
 domain:redmart.com
 domain:redmou.com
 domain:rednetdns.com
+domain:rednotecdn.com
 domain:redocn.com
 domain:redodopower.com
 domain:redoop.com

@@ -10152,6 +10152,8 @@ domain:encrypt.me
 domain:encryptedsni.com
 domain:encuentroscasualesoecuador.com
 domain:encyclopedia.com
+domain:eneba.com
+domain:eneba.games
 domain:enema-porn.com
 domain:enema-videos.com
 domain:enemabasics.com
@@ -22406,6 +22408,7 @@ domain:okpool.me
 domain:okx-dns.com
 domain:okx-dns1.com
 domain:okx-dns2.com
+domain:okx.cab
 domain:okx.com
 domain:olabloga.pl
 domain:old-cat.net
