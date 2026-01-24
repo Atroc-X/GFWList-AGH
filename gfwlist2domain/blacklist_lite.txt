@@ -3355,6 +3355,7 @@ domain:binance.us
 domain:binance.vision
 domain:binanceapi.com
 domain:binancecnt.com
+domain:binanceru.net
 domain:binancezh.be
 domain:binancezh.biz
 domain:binancezh.cc
