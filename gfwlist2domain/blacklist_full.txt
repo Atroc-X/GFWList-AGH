@@ -21,6 +21,7 @@ domain:1010.com.hk
 domain:101boyvideos.com
 domain:101tubeporn.com
 domain:101xxx.xyz
+domain:1024terabox.com
 domain:10beasts.net
 domain:10bet.com
 domain:10c10qoo.one
@@ -3304,6 +3305,7 @@ domain:babyzone.com
 domain:bach.ac.uk
 domain:backchina.com
 domain:backdoorlesbians.com
+domain:backend-v2.crixet.com
 domain:backoncourse.ac.uk
 domain:backpackers.com.tw
 domain:backroomcastingcouch.com
@@ -3980,6 +3982,7 @@ domain:bestbuystores.com
 domain:bestbuytradein.com
 domain:bestbuyus.com
 domain:bestcamsites.net
+domain:bestclouddrive.com
 domain:besterpornos.com
 domain:bestescortgirls.nl
 domain:bestforchina.org
@@ -7692,6 +7695,7 @@ domain:criticalfriend.ac.uk
 domain:criticaltheology.ac.uk
 domain:critiquebrainz.org
 domain:crittercism.com
+domain:crixet.com
 domain:crl.microsoft.com
 domain:crl.versign.net
 domain:crmdynint-gcc.com
@@ -12078,6 +12082,7 @@ domain:freess.org
 domain:freessh.us
 domain:freessl.com
 domain:freetcp.com
+domain:freeterabox.com
 domain:freetibet.net
 domain:freetibet.org
 domain:freetibetanheroes.org
@@ -12738,6 +12743,7 @@ domain:ghostarchive.org
 domain:ghostgames.com
 domain:ghostnoteapp.com
 domain:ghostpath.com
+domain:ghproxy.com
 domain:ghtv666.top
 domain:ghut.org
 domain:giantessbooru.com
@@ -22752,6 +22758,7 @@ domain:osmfoundation.org
 domain:osmosis.ac.uk
 domain:ospray.net
 domain:ospray.org
+domain:ospserver.net
 domain:oss-ap-northeast-1.aliyuncs.com
 domain:oss-ap-northeast-2.aliyuncs.com
 domain:oss-ap-south-1.aliyuncs.com
@@ -25599,6 +25606,7 @@ domain:rss.littlebaby.life
 domain:rss.owo.nz
 domain:rss.tips
 domain:rss.wudifeixue.com
+domain:rssforever.com
 domain:rsshub.app
 domain:rsshub.asailor.org
 domain:rsshub.email-once.com
@@ -28836,6 +28844,7 @@ domain:tensorflow.org
 domain:tentowns.ac.uk
 domain:tenzinpalmo.com
 domain:terabox.com
+domain:terabox1024.com
 domain:teraboxcdn.com
 domain:terapeack.com
 domain:terapeak.ca
