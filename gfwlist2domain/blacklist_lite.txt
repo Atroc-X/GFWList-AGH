@@ -2050,6 +2050,8 @@ domain:arirangmeari.com
 domain:ark.to
 domain:arkoselabs.com
 domain:arlingtoncemetery.mil
+domain:arma3.com
+domain:armaplatform.com
 domain:armorgames.com
 domain:armovs.com
 domain:army.mil
@@ -3399,6 +3401,7 @@ domain:biqle.ru
 domain:bird.so
 domain:bisq.io
 domain:bisq.network
+domain:bistudio.com
 domain:bit-z.com
 domain:bit.com
 domain:bit.do
@@ -3978,6 +3981,7 @@ domain:bod.asia
 domain:bodgirls.com
 domain:bodog88.com
 domain:bodyfluids-jav.com
+domain:bohemia.net
 domain:boingboing.net
 domain:bokep.net
 domain:bokepseks.org
@@ -6026,6 +6030,7 @@ domain:daylife.com
 domain:dayone.me
 domain:daytonbmw.com
 domain:daytontrucktires.com
+domain:dayz.com
 domain:dazn-api.com
 domain:dazn.com
 domain:dazndn.com
@@ -13921,6 +13926,7 @@ domain:mairbeats.com
 domain:maizhong.org
 domain:makaan.com
 domain:makeanything.com
+domain:makearmanotwar.com
 domain:makebettercode.com
 domain:makecode.org
 domain:makeitopen.com
@@ -19770,6 +19776,7 @@ domain:sih.app
 domain:sijihuisuo.club
 domain:sijihuisuo.com
 domain:sikiswap.com
+domain:silicagame.com
 domain:silicon-mobility.com
 domain:siliconmobility.com
 domain:silkbook.com
@@ -22660,6 +22667,7 @@ domain:vietdaikynguyen.com
 domain:viewerswives.net
 domain:viewgals.com
 domain:viewpointsfromfacebook.com
+domain:vigorgame.com
 domain:vijayatemple.org
 domain:vikacg.com
 domain:vikiporn.com
@@ -24564,6 +24572,7 @@ domain:yiqiedoushiganggangkaishi.org
 domain:yiyechat.com
 domain:yizhihongxing.com
 domain:yjcontentdelivery.com
+domain:ylands.com
 domain:ylive.jp
 domain:ymail.com
 domain:ymhsf.top
