@@ -2802,6 +2802,7 @@ domain:atgfw.org
 domain:athenaeizou.com
 domain:athens.ac.uk
 domain:atkgallery.com
+domain:atl-paas.net
 domain:atlanta168.com
 domain:atlantaminidealers.com
 domain:atlars.ac.uk
@@ -2809,6 +2810,7 @@ domain:atlas.ac.uk
 domain:atlasdmt.com
 domain:atlasonepoint.com
 domain:atlaspost.com
+domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
 domain:atnext.com
@@ -11750,6 +11752,9 @@ domain:fotolia.tv
 domain:fotolja.com
 domain:fotoscaserasx.com
 domain:foundationdb.org
+domain:foundationdns.com
+domain:foundationdns.net
+domain:foundationdns.org
 domain:foundationyear.ac.uk
 domain:fountmedia.io
 domain:fourface.nodesnoop.com
@@ -16877,6 +16882,7 @@ domain:jinsilubanzhao.com
 domain:jintian.net
 domain:jinvod.com
 domain:jinx.com
+domain:jira.com
 domain:jiruan.net
 domain:jisc-collections.ac.uk
 domain:jisc-content.ac.uk
@@ -26919,6 +26925,7 @@ domain:simcity.com
 domain:simg.jp
 domain:simgbb.com
 domain:simian.ac.uk
+domain:simianx.ai
 domain:similar-porn.fun
 domain:simility.com
 domain:simonsgirls.com
@@ -27712,6 +27719,7 @@ domain:srtcdn.net
 domain:srttu.edu
 domain:sruc.ac.uk
 domain:srwwu.uno
+domain:ss-inf.net
 domain:ss-link.com
 domain:ss.pythonic.life
 domain:ss2.us
