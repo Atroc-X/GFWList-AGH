@@ -1665,6 +1665,7 @@ domain:anxiangxing.com
 domain:anybunny.org
 domain:anybunny.tv
 domain:anydesk.com
+domain:anygate.vip
 domain:anyhentai.com
 domain:anyporn.com
 domain:anypornhd.com
@@ -6951,6 +6952,7 @@ domain:duckmylife.com
 domain:ducksear.ch
 domain:duckside.com
 domain:dudethrill.com
+domain:dudupro.com
 domain:dueapp.com
 domain:duga.jp
 domain:duihua.org
@@ -13699,7 +13701,6 @@ domain:lordofultima.com
 domain:lostbetsgames.com
 domain:lotcrap.com
 domain:lotsawahouse.org
-domain:lovart.ai
 domain:love4porn.com
 domain:love6.tv
 domain:love7.xyz
@@ -17354,8 +17355,6 @@ domain:pifpafarabia.com
 domain:pigav.com
 domain:pikabu.monster
 domain:pikpak.io
-domain:pikpak.me
-domain:pikpakdrive.com
 domain:pillbeatsblackfridaysale.com
 domain:pimg.tw
 domain:pin-cong.com
@@ -20863,6 +20862,7 @@ domain:tagwalk.com
 domain:taiav.com
 domain:tail-f.com
 domain:tailf.com
+domain:tails.net
 domain:tailscale.com
 domain:tailscale.io
 domain:tailwindtraders.com
@@ -21729,6 +21729,7 @@ domain:triokini.com
 domain:tristatebmw.com
 domain:trithucvn.net
 domain:trithucvn.org
+domain:tritondigital.com
 domain:trixhentai.com
 domain:trmini.com
 domain:troisrivieresmini.com
