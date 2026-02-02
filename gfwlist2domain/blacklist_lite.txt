@@ -4215,6 +4215,7 @@ domain:brutalbdsmtube.com
 domain:brutalfetish.com
 domain:brutaltgp.com
 domain:bs-adreview.com
+domain:bsappapi.com
 domain:bsersd.xyz
 domain:bsi.ir
 domain:bsky.app
@@ -19285,6 +19286,7 @@ domain:seesmic.com
 domain:seeurlpcl.com
 domain:seevpn.com
 domain:seezone.net
+domain:sega.jp
 domain:segment.com
 domain:sego8.cc
 domain:sego8.co

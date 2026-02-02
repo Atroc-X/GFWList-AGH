@@ -5436,6 +5436,7 @@ domain:brutaltgp.com
 domain:bs-adreview.com
 domain:bs-awh.ne.jp
 domain:bsa.ac.uk
+domain:bsappapi.com
 domain:bsaw.ac.uk
 domain:bsbec.ac.uk
 domain:bsdc.ac.uk
@@ -22906,6 +22907,7 @@ domain:paaypal.com
 domain:pachosting.com
 domain:pacifickitchenandhome.com
 domain:pacificpoker.com
+domain:packages.microsoft.com
 domain:packaging-cadcam.com
 domain:packagingcadcam.com
 domain:packagist.org
@@ -23646,6 +23648,7 @@ domain:pixtronix.com
 domain:pjbyj.top
 domain:pjful-app.lol
 domain:pjgirls.com
+domain:pjsekai.sega.jp
 domain:pk.com
 domain:pki-post.ch
 domain:pki-posta.ch
@@ -26301,6 +26304,7 @@ domain:seezone.net
 domain:sef.org.tw
 domain:sefton-acl.ac.uk
 domain:sefton.ac.uk
+domain:sega.jp
 domain:segment.com
 domain:sego8.cc
 domain:sego8.co
