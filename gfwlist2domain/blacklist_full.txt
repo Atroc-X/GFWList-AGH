@@ -7309,7 +7309,6 @@ domain:com.bo
 domain:com.bs
 domain:com.by
 domain:com.bz
-domain:com.co
 domain:com.cu
 domain:com.cy
 domain:com.de
@@ -25813,6 +25812,7 @@ domain:sale-nikeshoes.com
 domain:salebeatslasteststyle4you.com
 domain:saleblackfridaydrebeats.com
 domain:salecheaphandbags.com
+domain:salesforce-setup.com
 domain:salesforce.com
 domain:salesforce.org
 domain:salesforceiq.com
