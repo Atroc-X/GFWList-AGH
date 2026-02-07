@@ -2056,7 +2056,6 @@ domain:anxiangxing.com
 domain:anybunny.org
 domain:anybunny.tv
 domain:anydesk.com
-domain:anygate.vip
 domain:anyhentai.com
 domain:anyporn.com
 domain:anypornhd.com
@@ -4351,6 +4350,7 @@ domain:bitsquare.io
 domain:bitstamp.net
 domain:bitstream.com
 domain:bitterwinter.org
+domain:bittorrent.com
 domain:bittrex.com
 domain:bitvise.com
 domain:bitwarden.com
@@ -14042,6 +14042,7 @@ domain:helpshift.com
 domain:helpster.de
 domain:helpuyghursnow.org
 domain:helpzhuling.org
+domain:hembed.com
 domain:hendon.ac.uk
 domain:henduohao.com
 domain:henley-cov.ac.uk
@@ -18848,6 +18849,8 @@ domain:mantan-web.jp
 domain:mantochichi.com
 domain:manufacturingedc.ac.uk
 domain:manurefetish.com
+domain:manus.im
+domain:manuscdn.com
 domain:manytoon.com
 domain:manyvids.com
 domain:manyvoices.news
@@ -27054,6 +27057,7 @@ domain:sketchbookmobile.com
 domain:sketchbooknews.com
 domain:sketchbookpro.com
 domain:sketchfab.com
+domain:skills.sh
 domain:skillsbridge.ac.uk
 domain:skillscompetitionwales.ac.uk
 domain:skillsgroupuk.ac.uk
@@ -30775,6 +30779,7 @@ domain:v-resort.ac.uk
 domain:v.gd
 domain:v.roucdn
 domain:v2.help
+domain:v2.hysteria.network
 domain:v2board.com
 domain:v2ex.co
 domain:v2ex.com
