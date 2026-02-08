@@ -5394,6 +5394,8 @@ domain:codeforces.com
 domain:codei.sh
 domain:codeish.co
 domain:codeish.io
+domain:codeium.com
+domain:codeiumdata.com
 domain:codeplex.com
 domain:coderabbit.ai
 domain:codeshare.io
@@ -13276,9 +13278,7 @@ domain:lanmdh.net
 domain:lanniser-ylo.shop
 domain:lantern.io
 domain:lanternal.com
-domain:lanterncn.cn
 domain:lantosfoundation.org
-domain:laod.cn
 domain:laogai.org
 domain:laogairesearch.org
 domain:laomiu.com
@@ -20490,6 +20490,7 @@ domain:stateofthemap.org
 domain:static-cisco.com
 domain:static-economist.com
 domain:static-nike.com
+domain:static-storage.net
 domain:static-verizon.com
 domain:static.fun
 domain:statically.io
@@ -23568,6 +23569,7 @@ domain:wikipedia.com
 domain:wikipedia.org
 domain:wikiporn.tv
 domain:wikiquote.org
+domain:wikis.tw
 domain:wikisexguide.com
 domain:wikisource.org
 domain:wikiunblocked.org
@@ -23597,6 +23599,8 @@ domain:windowsphone-int.com
 domain:windowsphoneme.com
 domain:windowsuem.com
 domain:windscribe.com
+domain:windsurf.build
+domain:windsurf.com
 domain:windy.com
 domain:wingamestore.com
 domain:wingy.site

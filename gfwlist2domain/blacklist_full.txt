@@ -3512,7 +3512,6 @@ domain:bbs.hanminzu.org
 domain:bbs.huasing.org
 domain:bbs.junglobal.net
 domain:bbs.mikocon.com
-domain:bbs.morbell.com
 domain:bbs.mychat.to
 domain:bbs.naixi.net
 domain:bbs.nyinfor.com
@@ -4436,7 +4435,6 @@ domain:blog.google
 domain:blog.jackjia.com
 domain:blog.jp
 domain:blog.kangye.org
-domain:blog.lester850.info
 domain:blog.martinoei.com
 domain:blog.pathtosharepoint.com
 domain:blog.pentalogic.net
@@ -6244,7 +6242,6 @@ domain:cdn-terapeak.com
 domain:cdn-vk.ru
 domain:cdn.ac.uk
 domain:cdn.arstechnica.net
-domain:cdn.assets.lfpcontent.com
 domain:cdn.helixstudios.net
 domain:cdn.js7k.com
 domain:cdn.jsdelivr.net
@@ -7196,6 +7193,8 @@ domain:codeforces.com
 domain:codei.sh
 domain:codeish.co
 domain:codeish.io
+domain:codeium.com
+domain:codeiumdata.com
 domain:codeplex.com
 domain:coderabbit.ai
 domain:codeshare.io
@@ -14470,7 +14469,6 @@ domain:hkporn.net
 domain:hkptu.org
 domain:hkreadingcity.net
 domain:hkreporter.com
-domain:hkreporter.loved.hk
 domain:hkt-enterprise.com
 domain:hkt-eye.com
 domain:hkt.com
@@ -16867,7 +16865,6 @@ domain:jifangge.com
 domain:jigglegifs.com
 domain:jigong1024.com
 domain:jigsy.com
-domain:jihadintel.meforum.org
 domain:jihadology.net
 domain:jiji.com
 domain:jijiji.ca
@@ -17696,9 +17693,7 @@ domain:lanmdh.net
 domain:lanniser-ylo.shop
 domain:lantern.io
 domain:lanternal.com
-domain:lanterncn.cn
 domain:lantosfoundation.org
-domain:laod.cn
 domain:laogai.org
 domain:laogairesearch.org
 domain:laomiu.com
@@ -27939,6 +27934,7 @@ domain:static-cisco.com
 domain:static-economist.com
 domain:static-hamivideo.cdn.hinet.net
 domain:static-nike.com
+domain:static-storage.net
 domain:static-verizon.com
 domain:static.fun
 domain:static.pocketcasts.com
@@ -32337,6 +32333,7 @@ domain:wikipedia.com
 domain:wikipedia.org
 domain:wikiporn.tv
 domain:wikiquote.org
+domain:wikis.tw
 domain:wikisexguide.com
 domain:wikisource.org
 domain:wikiunblocked.org
@@ -32378,6 +32375,8 @@ domain:windowssearch.com
 domain:windowsuem.com
 domain:windscribe.com
 domain:windsor-forest.ac.uk
+domain:windsurf.build
+domain:windsurf.com
 domain:windy.com
 domain:wingamestore.com
 domain:wingy.site
@@ -33594,6 +33593,7 @@ domain:yamoon.club
 domain:yande.re
 domain:yandex-bank.net
 domain:yandex-images.clstorage.net
+domain:yandex-pogoda.static-storage.net
 domain:yandex-team.ru
 domain:yandex.aero
 domain:yandex.az
