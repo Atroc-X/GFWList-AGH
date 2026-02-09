@@ -258,7 +258,10 @@ domain:2du5.com
 domain:2gayboys.com
 domain:2k.com
 domain:2kcoretech.online
+domain:2kct.onl
 domain:2kgames.com
+domain:2ksports.com
+domain:2kweb.online
 domain:2lib.org
 domain:2lipstube.com
 domain:2o7.net
@@ -727,6 +730,7 @@ domain:acebooik.com
 domain:acebook.com
 domain:acer-group.com
 domain:aceros-de-hispania.com
+domain:acesofthunder.net
 domain:acevpn.com
 domain:acg.rip
 domain:acg18.me
@@ -760,6 +764,7 @@ domain:acrobat.com
 domain:actalis.com
 domain:actalis.it
 domain:actfortibet.org
+domain:activematter.game
 domain:activeteachonline.com
 domain:activpn.com
 domain:aculo.us
@@ -2073,6 +2078,7 @@ domain:artofpeacefoundation.org
 domain:artstation.com
 domain:artstationmedia.com
 domain:artstor.org
+domain:artstorm.com
 domain:artsy.net
 domain:arukas.io
 domain:arvanstorage.ir
@@ -5755,6 +5761,7 @@ domain:cromite.org
 domain:crossborderexpansion.com
 domain:crossfitfirestone.com
 domain:crossmediapanel.com
+domain:crossout.net
 domain:crossthewall.net
 domain:crossvpn.net
 domain:crosswalk-project.com
@@ -5764,6 +5771,7 @@ domain:crowdtangle.com
 domain:croxyproxy.com
 domain:crr.com
 domain:crrev.com
+domain:crsed.net
 domain:crtsgfb1.top
 domain:crucial.com
 domain:cruel-furies.com
@@ -5801,6 +5809,7 @@ domain:ctotires.com
 domain:ctowc.org
 domain:ctwant.com
 domain:cubicmotion.com
+domain:cubicodyssey.game
 domain:cuckfilmswifefuck.com
 domain:cuckold69.com
 domain:cuckoldfuck.com
@@ -7510,6 +7519,7 @@ domain:englishforeveryone.org
 domain:englishpen.org
 domain:enjoyasianporn.com
 domain:enjoyfuck.com
+domain:enlisted.net
 domain:enpass.io
 domain:enpirion.com
 domain:enspireformula.com
@@ -9245,6 +9255,8 @@ domain:gacebook.com
 domain:gaeproxy.com
 domain:gaforum.org
 domain:gagaoolala.com
+domain:gaijin.net
+domain:gaijinent.com
 domain:gaito.xyz
 domain:galaxymobile.jp
 domain:gale.com
@@ -14925,6 +14937,7 @@ domain:modeloswebcambogota.com
 domain:modelsfreecams.com
 domain:modeltv.com
 domain:modernchinastudies.org
+domain:modernwarships.com
 domain:modmyi.com
 domain:modoo.at
 domain:modperl.pl
@@ -18902,6 +18915,7 @@ domain:rocksdb.net
 domain:rocksdb.org
 domain:rocksextube.com
 domain:rockstargames.com
+domain:rockstarnorth.com
 domain:roedu.net
 domain:rojo.com
 domain:roku.com
@@ -20413,6 +20427,7 @@ domain:standupfortibet.org
 domain:standwithhk.org
 domain:stanford.edu
 domain:star-brasil.com
+domain:star-conflict.com
 domain:star-latam.com
 domain:starbucks-stars.com
 domain:starbucks.ad
@@ -23284,6 +23299,7 @@ domain:warnerbrosgames.com
 domain:warnermediacdn.com
 domain:warp.plus
 domain:warroom.org
+domain:warthunder.com
 domain:waselpro.com
 domain:washa.tv
 domain:washeng.net
@@ -23766,6 +23782,7 @@ domain:wsjshop.com
 domain:wsjwine.com
 domain:wtbn.org
 domain:wtfpeople.com
+domain:wtmobile.com
 domain:wto.org
 domain:wudifeixue.com
 domain:wuerkaixi.com
@@ -25103,6 +25120,9 @@ domain:zweiporn.com
 domain:zwtvusa.com
 domain:zynaima.com
 domain:zynamics.com
+domain:zynga.com
+domain:zyngaplayersupport.com
+domain:zyngapoker.com
 domain:zyns.com
 domain:zyxel.com
 domain:zyzc9.com
