@@ -2264,7 +2264,6 @@ domain:auricularesbeatsmarkt.com
 domain:auroraoss.com
 domain:ausbeatsbydrdre.com
 domain:auth0.com
-domain:authorizeddns.net
 domain:authorizeddns.org
 domain:authorxml.com
 domain:authpass.app
@@ -6075,9 +6074,7 @@ domain:dditscdn.com
 domain:ddns.info
 domain:ddns.mobi
 domain:ddns.ms
-domain:ddns.name
 domain:ddns.net
-domain:ddns.us
 domain:de-sci.org
 domain:de1lib.org
 domain:deadhouse.org
@@ -9531,6 +9528,7 @@ domain:gettyimages.nl
 domain:gettyimages.no
 domain:gettyimages.pt
 domain:gettyimages.se
+domain:gettyimages.us
 domain:getuploader.com
 domain:getws1.com
 domain:getwsone.com
@@ -11281,6 +11279,7 @@ domain:hungryclit.com
 domain:hunk.ws
 domain:huobi.co
 domain:huobi.com
+domain:huobi.li
 domain:huobi.me
 domain:huobi.pro
 domain:huobi.sc
@@ -25015,7 +25014,6 @@ domain:zhoushuguang.com
 domain:zhreader.com
 domain:zhtv01.com
 domain:zhuangbi.me
-domain:zhuanxing.cn
 domain:zhuatieba.com
 domain:zhuichaguoji.org
 domain:zhujiget.com

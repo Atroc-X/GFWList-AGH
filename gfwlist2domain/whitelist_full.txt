@@ -28534,6 +28534,7 @@ domain:ddbqgtxt.cc
 domain:ddcdn.com
 domain:ddcheshi.com
 domain:ddcits.com
+domain:ddcorp.net
 domain:ddcsjw.com
 domain:ddcwl.com
 domain:ddd-china.com
@@ -28550,6 +28551,7 @@ domain:dde-desktop.org
 domain:ddedush.com
 domain:ddfans.com
 domain:ddfchina.com
+domain:ddfresh.net
 domain:ddfzb.com
 domain:ddgjjj.com
 domain:ddguanhuai.com
@@ -28573,7 +28575,9 @@ domain:ddkt365.com
 domain:ddky.com
 domain:ddle.cc
 domain:ddlequ.com
+domain:ddmaicai.net
 domain:ddmap.com
+domain:ddmc.mobi
 domain:ddmer.com
 domain:ddmogo.com
 domain:ddnddn.com
@@ -52530,6 +52534,7 @@ domain:imagineadtech.com
 domain:imags-google.com
 domain:imahui.com
 domain:imaibo.net
+domain:imaicai.mobi
 domain:imaijia.com
 domain:imaitu.com
 domain:imalljoy.com
