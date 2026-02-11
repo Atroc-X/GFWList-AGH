@@ -101794,6 +101794,7 @@ domain:xhsf.com
 domain:xhslink.com
 domain:xhslw.com
 domain:xhsmlt.com
+domain:xhsrcdn.com
 domain:xhsrmyy.com
 domain:xhsxmt.com
 domain:xhsyqx.com
@@ -112514,6 +112515,7 @@ domain:zhipianbang.com
 domain:zhipianbang.vip
 domain:zhipin.com
 domain:zhipingke.com
+domain:zhipucn.com
 domain:zhipuzi.com
 domain:zhiqi.info
 domain:zhiqiang.org

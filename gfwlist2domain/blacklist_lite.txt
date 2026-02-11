@@ -7349,7 +7349,6 @@ domain:edgesuite.net
 domain:edicypages.com
 domain:edisebay.com
 domain:editorx.com
-domain:edmontonchina.cn
 domain:edmontonservice.com
 domain:edninfo.com
 domain:edns.biz
@@ -9828,6 +9827,8 @@ domain:google-syndication.com
 domain:google.ac
 domain:google.ad
 domain:google.ae
+domain:google.af
+domain:google.ai
 domain:google.al
 domain:google.am
 domain:google.as
@@ -9866,6 +9867,7 @@ domain:google.dm
 domain:google.dz
 domain:google.ee
 domain:google.es
+domain:google.eu
 domain:google.fi
 domain:google.fm
 domain:google.fr
@@ -9878,6 +9880,7 @@ domain:google.gm
 domain:google.gp
 domain:google.gr
 domain:google.gy
+domain:google.hk
 domain:google.hn
 domain:google.hr
 domain:google.ht
@@ -9910,6 +9913,7 @@ domain:google.ms
 domain:google.mu
 domain:google.mv
 domain:google.mw
+domain:google.mx
 domain:google.ne
 domain:google.net
 domain:google.ng
@@ -9947,8 +9951,10 @@ domain:google.tn
 domain:google.to
 domain:google.tt
 domain:google.uk
+domain:google.us
 domain:google.ventures
 domain:google.vg
+domain:google.vn
 domain:google.vu
 domain:google.ws
 domain:googleacquisitionmigration.com
@@ -12316,6 +12322,7 @@ domain:istripper.com
 domain:isunaffairs.com
 domain:isuntv.com
 domain:isupportuyghurs.org
+domain:it.ao
 domain:it.nf
 domain:ita-do.com
 domain:itaboo.info
@@ -13047,7 +13054,6 @@ domain:kenyasexparadise.com
 domain:keontech.net
 domain:kepard.com
 domain:kernel.org
-domain:keso.cn
 domain:kex.com
 domain:keybase.io
 domain:keybaseapi.com
@@ -18165,6 +18171,7 @@ domain:projectshoreline.com
 domain:projectvasari.com
 domain:projectvoyeur.com
 domain:promonsterbeatsbydre.com
+domain:prompthero.com
 domain:pron.guru
 domain:propertysex.com
 domain:proporn.com
@@ -18255,6 +18262,7 @@ domain:pugetsoundmini.com
 domain:pugpig-dev.com
 domain:pugpig-stage.com
 domain:pugpig.com
+domain:pullfolio.co
 domain:pullfolio.com
 domain:pullstring.net
 domain:pulsebrowser.app
