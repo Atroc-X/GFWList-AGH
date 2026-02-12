@@ -441,7 +441,6 @@ domain:5w.ag
 domain:5xsq.com
 domain:6-ar.com
 domain:60plusmilfs.com
-domain:611.icu
 domain:611study.com
 domain:611study.icu
 domain:61jxbs42.xyz
@@ -3452,7 +3451,6 @@ domain:bitwarden.com
 domain:bitwarden.eu
 domain:bitwarden.net
 domain:bitz.ai
-domain:bitz.com
 domain:bizarresexuality.com
 domain:bizhat.com
 domain:bizographics.com
@@ -5325,7 +5323,6 @@ domain:cnet.com
 domain:cnet.de
 domain:cnetfrance.fr
 domain:cnineu.com
-domain:cnitter.com
 domain:cnix-gov-cn.com
 domain:cnn.com
 domain:cnn.io
@@ -7323,7 +7320,6 @@ domain:echocdn.com
 domain:echofon.com
 domain:echosign.com
 domain:ecimg.tw
-domain:eckosia.org
 domain:eclipse.org
 domain:ecministry.net
 domain:ecoforme.jp
@@ -9538,7 +9534,6 @@ domain:gfashion.com
 domain:gfbv.de
 domain:gfjizz.com
 domain:gfleaks.com
-domain:gfnormal05at.com
 domain:gfotolia.com
 domain:gfpics.com
 domain:gfpornbox.com
@@ -9804,7 +9799,6 @@ domain:good-gay.com
 domain:good.news
 domain:gooday.xyz
 domain:gooddaychicago.com
-domain:gooddns.info
 domain:goodhope.school
 domain:goodnewsnetwork.org
 domain:goodporn.to
@@ -13655,6 +13649,7 @@ domain:lobstertube.com
 domain:localbitcoins.com
 domain:localbitcoinschain.com
 domain:localdomain.ws
+domain:localhost.com
 domain:localizejs.com
 domain:localizestatus.com
 domain:localpresshk.com
@@ -14082,7 +14077,6 @@ domain:masalladeloslimites.com
 domain:mash.to
 domain:mashaalradio.com
 domain:mashable.com
-domain:mashash.com
 domain:mashiro.site
 domain:mask.me
 domain:maskedip.com
@@ -16964,7 +16958,6 @@ domain:paon.site
 domain:papalah.com
 domain:paper.li
 domain:paperb.us
-domain:paperclip.tk
 domain:papermc.io
 domain:paradisehill.cc
 domain:paradisehotelquizfox.com
@@ -18367,7 +18360,6 @@ domain:qingenporn.net
 domain:qingse.one
 domain:qise100.com
 domain:qiwen.lu
-domain:qixianglu.cn
 domain:qkjuyet.com
 domain:qkshare.com
 domain:qlink.to
@@ -22444,7 +22436,6 @@ domain:valvesoftware.com
 domain:van001.com
 domain:van698.com
 domain:vancouverbmwretailers.ca
-domain:vanemu.cn
 domain:vanilla-jp.com
 domain:vanish.at
 domain:vanish.be
@@ -24884,7 +24875,6 @@ domain:ytimg.com
 domain:yts.ag
 domain:yts.am
 domain:yts.lt
-domain:yts.mx
 domain:yuanming.net
 domain:yuanzhengtang.org
 domain:yuenuge113.xyz

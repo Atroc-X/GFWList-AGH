@@ -475,7 +475,6 @@ domain:5w.ag
 domain:5xsq.com
 domain:6-ar.com
 domain:60plusmilfs.com
-domain:611.icu
 domain:611study.com
 domain:611study.icu
 domain:61jxbs42.xyz
@@ -808,6 +807,10 @@ domain:accbusiness.com
 domain:acceleratedcomputing.ac.uk
 domain:acces-vod.com
 domain:access-summit.ac.uk
+domain:access.mypikpak.com
+domain:access.mypikpak.net
+domain:access.pikpak.me
+domain:access.pikpakdrive.com
 domain:accesscollege.ac.uk
 domain:accesscreative.ac.uk
 domain:accessfacebookfromschool.com
@@ -2116,12 +2119,14 @@ domain:apetube.com
 domain:apexlegends.com
 domain:apexprint.com.hk
 domain:aphe.ac.uk
+domain:api-drive.mypikpak.com
 domain:api-extractor.com
 domain:api-p.videomarket.jp
 domain:api-secure.recaptcha.net
 domain:api-verify.recaptcha.net
 domain:api.ai
 domain:api.dropboxapi.com
+domain:api.ipify.org
 domain:api.mixpanel.com
 domain:api.nebula-emby.com
 domain:api.news
@@ -3059,7 +3064,6 @@ domain:av-th.net
 domain:av-top.com
 domain:av.com
 domain:av.movie
-domain:av.nightlife141.com
 domain:av01.tv
 domain:av11.org
 domain:av1688.cc
@@ -3517,7 +3521,6 @@ domain:bbs.mikocon.com
 domain:bbs.mychat.to
 domain:bbs.naixi.net
 domain:bbs.nyinfor.com
-domain:bbs.sina.com
 domain:bbs.sou-tong.org
 domain:bbs.tuitui.info
 domain:bbsdigest.com
@@ -4357,7 +4360,6 @@ domain:bitwarden.com
 domain:bitwarden.eu
 domain:bitwarden.net
 domain:bitz.ai
-domain:bitz.com
 domain:bizarresexuality.com
 domain:bizhat.com
 domain:bizographics.com
@@ -4421,7 +4423,6 @@ domain:blockfrost.io
 domain:blockless.com
 domain:blocktempo.com
 domain:blog.br
-domain:blog.cnyes.com
 domain:blog.com
 domain:blog.cryptographyengineering.com
 domain:blog.de
@@ -4433,7 +4434,6 @@ domain:blog.fuckgfw233.org
 domain:blog.google
 domain:blog.jackjia.com
 domain:blog.jp
-domain:blog.kangye.org
 domain:blog.martinoei.com
 domain:blog.pathtosharepoint.com
 domain:blog.pentalogic.net
@@ -6236,7 +6236,6 @@ domain:cdn-terapeak.com
 domain:cdn-vk.ru
 domain:cdn.ac.uk
 domain:cdn.arstechnica.net
-domain:cdn.helixstudios.net
 domain:cdn.js7k.com
 domain:cdn.jsdelivr.net
 domain:cdn.jwplayer.com
@@ -7088,7 +7087,6 @@ domain:cnet.de
 domain:cnetfrance.fr
 domain:cnex.org.cn
 domain:cnineu.com
-domain:cnitter.com
 domain:cnivogue.com.au
 domain:cnix-gov-cn.com
 domain:cnn.com
@@ -8038,7 +8036,6 @@ domain:dailymail.com.au
 domain:dailymail.dk
 domain:dailymailonline.com
 domain:dailymotion.com
-domain:dailynews.sina.com
 domain:dailyporn.club
 domain:dailysabah.com
 domain:dailytelegraph.com.au
@@ -8451,7 +8448,6 @@ domain:demdex.net
 domain:dementianet.ac.uk
 domain:dementiaresearchinstitute.ac.uk
 domain:demfhz.xyz
-domain:demo.opera-mini.net
 domain:demo.unlock-music.dev
 domain:democracy.earth
 domain:democrats.org
@@ -8481,7 +8477,6 @@ domain:derbyals.ac.uk
 domain:derbycollege.ac.uk
 domain:derbyonline.ac.uk
 domain:derbyshire.ac.uk
-domain:derekhsu.homeip.net
 domain:deribit.cdn.prismic.io
 domain:deribit.com
 domain:derpibooru.org
@@ -9877,7 +9872,6 @@ domain:echocdn.com
 domain:echofon.com
 domain:echosign.com
 domain:ecimg.tw
-domain:eckosia.org
 domain:eclipse.ac.uk
 domain:eclipse.org
 domain:eclw.ac.uk
@@ -10582,7 +10576,6 @@ domain:evaelfie.com
 domain:evalviewer.com
 domain:evanottyvideos.com
 domain:evchk.wikia.com
-domain:evchk.wikia.org
 domain:evemodels.com
 domain:even.stream
 domain:eventsinfocus.org
@@ -10785,6 +10778,7 @@ domain:facebook.br
 domain:facebook.ca
 domain:facebook.cc
 domain:facebook.com
+domain:facebook.com.br
 domain:facebook.de
 domain:facebook.design
 domain:facebook.hu
@@ -11715,7 +11709,6 @@ domain:fortune.ac.uk
 domain:fortunecentre.ac.uk
 domain:fortuneinsight.com
 domain:forum.cyberctm.com
-domain:forum.mymaji.com
 domain:forum.slime.com.tw
 domain:forum.tvb.com
 domain:forum4hk.com
@@ -12700,7 +12693,6 @@ domain:gfbv.de
 domain:gfgold.com.hk
 domain:gfjizz.com
 domain:gfleaks.com
-domain:gfnormal05at.com
 domain:gfotolia.com
 domain:gfpics.com
 domain:gfpornbox.com
@@ -12807,7 +12799,6 @@ domain:github.com
 domain:github.community
 domain:github.dev
 domain:github.io
-domain:github.moeyy.xyz
 domain:github1s.com
 domain:githubapp.com
 domain:githubassets.com
@@ -13059,7 +13050,6 @@ domain:good-gay.com
 domain:good.news
 domain:gooday.xyz
 domain:gooddaychicago.com
-domain:gooddns.info
 domain:goodenough.ac.uk
 domain:goodhope.school
 domain:goodnewsnetwork.org
@@ -14525,8 +14515,6 @@ domain:home-made-videos.com
 domain:home-sex-tapes.com
 domain:home-song.com
 domain:home.saxo
-domain:home.sina.com
-domain:home.so-net.net.tw
 domain:homealonemilfs.com
 domain:homebox.com
 domain:homeboxoffice.com
@@ -16120,7 +16108,6 @@ domain:intercom.io
 domain:intercomassets.com
 domain:intercomcdn.com
 domain:international-house-london.ac.uk
-domain:international-news.newsmagazine.asia
 domain:international-union-crystallography.ac.uk
 domain:international.ac.uk
 domain:internationalcollegedundee.ac.uk
@@ -16370,7 +16357,6 @@ domain:iris.ac.uk
 domain:iriss.ac.uk
 domain:irna.ir
 domain:iromod91.info
-domain:ironbigfools.compython.net
 domain:ironna.jp
 domain:ironpython.net
 domain:ironsocket.com
@@ -17849,7 +17835,6 @@ domain:left21.hk
 domain:legacy.ac.uk
 domain:legalporno.com
 domain:legalscholars.ac.uk
-domain:legaltech.law.com
 domain:legaltracker.com
 domain:leggott.ac.uk
 domain:legra.ph
@@ -18250,6 +18235,7 @@ domain:lobstertube.com
 domain:localbitcoins.com
 domain:localbitcoinschain.com
 domain:localdomain.ws
+domain:localhost.com
 domain:localizejs.com
 domain:localizestatus.com
 domain:localpresshk.com
@@ -18568,7 +18554,6 @@ domain:m-sport.co.uk
 domain:m.hkgalden.com
 domain:m.me
 domain:m.moegirl.org
-domain:m.plixi.com
 domain:m1.ppy.sh
 domain:m12.vc
 domain:m25lib.ac.uk
@@ -18909,7 +18894,6 @@ domain:masc25.ac.uk
 domain:mash.to
 domain:mashaalradio.com
 domain:mashable.com
-domain:mashash.com
 domain:mashiro.site
 domain:mask.me
 domain:maskedip.com
@@ -20521,6 +20505,7 @@ domain:my-magazine.me
 domain:my-private-network.co.uk
 domain:my-proxy.com
 domain:my.mail.ru
+domain:my.navy.mil
 domain:my.pcloud.com
 domain:my.weibo.com
 domain:my03.com
@@ -20609,7 +20594,6 @@ domain:myfontastic.com
 domain:myfonts.com
 domain:myfonts.net
 domain:myforum.com.hk
-domain:myforum.com.uk
 domain:myfoxatlanta.com
 domain:myfoxaustin.com
 domain:myfoxboston.com
@@ -21272,11 +21256,9 @@ domain:newpipe.net
 domain:newport.ac.uk
 domain:newpppp.com
 domain:newroutephd.ac.uk
-domain:news.cnyes.com
 domain:news.co.uk
 domain:news.com.au
 domain:news.ebc.net.tw
-domain:news.hk.msn.com
 domain:news.mt.co.kr
 domain:news.net.au
 domain:news.seehua.com
@@ -21711,7 +21693,6 @@ domain:njpw1972.com
 domain:njuice.com
 domain:nkc.ac.uk
 domain:nke6.com
-domain:nko.navy.mil
 domain:nkw.ac.uk
 domain:nlc.ac.uk
 domain:nlfreevpn.com
@@ -22239,7 +22220,6 @@ domain:nwy.ac.uk
 domain:nxta.org
 domain:nxtdig.com.hk
 domain:nxtdig.com.tw
-domain:ny.stgloballink.com
 domain:nyaa.eu
 domain:nyaa.net
 domain:nyaa.si
@@ -22969,7 +22949,6 @@ domain:papalah.com
 domain:paper-attachments.s3.amazonaws.com
 domain:paper.li
 domain:paperb.us
-domain:paperclip.tk
 domain:papermc.io
 domain:paradigm.ac.uk
 domain:paradisehill.cc
@@ -24650,7 +24629,6 @@ domain:qingenporn.net
 domain:qingse.one
 domain:qise100.com
 domain:qiwen.lu
-domain:qixianglu.cn
 domain:qkjuyet.com
 domain:qkshare.com
 domain:qlink.to
@@ -26993,7 +26971,6 @@ domain:site2unblock.com
 domain:site90.net
 domain:sitebro.tw
 domain:sitekreator.com
-domain:siteks.uk.to
 domain:sitemaps.org
 domain:sitepoint.com
 domain:siterips.org
@@ -30633,7 +30610,6 @@ domain:usfk.mil
 domain:usgs.gov
 domain:ushare.ac.uk
 domain:ushaw.ac.uk
-domain:usinfo.state.gov
 domain:usma.edu
 domain:usmc.mil
 domain:usmgtcg.ning.com
@@ -30769,7 +30745,6 @@ domain:vamsas.ac.uk
 domain:van001.com
 domain:van698.com
 domain:vancouverbmwretailers.ca
-domain:vanemu.cn
 domain:vanilla-jp.com
 domain:vanish.at
 domain:vanish.be
@@ -32252,7 +32227,6 @@ domain:wiiugamepad.com
 domain:wiivc.net
 domain:wikaba.com
 domain:wikawika.xyz
-domain:wiki.cnitter.com
 domain:wiki.esu.im
 domain:wiki.gamerp.jp
 domain:wiki.gg
@@ -32409,7 +32383,6 @@ domain:wldfnjh.com
 domain:wlpms.ac.uk
 domain:wlu.ac.uk
 domain:wlv.ac.uk
-domain:wlx.sowiki.net
 domain:wm-air.ac.uk
 domain:wm18s.buzz
 domain:wma.ac.uk
@@ -32731,7 +32704,6 @@ domain:www.hustlercash.com
 domain:www.idlcoyote.com
 domain:www.imdb.com
 domain:www.kindleren.com
-domain:www.lamenhu.com
 domain:www.lorenzetti.com.br
 domain:www.m-sport.co.uk
 domain:www.monlamit.org
@@ -34035,7 +34007,6 @@ domain:ytn.co.kr
 domain:yts.ag
 domain:yts.am
 domain:yts.lt
-domain:yts.mx
 domain:yuanming.net
 domain:yuanzhengtang.org
 domain:yuenuge113.xyz
