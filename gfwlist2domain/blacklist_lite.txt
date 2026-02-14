@@ -1719,6 +1719,7 @@ domain:apkmonk.com
 domain:apkplz.com
 domain:apkpure.com
 domain:apkpure.net
+domain:apkpures.xyz
 domain:aple.com
 domain:aplestore.com
 domain:aplleipods.com
@@ -2216,6 +2217,7 @@ domain:attcenter.com
 domain:attcollaborate.com
 domain:attdns.com
 domain:attdns.net
+domain:attestation.app
 domain:attexperts.com
 domain:attglobal.net
 domain:attic.io
@@ -10076,6 +10078,19 @@ domain:grannylovesyoungcock.com
 domain:grannytube.net
 domain:granulate.io
 domain:graph.org
+domain:grapheneos.app
+domain:grapheneos.ca
+domain:grapheneos.com
+domain:grapheneos.dev
+domain:grapheneos.foundation
+domain:grapheneos.info
+domain:grapheneos.net
+domain:grapheneos.network
+domain:grapheneos.online
+domain:grapheneos.org
+domain:grapheneos.ovh
+domain:grapheneos.page
+domain:grapheneos.social
 domain:graphengine.io
 domain:graphql.org
 domain:gravatar.com
@@ -18401,6 +18416,7 @@ domain:qualcommretail.com
 domain:qualcommventures.cn
 domain:qualcommventures.com
 domain:qualphone.com
+domain:qualtrics.com
 domain:quanben-xiaoshuo.com
 domain:quanben.io
 domain:quannengshen.org
@@ -19262,6 +19278,7 @@ domain:sdcountybmw.com
 domain:sdnice.one
 domain:sdnitube.buzz
 domain:seagroup.com
+domain:seamlessupdate.app
 domain:seamonkey-project.org
 domain:seancody.com
 domain:seaofsolitude.com
@@ -22435,6 +22452,7 @@ domain:valuegb.com
 domain:valvesoftware.com
 domain:van001.com
 domain:van698.com
+domain:vanadium.app
 domain:vancouverbmwretailers.ca
 domain:vanilla-jp.com
 domain:vanish.at
