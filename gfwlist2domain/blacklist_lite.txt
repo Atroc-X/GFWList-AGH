@@ -5224,6 +5224,7 @@ domain:clitgames.com
 domain:cloakpoint.com
 domain:clojure.org
 domain:clonoth.com
+domain:cloud.run
 domain:cloudapp.net
 domain:cloudappsecurity.com
 domain:cloudburstresearch.com
@@ -5286,6 +5287,7 @@ domain:cloudokyo.cloud
 domain:cloudpartnerservices.goog
 domain:cloudproxy.app
 domain:cloudrobotics.com
+domain:cloudskillsboost.google
 domain:cloudvolumes.com
 domain:cloudyzgirl.com
 domain:cloupia.com
@@ -5485,7 +5487,6 @@ domain:com.fr
 domain:com.ge
 domain:com.gh
 domain:com.gi
-domain:com.google
 domain:com.gr
 domain:com.gt
 domain:com.gy
@@ -9699,6 +9700,7 @@ domain:glyphsapp.com
 domain:gmail.com
 domain:gmauthority.com
 domain:gmgard.com
+domain:gmgn.ai
 domain:gmhz.org
 domain:gmiddle.com
 domain:gmiddle.net
@@ -9985,6 +9987,7 @@ domain:googlemaps.com
 domain:googlemaps.sv
 domain:googlemashups.com
 domain:googlepagecreator.com
+domain:googlepages.com
 domain:googlephotos.com
 domain:googleplay.com
 domain:googleplex.com
@@ -15936,6 +15939,7 @@ domain:nhncorp.jp
 domain:nianticlabs.com
 domain:nic.cz
 domain:nic.gov
+domain:nic.youtube
 domain:niceanimegames.com
 domain:niceporn.tv
 domain:nicesrv.de
@@ -16392,6 +16396,7 @@ domain:nuuporn.com
 domain:nuuvem.com
 domain:nuvid.com
 domain:nuzcom.com
+domain:nuzzel.com
 domain:nvdst.com
 domain:nverxs.xyz
 domain:nvidia.asia
@@ -21600,6 +21605,7 @@ domain:tomovie.net
 domain:tomp3.cc
 domain:tomsguide.com
 domain:tomshardware.com
+domain:ton.org
 domain:tonec.com
 domain:tonicmovies.com
 domain:tono-oka.jp
@@ -23265,12 +23271,14 @@ domain:wal.co
 domain:wallet.com
 domain:wallet.google
 domain:walletconnect.com
+domain:walletconnect.org
 domain:wallhaven.cc
 domain:wallmama.com
 domain:wallornot.org
 domain:wallpapercasa.com
 domain:wallproxy.com
 domain:wallsttv.com
+domain:wallzhihu.com
 domain:walmart-content.com
 domain:walmart.com
 domain:walmart.pharmacy

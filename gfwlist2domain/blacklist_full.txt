@@ -6960,6 +6960,7 @@ domain:cloud.cupronickel.goog
 domain:cloud.dify.ai
 domain:cloud.mail.ru
 domain:cloud.oracle.com
+domain:cloud.run
 domain:cloudaicompanion.googleapis.com
 domain:cloudapp.net
 domain:cloudappsecurity.com
@@ -7025,6 +7026,7 @@ domain:cloudokyo.cloud
 domain:cloudpartnerservices.goog
 domain:cloudproxy.app
 domain:cloudrobotics.com
+domain:cloudskillsboost.google
 domain:cloudsync-prod.s3.amazonaws.com
 domain:cloudvolumes.com
 domain:cloudworks.ac.uk
@@ -7310,7 +7312,6 @@ domain:com.fr
 domain:com.ge
 domain:com.gh
 domain:com.gi
-domain:com.google
 domain:com.gr
 domain:com.gt
 domain:com.gy
@@ -12924,6 +12925,7 @@ domain:gmc.ac.uk
 domain:gmcg.ac.uk
 domain:gmcyberfoundry.ac.uk
 domain:gmgard.com
+domain:gmgn.ai
 domain:gmhigher.ac.uk
 domain:gmhz.org
 domain:gmiddle.com
@@ -13328,6 +13330,7 @@ domain:googlemaps.com
 domain:googlemaps.sv
 domain:googlemashups.com
 domain:googlepagecreator.com
+domain:googlepages.com
 domain:googlephotos.com
 domain:googleplay.com
 domain:googleplex.com
@@ -21445,6 +21448,7 @@ domain:nibsc.ac.uk
 domain:nic.cz
 domain:nic.cz.cc
 domain:nic.gov
+domain:nic.youtube
 domain:nicats.ac.uk
 domain:nicd.ac.uk
 domain:niceanimegames.com
@@ -22158,6 +22162,7 @@ domain:nuuporn.com
 domain:nuuvem.com
 domain:nuvid.com
 domain:nuzcom.com
+domain:nuzzel.com
 domain:nvdst.com
 domain:nverxs.xyz
 domain:nvidia.asia
@@ -29501,6 +29506,7 @@ domain:tomovie.net
 domain:tomp3.cc
 domain:tomsguide.com
 domain:tomshardware.com
+domain:ton.org
 domain:tonec.com
 domain:tongil.or.kr
 domain:tonicmovies.com
@@ -31836,12 +31842,14 @@ domain:walker.ac.uk
 domain:wallet.com
 domain:wallet.google
 domain:walletconnect.com
+domain:walletconnect.org
 domain:wallhaven.cc
 domain:wallmama.com
 domain:wallornot.org
 domain:wallpapercasa.com
 domain:wallproxy.com
 domain:wallsttv.com
+domain:wallzhihu.com
 domain:walmart-content.com
 domain:walmart.com
 domain:walmart.pharmacy
