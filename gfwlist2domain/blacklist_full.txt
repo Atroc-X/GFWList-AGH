@@ -1485,7 +1485,6 @@ domain:airwickarabia.com
 domain:aisejushi.com
 domain:aisex.com
 domain:aishegw.com
-domain:aiss.anws.gov.tw
 domain:ait.org.tw
 domain:aiv-cdn.net
 domain:aiv-cdn.net.c.footprint.net
@@ -28634,7 +28633,6 @@ domain:tabtter.jp
 domain:tabustudios.co
 domain:tacamateurs.com
 domain:tacc.ac.uk
-domain:tacc.cwb.gov.tw
 domain:tacem.org
 domain:tachusz.xyz
 domain:taconet.com.tw
@@ -30141,6 +30139,7 @@ domain:twelve.today
 domain:twenty65.ac.uk
 domain:twerkingbutt.com
 domain:twftp.org
+domain:twgov.tw
 domain:twgreatdaily.com
 domain:twgreatnews.com
 domain:twhentai.com
