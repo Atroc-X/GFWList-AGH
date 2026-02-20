@@ -234,6 +234,7 @@ domain:22112211.xyz
 domain:233abc.com
 domain:233v2.com
 domain:2371tom.com
+domain:24h.tv
 domain:24hjav.com
 domain:24hrs.ca
 domain:24porn.com
@@ -715,6 +716,7 @@ domain:aboutyourmini.com
 domain:abow.jp
 domain:abpchina.org
 domain:abplive.com
+domain:abr.ru
 domain:abs.edu
 domain:absoluporn.com
 domain:absolutewhores.com
@@ -1284,6 +1286,7 @@ domain:alchemysynth.com
 domain:alexa.com
 domain:alexanderstreet.com
 domain:alexlur.org
+domain:alfabank.ru
 domain:alfera.in
 domain:alfera.my
 domain:alforattv.net
@@ -1558,6 +1561,7 @@ domain:amebame.com
 domain:amebaownd.com
 domain:amebaowndme.com
 domain:ameblo.jp
+domain:amediateka.ru
 domain:america.gov
 domain:american.edu
 domain:americangreencard.com
@@ -2519,6 +2523,8 @@ domain:avidemux.org
 domain:avinetworks.com
 domain:avinin.com
 domain:avira.com
+domain:avito.ru
+domain:avito.st
 domain:avizoon.site
 domain:avizoone.com
 domain:avjb.com
@@ -2752,6 +2758,7 @@ domain:bangumi.tv
 domain:bangyoulater.com
 domain:bangyourwife.com
 domain:bank-maskan.ir
+domain:bankline.ru
 domain:bankmellat.ir
 domain:bankmobilevibe.com
 domain:banksepah.ir
@@ -4803,6 +4810,7 @@ domain:cdkworkshop.com
 domain:cdmatech.com
 domain:cdn-telegram.org
 domain:cdn-terapeak.com
+domain:cdn-tinkoff.ru
 domain:cdn-vk.ru
 domain:cdn77.com
 domain:cdn77.org
@@ -4815,6 +4823,7 @@ domain:cdnmhwscc.vip
 domain:cdnpure.com
 domain:cdnst.net
 domain:cdnuc.vip
+domain:cdnvideo.ru
 domain:cdnxxx-proxy.co
 domain:cdnxxx-proxy.xyz
 domain:cdp1989.org
@@ -6116,6 +6125,7 @@ domain:db.tt
 domain:dba.dk
 domain:dbc.hk
 domain:dbgjd.com
+domain:dbo-dengi.online
 domain:dc-msedge.net
 domain:dcard.cc
 domain:dcard.io
@@ -9444,6 +9454,7 @@ domain:gayvl.net
 domain:gaywatch.com
 domain:gazotube.com
 domain:gazounabi.com
+domain:gazprombank.ru
 domain:gbnews.uk
 domain:gbxml.net
 domain:gcld-line.com
@@ -9554,6 +9565,7 @@ domain:geti2p.net
 domain:getiton.com
 domain:getjetso.com
 domain:getlantern.org
+domain:getliner.com
 domain:getmalus.com
 domain:getmdl.io
 domain:getnews.jp
@@ -10114,6 +10126,7 @@ domain:gov.taipei
 domain:gov.tw
 domain:governmentengineer.com
 domain:govforce.com
+domain:gpb.ru
 domain:gpstheseries.com
 domain:gputechconf.com
 domain:gputechconf.eu
@@ -10512,6 +10525,8 @@ domain:hegre-art.com
 domain:hegre.com
 domain:heiguab.top
 domain:heijidi.life
+domain:heiliao.com
+domain:heiliao88.com
 domain:heinonline.org
 domain:heise360181.buzz
 domain:heise360182.buzz
@@ -12461,6 +12476,7 @@ domain:ius.io
 domain:iutunes.com
 domain:ivacy.com
 domain:iverycd.com
+domain:ivi.ru
 domain:ivintageporn.com
 domain:ivonblog.com
 domain:ivpn.net
@@ -13214,6 +13230,7 @@ domain:kinkypeepz.com
 domain:kinmen.travel
 domain:kinokuniya.com
 domain:kinopoisk.ru
+domain:kinorium.com
 domain:kir.jp
 domain:kir2kos.net
 domain:kirbysepicyarn.com
@@ -14275,6 +14292,7 @@ domain:maturewomenanal.com
 domain:maturexxxvideos.cc
 domain:maven.org
 domain:max.com
+domain:max.ru
 domain:maxai.co
 domain:maxgo.com
 domain:maxillofacial-cadcam.com
@@ -14398,6 +14416,7 @@ domain:megasrv.de
 domain:megatitsminka.com
 domain:megaupload.com
 domain:megavideo.com
+domain:megogo.net
 domain:megurineluka.com
 domain:meguso.com
 domain:meijinsen.jp
@@ -14923,6 +14942,7 @@ domain:mirrorsedge2d.com
 domain:missav.ai
 domain:missav.app
 domain:missav.com
+domain:missav.live
 domain:missav.uno
 domain:missav.vip
 domain:missav.ws
@@ -15310,6 +15330,7 @@ domain:mt.lv
 domain:mt0011.site
 domain:mtao.fun
 domain:mthruf.com
+domain:mtsdengi.ru
 domain:mtt.org
 domain:mtvnservices.com
 domain:mtw.tl
@@ -16686,6 +16707,7 @@ domain:onejav.com
 domain:onekey-asset.com
 domain:onekey.so
 domain:onekeycn.com
+domain:oneme.ru
 domain:onenote.com
 domain:onepornlist.com
 domain:onesiterip.com
@@ -18145,6 +18167,7 @@ domain:pre-bmwgroup.jobs
 domain:predb.me
 domain:predictivetechnologies.com
 domain:premeforwindows7.com
+domain:premier.one
 domain:premium-beauty.com
 domain:premiumbooty.com
 domain:premiumfs.de
@@ -18293,6 +18316,7 @@ domain:prozz.net
 domain:prpops.com
 domain:prts.plus
 domain:ps-exchange.com
+domain:psbank.ru
 domain:psblog.name
 domain:pscdn.co
 domain:pscp.tv
@@ -19017,6 +19041,7 @@ domain:ronjoneswriter.com
 domain:roodo.com
 domain:root-signing.ch
 domain:rootsigning.com
+domain:rosbank.ru
 domain:rosechina.net
 domain:rosemarydoll.com
 domain:roshy.tv
@@ -19051,6 +19076,7 @@ domain:rsf-chinese.org
 domain:rsf.org
 domain:rsg.sc
 domain:rsgamen.org
+domain:rshb.ru
 domain:rspao.com
 domain:rss.tips
 domain:rssforever.com
@@ -19261,6 +19287,9 @@ domain:sb-telecom.net
 domain:sb.sb
 domain:sb24.com
 domain:sbank.ir
+domain:sber.ru
+domain:sberbank.com
+domain:sberbank.ru
 domain:sbgkstv.shop
 domain:sbitravelcard.com
 domain:sbme.me
@@ -20104,6 +20133,7 @@ domain:smm99999.com
 domain:smmsp.xyz
 domain:smn.news
 domain:smokinmovies.com
+domain:smotreshka.tv
 domain:smplace.com
 domain:smpte.org
 domain:smtb.jp
@@ -20573,6 +20603,7 @@ domain:starplus.com
 domain:starship-ent.com
 domain:starsze.icu
 domain:start.com
+domain:start.ru
 domain:startpage.com
 domain:startpath.com
 domain:startupjournal.com
@@ -21058,6 +21089,8 @@ domain:taxi69.com
 domain:taxidrivermovie.com
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
+domain:tbank-online.com
+domain:tbank.ru
 domain:tbcollege.org
 domain:tbib.org
 domain:tbicn.org
@@ -21652,6 +21685,8 @@ domain:tnntoday.com
 domain:tnp.org
 domain:tnt-ea.com
 domain:to-porno.com
+domain:tochka-tech.com
+domain:tochka.com
 domain:todoist.com
 domain:togetter.com
 domain:toggleable.com
@@ -21829,6 +21864,7 @@ domain:travelexch.com
 domain:travelexmoneycard.com
 domain:travelgirls.com
 domain:travelinkcard.com
+domain:trbcdn.net
 domain:trello.com
 domain:trendmicro.com
 domain:trendsmap.com
@@ -22055,6 +22091,7 @@ domain:tvbusa.com
 domain:tvbweekly.com
 domain:tver.jp
 domain:tvider.com
+domain:tvigle.ru
 domain:tvnaviweb.jp
 domain:tvplayvideos.com
 domain:tvpromise.com
@@ -22796,6 +22833,7 @@ domain:viewgals.com
 domain:viewpointsfromfacebook.com
 domain:vigorgame.com
 domain:vijayatemple.org
+domain:viju.ru
 domain:vikacg.com
 domain:vikiporn.com
 domain:vilanet.me
@@ -23304,6 +23342,7 @@ domain:vscode.dev
 domain:vsezoo.com
 domain:vsphere.com
 domain:vsphere.net
+domain:vtb.ru
 domain:vtrahe.page
 domain:vtsociety.org
 domain:vtunnel.com
