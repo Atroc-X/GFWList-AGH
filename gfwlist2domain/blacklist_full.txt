@@ -4523,6 +4523,7 @@ domain:blizzcon-a.akamaihd.net
 domain:blms.ac.uk
 domain:blob.core.windows.net
 domain:blockcast.it
+domain:blockchain.com
 domain:blockcn.com
 domain:blockedbyhk.com
 domain:blockfrost.io
@@ -13671,6 +13672,7 @@ domain:gsp.target.com
 domain:gsrc.io
 domain:gssw.ac.uk
 domain:gstatic.com
+domain:gstc.com.tw
 domain:gstf.org
 domain:gsuite.com
 domain:gt536.top
@@ -16300,6 +16302,7 @@ domain:ioinformatics.org
 domain:iole.tv
 domain:ion.ac.uk
 domain:iooog.sbs
+domain:iopenmall.tw
 domain:ios-icloud.com
 domain:ios.ac.uk
 domain:iosinthecar.com
@@ -16731,6 +16734,7 @@ domain:jav-subtitles.com
 domain:jav-vr.net
 domain:jav.app
 domain:jav.com
+domain:jav.com.co
 domain:jav.dog
 domain:jav.gallery
 domain:jav.guru
@@ -16854,6 +16858,7 @@ domain:javpub.me
 domain:javpush.com
 domain:javqd.com
 domain:javrank.com
+domain:javrate.com
 domain:javrave.club
 domain:javroot.com
 domain:javscat.net
@@ -16880,6 +16885,7 @@ domain:javtrust.com
 domain:javtube.cc
 domain:javtube.com
 domain:javtube.net
+domain:javvideoporn.com
 domain:javvids.com
 domain:javwide.com
 domain:javwide.tv
@@ -18569,6 +18575,7 @@ domain:lsestaff.ac.uk
 domain:lsfc.ac.uk
 domain:lsforum.net
 domain:lsgnt-cdt.ac.uk
+domain:lshosp.com.tw
 domain:lshtm.ac.uk
 domain:lsj2.shop
 domain:lsj40.xyz
@@ -23636,6 +23643,7 @@ domain:pinkcore.com
 domain:pinkcore.net
 domain:pinkdh-bb.sbs
 domain:pinkdino.com
+domain:pinkoi.com
 domain:pinkporno.com
 domain:pinkpussy.tv
 domain:pinkrod.com
@@ -25910,6 +25918,7 @@ domain:salebeatslasteststyle4you.com
 domain:saleblackfridaydrebeats.com
 domain:salecheaphandbags.com
 domain:salesforce-setup.com
+domain:salesforce-sites.com
 domain:salesforce.com
 domain:salesforce.org
 domain:salesforceiq.com
@@ -33077,7 +33086,9 @@ domain:xhamster.desi
 domain:xhamster.xxx
 domain:xhamster18.com
 domain:xhamster18.desi
+domain:xhamster19.com
 domain:xhamster2.com
+domain:xhamster3.com
 domain:xhamsterlive.com
 domain:xhcdn.com
 domain:xhot.pro
@@ -33760,6 +33771,7 @@ domain:yarnpkg.com
 domain:yasarang.net
 domain:yasni.co.uk
 domain:yastat.net
+domain:yastatic-net.ru
 domain:yastatic.net
 domain:yasukuni.or.jp
 domain:yatong.info

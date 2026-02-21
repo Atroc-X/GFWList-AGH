@@ -3562,6 +3562,7 @@ domain:blizzak-juken.jp
 domain:blizzard.com
 domain:blizzardgearstore.com
 domain:blockcast.it
+domain:blockchain.com
 domain:blockcn.com
 domain:blockedbyhk.com
 domain:blockfrost.io
@@ -12220,6 +12221,7 @@ domain:ioffergift.com
 domain:ioinformatics.org
 domain:iole.tv
 domain:iooog.sbs
+domain:iopenmall.tw
 domain:ios-icloud.com
 domain:iosinthecar.com
 domain:iotinactionevents.com
@@ -12678,6 +12680,7 @@ domain:javpub.me
 domain:javpush.com
 domain:javqd.com
 domain:javrank.com
+domain:javrate.com
 domain:javrave.club
 domain:javroot.com
 domain:javscat.net
@@ -12704,6 +12707,7 @@ domain:javtrust.com
 domain:javtube.cc
 domain:javtube.com
 domain:javtube.net
+domain:javvideoporn.com
 domain:javvids.com
 domain:javwide.com
 domain:javwide.tv
@@ -17498,6 +17502,7 @@ domain:pinkcore.com
 domain:pinkcore.net
 domain:pinkdh-bb.sbs
 domain:pinkdino.com
+domain:pinkoi.com
 domain:pinkporno.com
 domain:pinkpussy.tv
 domain:pinkrod.com
@@ -19198,6 +19203,7 @@ domain:salebeatslasteststyle4you.com
 domain:saleblackfridaydrebeats.com
 domain:salecheaphandbags.com
 domain:salesforce-setup.com
+domain:salesforce-sites.com
 domain:salesforce.com
 domain:salesforce.org
 domain:salesforceiq.com
@@ -24101,7 +24107,9 @@ domain:xhamster.desi
 domain:xhamster.xxx
 domain:xhamster18.com
 domain:xhamster18.desi
+domain:xhamster19.com
 domain:xhamster2.com
+domain:xhamster3.com
 domain:xhamsterlive.com
 domain:xhcdn.com
 domain:xhot.pro
@@ -24686,6 +24694,7 @@ domain:yarininsuyu.com
 domain:yarnpkg.com
 domain:yasarang.net
 domain:yastat.net
+domain:yastatic-net.ru
 domain:yastatic.net
 domain:yatong.info
 domain:yavtube.com
