@@ -1571,6 +1571,7 @@ domain:akatns.net
 domain:akiba-online.com
 domain:akiba-souken.com
 domain:akiba-web.com
+domain:akile.io
 domain:akinator.com
 domain:akita-bank.co.jp
 domain:akow.org
@@ -2877,6 +2878,7 @@ domain:assemblesystems.com
 domain:assesphoto.com
 domain:assets.bwbx.io
 domain:assets.fastgit.org
+domain:assets.nxtrace.org
 domain:assets.ppy.sh
 domain:assets1.xboxlive.com
 domain:assets2.xboxlive.com
@@ -6998,6 +7000,7 @@ domain:clash.com
 domain:clashmini.com
 domain:clashofclans.com
 domain:clashroyale.com
+domain:clashverge.dev
 domain:clasporno.org
 domain:class.tn.edu.tw
 domain:classicalguitarblog.net
@@ -11650,6 +11653,7 @@ domain:firstchancesfife.ac.uk
 domain:firstfivefollowers.com
 domain:firstgynexam.com
 domain:firstns.cc
+domain:firstory.io
 domain:firstory.me
 domain:firstpelvicexam.com
 domain:firstpost.com
@@ -19370,6 +19374,7 @@ domain:medschools.ac.uk
 domain:medway.ac.uk
 domain:medwayacl.ac.uk
 domain:mee6.xyz
+domain:meee.com.tw
 domain:meendo.com
 domain:meet.new
 domain:meetandfuck.games
@@ -21530,7 +21535,6 @@ domain:nftstorage.link
 domain:ng.mil
 domain:nga.mil
 domain:ngc.ac.uk
-domain:ngenix.net
 domain:ngensis.com
 domain:ngeo.com
 domain:ngfiles.com
@@ -22367,6 +22371,7 @@ domain:nwy.ac.uk
 domain:nxta.org
 domain:nxtdig.com.hk
 domain:nxtdig.com.tw
+domain:nxtrace.org
 domain:nyaa.eu
 domain:nyaa.net
 domain:nyaa.si
@@ -22725,6 +22730,7 @@ domain:openbook.org.tw
 domain:opencas.io
 domain:opencollective.com
 domain:opencreate.org
+domain:opencritic.com
 domain:opendemocracy.net
 domain:opendesktop.org
 domain:opendn.xyz
@@ -32900,6 +32906,7 @@ domain:www.ajsands.com
 domain:www.anix.moe
 domain:www.antd.org
 domain:www.aolnews.com
+domain:www.clashverge.dev
 domain:www.cmoinc.org
 domain:www.dmm.com
 domain:www.eastturkistan.net

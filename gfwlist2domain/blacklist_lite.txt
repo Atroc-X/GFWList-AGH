@@ -1268,6 +1268,7 @@ domain:akatns.net
 domain:akiba-online.com
 domain:akiba-souken.com
 domain:akiba-web.com
+domain:akile.io
 domain:akinator.com
 domain:akow.org
 domain:akstat.io
@@ -5253,6 +5254,7 @@ domain:clash.com
 domain:clashmini.com
 domain:clashofclans.com
 domain:clashroyale.com
+domain:clashverge.dev
 domain:clasporno.org
 domain:classicalguitarblog.net
 domain:classicnike.com
@@ -8630,6 +8632,7 @@ domain:firstasianpussy.com
 domain:firstfivefollowers.com
 domain:firstgynexam.com
 domain:firstns.cc
+domain:firstory.io
 domain:firstory.me
 domain:firstpelvicexam.com
 domain:firstpost.com
@@ -15998,7 +16001,6 @@ domain:nftstatic.com
 domain:nftstorage.link
 domain:ng.mil
 domain:nga.mil
-domain:ngenix.net
 domain:ngensis.com
 domain:ngeo.com
 domain:ngfiles.com
@@ -16518,6 +16520,7 @@ domain:nvtongzhisheng.org
 domain:nwtca.org
 domain:nwxs8.com
 domain:nxta.org
+domain:nxtrace.org
 domain:nyaa.eu
 domain:nyaa.net
 domain:nyaa.si
@@ -16795,6 +16798,7 @@ domain:openbase.com
 domain:opencas.io
 domain:opencollective.com
 domain:opencreate.org
+domain:opencritic.com
 domain:opendemocracy.net
 domain:opendesktop.org
 domain:opendn.xyz
