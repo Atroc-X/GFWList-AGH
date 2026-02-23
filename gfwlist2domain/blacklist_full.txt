@@ -2875,6 +2875,7 @@ domain:ass4all.com
 domain:assap.ac.uk
 domain:assembla.com
 domain:assemblesystems.com
+domain:assembly.go.kr
 domain:assesphoto.com
 domain:assets.bwbx.io
 domain:assets.fastgit.org
@@ -9204,6 +9205,7 @@ domain:donatecarsoh.org
 domain:donationalerts.com
 domain:doncaster.ac.uk
 domain:donga.com
+domain:dongjak.go.kr
 domain:dongtaiwang.com
 domain:dongtaiwang.net
 domain:dongyangjing.com
@@ -13074,6 +13076,7 @@ domain:go-to-zlibrary.se
 domain:go.com
 domain:go.dev
 domain:go.jp
+domain:go.kr
 domain:go.nesnode.com
 domain:go.sony.com
 domain:go141.com
@@ -18149,6 +18152,7 @@ domain:like.com
 domain:likeseiyu.com
 domain:liketruyen.net
 domain:liketwice.com
+domain:likr.tw
 domain:likuoo.video
 domain:lilaoshibushinilaoshi.com
 domain:lilhumpers.com
@@ -20919,6 +20923,7 @@ domain:naaktevrouwenporno.com
 domain:nab.com.au
 domain:nab.demdex.net
 domain:nabble.com
+domain:nabo.go.kr
 domain:nabtravellercard.com.au
 domain:nacro.ac.uk
 domain:nacstock.ac.uk
@@ -20978,6 +20983,7 @@ domain:napier.ac.uk
 domain:napiszex.com
 domain:narf.ac.uk
 domain:narod.ru
+domain:nars.go.kr
 domain:narti.ac.uk
 domain:narumiya.xii.jp
 domain:nasa.gov
@@ -29727,6 +29733,7 @@ domain:toptoonsites.com
 domain:topvids.net
 domain:topxxxpornvids.com
 domain:topyoungporn.com
+domain:tor.eff.org
 domain:tor.updatestar.com
 domain:tora.to
 domain:torcidadeouro.com

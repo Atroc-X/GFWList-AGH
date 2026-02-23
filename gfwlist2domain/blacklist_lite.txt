@@ -9806,6 +9806,7 @@ domain:go-to-zlibrary.se
 domain:go.com
 domain:go.dev
 domain:go.jp
+domain:go.kr
 domain:go141.com
 domain:go2av.com
 domain:go5.dev
@@ -13599,6 +13600,7 @@ domain:like.com
 domain:likeseiyu.com
 domain:liketruyen.net
 domain:liketwice.com
+domain:likr.tw
 domain:likuoo.video
 domain:lilaoshibushinilaoshi.com
 domain:lilhumpers.com
