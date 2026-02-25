@@ -5697,6 +5697,7 @@ domain:businessinsider.my
 domain:businessinsider.nl
 domain:businessinsider.sg
 domain:businessmessages.google
+domain:businesstimes.com.sg
 domain:businesstoday.com.tw
 domain:businesswebwise.com
 domain:businessweek.com
@@ -12111,6 +12112,7 @@ domain:freeddns.com
 domain:freeddns.org
 domain:freedirecttvspecial.com
 domain:freedl.org
+domain:freedom.gov
 domain:freedomchina.info
 domain:freedomcollection.org
 domain:freedomhongkong.org
@@ -20095,7 +20097,9 @@ domain:mitpressjournals.org
 domain:miuipolska.pl
 domain:mixasiansex.com
 domain:mixero.com
+domain:mixi.co.jp
 domain:mixi.jp
+domain:mixi.net
 domain:mixin.one
 domain:mixlr.com
 domain:mixmaturesex.com
@@ -20968,6 +20972,7 @@ domain:namsisi.com
 domain:namss.ac.uk
 domain:namu.wiki
 domain:nan-net.com
+domain:nandazhan.com
 domain:nanhuyt.com
 domain:nanocmos.ac.uk
 domain:nanonamad.com
@@ -23020,6 +23025,7 @@ domain:paaypal.com
 domain:pachosting.com
 domain:pacifickitchenandhome.com
 domain:pacificpoker.com
+domain:packagecloud.io
 domain:packages.microsoft.com
 domain:packaging-cadcam.com
 domain:packagingcadcam.com
@@ -29633,6 +29639,7 @@ domain:tngrnow.com
 domain:tngrnow.net
 domain:tnntoday.com
 domain:tnp.org
+domain:tnp.sg
 domain:tnt-ea.com
 domain:to-porno.com
 domain:tochigibank.co.jp
@@ -29901,6 +29908,7 @@ domain:trmini.com
 domain:trocoll.ac.uk
 domain:troisrivieresmini.com
 domain:tron.network
+domain:tronlink.org
 domain:tronscan.org
 domain:tropictube.com
 domain:tropmed.ac.uk
@@ -33307,6 +33315,7 @@ domain:xoomcom.com
 domain:xoteens.com
 domain:xoxoteiras.com
 domain:xozilla.com
+domain:xp1024.com
 domain:xpaja.net
 domain:xpdo.net
 domain:xpee.com
