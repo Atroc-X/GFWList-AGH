@@ -24158,6 +24158,7 @@ domain:xiaoshuobb.life
 domain:xiaoyaoge.xyz
 domain:xiaxiaoqiang.net
 domain:xicons.org
+domain:xie56.xyz
 domain:xiezhua.com
 domain:xihua.es
 domain:xii.jp
@@ -24212,6 +24213,7 @@ domain:xml-training-guide.com
 domain:xmonk.net
 domain:xmovies.com
 domain:xmoviesforyou.com
+domain:xmulib.org
 domain:xn--096-4g6em5t.com
 domain:xn--11xs86f.icu
 domain:xn--201-4g6em5t.com
@@ -25192,6 +25194,7 @@ domain:zhuichaguoji.org
 domain:zhujiget.com
 domain:zhuzhushipin-app.com
 domain:zi.media
+domain:zi5.me
 domain:zibacity.com
 domain:ziddu.com
 domain:zigzag.kr
