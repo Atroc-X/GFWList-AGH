@@ -7162,6 +7162,7 @@ domain:clova.ai
 domain:clp.ac.uk
 domain:clrc.ac.uk
 domain:clstorage.net
+domain:cltv.com.tw
 domain:club.tw
 domain:club1069.com
 domain:clubhouse.com
@@ -7233,6 +7234,7 @@ domain:cnnpolitics.com
 domain:cnpolitics.org
 domain:cnproxy.com
 domain:cnshopin.com
+domain:cnt.com.tw
 domain:cnyes.com
 domain:cnzjp.xyz
 domain:co-op.ac.uk
@@ -11455,6 +11457,7 @@ domain:fesebook.com
 domain:fesery-com.sbs
 domain:festinhasbrasil.com
 domain:fetalmedicine.ac.uk
+domain:fetc.net.tw
 domain:fetish-bb.com
 domain:fetishbank.net
 domain:fetishdreamz.com
@@ -14713,6 +14716,7 @@ domain:hongkongdoll.tv
 domain:hongkongdollvideo.org
 domain:hongkongfp.com
 domain:hongkongpost.gov.hk
+domain:hongkongwatch.org
 domain:hongmaodan100.com
 domain:hongmeimei.com
 domain:hongzhi.li
@@ -17809,6 +17813,7 @@ domain:lancs-cumbrianti.ac.uk
 domain:lancs-initiative.ac.uk
 domain:lancs.ac.uk
 domain:lancsngfl.ac.uk
+domain:landbank.com.tw
 domain:landmap.ac.uk
 domain:landmarks.ac.uk
 domain:landofhope.tv
@@ -21888,6 +21893,7 @@ domain:nmgw.ac.uk
 domain:nmh.ac.uk
 domain:nmite.ac.uk
 domain:nmm.ac.uk
+domain:nmns.edu.tw
 domain:nms.ac.uk
 domain:nmsi.ac.uk
 domain:nmsl.website
@@ -24410,6 +24416,7 @@ domain:pparc.ac.uk
 domain:ppaypal.com
 domain:ppb-mod.buzz
 domain:ppe.lawyer
+domain:ppl-ai-file-upload.s3.amazonaws.com
 domain:pplah.com
 domain:pplusstatic.com
 domain:pplx-res.cloudinary.com
@@ -28758,6 +28765,7 @@ domain:taiwansex.tw
 domain:taiwanstay.net.tw
 domain:taiwantoday.tw
 domain:taiwantp.net
+domain:taiwantrip.com.tw
 domain:taiwantt.org.tw
 domain:taiwanus.net
 domain:taiwanyes.com
@@ -28890,6 +28898,7 @@ domain:tctsx28d.xyz
 domain:tdesktop.com
 domain:tdm.com.mo
 domain:tdotp.ac.uk
+domain:tdtv.com.tw
 domain:teachenergy.ac.uk
 domain:teacherfucksteens.com
 domain:teacherspayteachers.com
@@ -29596,6 +29605,7 @@ domain:tinkerboxapp.com
 domain:tinkercad.com
 domain:tinkerentertainment.com
 domain:tinkerplay.net
+domain:tinp.net.tw
 domain:tintuc101.com
 domain:tiny.cc
 domain:tiny4k.com
@@ -29735,6 +29745,7 @@ domain:tophentai.biz
 domain:tophentaicomics.com
 domain:toplayerserver.com
 domain:topmanga.biz
+domain:topmso.com.tw
 domain:topnews.in
 domain:topnudemalecelebs.com
 domain:topobase.com
@@ -30200,6 +30211,7 @@ domain:twbbs.org
 domain:twbbs.tw
 domain:twblogger.com
 domain:twca.com.tw
+domain:twcert.org.tw
 domain:twcomix.com
 domain:twdvd.com
 domain:tweakadmin.com
@@ -30342,6 +30354,7 @@ domain:txvia.com
 domain:txvlog.com
 domain:txxx.com
 domain:txxx1.com
+domain:tyc.edu.tw
 domain:tycool.com
 domain:tyler-brown.com
 domain:tyms2022.com
@@ -32804,6 +32817,7 @@ domain:wttw.ac.uk
 domain:wudifeixue.com
 domain:wuerkaixi.com
 domain:wufafangwen.com
+domain:wufc.com.tw
 domain:wufi.org.tw
 domain:wuguoguang.com
 domain:wujieliulan.com
@@ -33795,6 +33809,7 @@ domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexmetrica.com
+domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yangjianli.com
 domain:yangzhi.app

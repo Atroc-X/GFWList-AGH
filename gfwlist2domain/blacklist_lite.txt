@@ -10974,6 +10974,7 @@ domain:hongjie11.xyz
 domain:hongkongdoll.tv
 domain:hongkongdollvideo.org
 domain:hongkongfp.com
+domain:hongkongwatch.org
 domain:hongmaodan100.com
 domain:hongmeimei.com
 domain:hongzhi.li
@@ -24705,6 +24706,7 @@ domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexmetrica.com
+domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yangjianli.com
 domain:yangzhi.app

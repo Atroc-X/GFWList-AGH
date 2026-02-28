@@ -70612,6 +70612,7 @@ domain:musicedu8.com
 domain:musiceol.com
 domain:musicgw.com
 domain:musicheng.com
+domain:musicstatus.music.apple.com
 domain:musikid.com
 domain:musiness.vip
 domain:muslimwww.com
@@ -70668,6 +70669,7 @@ domain:muzuhui.com
 domain:mvad.com
 domain:mvashanghai.org
 domain:mvhere.com
+domain:mvod.itunes.apple.com
 domain:mvoicer.com
 domain:mvote.net
 domain:mvpdj.com
@@ -88994,6 +88996,7 @@ domain:speedsz.net
 domain:speedws.com
 domain:speedws.info
 domain:speedws.org
+domain:speedysub.music.apple.com
 domain:speedzonerc.com
 domain:speiyou.com
 domain:sperogenix.com
