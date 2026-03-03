@@ -69207,6 +69207,7 @@ domain:monfetch.com
 domain:mongac.com
 domain:monhun.fun
 domain:monidata.com
+domain:monika.love
 domain:monkeylsp.com
 domain:monknow.com
 domain:mono.work
