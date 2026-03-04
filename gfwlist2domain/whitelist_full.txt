@@ -2244,6 +2244,7 @@ domain:17207.com
 domain:17293879b10261.beer
 domain:172haoka.vip
 domain:172l.com
+domain:172mix.com
 domain:172tt.com
 domain:172xiaoyuan.com
 domain:173.com
@@ -59287,6 +59288,7 @@ domain:juziseo.com
 domain:juziss.com
 domain:juzistore.com
 domain:juzisy.com
+domain:juziwulian.com
 domain:juzix.io
 domain:juzizhoutou.net
 domain:juzone.cc

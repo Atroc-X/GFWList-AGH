@@ -2115,6 +2115,7 @@ domain:arctosia.com
 domain:area120.com
 domain:area51.to
 domain:areca-backup.org
+domain:arena.ai
 domain:arena.taipei
 domain:arethusa.su
 domain:arewereadyyet.com
@@ -2153,6 +2154,7 @@ domain:artstorm.com
 domain:artsy.net
 domain:arukas.io
 domain:arvanstorage.ir
+domain:arweave.org
 domain:arxiv.org
 domain:arzon.jp
 domain:as-hp.ca
@@ -6420,6 +6422,7 @@ domain:dhcp.biz
 domain:diablo3.com
 domain:diabloimmortal.com
 domain:diabrowser.com
+domain:diabrowser.engineering
 domain:dialga.com
 domain:dialogflow.com
 domain:diamantewebcam.com
@@ -6667,6 +6670,7 @@ domain:dkr.com
 domain:dkrecttv.com
 domain:dl-iphone.com
 domain:dl-laby.jp
+domain:dlaf.jp
 domain:dlap001.xyz
 domain:dlap301.com
 domain:dldlinks.com
@@ -11747,6 +11751,7 @@ domain:ilhamtohtiinstitute.org
 domain:ilife.eu
 domain:ilife.gr
 domain:ilife.wang
+domain:illgames.jp
 domain:illianacomputerrecycling.com
 domain:illusion.jp
 domain:illusion111.com
@@ -12544,6 +12549,7 @@ domain:jandyx.com
 domain:janor6.net
 domain:janwongphoto.com
 domain:japan-forward.com
+domain:japan-illgames.com
 domain:japan-whores.com
 domain:japan18tube.com
 domain:japanbeast.com
@@ -21996,6 +22002,7 @@ domain:tsundora.com
 domain:tsyum.com
 domain:tt-rss.org
 domain:tt1069.com
+domain:ttcdn-us.com
 domain:tteshop.com
 domain:ttk.ru
 domain:ttlivecdn.com
@@ -23817,6 +23824,7 @@ domain:wiseid.com
 domain:wisekey.com
 domain:wisevid.com
 domain:wish.com
+domain:wispbyte.com
 domain:wistia.com
 domain:wistia.net
 domain:withgoogle.com
