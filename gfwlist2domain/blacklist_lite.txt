@@ -12778,6 +12778,7 @@ domain:jerkofftocelebs.com
 domain:jessicaturner.com
 domain:jetbra.in
 domain:jetbrains.ai
+domain:jetbrains.cloud
 domain:jetbrains.net
 domain:jetbrains.space
 domain:jetbrains.team
