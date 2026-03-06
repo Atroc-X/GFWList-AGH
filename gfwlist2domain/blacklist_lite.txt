@@ -6073,6 +6073,7 @@ domain:danwei.org
 domain:daoc.net
 domain:daolan.net
 domain:daozhongxing.org
+domain:dappcdn.com
 domain:daretoku-eromanga.info
 domain:darivoa.com
 domain:darkageofcamelot.com
@@ -17679,6 +17680,10 @@ domain:pleasefuck.org
 domain:pleasurebabe.com
 domain:pleasuregirl.net
 domain:pleasuremore.com
+domain:plex.com
+domain:plex.services
+domain:plex.tv
+domain:plexapp.com
 domain:plexvpn.pro
 domain:plixi.com
 domain:plos.org
