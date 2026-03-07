@@ -10153,6 +10153,7 @@ domain:gputechconf.com
 domain:gputechconf.eu
 domain:gputechconf.in
 domain:gputechconf.jp
+domain:gqqsm.com
 domain:gqzmnav.cc
 domain:gr-assets.com
 domain:gr.jp
@@ -21178,6 +21179,7 @@ domain:tearapeak.com
 domain:teatroporno.com
 domain:tech26.de
 domain:techatbloomberg.com
+domain:techbang.com
 domain:techcrunch.com
 domain:techhub.ms
 domain:techliquidators.com
