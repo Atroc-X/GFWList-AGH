@@ -126,6 +126,9 @@
 # gamma.app
 (@&!)gamma.app
 
+# gqqsm.com
+(@&!)gqqsm.com
+
 # privacyredirect.com
 (@&!)privacyredirect.com
 
