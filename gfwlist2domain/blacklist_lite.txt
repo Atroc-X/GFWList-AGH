@@ -285,6 +285,7 @@ domain:3-a.net
 domain:30boxes.com
 domain:30plusgirls.com
 domain:315lz.com
+domain:32bm.cc
 domain:32red.com
 domain:35s4.com
 domain:360autodesk.com
@@ -1802,6 +1803,7 @@ domain:aporntv.com
 domain:apornvideo.com
 domain:app-dynamics.com
 domain:app-measurement.net
+domain:app-pay.jp
 domain:app-store.wang
 domain:app.link
 domain:app0le.com
@@ -2733,6 +2735,7 @@ domain:badteenspunished.com
 domain:badvirtue.com
 domain:baeb.com
 domain:bag-glasses1.com
+domain:bai29.xyz
 domain:baicaonetwork.com
 domain:baijie.org
 domain:bailandaily.com
@@ -4524,6 +4527,7 @@ domain:cadoverlay.com
 domain:cadren.com
 domain:cafepress.com
 domain:cafr.ca
+domain:cai21.xyz
 domain:caice.com
 domain:caijinglengyan.com
 domain:caime.xyz
@@ -13915,6 +13919,7 @@ domain:luke54.com
 domain:luke54.org
 domain:luluku.pw
 domain:lululu.one
+domain:luminews.my
 domain:lunchwithpype.com
 domain:luoli.info
 domain:luotihg-tv.buzz
@@ -16213,6 +16218,7 @@ domain:nikestore.com
 domain:nikestyles.com
 domain:nikeswim.com
 domain:niketaiwan.net
+domain:niketracking.com
 domain:niketradeweb.com
 domain:niketrainer.com
 domain:niketrainers.com
@@ -18991,6 +18997,7 @@ domain:rigpa.org
 domain:riku.me
 domain:rileyguide.com
 domain:rime.im
+domain:rinvdh7.xyz
 domain:riot-games.com
 domain:riot.com
 domain:riot.im
@@ -19260,6 +19267,7 @@ domain:samsungdm.com
 domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
 domain:samsungiotcloud.com
+domain:samsungiots.com
 domain:samsungknox.com
 domain:samsungosp.com
 domain:samsungqbe.com
@@ -20173,6 +20181,7 @@ domain:smartoneholdings.com
 domain:smartonerobotics.com
 domain:smartonesolutions.hk
 domain:smartsheet.com
+domain:smartthings.com
 domain:smashed.xxx
 domain:smashwords.com
 domain:smchbooks.com
