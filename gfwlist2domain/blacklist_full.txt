@@ -9658,6 +9658,7 @@ domain:dynamics.com
 domain:dynamobuilds.com
 domain:dynamopackages.com
 domain:dynamoreach.com
+domain:dynatrace.com
 domain:dynawebinc.com
 domain:dyncdn.me
 domain:dyndns-ip.com
@@ -11177,6 +11178,7 @@ domain:familymart.com.ph
 domain:familypies.net
 domain:familyporn.tv
 domain:familypornhd.com
+domain:familysearch.org
 domain:familysexsimulator.com
 domain:familysimulator.com
 domain:familysimulator.io
@@ -26960,6 +26962,7 @@ domain:shit-porn.net
 domain:shitaotv.org
 domain:shithd.com
 domain:shitjav.com
+domain:shitjournal.org
 domain:shittytube.com
 domain:shixiao.org
 domain:shizhao.org

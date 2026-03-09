@@ -6395,6 +6395,7 @@ domain:52pkvr.com
 domain:52playgame.com
 domain:52pojie.com
 domain:52post.com
+domain:52ppt.com
 domain:52qixiang.com
 domain:52qmct.com
 domain:52qqba.com
@@ -14650,6 +14651,7 @@ domain:bademeiji.com
 domain:badmintoncn.com
 domain:badmintone.com
 domain:badong.net
+domain:badou.com
 domain:badouxueyuan.com
 domain:badu.com
 domain:badudns.cc
@@ -45682,6 +45684,7 @@ domain:haohanjx.com
 domain:haohanpower.tech
 domain:haohanstar.com
 domain:haohao8888.com
+domain:haohaodoc.com
 domain:haohaotuan.com
 domain:haohaowan.com
 domain:haohaowan.net
@@ -63161,6 +63164,7 @@ domain:lazycat.cloud
 domain:lazycatmicroserver.com
 domain:lazycomposer.com
 domain:lazydim.com
+domain:lazyer.net
 domain:lazymap.com
 domain:lazyren.com
 domain:lazystones.com
@@ -100136,6 +100140,7 @@ domain:wenjuanbang.com
 domain:wenjuanshow.com
 domain:wenjuntech.com
 domain:wenkaoba.com
+domain:wenkeju.com
 domain:wenku.in
 domain:wenku.net
 domain:wenku365.com
