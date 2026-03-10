@@ -2773,6 +2773,7 @@ domain:bangumi.tv
 domain:bangyoulater.com
 domain:bangyourwife.com
 domain:bank-maskan.ir
+domain:bank.in
 domain:bankline.ru
 domain:bankmellat.ir
 domain:bankmobilevibe.com
@@ -5969,6 +5970,7 @@ domain:cusu.hk
 domain:cutout.pro
 domain:cutscenes.net
 domain:cutt.ly
+domain:cve.org
 domain:cwcams.com
 domain:cy22.tv
 domain:cyber-bay.info
@@ -13617,6 +13619,7 @@ domain:lifeattiktok.com
 domain:lifemiles.com
 domain:lifeselector.com
 domain:lifewire.com
+domain:ligamx.net
 domain:lightboxcdn.com
 domain:lightbridge.com
 domain:lighti.me

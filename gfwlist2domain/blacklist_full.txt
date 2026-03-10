@@ -3523,6 +3523,7 @@ domain:bangumi.tv
 domain:bangyoulater.com
 domain:bangyourwife.com
 domain:bank-maskan.ir
+domain:bank.in
 domain:bankline.ru
 domain:bankmellat.ir
 domain:bankmobilevibe.com
@@ -8045,6 +8046,7 @@ domain:cutt.ly
 domain:cuv.ac.uk
 domain:cuwm.ac.uk
 domain:cvcp.ac.uk
+domain:cve.org
 domain:cvma.ac.uk
 domain:cvr.ac.uk
 domain:cvs.ac.uk
@@ -15483,6 +15485,7 @@ domain:id.heroku.com
 domain:id.taipei
 domain:idaiwan.com
 domain:idarkdoll.com
+domain:idbi.bank.in
 domain:idcflare.com
 domain:idcore.ac.uk
 domain:idea-server.com
@@ -18178,6 +18181,7 @@ domain:lifesign.ac.uk
 domain:lifestudy.ac.uk
 domain:lifewire.com
 domain:liftapp.ac.uk
+domain:ligamx.net
 domain:lightboxcdn.com
 domain:lightbridge.com
 domain:lighten.org.tw
