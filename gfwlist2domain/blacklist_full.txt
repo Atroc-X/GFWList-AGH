@@ -7030,10 +7030,12 @@ domain:classicalguitarblog.net
 domain:classicnike.com
 domain:classics.ac.uk
 domain:classymomsex.com
+domain:clau.de
 domain:claude.ai
 domain:claude.com
 domain:claudemcpclient.com
 domain:claudeusercontent.com
+domain:clawhub.ai
 domain:clb.org.hk
 domain:clc-london.ac.uk
 domain:clco.cc
@@ -13810,6 +13812,7 @@ domain:h-webtoon.com
 domain:h0930.com
 domain:h18ani1.vip
 domain:h1n1china.org
+domain:h2o.ai
 domain:h2porn.com
 domain:h528.com
 domain:h5dm.com
@@ -22790,6 +22793,7 @@ domain:openart.ai
 domain:openbase.com
 domain:openbook.org.tw
 domain:opencas.io
+domain:openclaw.ai
 domain:opencollective.com
 domain:opencreate.org
 domain:opencritic.com
