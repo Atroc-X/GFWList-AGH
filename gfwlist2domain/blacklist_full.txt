@@ -8027,6 +8027,7 @@ domain:curvyerotic.com
 domain:cusp.ac.uk
 domain:cusp.hk
 domain:cusplondon.ac.uk
+domain:custhelp.com
 domain:custom-iphonecase.com
 domain:custombeatsbydrebuy.com
 domain:custombeatsdeals.com
@@ -21949,6 +21950,7 @@ domain:nochubank.or.jp
 domain:nocn.ac.uk
 domain:nocookie.net
 domain:nocs.ac.uk
+domain:nodeget.com
 domain:nodeimage.com
 domain:nodejs.org
 domain:nodequality.com
@@ -22379,6 +22381,7 @@ domain:nvidia.com.tr
 domain:nvidia.com.tw
 domain:nvidia.com.ua
 domain:nvidia.com.ve
+domain:nvidia.custhelp.com
 domain:nvidia.cz
 domain:nvidia.de
 domain:nvidia.dk
@@ -27825,6 +27828,7 @@ domain:spiceworks.com
 domain:spiceworksstatic.com
 domain:spicybigtits.com
 domain:spicystory.net
+domain:spicywriter.com
 domain:spider.ac.uk
 domain:spideroak.com
 domain:spiderpool.com
