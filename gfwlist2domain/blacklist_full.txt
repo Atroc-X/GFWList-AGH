@@ -29596,6 +29596,11 @@ domain:tiktokv.eu
 domain:tiktokv.us
 domain:tiktokw.eu
 domain:tiktokw.us
+domain:tilda.cc
+domain:tilda.ru
+domain:tilda.ws
+domain:tildaapi.com
+domain:tildacdn.com
 domain:tilehill.ac.uk
 domain:tiltbrush.com
 domain:timdir.com
