@@ -3253,6 +3253,7 @@ domain:bestbuytradein.com
 domain:bestbuyus.com
 domain:bestcamsites.net
 domain:bestclouddrive.com
+domain:bestdori.com
 domain:besterpornos.com
 domain:bestescortgirls.nl
 domain:bestforchina.org
@@ -7789,6 +7790,7 @@ domain:esmtp.biz
 domain:esoir.be
 domain:esopworld.com
 domain:esp32.com
+domain:esp8266.com
 domain:esperanzagomez.org
 domain:espn.com
 domain:espn.net
@@ -7796,6 +7798,7 @@ domain:espncdn.com
 domain:espnqa.com
 domain:esports.gg
 domain:esposasymaridos.com
+domain:espressif.com
 domain:esri.com
 domain:estudiopenthouse.com
 domain:esu.dog
@@ -10388,6 +10391,7 @@ domain:hanime.me
 domain:hanime.tv
 domain:hanime.xxx
 domain:hanime.xyz
+domain:hanime1.com
 domain:hanime1.me
 domain:hanminzu.org
 domain:hanr-bao.mom
@@ -25256,6 +25260,7 @@ domain:zi.media
 domain:zi5.me
 domain:zibacity.com
 domain:ziddu.com
+domain:ziglang.org
 domain:zigzag.kr
 domain:zillionk.com
 domain:zim.vn
