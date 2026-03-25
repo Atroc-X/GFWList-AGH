@@ -12638,6 +12638,7 @@ domain:javbuz.com
 domain:javcc.cc
 domain:javcc.com
 domain:javcdn.cc
+domain:javchu.com
 domain:javcl.com
 domain:javct.net
 domain:javcup.com
@@ -17040,8 +17041,13 @@ domain:ozchinese.com
 domain:ozeex.com
 domain:ozodi.org
 domain:ozodlik.org
+domain:ozon.by
+domain:ozon.com
+domain:ozon.kz
 domain:ozon.ru
+domain:ozon.tm
 domain:ozone.ru
+domain:ozonru.me
 domain:ozonusercontent.com
 domain:ozvoice.org
 domain:ozyoyo.com
@@ -24278,6 +24284,7 @@ domain:xmoviesforyou.com
 domain:xmulib.org
 domain:xn--096-4g6em5t.com
 domain:xn--11xs86f.icu
+domain:xn--1jqvh729avzfcy2d8ummib.com
 domain:xn--201-4g6em5t.com
 domain:xn--202-4g6em5t.com
 domain:xn--203-4g6em5t.com
