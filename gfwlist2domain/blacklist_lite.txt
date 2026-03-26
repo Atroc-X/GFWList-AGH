@@ -4456,6 +4456,7 @@ domain:buypass.se
 domain:buyshoponly.com
 domain:buzzardflapper.com
 domain:buzzav.com
+domain:buzzfeed.com
 domain:buzzhand.com
 domain:buzzhand.net
 domain:buzzorange.com
@@ -5159,6 +5160,7 @@ domain:chubold.com
 domain:chubun.com
 domain:chuneo.xyz
 domain:chunja19.net
+domain:chunkbase.com
 domain:chuokoron.jp
 domain:chuporno.com
 domain:churchinhongkong.org
@@ -7679,6 +7681,7 @@ domain:epochweek.com
 domain:epochweekly.com
 domain:eporner.com
 domain:equinenow.com
+domain:equinox.io
 domain:erabaru.net
 domain:eraofconnection.com
 domain:erepublik.com
@@ -10860,7 +10863,6 @@ domain:hizbuttahrir.org
 domain:hjb246.top
 domain:hjb7e9.top
 domain:hjclub.info
-domain:hjd.tw
 domain:hjd2048.com
 domain:hk-pub.com
 domain:hk01.com
@@ -14748,6 +14750,7 @@ domain:mindrolling.org
 domain:minecraft-services.net
 domain:minecraft.net
 domain:minecraft.wiki
+domain:minecraftforge.net
 domain:minecraftservices.com
 domain:minecraftshop.com
 domain:mingdemedia.org
@@ -15717,6 +15720,7 @@ domain:nakuz.com
 domain:nalandabodhi.org
 domain:nalandawest.org
 domain:name.com
+domain:namemc.com
 domain:namemybeats.com
 domain:namethatporn.com
 domain:namethatpornad.com
@@ -16058,6 +16062,7 @@ domain:nginx.com
 domain:nginx.org
 domain:nginxconfig.io
 domain:ngodupdongchung.com
+domain:ngrok-agent.com
 domain:ngrok-free.app
 domain:ngrok-free.dev
 domain:ngrok-free.pizza
@@ -16907,6 +16912,7 @@ domain:opte.org
 domain:optica.org
 domain:opticore.com
 domain:opticsforthecloud.net
+domain:optifine.net
 domain:optimumssl.com
 domain:or.id
 domain:or.jp
@@ -19466,6 +19472,7 @@ domain:search.google
 domain:search.xxx
 domain:searchtruth.com
 domain:searx.me
+domain:searx.space
 domain:seasidestory.tokyo
 domain:seatguru.com
 domain:seattlefdc.com
@@ -20098,7 +20105,6 @@ domain:sixth.biz
 domain:sjcollect.com
 domain:sjhsp1.buzz
 domain:sjrt.org
-domain:sjum.cn
 domain:skate2.com
 domain:skebetter.com
 domain:sketchappsources.com
@@ -20496,6 +20502,7 @@ domain:spicywriter.com
 domain:spideroak.com
 domain:spiderpool.com
 domain:spiegel.de
+domain:spigotmc.org
 domain:spike.com
 domain:spiritclubs.com
 domain:spiritofecstasy.com
@@ -21276,6 +21283,8 @@ domain:tejaratbank.ir
 domain:teldap.tw
 domain:telebay.com
 domain:telecomspace.com
+domain:telega.info
+domain:telega.me
 domain:telega.one
 domain:telegra.ph
 domain:telegram-cdn.org

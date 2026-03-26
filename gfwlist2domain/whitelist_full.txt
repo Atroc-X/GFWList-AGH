@@ -12834,6 +12834,7 @@ domain:anhuiry.com
 domain:anhuisjx.com
 domain:anhuisuya.com
 domain:anhuiwine.com
+domain:anhuiyun.com
 domain:anhuizk.com
 domain:ani-sh.com
 domain:aniccw.net
@@ -28004,6 +28005,7 @@ domain:ctdcdn.com
 domain:ctdcn.com
 domain:ctdisk.com
 domain:ctdns.net
+domain:ctdsb.clouddiffuse.xyz
 domain:ctdsb.com
 domain:ctdsb.net
 domain:ctdzsk.com

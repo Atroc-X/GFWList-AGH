@@ -5775,6 +5775,7 @@ domain:buypass.se
 domain:buyshoponly.com
 domain:buzzardflapper.com
 domain:buzzav.com
+domain:buzzfeed.com
 domain:buzzhand.com
 domain:buzzhand.net
 domain:buzzorange.com
@@ -6860,6 +6861,7 @@ domain:chugokubank.co.jp
 domain:chuls.ac.uk
 domain:chuneo.xyz
 domain:chunja19.net
+domain:chunkbase.com
 domain:chuokoron.jp
 domain:chuporno.com
 domain:churchill.ac.uk
@@ -10473,6 +10475,7 @@ domain:equal.ac.uk
 domain:equalityhigher.ac.uk
 domain:equator.ac.uk
 domain:equinenow.com
+domain:equinox.io
 domain:equistudy.ac.uk
 domain:era.ac.uk
 domain:erabaru.net
@@ -14560,7 +14563,6 @@ domain:hizbuttahrir.org
 domain:hjb246.top
 domain:hjb7e9.top
 domain:hjclub.info
-domain:hjd.tw
 domain:hjd2048.com
 domain:hk-pub.com
 domain:hk.file.myqcloud.com
@@ -19816,6 +19818,7 @@ domain:mindrolling.org
 domain:minecraft-services.net
 domain:minecraft.net
 domain:minecraft.wiki
+domain:minecraftforge.net
 domain:minecraftservices.com
 domain:minecraftshop.com
 domain:mineofinfo.ac.uk
@@ -21021,6 +21024,7 @@ domain:nalandawest.org
 domain:naln.ac.uk
 domain:nam.ac.uk
 domain:name.com
+domain:namemc.com
 domain:namemybeats.com
 domain:namethatporn.com
 domain:namethatpornad.com
@@ -21613,6 +21617,7 @@ domain:nginx.com
 domain:nginx.org
 domain:nginxconfig.io
 domain:ngodupdongchung.com
+domain:ngrok-agent.com
 domain:ngrok-free.app
 domain:ngrok-free.dev
 domain:ngrok-free.pizza
@@ -22874,6 +22879,7 @@ domain:opte.org
 domain:optica.org
 domain:opticore.com
 domain:opticsforthecloud.net
+domain:optifine.net
 domain:optima-cdt.ac.uk
 domain:optimumssl.com
 domain:opwall.ac.uk
@@ -26464,6 +26470,7 @@ domain:search25.ac.uk
 domain:searchapi.culture.tw
 domain:searchtruth.com
 domain:searx.me
+domain:searx.space
 domain:seas.ac.uk
 domain:seasidestory.tokyo
 domain:seatguru.com
@@ -27254,7 +27261,6 @@ domain:sjd.ac.uk
 domain:sjhsp1.buzz
 domain:sjr.ac.uk
 domain:sjrt.org
-domain:sjum.cn
 domain:skate2.com
 domain:skebetter.com
 domain:skegnesstec.ac.uk
@@ -27850,6 +27856,7 @@ domain:spider.ac.uk
 domain:spideroak.com
 domain:spiderpool.com
 domain:spiegel.de
+domain:spigotmc.org
 domain:spike.com
 domain:spinesurgeons.ac.uk
 domain:spiritclubs.com
@@ -29061,6 +29068,8 @@ domain:tel.ac.uk
 domain:teldap.tw
 domain:telebay.com
 domain:telecomspace.com
+domain:telega.info
+domain:telega.me
 domain:telega.one
 domain:telegra.ph
 domain:telegram-cdn.org
