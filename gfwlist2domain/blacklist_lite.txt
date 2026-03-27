@@ -18581,6 +18581,7 @@ domain:qt.io
 domain:qtrac.eu
 domain:qtweeter.com
 domain:qualcomm-email.com
+domain:qualcomm-inc.com
 domain:qualcomm.de
 domain:qualcomm.fr
 domain:qualcommhalo.com
@@ -24330,6 +24331,7 @@ domain:xn--hb4aw0g.com
 domain:xn--hckl3e1e8a8ajin0czf.net
 domain:xn--hhr917d3fecva.xyz
 domain:xn--i2ru8q2qg.com
+domain:xn--kcrv3utim32hx9f6qe.com
 domain:xn--m1abbbgjah.lol
 domain:xn--mts47c3w9b1qr.net
 domain:xn--mtswd61ejxq.com

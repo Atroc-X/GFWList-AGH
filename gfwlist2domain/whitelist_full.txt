@@ -55761,6 +55761,7 @@ domain:iyyin.com
 domain:iyz168.com
 domain:izacholsm.com
 domain:izaodao.com
+domain:izattime.qcomgeo2.com
 domain:izazamall.com
 domain:izb.pub
 domain:izdatatech.com
@@ -107812,6 +107813,7 @@ domain:xtongs.com
 domain:xtoobmo.xyz
 domain:xtransfer.com
 domain:xtrapowercn.com
+domain:xtratime.qcomgeo2.com
 domain:xtrc.net
 domain:xtrunc.com
 domain:xtsfuke.com
