@@ -120,6 +120,12 @@
 # hellotalk
 (@&!)hellotalk.com
 
+# sourcingjournal.com
+(@&!)sourcingjournal.com
+
+# mailchi.mp
+(@&!)mailchi.mp
+
 # teacherspayteachers
 (@&!)teacherspayteachers.com
 
