@@ -14082,6 +14082,7 @@ domain:maiio.net
 domain:mail-archive.com
 domain:mail.com
 domain:mail.ru
+domain:mailchi.mp
 domain:mailchimp.com
 domain:maildns.xyz
 domain:maileoch.com
@@ -20442,6 +20443,7 @@ domain:sourcehut.org
 domain:sourcewadio.com
 domain:sourcingforebay.net
 domain:sourcingforebay.tv
+domain:sourcingjournal.com
 domain:south-plus.net
 domain:south-plus.org
 domain:southfloridamini.com
