@@ -235,6 +235,7 @@ domain:22112211.xyz
 domain:233abc.com
 domain:233v2.com
 domain:2371tom.com
+domain:24av.net
 domain:24h.tv
 domain:24hjav.com
 domain:24hrs.ca
@@ -2571,6 +2572,7 @@ domain:avriri.top
 domain:avsee01.tv
 domain:avseesee.com
 domain:avsforum.com
+domain:avsox.click
 domain:avstar.me
 domain:avstar01.me
 domain:avstar02.me
@@ -15577,6 +15579,7 @@ domain:myautocad.com
 domain:myautodeskbenefits.com
 domain:myav886.buzz
 domain:myavfun.com
+domain:myavlive.com
 domain:myavok.com
 domain:myavsuper.com
 domain:myavxx.xyz
