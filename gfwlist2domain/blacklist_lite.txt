@@ -2483,6 +2483,7 @@ domain:autodeskviewer.com
 domain:autodeskworkshop.com
 domain:autodeskworkshop.net
 domain:autodraw.com
+domain:autoesporte.com
 domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
@@ -4856,6 +4857,7 @@ domain:cdnpure.com
 domain:cdnst.net
 domain:cdnuc.vip
 domain:cdnvideo.ru
+domain:cdnvideohub.com
 domain:cdnxxx-proxy.co
 domain:cdnxxx-proxy.xyz
 domain:cdp1989.org
@@ -9833,6 +9835,8 @@ domain:globaltm.org
 domain:globalvoices.org
 domain:globalvoicesonline.org
 domain:globalvpn.net
+domain:globo.com
+domain:globoplay.com
 domain:glock.com
 domain:gloporn.com
 domain:gloryhole.com
@@ -10317,6 +10321,7 @@ domain:gs-discuss.com
 domain:gscanada.info
 domain:gsccdn.com
 domain:gsearch.media
+domain:gshow.com
 domain:gslink.us
 domain:gsrc.io
 domain:gstf.org
@@ -17089,6 +17094,7 @@ domain:otzo.com
 domain:oudoll.com
 domain:ouo.io
 domain:ouplaw.com
+domain:our-notes.jp
 domain:ourdearamy.com
 domain:ourhobby.com
 domain:ouroath.com
@@ -17525,6 +17531,7 @@ domain:peeasian.com
 domain:peekvids.com
 domain:peepholecam.com
 domain:peerj.com
+domain:pegn.com
 domain:peing.net
 domain:pejyyah.com
 domain:pekingduck.org
@@ -19098,6 +19105,8 @@ domain:reuters.tv
 domain:reutersagency.cn
 domain:reutersmedia.net
 domain:revenue-performance-management.com
+domain:revistaepoca.com
+domain:revistapegn.com
 domain:revit.com
 domain:revitcc.com
 domain:revitsucks.net
@@ -21353,6 +21362,7 @@ domain:techsmith.com
 domain:techspot.com
 domain:techstreet.com
 domain:techtimes.com
+domain:techtudo.com
 domain:techviz.net
 domain:teck.in
 domain:teco-hk.org
@@ -22565,6 +22575,7 @@ domain:umass.edu
 domain:umbrella.com
 domain:umd.edu
 domain:umich.edu
+domain:umsoplaneta.com
 domain:umzzz.com
 domain:unblock-us.com
 domain:unblockdmm.com
@@ -22783,6 +22794,7 @@ domain:vaginapics.pro
 domain:vagrantcloud.com
 domain:vagrantup.com
 domain:valeursactuelles.com
+domain:valorinveste.com
 domain:valoryirene.com
 domain:value-domain.com
 domain:value-server.com

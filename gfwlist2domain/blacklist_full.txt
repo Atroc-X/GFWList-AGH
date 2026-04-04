@@ -3176,6 +3176,8 @@ domain:autodeskviewer.com
 domain:autodeskworkshop.com
 domain:autodeskworkshop.net
 domain:autodraw.com
+domain:autoesporte.com
+domain:autoesporte.com.br
 domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
@@ -4231,6 +4233,7 @@ domain:bhamcity.ac.uk
 domain:bhamcityuniversity.ac.uk
 domain:bhasvic.ac.uk
 domain:bhent.co.kr
+domain:bhfm.com.br
 domain:bhggn.xyz
 domain:bhpgms.ac.uk
 domain:bhpms.ac.uk
@@ -6159,6 +6162,7 @@ domain:carrd.co
 domain:carryzhou.com
 domain:carshalton.ac.uk
 domain:carstagram.com
+domain:cartola.com.br
 domain:cartoon-sex.tv
 domain:cartoon18.com
 domain:cartoon3thumbs.com
@@ -6257,6 +6261,7 @@ domain:cbc.ca
 domain:cbcdc.ac.uk
 domain:cbi.ir
 domain:cbm.com.mm
+domain:cbn.com.br
 domain:cbpar.ac.uk
 domain:cbrl.ac.uk
 domain:cbs.ac.uk
@@ -6408,6 +6413,7 @@ domain:cdns.com.tw
 domain:cdnst.net
 domain:cdnuc.vip
 domain:cdnvideo.ru
+domain:cdnvideohub.com
 domain:cdnxxx-proxy.co
 domain:cdnxxx-proxy.xyz
 domain:cdp1989.org
@@ -10443,6 +10449,8 @@ domain:episcopalchurch.org
 domain:episodic.com
 domain:epizy.com
 domain:epne.ac.uk
+domain:epoca.com.br
+domain:epocanegocios.com.br
 domain:epoch.cloud
 domain:epoch.org.il
 domain:epochbase.com
@@ -12509,6 +12517,7 @@ domain:g.dev
 domain:g.kfd.me
 domain:g.page
 domain:g0v.social
+domain:g1.com.br
 domain:g1d1goob.xyz
 domain:g6hentai.com
 domain:gab.com
@@ -13087,7 +13096,14 @@ domain:globaltm.org
 domain:globalvoices.org
 domain:globalvoicesonline.org
 domain:globalvpn.net
+domain:globo.com
+domain:globo.com.br
 domain:globolakes.ac.uk
+domain:globoplay.com
+domain:globoplay.com.br
+domain:globoradio.com.br
+domain:globoreporter.com.br
+domain:globorural.com.br
 domain:glock.com
 domain:gloknos.ac.uk
 domain:gloporn.com
@@ -13783,6 +13799,8 @@ domain:gsa.ac.uk
 domain:gscanada.info
 domain:gsccdn.com
 domain:gsearch.media
+domain:gshow.com
+domain:gshow.com.br
 domain:gslink.us
 domain:gsmd.ac.uk
 domain:gsmlondon.ac.uk
@@ -16022,6 +16040,7 @@ domain:influencersgonewild.com
 domain:info-graf.fr
 domain:infocert.digital
 domain:infocert.it
+domain:infoglobo.com.br
 domain:infogov.ac.uk
 domain:infolinker.com.tw
 domain:infoq.jp
@@ -22674,6 +22693,8 @@ domain:ogameblog.com
 domain:ogaoga.org
 domain:ogate.org
 domain:oge.ac.uk
+domain:oghost.com.br
+domain:oglobo.com.br
 domain:ogp.me
 domain:ogsa-dai.ac.uk
 domain:ohchr.org
@@ -23104,6 +23125,7 @@ domain:oubs.ac.uk
 domain:oudoll.com
 domain:ouo.io
 domain:ouplaw.com
+domain:our-notes.jp
 domain:ourdearamy.com
 domain:ourhobby.com
 domain:ourjourney.ac.uk
@@ -23647,6 +23669,8 @@ domain:peep.ac.uk
 domain:peepholecam.com
 domain:peerj.com
 domain:peerlearning.ac.uk
+domain:pegn.com
+domain:pegn.com.br
 domain:peing.net
 domain:pejyyah.com
 domain:pekingduck.org
@@ -25174,6 +25198,7 @@ domain:radio.co
 domain:radio.garden
 domain:radioaustralia.net.au
 domain:radiofarda.com
+domain:radioglobo.com.br
 domain:radiohilight.net
 domain:radiojar.com
 domain:radioline.co
@@ -25634,6 +25659,13 @@ domain:reuters.tv
 domain:reutersagency.cn
 domain:reutersmedia.net
 domain:revenue-performance-management.com
+domain:revistaepoca.com
+domain:revistaepoca.com.br
+domain:revistagalileu.com.br
+domain:revistapegn.com
+domain:revistapegn.com.br
+domain:revistaquem.com.br
+domain:revistavalor.com.br
 domain:revit.com
 domain:revitcc.com
 domain:revitsucks.net
@@ -26956,6 +26988,7 @@ domain:sgp.file.myqcloud.com
 domain:sgp1.fun
 domain:sgpe.ac.uk
 domain:sgpstatp.com
+domain:sgr.com.br
 domain:sgsah.ac.uk
 domain:sgscol.ac.uk
 domain:sgspe.de
@@ -29133,6 +29166,8 @@ domain:techsmith.com
 domain:techspot.com
 domain:techstreet.com
 domain:techtimes.com
+domain:techtudo.com
+domain:techtudo.com.br
 domain:techviz.net
 domain:techxtra.ac.uk
 domain:teck.in
@@ -30860,6 +30895,8 @@ domain:umis.ac.uk
 domain:umist.ac.uk
 domain:ums.ac.uk
 domain:umslg.ac.uk
+domain:umsoplaneta.com
+domain:umsoplaneta.com.br
 domain:umtc.ac.uk
 domain:umzzz.com
 domain:unblock-us.com
@@ -31193,6 +31230,10 @@ domain:vaginapics.pro
 domain:vagrantcloud.com
 domain:vagrantup.com
 domain:valeursactuelles.com
+domain:valor.com.br
+domain:valoreconomico.com.br
+domain:valorinveste.com
+domain:valorinveste.com.br
 domain:valoryirene.com
 domain:value-domain.com
 domain:value-server.com
@@ -33614,6 +33655,7 @@ domain:xuchao.org
 domain:xuehua.us
 domain:xuite.net
 domain:xujan.com
+domain:xuxaverso.com.br
 domain:xuzhiyong.net
 domain:xv-ru.com
 domain:xv1.monster
