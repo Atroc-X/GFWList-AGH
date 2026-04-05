@@ -3027,6 +3027,7 @@ domain:audiobeatsau.com
 domain:audiobeatsbydre.com
 domain:audiomonsterbeatsonline.com
 domain:audionow.com
+domain:audioscrobbler.com
 domain:aue.ac.uk
 domain:auee.ac.uk
 domain:aukcar.ac.uk
@@ -10661,6 +10662,7 @@ domain:esiss.ac.uk
 domain:eskimotube.com
 domain:eslite.com
 domain:esm.run
+domain:esm.sh
 domain:esmarthealth.com
 domain:esmatube.com
 domain:esmtp.biz
@@ -23972,6 +23974,7 @@ domain:pjful-app.lol
 domain:pjgirls.com
 domain:pjsekai.sega.jp
 domain:pk.com
+domain:pkgbuild.com
 domain:pki-post.ch
 domain:pki-posta.ch
 domain:pki-poste.ch
@@ -33057,6 +33060,7 @@ domain:wroxton-college.ac.uk
 domain:wrssdtp.ac.uk
 domain:ws-blau.com
 domain:ws-tcg.com
+domain:ws.audioscrobbler.com
 domain:wsc.ac.uk
 domain:wscinternational.ac.uk
 domain:wsfc.ac.uk

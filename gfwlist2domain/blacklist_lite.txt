@@ -2340,6 +2340,7 @@ domain:audiobeatsau.com
 domain:audiobeatsbydre.com
 domain:audiomonsterbeatsonline.com
 domain:audionow.com
+domain:audioscrobbler.com
 domain:auntymaza.com
 domain:auricularemonsterbeats.com
 domain:auricularesbeatsbaratosshop.com
@@ -7812,6 +7813,7 @@ domain:esetsoftware.com
 domain:eskimotube.com
 domain:eslite.com
 domain:esm.run
+domain:esm.sh
 domain:esmarthealth.com
 domain:esmatube.com
 domain:esmtp.biz
@@ -17763,6 +17765,7 @@ domain:pjbyj.top
 domain:pjful-app.lol
 domain:pjgirls.com
 domain:pk.com
+domain:pkgbuild.com
 domain:pki-post.ch
 domain:pki-posta.ch
 domain:pki-poste.ch
