@@ -9237,6 +9237,7 @@ domain:dogofcum.com
 domain:dogslife.ac.uk
 domain:dogspics.net
 domain:doh.opendns.com
+domain:doh.sb
 domain:doi.info
 domain:doi.org
 domain:doitpoms.ac.uk
@@ -9296,6 +9297,7 @@ domain:doseofporn.com
 domain:dot-mac.de
 domain:dot.ca.gov
 domain:dot.net
+domain:dot.sb
 domain:dotcernpilot.info
 domain:dotdeb.org
 domain:dotfacebook.com

@@ -6826,6 +6826,7 @@ domain:dogfartnetwork.com
 domain:dogmovie.net
 domain:dogofcum.com
 domain:dogspics.net
+domain:doh.sb
 domain:doi.info
 domain:doi.org
 domain:dojin-dl.com
@@ -6872,6 +6873,7 @@ domain:dorjeshugden.com
 domain:doseofporn.com
 domain:dot-mac.de
 domain:dot.net
+domain:dot.sb
 domain:dotcernpilot.info
 domain:dotdeb.org
 domain:dotfacebook.com
