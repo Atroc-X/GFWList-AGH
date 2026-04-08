@@ -960,7 +960,6 @@ domain:addyoutube.com
 domain:adelaidebbs.com
 domain:adelaidenow.com.au
 domain:adeptt.ac.uk
-domain:adfox.ru
 domain:adgoogle.net
 domain:adguard-dns.com
 domain:adguard-dns.io
@@ -1061,7 +1060,6 @@ domain:adinst.com
 domain:adlib.ac.uk
 domain:adls.ac.uk
 domain:admeld.com
-domain:admetrica.ru
 domain:admin.recaptcha.net
 domain:adminforge.de
 domain:admob.com
@@ -4067,6 +4065,7 @@ domain:bellerbys.ac.uk
 domain:bellesa.co
 domain:bellotube.com
 domain:bellsouth.net
+domain:belonging.google
 domain:belwue.net
 domain:bemix.ac.uk
 domain:bemywife.cc
@@ -6766,6 +6765,7 @@ domain:chinaeconomicreview.com
 domain:chinaelections.org
 domain:chinaeweekly.com
 domain:chinafile.com
+domain:chinafirewalltest.com
 domain:chinafreepress.org
 domain:chinagate.com
 domain:chinageeks.org
@@ -7395,6 +7395,7 @@ domain:coinrail.co.kr
 domain:cointiger.com
 domain:cointobe.com
 domain:coinut.com
+domain:coinw.com
 domain:coithienthai.com
 domain:coitustube.com
 domain:col-westanglia.ac.uk
@@ -17753,7 +17754,6 @@ domain:kinkypeepz.com
 domain:kinmen.org.tw
 domain:kinmen.travel
 domain:kinokuniya.com
-domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
 domain:kinorium.com
 domain:kir.jp
@@ -32578,8 +32578,6 @@ domain:webster.ac.uk
 domain:webtoons.com
 domain:webtoonscorp.com
 domain:webtype.com
-domain:webvisor.com
-domain:webvisor.org
 domain:webwarper.net
 domain:webworkerdaily.com
 domain:wechatlawsuit.com
@@ -33935,7 +33933,6 @@ domain:yaburi.men
 domain:yaddal.tv
 domain:yadi.sk
 domain:yadori.club
-domain:yads.tech
 domain:yaeby.info
 domain:yaeby.pro
 domain:yahoo-news.com.hk
@@ -34108,8 +34105,6 @@ domain:yammer.com
 domain:yamoon.club
 domain:yande.re
 domain:yandex-bank.net
-domain:yandex-images.clstorage.net
-domain:yandex-pogoda.static-storage.net
 domain:yandex-team.ru
 domain:yandex.aero
 domain:yandex.asia
@@ -34150,7 +34145,6 @@ domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexlyceum.ru
-domain:yandexmetrica.com
 domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yangjianli.com
