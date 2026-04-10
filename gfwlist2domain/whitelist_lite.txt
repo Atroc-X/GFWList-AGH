@@ -13059,6 +13059,7 @@ domain:anysql.net
 domain:anystandards.com
 domain:anytesting.com
 domain:anythinktech.com
+domain:anytocopy.com
 domain:anyun100.com
 domain:anyunjianzhan.com
 domain:anyv.net
@@ -28956,6 +28957,7 @@ domain:daoapp.me
 domain:daoboime.com
 domain:daochen.com
 domain:daocloud.io
+domain:daocloud.vip
 domain:daocloudapp.com
 domain:daodao.com
 domain:daodaojizhang.com
@@ -38463,6 +38465,7 @@ domain:gamemili.com
 domain:gamenow.club
 domain:gameol.com
 domain:gamepingce.com
+domain:gamepp.com
 domain:gamer520.net
 domain:gamerboom.com
 domain:gameres.com
@@ -47416,6 +47419,7 @@ domain:hezibook.com
 domain:hezijia.com
 domain:hezimi.com
 domain:hezongyy.com
+domain:hezuvip.com
 domain:hf-alu.com
 domain:hf-aw.com
 domain:hf-iflysse.com
@@ -75149,6 +75153,7 @@ domain:os7blue.com
 domain:osaaa.com
 domain:osakacopyshop.com
 domain:osase.net
+domain:osbdf.com
 domain:osbean.com
 domain:osbkj.com
 domain:osbzr.com
@@ -83460,6 +83465,7 @@ domain:scqstv.com
 domain:scqy100.com
 domain:scraij.com
 domain:scrape.center
+domain:scratch5.com
 domain:scratchmirror.com
 domain:scratchmirror.net
 domain:scrc168.com
@@ -88710,6 +88716,7 @@ domain:soukuyou.com
 domain:soulapp.me
 domain:soulgame.mobi
 domain:soulsky.net
+domain:soulteary.com
 domain:soulu365.com
 domain:souluo.net
 domain:souluojie.com
@@ -93895,6 +93902,7 @@ domain:tileywy.com
 domain:tillcn.com
 domain:tillglance.com
 domain:timanetworks.com
+domain:timbrd.com
 domain:time-weekly.com
 domain:time-year.com
 domain:timecoo.com
@@ -101011,6 +101019,7 @@ domain:wildcardx.net
 domain:wilddog.com
 domain:wilddream.net
 domain:wildfire.work
+domain:wildfirechat.net
 domain:wildgun.net
 domain:wildhorde.com
 domain:wildto.com

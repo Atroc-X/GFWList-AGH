@@ -1707,9 +1707,12 @@ domain:aniscartujo.com
 domain:anistreaming.xyz
 domain:ankarazirvesi2018.com
 domain:annamilk.com
+domain:annas-archive.gd
+domain:annas-archive.gl
 domain:annas-archive.in
 domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pk
 domain:annas-archive.pm
 domain:annas-archive.se
 domain:annatam.com
@@ -4529,6 +4532,7 @@ domain:c4assets.com
 domain:c4rex.co
 domain:c4slive.com
 domain:ca.gov
+domain:cabconnect.org
 domain:cableav.tv
 domain:cableav.xyz
 domain:cablegatesearch.net
@@ -4638,6 +4642,7 @@ domain:canalporno.com
 domain:candidforum-videos.com
 domain:candycumcity.com
 domain:candypleasure.com
+domain:canny.io
 domain:canon-cee.com
 domain:canon-cmos-sensors.com
 domain:canon-cna.com
@@ -7006,6 +7011,7 @@ domain:drepung.org
 domain:drgan.net
 domain:dribbble.com
 domain:drift.click
+domain:driveawaytaxi.org
 domain:driverxxx.com
 domain:drivevideo.xyz
 domain:drkogyi.com
@@ -7677,6 +7683,9 @@ domain:entnt.com
 domain:entrust.com
 domain:entrust.net
 domain:entrustdatacard.com
+domain:envato-static.com
+domain:envato.com
+domain:envatousercontent.com
 domain:eotarchive.org
 domain:epac.to
 domain:epic.network
@@ -9954,6 +9963,7 @@ domain:gofile.me
 domain:gofucker.com
 domain:gofuckmenow.com
 domain:gofundme.com
+domain:gogettaxi.org
 domain:gogle.com
 domain:gogle.de
 domain:gogo-load.com
@@ -10243,6 +10253,7 @@ domain:gotquestions.org
 domain:gotraffic.net
 domain:gotrusted.com
 domain:gotw.ca
+domain:goup.ai
 domain:gouri.xyz
 domain:gov.hk
 domain:gov.in
@@ -10531,6 +10542,7 @@ domain:hayabusa.media
 domain:hayav.com
 domain:hayday.com
 domain:haydaygame.com
+domain:hayya.ae
 domain:hbabit.com
 domain:hbfile.net
 domain:hbg.com
@@ -12962,6 +12974,15 @@ domain:jiuse823.com
 domain:jiuse904.com
 domain:jiuse905.com
 domain:jiuzhouyihuo.com
+domain:jivo.chat
+domain:jivo.ru
+domain:jivochat.com
+domain:jivochat.de
+domain:jivochat.es
+domain:jivochat.ng
+domain:jivochat.ru
+domain:jivosite.com
+domain:jivosite.ru
 domain:jiyou520.com
 domain:jizzboom.com
 domain:jizzbunker.com
@@ -15587,6 +15608,7 @@ domain:mxshm.site
 domain:my-enema.com
 domain:my-formosa.com
 domain:my-magazine.me
+domain:my-manager-account.com
 domain:my-proxy.com
 domain:my03.com
 domain:my13la.com
@@ -21118,6 +21140,7 @@ domain:superzooi.com
 domain:supjav.com
 domain:suppig.net
 domain:supplybestjerseys.com
+domain:support-uber.com
 domain:supportfacebook.com
 domain:supremacy.com
 domain:supremacy.net
@@ -21361,7 +21384,10 @@ domain:taweet.com
 domain:tawny-peaks.com
 domain:taxel.media
 domain:taxi69.com
+domain:taxiaid.org
 domain:taxidrivermovie.com
+domain:taxiguru.org
+domain:taxitax.org
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
 domain:tbank-online.com
@@ -21654,6 +21680,7 @@ domain:thelittleslush.com
 domain:theman.in
 domain:themarvelexperiencetour.com
 domain:themathsfactor.com
+domain:themeforest.net
 domain:themilfmovies.com
 domain:themoviedb.org
 domain:thenationalpulse.com
@@ -21908,6 +21935,7 @@ domain:tiltbrush.com
 domain:timdir.com
 domain:time.com
 domain:time.gov
+domain:time.nl
 domain:timefxapp.com
 domain:timeinc.net
 domain:timelinestoryteller.com
@@ -22817,6 +22845,7 @@ domain:uwants.com
 domain:uwants.net
 domain:uwaterloo.ca
 domain:uwpcommunitytoolkit.com
+domain:uxthemes.com
 domain:uxxxporn.com
 domain:uyghur-archive.com
 domain:uyghur-j.org
@@ -24994,10 +25023,23 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yangjianli.com
+domain:yango-b2b.com
+domain:yango-team.com
+domain:yango-tech.com
+domain:yango.africa
+domain:yango.ao
+domain:yango.bh
+domain:yango.com
+domain:yango.fi
+domain:yango.qa
+domain:yango.taxi
+domain:yango.tech
+domain:yangofellowship.com
 domain:yangzhi.app
 domain:yangzhi.org
 domain:yaohubaba.com

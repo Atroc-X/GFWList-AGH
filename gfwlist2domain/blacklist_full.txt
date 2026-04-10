@@ -2125,9 +2125,12 @@ domain:anistreaming.xyz
 domain:ankarazirvesi2018.com
 domain:anm.co.uk
 domain:annamilk.com
+domain:annas-archive.gd
+domain:annas-archive.gl
 domain:annas-archive.in
 domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pk
 domain:annas-archive.pm
 domain:annas-archive.se
 domain:annatam.com
@@ -5868,6 +5871,7 @@ domain:caacentre.ac.uk
 domain:caadoc.ac.uk
 domain:caagcc.ac.uk
 domain:caban.ac.uk
+domain:cabconnect.org
 domain:cableav.tv
 domain:cableav.xyz
 domain:cablegatesearch.net
@@ -6030,6 +6034,7 @@ domain:candycumcity.com
 domain:candypleasure.com
 domain:cannington.ac.uk
 domain:cannock.ac.uk
+domain:canny.io
 domain:canolfansgiliaucadarn.ac.uk
 domain:canolfanyramgylcheddolcymru.ac.uk
 domain:canon-cee.com
@@ -7799,6 +7804,7 @@ domain:cran.ac.uk
 domain:cranfield.ac.uk
 domain:crankplayer.com
 domain:crash.ac.uk
+domain:crashlytics.com
 domain:crates.io
 domain:craven-college.ac.uk
 domain:crawley-college.ac.uk
@@ -9452,6 +9458,7 @@ domain:dri.ac.uk
 domain:dribbble.com
 domain:drift.click
 domain:drindod.ac.uk
+domain:driveawaytaxi.org
 domain:driverxxx.com
 domain:drivevideo.xyz
 domain:driving.co.uk
@@ -10445,6 +10452,9 @@ domain:entrust.cn
 domain:entrust.com
 domain:entrust.net
 domain:entrustdatacard.com
+domain:envato-static.com
+domain:envato.com
+domain:envatousercontent.com
 domain:enveast.ac.uk
 domain:environment-health.ac.uk
 domain:eotarchive.org
@@ -13264,6 +13274,7 @@ domain:gofundme.com
 domain:gog-statics.com
 domain:gog.com
 domain:gogeo.ac.uk
+domain:gogettaxi.org
 domain:gogle.com
 domain:gogle.de
 domain:gogo-load.com
@@ -13661,6 +13672,7 @@ domain:gotraffic.net
 domain:gotrusted.com
 domain:gotw.ca
 domain:gouhuo.qq.com
+domain:goup.ai
 domain:gouri.xyz
 domain:gov.hk
 domain:gov.in
@@ -14102,6 +14114,7 @@ domain:hayday.com
 domain:haydaygame.com
 domain:hayle.ac.uk
 domain:haywardsheath.ac.uk
+domain:hayya.ae
 domain:hbabit.com
 domain:hbfile.net
 domain:hbg.com
@@ -17216,6 +17229,21 @@ domain:jiuse823.com
 domain:jiuse904.com
 domain:jiuse905.com
 domain:jiuzhouyihuo.com
+domain:jivo.chat
+domain:jivo.ru
+domain:jivochat.co.in
+domain:jivochat.co.za
+domain:jivochat.com
+domain:jivochat.com.br
+domain:jivochat.com.co
+domain:jivochat.com.pe
+domain:jivochat.com.tr
+domain:jivochat.de
+domain:jivochat.es
+domain:jivochat.ng
+domain:jivochat.ru
+domain:jivosite.com
+domain:jivosite.ru
 domain:jiyou520.com
 domain:jiyu-kobo.co.jp
 domain:jizzboom.com
@@ -20860,6 +20888,7 @@ domain:my-enema.com
 domain:my-formosa.com
 domain:my-kualalumpur-1.myhuaweicloud.com
 domain:my-magazine.me
+domain:my-manager-account.com
 domain:my-private-network.co.uk
 domain:my-proxy.com
 domain:my.mail.ru
@@ -22356,6 +22385,7 @@ domain:ntp.ring.gr.jp
 domain:ntp.ripe.net
 domain:ntp.se
 domain:ntp.t.ring.gr.jp
+domain:ntp.time.nl
 domain:ntp.tohoku.ac.jp
 domain:ntp.tut.ac.jp
 domain:ntp.ubuntu.com
@@ -22366,6 +22396,7 @@ domain:ntp1.jst.mfeed.ad.jp
 domain:ntp1.ntp-servers.net
 domain:ntp1.plala.or.jp
 domain:ntp1.ring.gr.jp
+domain:ntp1.time.nl
 domain:ntp1.tohoku.ac.jp
 domain:ntp1.v6.mfeed.ad.jp
 domain:ntp1.wakwak.com
@@ -22373,6 +22404,7 @@ domain:ntp2.jst.mfeed.ad.jp
 domain:ntp2.ntp-servers.net
 domain:ntp2.plala.or.jp
 domain:ntp2.ring.gr.jp
+domain:ntp2.time.nl
 domain:ntp2.tohoku.ac.jp
 domain:ntp2.v6.mfeed.ad.jp
 domain:ntp2.wakwak.com
@@ -22383,6 +22415,8 @@ domain:ntp4.ntp-servers.net
 domain:ntp5.ntp-servers.net
 domain:ntp6.ntp-servers.net
 domain:ntp7.ntp-servers.net
+domain:ntppool1.time.nl
+domain:ntppool2.time.nl
 domain:ntrfun.com
 domain:ntsna.gov.tw
 domain:ntten-mg.buzz
@@ -28771,6 +28805,7 @@ domain:supjav.com
 domain:suppig.net
 domain:supply-chain.ac.uk
 domain:supplybestjerseys.com
+domain:support-uber.com
 domain:supportfacebook.com
 domain:supremacy.com
 domain:supremacy.net
@@ -29137,7 +29172,10 @@ domain:taweet.com
 domain:tawny-peaks.com
 domain:taxel.media
 domain:taxi69.com
+domain:taxiaid.org
 domain:taxidrivermovie.com
+domain:taxiguru.org
+domain:taxitax.org
 domain:tay.ac.uk
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
@@ -29543,6 +29581,7 @@ domain:theman.in
 domain:themanchestercollege.ac.uk
 domain:themarvelexperiencetour.com
 domain:themathsfactor.com
+domain:themeforest.net
 domain:themercury.com.au
 domain:themessengeradelaide.com.au
 domain:themilfmovies.com
@@ -29873,6 +29912,7 @@ domain:time.facebook.com
 domain:time.google.com
 domain:time.gov
 domain:time.nist.gov
+domain:time.nl
 domain:time.nrc.ca
 domain:time.windows.com
 domain:time1.facebook.com
@@ -31248,6 +31288,7 @@ domain:uwtsd.ac.uk
 domain:uwtsdlondon.ac.uk
 domain:uxbridge.ac.uk
 domain:uxbridgecollege.ac.uk
+domain:uxthemes.com
 domain:uxxxporn.com
 domain:uyghur-archive.com
 domain:uyghur-j.org
@@ -34144,10 +34185,24 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yangjianli.com
+domain:yango-b2b.com
+domain:yango-team.com
+domain:yango-tech.com
+domain:yango.africa
+domain:yango.ao
+domain:yango.bh
+domain:yango.co.il
+domain:yango.com
+domain:yango.fi
+domain:yango.qa
+domain:yango.taxi
+domain:yango.tech
+domain:yangofellowship.com
 domain:yangzhi.app
 domain:yangzhi.org
 domain:yaohubaba.com
