@@ -23653,7 +23653,6 @@ domain:vixen.com
 domain:vixvids.to
 domain:vizvaz.com
 domain:vjav.com
-domain:vk-analytics.ru
 domain:vk-apps.com
 domain:vk-apps.ru
 domain:vk-cdn.me

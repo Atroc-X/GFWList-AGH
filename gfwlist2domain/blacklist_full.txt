@@ -32261,7 +32261,6 @@ domain:viznet.ac.uk
 domain:vizvaz.com
 domain:vjav.com
 domain:vjmedia.com.hk
-domain:vk-analytics.ru
 domain:vk-apps.com
 domain:vk-apps.ru
 domain:vk-cdn.me
@@ -34784,7 +34783,6 @@ domain:youflix.is
 domain:youjism.com
 domain:youjizz.com
 domain:youjizz.sex
-domain:youla-web-static.mrgcdn.ru
 domain:youla.io
 domain:youla.ru
 domain:youlucky.com
