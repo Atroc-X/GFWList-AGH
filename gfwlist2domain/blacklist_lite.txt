@@ -272,7 +272,6 @@ domain:2gis.kz
 domain:2gis.ru
 domain:2gis.tech
 domain:2gis.tj
-domain:2gis.ua
 domain:2gis.uz
 domain:2k.com
 domain:2kcoretech.online
