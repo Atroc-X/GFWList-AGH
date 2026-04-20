@@ -826,6 +826,7 @@ domain:adguard.info
 domain:adguard.io
 domain:adguard.org
 domain:adguardaccount.com
+domain:adguardcdn.com
 domain:adguardvpn.com
 domain:adhelpnews.com
 domain:adidas-archive.org
