@@ -20350,6 +20350,7 @@ domain:minilondon.co
 domain:minim.ac.uk
 domain:minimarkham.ca
 domain:minimarkham.com
+domain:minimax.io
 domain:minimoncton.ca
 domain:minimoncton.com
 domain:minimontrealcentre.ca
@@ -26853,6 +26854,7 @@ domain:scop.ac.uk
 domain:scope-uk.ac.uk
 domain:scopic.ac.uk
 domain:score.ac.uk
+domain:scorecardresearch.com
 domain:scoreclassics.com
 domain:scorediscounts.club
 domain:scoregroup.com
