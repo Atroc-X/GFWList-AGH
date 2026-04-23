@@ -2306,6 +2306,7 @@ domain:app-pay.jp
 domain:app-store.wang
 domain:app.box.com
 domain:app.cloudcone.com
+domain:app.element.io
 domain:app.link
 domain:app.smartmailcloud.com
 domain:app.smartsheet.com
@@ -2874,6 +2875,7 @@ domain:asianwomensfilm.de
 domain:asianxxxjoy.com
 domain:asianxxxvideos.cc
 domain:asiaone.com
+domain:asiasociety.org
 domain:asiatgp.com
 domain:asiatimes.com
 domain:asiatoday.us
@@ -4090,6 +4092,7 @@ domain:bell.wiki
 domain:bellebound.com
 domain:bellerbys.ac.uk
 domain:bellesa.co
+domain:bellingcat.com
 domain:bellotube.com
 domain:bellsouth.net
 domain:belonging.google
@@ -7905,6 +7908,7 @@ domain:crescentlearning.ac.uk
 domain:crest.ac.uk
 domain:crestresearch.ac.uk
 domain:crew.ac.uk
+domain:crewai.com
 domain:crfr.ac.uk
 domain:crh.ac.uk
 domain:cri.ac.uk
@@ -16875,6 +16879,7 @@ domain:iss138.com
 domain:issitedownrightnow.com
 domain:issquaredown.com
 domain:issquareup.com
+domain:issues.chromium.org
 domain:issuu.com
 domain:istar.ac.uk
 domain:istars.co.nz
@@ -18164,6 +18169,7 @@ domain:landmap.ac.uk
 domain:landmarks.ac.uk
 domain:landofhope.tv
 domain:landscape.ac.uk
+domain:langchain.com
 domain:langdoncollege.ac.uk
 domain:langpol.ac.uk
 domain:langside.ac.uk
@@ -18740,6 +18746,7 @@ domain:lmm167.shop
 domain:lmmbtc.com
 domain:lms.ac.uk
 domain:lms01.com
+domain:lmstudio.ai
 domain:lmsys.org
 domain:lmu.ac.uk
 domain:lnat.ac.uk
@@ -23023,6 +23030,7 @@ domain:olevodtv.com
 domain:olf.ac.uk
 domain:oli-school.com
 domain:oli.ac.uk
+domain:ollama.com
 domain:olumpo.com
 domain:olympicwatch.org
 domain:omafotze.com
@@ -25791,6 +25799,7 @@ domain:recode.net
 domain:recoiljs.org
 domain:reconinstruments.com
 domain:reconjet.com
+domain:recordedfuture.com
 domain:recordhistory.org
 domain:recordingachievement.ac.uk
 domain:recovery.org.tw
@@ -29999,6 +30008,7 @@ domain:thieme-connect.de
 domain:thieme.com
 domain:thieme.de
 domain:thinkboxsoftware.com
+domain:thinkchina.sg
 domain:thinkdifferent.us
 domain:thinkgeek.com
 domain:thinkhigher.ac.uk

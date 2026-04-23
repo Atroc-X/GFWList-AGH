@@ -2233,6 +2233,7 @@ domain:asianwomensfilm.de
 domain:asianxxxjoy.com
 domain:asianxxxvideos.cc
 domain:asiaone.com
+domain:asiasociety.org
 domain:asiatgp.com
 domain:asiatimes.com
 domain:asiatoday.us
@@ -3237,6 +3238,7 @@ domain:belamionline.com
 domain:bell.wiki
 domain:bellebound.com
 domain:bellesa.co
+domain:bellingcat.com
 domain:bellotube.com
 domain:bellsouth.net
 domain:belonging.google
@@ -5926,6 +5928,7 @@ domain:creatwhatsnext.com
 domain:crececonebay.com
 domain:creditcardsbay.com
 domain:creditkarma.com
+domain:crewai.com
 domain:cricketcountry.com
 domain:crisisresponse.google
 domain:cristyli.com
@@ -13714,6 +13717,7 @@ domain:lamenhu.com
 domain:lamrim.com
 domain:lanasbigboobs.com
 domain:landofhope.tv
+domain:langchain.com
 domain:langsuirs.com
 domain:lanik.us
 domain:lanmdh.net
@@ -14074,6 +14078,7 @@ domain:lmebooks.com
 domain:lmm167.shop
 domain:lmmbtc.com
 domain:lms01.com
+domain:lmstudio.ai
 domain:lmsys.org
 domain:lncn.org
 domain:lnkd.in
@@ -17065,6 +17070,7 @@ domain:olevod.io
 domain:olevod.tv
 domain:olevodtv.com
 domain:oli-school.com
+domain:ollama.com
 domain:olumpo.com
 domain:olympicwatch.org
 domain:omafotze.com
@@ -19280,6 +19286,7 @@ domain:recode.net
 domain:recoiljs.org
 domain:reconinstruments.com
 domain:reconjet.com
+domain:recordedfuture.com
 domain:recordhistory.org
 domain:recoveryversion.org
 domain:rectovaginalexam.com
@@ -22085,6 +22092,7 @@ domain:thieme-connect.de
 domain:thieme.com
 domain:thieme.de
 domain:thinkboxsoftware.com
+domain:thinkchina.sg
 domain:thinkdifferent.us
 domain:thinkgeek.com
 domain:thinkhk.com
