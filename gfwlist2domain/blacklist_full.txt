@@ -1277,6 +1277,7 @@ domain:agemys.net
 domain:agemys.org
 domain:agendaweek.com
 domain:agenet.ac.uk
+domain:agentclientprotocol.com
 domain:agilebits.com
 domain:agnesb.fr
 domain:agnss.goog
@@ -24286,6 +24287,7 @@ domain:placemyad.com.au
 domain:placesdocs.com
 domain:planetminecraft.com
 domain:planetsuzy.org
+domain:plannotator.ai
 domain:plansondemand.com
 domain:plant-phenomics.ac.uk
 domain:plantsvszombies2.com
@@ -30986,6 +30988,7 @@ domain:twitbrowser.net
 domain:twitcause.com
 domain:twitch.tv
 domain:twitchcdn.net
+domain:twitchcon.com
 domain:twitchsvc.net
 domain:twitcomike.jp
 domain:twitgether.com
