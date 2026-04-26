@@ -6086,6 +6086,7 @@ domain:cynscribe.com
 domain:cython.org
 domain:cytode.us
 domain:cyyeshb.com
+domain:cz.cc
 domain:czechav.com
 domain:czechbiporn.com
 domain:czechcasting.com
@@ -7198,6 +7199,7 @@ domain:duoweiweek.com
 domain:duping.net
 domain:duplicati.com
 domain:dupola.com
+domain:dupola.net
 domain:durex-shop.ch
 domain:durex-shopline.com
 domain:durex-slovenia.si
@@ -8609,6 +8611,7 @@ domain:fedorainfracloud.org
 domain:fedoramagazine.org
 domain:fedorapeople.org
 domain:fedoraproject.org
+domain:feebee.tw
 domain:feedburner.com
 domain:feeder.co
 domain:feedherfuckher.com
@@ -9926,6 +9929,7 @@ domain:givemebuzzsaw.com
 domain:gizlen.net
 domain:gizmoxxx.com
 domain:gjczz.com
+domain:gjtaiwan.com
 domain:gladporn.com
 domain:glam0ur.com
 domain:glamourtits.com
@@ -11471,6 +11475,7 @@ domain:hrichina.org
 domain:hrntt.org
 domain:hrsaz.com
 domain:hrtek.ru
+domain:hrtsea.com
 domain:hrw.org
 domain:hrweb.org
 domain:hsbc-alternatives.de
@@ -12211,6 +12216,7 @@ domain:inlang.com
 domain:inlethd.com
 domain:inmediahk.net
 domain:innermongolia.org
+domain:innovarad.tw
 domain:innovations-i.com
 domain:inoreader.com
 domain:inote.tw
@@ -21132,6 +21138,7 @@ domain:stacyvandenbergboobs.com
 domain:stadia.dev
 domain:staffhub.ms
 domain:stage64.hk
+domain:standardchartered.com
 domain:standardsuniversity.org
 domain:standupfortibet.org
 domain:standwithhk.org
@@ -25175,6 +25182,7 @@ domain:xteko.com
 domain:xtube.com
 domain:xtubebdsm.com
 domain:xtubezoo.com
+domain:xu97.vip
 domain:xuchao.net
 domain:xuchao.org
 domain:xuehua.us

@@ -8196,6 +8196,7 @@ domain:cynscribe.com
 domain:cython.org
 domain:cytode.us
 domain:cyyeshb.com
+domain:cz.cc
 domain:czechav.com
 domain:czechbiporn.com
 domain:czechcasting.com
@@ -9683,6 +9684,7 @@ domain:duoweiweek.com
 domain:duping.net
 domain:duplicati.com
 domain:dupola.com
+domain:dupola.net
 domain:dur.ac.uk
 domain:durex-shop.ch
 domain:durex-shopline.com
@@ -11593,6 +11595,8 @@ domain:fedorainfracloud.org
 domain:fedoramagazine.org
 domain:fedorapeople.org
 domain:fedoraproject.org
+domain:feebee.com.tw
+domain:feebee.tw
 domain:feedburner.com
 domain:feeder.co
 domain:feedherfuckher.com
@@ -13157,6 +13161,7 @@ domain:givemebuzzsaw.com
 domain:gizlen.net
 domain:gizmoxxx.com
 domain:gjczz.com
+domain:gjtaiwan.com
 domain:gla.ac.uk
 domain:glaadh.ac.uk
 domain:gladporn.com
@@ -15270,6 +15275,7 @@ domain:hrntt.org
 domain:hrsaz.com
 domain:hrsfc.ac.uk
 domain:hrtek.ru
+domain:hrtsea.com
 domain:hrw.org
 domain:hrweb.org
 domain:hsad.ac.uk
@@ -16264,6 +16270,7 @@ domain:inlethd.com
 domain:inmediahk.net
 domain:innermongolia.org
 domain:innogen.ac.uk
+domain:innovarad.tw
 domain:innovation-exchange.ac.uk
 domain:innovation.ac.uk
 domain:innovations-i.com
@@ -22562,6 +22569,7 @@ domain:ntdvn.com
 domain:ntec.ac.uk
 domain:ntfs.ac.uk
 domain:ntidagenham.ac.uk
+domain:ntl.edu.tw
 domain:ntnews.com.au
 domain:ntp-b.nist.gov
 domain:ntp-c.colorado.edu
@@ -34255,6 +34263,7 @@ domain:xtracloud.net
 domain:xtube.com
 domain:xtubebdsm.com
 domain:xtubezoo.com
+domain:xu97.vip
 domain:xuchao.net
 domain:xuchao.org
 domain:xuehua.us
