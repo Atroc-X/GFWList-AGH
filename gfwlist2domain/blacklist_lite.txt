@@ -23147,6 +23147,7 @@ domain:upmedia.mg
 domain:upornia.com
 domain:uporno.xxx
 domain:uproxy.org
+domain:upsangel.com
 domain:uptodown.com
 domain:upwill.org
 domain:upwork.com
