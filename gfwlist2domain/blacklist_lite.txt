@@ -6586,6 +6586,7 @@ domain:digitaldesire.com
 domain:digitalhub.com
 domain:digitalid.ch
 domain:digitalnomadsproject.org
+domain:digitalocean-ui.com
 domain:digitalocean.com
 domain:digitaloceanspaces.com
 domain:digitalpack.com
