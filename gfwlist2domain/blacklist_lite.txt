@@ -758,6 +758,7 @@ domain:acer-group.com
 domain:aceros-de-hispania.com
 domain:acesofthunder.net
 domain:acevpn.com
+domain:acg.mn
 domain:acg.rip
 domain:acg18.me
 domain:acgbox.link
@@ -3622,6 +3623,7 @@ domain:blacktowhite.net
 domain:blackvpn.com
 domain:blaoshi.cc
 domain:blazor.net
+domain:bleepingcomputer.com
 domain:blender.org
 domain:blewpass.com
 domain:blingblingsquad.net
@@ -4183,6 +4185,7 @@ domain:boom.ru
 domain:boomba.club
 domain:boombeach.com
 domain:boomerang.com
+domain:boomplay.com
 domain:boomssr.com
 domain:boomtrain.com
 domain:booru.org
@@ -6002,6 +6005,7 @@ domain:ctfassets.net
 domain:ctfriend.net
 domain:ctinets.com
 domain:ctinews.com
+domain:ctinsider.com
 domain:ctotires.com
 domain:ctowc.org
 domain:ctwant.com
@@ -7585,6 +7589,7 @@ domain:edgefonts.net
 domain:edgemeplease.com
 domain:edgesuite.net
 domain:edicypages.com
+domain:edigest.hk
 domain:edisebay.com
 domain:editorx.com
 domain:edmontonservice.com
@@ -11121,6 +11126,7 @@ domain:hitbtc.com
 domain:hitomi.la
 domain:hitun.io
 domain:hitxhot.com
+domain:hive.blog
 domain:hiveon.net
 domain:hizb-ut-tahrir.info
 domain:hizb-ut-tahrir.org
@@ -12251,6 +12257,7 @@ domain:infocert.it
 domain:infoq.jp
 domain:informer.com
 domain:informs.org
+domain:infosec.exchange
 domain:infowars.com
 domain:infowarsmedia.com
 domain:infrapedia.com
@@ -13500,6 +13507,7 @@ domain:kaspersky.se
 domain:kastatic.org
 domain:kat.cr
 domain:katestube.com
+domain:kathmandupost.com
 domain:kavkazr.com
 domain:kawaiikawaii.jp
 domain:kawase.com
@@ -14807,6 +14815,7 @@ domain:mediaclip.jp
 domain:mediafiles-cisco.com
 domain:mediafire.com
 domain:mediafreakcity.com
+domain:mediamatters.org
 domain:mediasama.com
 domain:mediawiki.org
 domain:medibang.com
@@ -16421,6 +16430,7 @@ domain:newstamago.com
 domain:newstapa.org
 domain:newstarnet.com
 domain:newstatesman.com
+domain:newstimes.com
 domain:newsukadops.com
 domain:newsupermariobrosu.com
 domain:newswav.com
@@ -16467,6 +16477,7 @@ domain:nflxsearch.net
 domain:nflxso.net
 domain:nflxvideo.net
 domain:nfsc.global
+domain:nfsc.press
 domain:nfscdict.com
 domain:nfscofficial.com
 domain:nfsworld.com
@@ -16871,6 +16882,7 @@ domain:ntrfun.com
 domain:ntten-mg.buzz
 domain:nu-bay.com
 domain:nu.nl
+domain:nu36.vip
 domain:nubilefilms.com
 domain:nubiles-casting.com
 domain:nubiles-porn.com
@@ -17056,6 +17068,7 @@ domain:ocbmwdealers.com
 domain:occupytiananmen.com
 domain:oclc.org
 domain:oclp.hk
+domain:ocnttv.com
 domain:ocourier.ru
 domain:ocreampies.com
 domain:ocry.com
@@ -17459,6 +17472,7 @@ domain:over18arcade.com
 domain:overapple.com
 domain:overcast.fm
 domain:overdaily.org
+domain:overdrive.com
 domain:overleaf.com
 domain:overplay.net
 domain:overthumbs.com
@@ -19687,6 +19701,7 @@ domain:rtbcdn.ru
 domain:rthk.hk
 domain:rti.tw
 domain:rtings.com
+domain:rts.ch
 domain:rtycminnesota.org
 domain:ruanyifeng.com
 domain:ruby-lang.org
@@ -22024,6 +22039,7 @@ domain:the-area.com
 domain:the-japan-news.com
 domain:the-m-festival.com
 domain:the-monster-beats.com
+domain:the-sun.com
 domain:the123d.com
 domain:theadulthub.com
 domain:theaffairs.com
@@ -22180,6 +22196,7 @@ domain:theuab.net
 domain:theverge.com
 domain:thevirtualsexreview.com
 domain:thevivekspot.com
+domain:theweek.com
 domain:theweek.in
 domain:thewgo.org
 domain:thewirechina.com
@@ -22860,6 +22877,7 @@ domain:tvbanywhere.com
 domain:tvboxnow.com
 domain:tvbusa.com
 domain:tvbweekly.com
+domain:tvdy1.com
 domain:tver.jp
 domain:tvider.com
 domain:tvigle.ru
@@ -23472,6 +23490,7 @@ domain:velkaepocha.cz
 domain:velkaepocha.sk
 domain:velocloud.com
 domain:velostrata.com
+domain:venbbs.com
 domain:venchina.com
 domain:vendu.com
 domain:venetianmacao.com

@@ -874,6 +874,7 @@ domain:aces.ac.uk
 domain:acesofthunder.net
 domain:acets.ac.uk
 domain:acevpn.com
+domain:acg.mn
 domain:acg.rip
 domain:acg18.me
 domain:acgbox.link
@@ -4589,6 +4590,7 @@ domain:blaoshi.cc
 domain:blazor.net
 domain:blc.ac.uk
 domain:ble.ac.uk
+domain:bleepingcomputer.com
 domain:blend-ed.ac.uk
 domain:blender.org
 domain:blewpass.com
@@ -5314,6 +5316,7 @@ domain:boom.ru
 domain:boomba.club
 domain:boombeach.com
 domain:boomerang.com
+domain:boomplay.com
 domain:boomssr.com
 domain:boomtrain.com
 domain:booru.org
@@ -8043,6 +8046,7 @@ domain:ctfriend.net
 domain:ctg.ac.uk
 domain:ctinets.com
 domain:ctinews.com
+domain:ctinsider.com
 domain:ctitv.com.tw
 domain:ctk.ac.uk
 domain:ctkaquinas.ac.uk
@@ -8234,6 +8238,7 @@ domain:d1g1f25tn8m2e6.cloudfront.net
 domain:d1k2us671qcoau.cloudfront.net
 domain:d1m7jfoe9zdc1j.cloudfront.net
 domain:d1mhjrowxxagfy.cloudfront.net
+domain:d1ndex63qxojbr.cloudfront.net
 domain:d1oca24q5dwo6d.cloudfront.net
 domain:d1unuk07s6td74.cloudfront.net
 domain:d1v5ir2lpwr8os.cloudfront.net
@@ -10218,6 +10223,7 @@ domain:edgesuite.net
 domain:edhcc.ac.uk
 domain:edicypages.com
 domain:edifhe.ac.uk
+domain:edigest.hk
 domain:edina.ac.uk
 domain:edinburgh.ac.uk
 domain:edinburghcollege.ac.uk
@@ -14845,6 +14851,7 @@ domain:hitbtc.com
 domain:hitomi.la
 domain:hitun.io
 domain:hitxhot.com
+domain:hive.blog
 domain:hiveon.net
 domain:hizb-ut-tahrir.info
 domain:hizb-ut-tahrir.org
@@ -16303,6 +16310,7 @@ domain:informedchoices.ac.uk
 domain:informer.com
 domain:informs.org
 domain:infosciscotland.ac.uk
+domain:infosec.exchange
 domain:infotimes.com.tw
 domain:infowars.com
 domain:infowarsmedia.com
@@ -17831,6 +17839,7 @@ domain:kaspersky.se
 domain:kastatic.org
 domain:kat.cr
 domain:katestube.com
+domain:kathmandupost.com
 domain:kavkazr.com
 domain:kawaiikawaii.jp
 domain:kawase.com
@@ -19823,6 +19832,7 @@ domain:mediafiles-cisco.com
 domain:mediafire.com
 domain:mediafreakcity.com
 domain:mediahub.ac.uk
+domain:mediamatters.org
 domain:median.ac.uk
 domain:mediasama.com
 domain:mediawiki.org
@@ -21118,6 +21128,7 @@ domain:museumwales.ac.uk
 domain:mushroomtrack.com
 domain:mushymush.tv
 domain:music-research.ac.uk
+domain:music.amazon.com
 domain:musicade.net
 domain:musical.ly
 domain:musicandphilosophy.ac.uk
@@ -21966,6 +21977,7 @@ domain:newsexxxx.com
 domain:newsfeed.com
 domain:newsfilm.ac.uk
 domain:newsgawakaru.com
+domain:newshub.co.nz
 domain:newslicensing.co.uk
 domain:newsmagazine.asia
 domain:newsmart.jp
@@ -21981,6 +21993,7 @@ domain:newstamago.com
 domain:newstapa.org
 domain:newstarnet.com
 domain:newstatesman.com
+domain:newstimes.com
 domain:newsukadops.com
 domain:newsupermariobrosu.com
 domain:newswav.com
@@ -22052,6 +22065,7 @@ domain:nflxso.net
 domain:nflxvideo.net
 domain:nfo.ac.uk
 domain:nfsc.global
+domain:nfsc.press
 domain:nfscdict.com
 domain:nfscofficial.com
 domain:nfsworld.com
@@ -22711,6 +22725,7 @@ domain:ntyneside.ac.uk
 domain:nu-bay.com
 domain:nu-sense.ac.uk
 domain:nu.nl
+domain:nu36.vip
 domain:nua.ac.uk
 domain:nubilefilms.com
 domain:nubiles-casting.com
@@ -22991,6 +23006,7 @@ domain:oclc.org
 domain:oclp.hk
 domain:ocms.ac.uk
 domain:ocnkm.ac.uk
+domain:ocnttv.com
 domain:ocourier.ru
 domain:ocreampies.com
 domain:ocry.com
@@ -23516,6 +23532,7 @@ domain:over18arcade.com
 domain:overapple.com
 domain:overcast.fm
 domain:overdaily.org
+domain:overdrive.com
 domain:overleaf.com
 domain:overplay.net
 domain:oversea.istarshine.com
@@ -24074,6 +24091,7 @@ domain:penchinese.net
 domain:pencoed.ac.uk
 domain:pendcoll.ac.uk
 domain:pendrivelinux.com
+domain:penguin.com.au
 domain:pengwerncollege.ac.uk
 domain:pengyulong.com
 domain:peninsula.ac.uk
@@ -26424,6 +26442,7 @@ domain:rti.org.tw
 domain:rti.tw
 domain:rtings.com
 domain:rtm.tnt-ea.com
+domain:rts.ch
 domain:rtycminnesota.org
 domain:ru-moscow-1.myhuaweicloud.com
 domain:rua-project.ac.uk
@@ -29893,6 +29912,7 @@ domain:the-etc.ac.uk
 domain:the-japan-news.com
 domain:the-m-festival.com
 domain:the-monster-beats.com
+domain:the-sun.com
 domain:the-tls.co.uk
 domain:the123d.com
 domain:theadulthub.com
@@ -30094,6 +30114,7 @@ domain:theuab.net
 domain:theverge.com
 domain:thevirtualsexreview.com
 domain:thevivekspot.com
+domain:theweek.com
 domain:theweek.in
 domain:thewgo.org
 domain:thewirechina.com
@@ -30974,6 +30995,7 @@ domain:tvbusa.com
 domain:tvbweekly.com
 domain:tvc.ac.uk
 domain:tvcastlive-hamivideo.cdn.hinet.net
+domain:tvdy1.com
 domain:tver.co.jp
 domain:tver.jp
 domain:tvider.com
@@ -31972,6 +31994,7 @@ domain:velkaepocha.cz
 domain:velkaepocha.sk
 domain:velocloud.com
 domain:velostrata.com
+domain:venbbs.com
 domain:venchina.com
 domain:vendu.com
 domain:venetianmacao.com
