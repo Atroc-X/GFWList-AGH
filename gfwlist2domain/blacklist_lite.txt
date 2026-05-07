@@ -1767,6 +1767,7 @@ domain:anypornhd.com
 domain:anypornsexxx.com
 domain:anysex.com
 domain:anyshemale.com
+domain:anythingllm.com
 domain:anyxxx.me
 domain:anyxxx.pro
 domain:ao3.org
@@ -11800,6 +11801,7 @@ domain:ibvpn.com
 domain:ibytedtos.com
 domain:ibyteimg.com
 domain:icams.com
+domain:iccf.com
 domain:icedrive.net
 domain:icegay.tv
 domain:icegaytube.tv
@@ -17207,6 +17209,7 @@ domain:onani-daisuki.com
 domain:onapp.com
 domain:onbeatsbydresale.com
 domain:oncars.in
+domain:ondigitalocean.com
 domain:one.one
 domain:one889.app
 domain:oneapi.com
@@ -17337,6 +17340,7 @@ domain:opensource.google
 domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
+domain:openspec.dev
 domain:openssl.org
 domain:openstreetmap.com
 domain:openstreetmap.net
@@ -21557,6 +21561,7 @@ domain:suppig.net
 domain:supplybestjerseys.com
 domain:support-uber.com
 domain:supportfacebook.com
+domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
 domain:suprememastertv.com
@@ -22947,6 +22952,7 @@ domain:twifuli.com
 domain:twiggit.org
 domain:twilightsex.com
 domain:twilio.com
+domain:twilio.jp
 domain:twilog.org
 domain:twimbow.com
 domain:twimg.co
@@ -23051,6 +23057,7 @@ domain:typography.com
 domain:typora.io
 domain:tyre-cadcam.com
 domain:tyrecadcam.com
+domain:tytch.com
 domain:tytng189.com
 domain:tytporno.online
 domain:u.nu
@@ -23293,7 +23300,9 @@ domain:userapi.ru
 domain:usercentrics.eu
 domain:usercontent.dev
 domain:usercontent.goog
+domain:userdrive.org
 domain:userpxt.io
+domain:usersdrive.com
 domain:usertrust.com
 domain:usfk.mil
 domain:usgs.gov

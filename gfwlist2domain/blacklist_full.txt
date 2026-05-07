@@ -2201,6 +2201,7 @@ domain:anypornhd.com
 domain:anypornsexxx.com
 domain:anysex.com
 domain:anyshemale.com
+domain:anythingllm.com
 domain:anyxxx.me
 domain:anyxxx.pro
 domain:ao3.org
@@ -7752,7 +7753,10 @@ domain:coova.com
 domain:coova.net
 domain:coova.org
 domain:copac.ac.uk
+domain:copilot-proxy.githubusercontent.com
+domain:copilot-workspace.githubnext.com
 domain:copilot.microsoft.com
+domain:copilotprodattachments.blob.core.windows.net
 domain:copim.ac.uk
 domain:copior.ac.uk
 domain:copro.pw
@@ -13186,6 +13190,11 @@ domain:gitbooks.io
 domain:githack.com
 domain:github-api.arkoselabs.com
 domain:github-cloud.s3.amazonaws.com
+domain:github-production-release-asset-2e65be.s3.amazonaws.com
+domain:github-production-repository-file-5c1aeb.s3.amazonaws.com
+domain:github-production-repository-image-32fea6.s3.amazonaws.com
+domain:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+domain:github-production-user-asset-6210df.s3.amazonaws.com
 domain:github.ai
 domain:github.blog
 domain:github.com
@@ -15718,6 +15727,7 @@ domain:icair.ac.uk
 domain:icams.com
 domain:icashpassport.com.mx
 domain:icca.ac.uk
+domain:iccf.com
 domain:iccliverpool.ac.uk
 domain:ice-cse.ac.uk
 domain:iced.ac.uk
@@ -23181,6 +23191,7 @@ domain:onani-daisuki.com
 domain:onapp.com
 domain:onbeatsbydresale.com
 domain:oncars.in
+domain:ondigitalocean.com
 domain:one.one
 domain:one.one.one
 domain:one.one.one.one
@@ -23340,6 +23351,7 @@ domain:opensource.google
 domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
+domain:openspec.dev
 domain:openssl.org
 domain:openstemlab.ac.uk
 domain:openstemlabs.ac.uk
@@ -25161,6 +25173,26 @@ domain:prodforza.blob.core.windows.net
 domain:prodrive-japan.com
 domain:product.co.jp
 domain:production-openaicom-storage.azureedge.net
+domain:productionresultssa0.blob.core.windows.net
+domain:productionresultssa1.blob.core.windows.net
+domain:productionresultssa10.blob.core.windows.net
+domain:productionresultssa11.blob.core.windows.net
+domain:productionresultssa12.blob.core.windows.net
+domain:productionresultssa13.blob.core.windows.net
+domain:productionresultssa14.blob.core.windows.net
+domain:productionresultssa15.blob.core.windows.net
+domain:productionresultssa16.blob.core.windows.net
+domain:productionresultssa17.blob.core.windows.net
+domain:productionresultssa18.blob.core.windows.net
+domain:productionresultssa19.blob.core.windows.net
+domain:productionresultssa2.blob.core.windows.net
+domain:productionresultssa3.blob.core.windows.net
+domain:productionresultssa4.blob.core.windows.net
+domain:productionresultssa5.blob.core.windows.net
+domain:productionresultssa6.blob.core.windows.net
+domain:productionresultssa7.blob.core.windows.net
+domain:productionresultssa8.blob.core.windows.net
+domain:productionresultssa9.blob.core.windows.net
 domain:productivemargins.ac.uk
 domain:profile.ac.uk
 domain:profilemaster.com
@@ -29223,6 +29255,7 @@ domain:supply-chain.ac.uk
 domain:supplybestjerseys.com
 domain:support-uber.com
 domain:supportfacebook.com
+domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
 domain:suprememastertv.com
@@ -31078,6 +31111,7 @@ domain:twifuli.com
 domain:twiggit.org
 domain:twilightsex.com
 domain:twilio.com
+domain:twilio.jp
 domain:twilog.org
 domain:twimbow.com
 domain:twimg.co
@@ -31193,6 +31227,7 @@ domain:typography.com
 domain:typora.io
 domain:tyre-cadcam.com
 domain:tyrecadcam.com
+domain:tytch.com
 domain:tytng189.com
 domain:tytporno.online
 domain:u.nu
@@ -31710,7 +31745,9 @@ domain:userapi.ru
 domain:usercentrics.eu
 domain:usercontent.dev
 domain:usercontent.goog
+domain:userdrive.org
 domain:userpxt.io
+domain:usersdrive.com
 domain:usertrust.com
 domain:usfk.mil
 domain:usgs.gov
