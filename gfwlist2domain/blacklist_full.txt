@@ -23356,6 +23356,7 @@ domain:openssl.org
 domain:openstemlab.ac.uk
 domain:openstemlabs.ac.uk
 domain:openstreetmap.com
+domain:openstreetmap.fr
 domain:openstreetmap.net
 domain:openstreetmap.org
 domain:openstreetmaps.org
@@ -31529,6 +31530,7 @@ domain:ultrayoungsex.com
 domain:ulyssesapp.com
 domain:uma.media
 domain:umagazine.com.hk
+domain:umap.openstreetmap.fr
 domain:umass.edu
 domain:umbrella.com
 domain:umd.edu

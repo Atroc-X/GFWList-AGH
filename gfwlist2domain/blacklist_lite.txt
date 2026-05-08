@@ -17343,6 +17343,7 @@ domain:opensourceinsights.dev
 domain:openspec.dev
 domain:openssl.org
 domain:openstreetmap.com
+domain:openstreetmap.fr
 domain:openstreetmap.net
 domain:openstreetmap.org
 domain:openstreetmaps.org
