@@ -6240,6 +6240,7 @@ domain:data-tscbank.ru
 domain:data-vocabulary.org
 domain:data.com
 domain:data.taipei
+domain:data18.com
 domain:datacenters.google
 domain:datacloudmy.com
 domain:dataframeworks.com
@@ -7159,6 +7160,7 @@ domain:dssott.com
 domain:dstk.dk
 domain:dswz88.xyz
 domain:dsyiren.com
+domain:dt18.com
 domain:dtci.co
 domain:dtci.technology
 domain:dtdns.net
@@ -9848,6 +9850,7 @@ domain:gettyimages.se
 domain:gettyimages.us
 domain:getuploader.com
 domain:getws1.com
+domain:getwsj.com
 domain:getwsone.com
 domain:getzola.org
 domain:gfacecbook.com
@@ -12990,6 +12993,7 @@ domain:javdoe.to
 domain:javdove.com
 domain:javdove8.xyz
 domain:javextreme.net
+domain:javfc2.xyz
 domain:javfilms.com
 domain:javfinder.ai
 domain:javfor.me
@@ -22889,6 +22893,7 @@ domain:tuzaijidi.com
 domain:tv.br
 domain:tv.com
 domain:tv.google
+domain:tvants.com
 domain:tvappstore.net
 domain:tvb.com
 domain:tvbanywhere.com

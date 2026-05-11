@@ -8413,6 +8413,7 @@ domain:data.com
 domain:data.flurry.com
 domain:data.gov.tw
 domain:data.taipei
+domain:data18.com
 domain:databank.worldbank.org
 domain:database.asahi.com
 domain:datacenters.google
@@ -9625,6 +9626,7 @@ domain:dsw.ac.uk
 domain:dswz88.xyz
 domain:dsyiren.com
 domain:dt-toolkit.ac.uk
+domain:dt18.com
 domain:dtc-online.ac.uk
 domain:dtci.co
 domain:dtci.technology
@@ -13076,6 +13078,7 @@ domain:gettyimages.se
 domain:gettyimages.us
 domain:getuploader.com
 domain:getws1.com
+domain:getwsj.com
 domain:getwsone.com
 domain:getzola.org
 domain:gfacecbook.com
@@ -17220,6 +17223,7 @@ domain:javdoe.to
 domain:javdove.com
 domain:javdove8.xyz
 domain:javextreme.net
+domain:javfc2.xyz
 domain:javfilms.com
 domain:javfinder.ai
 domain:javfor.me
@@ -31030,6 +31034,7 @@ domain:tv.br
 domain:tv.com
 domain:tv.google
 domain:tv.jtbc.joins.com
+domain:tvants.com
 domain:tvappstore.net
 domain:tvb.com
 domain:tvb.com.au
