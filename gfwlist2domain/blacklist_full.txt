@@ -812,6 +812,7 @@ domain:abrsm.ac.uk
 domain:abs.ac.uk
 domain:abs.edu
 domain:absoluporn.com
+domain:absolutbank.ru
 domain:absolutewhores.com
 domain:ac-pocketcamp.com
 domain:ac.ir
@@ -1581,6 +1582,7 @@ domain:akasha.world
 domain:akastream.com
 domain:akastream.net
 domain:akatns.net
+domain:akbars.ru
 domain:akiba-online.com
 domain:akiba-souken.com
 domain:akiba-web.com
@@ -1604,6 +1606,7 @@ domain:alc.ac.uk
 domain:alchemysynth.com
 domain:alcs.ac.uk
 domain:aldinhe.ac.uk
+domain:alefbank.com
 domain:alexa.com
 domain:alexanderlondoncollege.ac.uk
 domain:alexanderstreet.com
@@ -2133,6 +2136,7 @@ domain:animezilla.com
 domain:aniscartujo.com
 domain:anistreaming.xyz
 domain:ankarazirvesi2018.com
+domain:ankb.ru
 domain:ankiuser.net
 domain:ankiweb.net
 domain:anm.co.uk
@@ -2842,6 +2846,7 @@ domain:ashleysageellison.com
 domain:ashridge.ac.uk
 domain:ashtoninstitute.ac.uk
 domain:asia-gaming.com
+domain:asia-pay.ru
 domain:asiabrox.ac.uk
 domain:asiacrazy.xyz
 domain:asiaharvest.org
@@ -2953,6 +2958,7 @@ domain:async.be
 domain:at.ua
 domain:atandt.com
 domain:atasale.com
+domain:atb.su
 domain:atc.org.au
 domain:atchinese.com
 domain:atdmt2.com
@@ -3208,6 +3214,7 @@ domain:autodeskworkshop.net
 domain:autodraw.com
 domain:autoesporte.com
 domain:autoesporte.com.br
+domain:autokreditbank.ru
 domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
@@ -3235,6 +3242,7 @@ domain:av69.us
 domain:av6k.com
 domain:av6k.vip
 domain:avaaz.org
+domain:avangard.ru
 domain:avant.ac.uk
 domain:avast.com
 domain:avatara.com
@@ -3255,6 +3263,7 @@ domain:avdudu.top
 domain:avdwang.xyz
 domain:avelip.com
 domain:aventertainments.com
+domain:aversbank.ru
 domain:avfantasy.com
 domain:avfox.cc
 domain:avg.com
@@ -3567,8 +3576,12 @@ domain:bangumi.moe
 domain:bangumi.tv
 domain:bangyoulater.com
 domain:bangyourwife.com
+domain:bank-arzamas.ru
+domain:bank-credit-suisse-moscow.ru
 domain:bank-maskan.ir
 domain:bank.in
+domain:bank131.com
+domain:bankermak.ru
 domain:bankline.ru
 domain:bankmellat.ir
 domain:bankmobilevibe.com
@@ -3682,6 +3695,7 @@ domain:bbk.ac.uk
 domain:bbkz.com
 domain:bbnradio.org
 domain:bbqm1.xyz
+domain:bbr.ru
 domain:bbs-api-os-static.hoyolab.com
 domain:bbs-api-os.hoyolab.com
 domain:bbs-cove.ac.uk
@@ -4255,6 +4269,7 @@ domain:bextbuy.com
 domain:beyondcore.com
 domain:beyondfirewall.com
 domain:beyondtext.ac.uk
+domain:bfa.ru
 domain:bffshd.com
 domain:bfmat.ac.uk
 domain:bfnn.org
@@ -4806,6 +4821,7 @@ domain:blz-contentstack.com
 domain:blzddistkr1-a.akamaihd.net
 domain:blzmedia-a.akamaihd.net
 domain:blznav.akamaized.net
+domain:bm-bank.ru
 domain:bm14.ac.uk
 domain:bmac.ac.uk
 domain:bmc.ac.uk
@@ -5651,6 +5667,7 @@ domain:bsmslegacy.ac.uk
 domain:bsnti.ac.uk
 domain:bso.ac.uk
 domain:bsom.ac.uk
+domain:bspb.ru
 domain:bsr.ac.uk
 domain:bsrg.ac.uk
 domain:bssd.ac.uk
@@ -7647,6 +7664,7 @@ domain:commandarms.com
 domain:comments.app
 domain:commentshk.com
 domain:commerceos.com
+domain:commerzbank.ru
 domain:commnet.ac.uk
 domain:communistcrimes.org
 domain:community.oneplus.com
@@ -7922,6 +7940,7 @@ domain:creativesdk.com
 domain:creativity-cetl.ac.uk
 domain:creatwhatsnext.com
 domain:crececonebay.com
+domain:credit-zenit.ru
 domain:creditcardsbay.com
 domain:creditkarma.com
 domain:creditlink-east.ac.uk
@@ -8462,6 +8481,7 @@ domain:db.tt
 domain:dba.dk
 domain:dbc.hk
 domain:dbgjd.com
+domain:dbmoscow.ru
 domain:dbo-dengi.online
 domain:dc-msedge.net
 domain:dca.ac.uk
@@ -8841,8 +8861,10 @@ domain:dettolcleannaija.com
 domain:dettolsitishield.co.in
 domain:dettolthailand.com
 domain:deutsch-sexfilme.com
+domain:deutsche-bank.ru
 domain:deutsche-pornos-kostenlos.xxx
 domain:deutsche-welle.de
+domain:deutschebank.ru
 domain:deutschepornos-kostenlos.net
 domain:deutschewelle.h-cdn.com
 domain:deutschsex.com
@@ -9383,6 +9405,7 @@ domain:domains.google
 domain:domaintoday.com.au
 domain:dombosco.com.br
 domain:domesticabuserisk.ac.uk
+domain:domrfbank.ru
 domain:domywife.com
 domain:don.ac.uk
 domain:donatecarsoh.org
@@ -11409,6 +11432,7 @@ domain:fanbox.cc
 domain:fandango.com
 domain:fandom.com
 domain:fandom.zendesk.com
+domain:fanfictionero.com
 domain:fanfox.net
 domain:fangbinxing.com
 domain:fangeming.com
@@ -11720,9 +11744,12 @@ domain:fi11av1.com
 domain:fi11tv1.com
 domain:fibank.bg
 domain:fibre-diffraction.ac.uk
+domain:fic.fan
+domain:ficador.com
 domain:ficbook.net
 domain:ficeboock.com
 domain:ficm.ac.uk
+domain:ficmania.com
 domain:fictionmania.tv
 domain:fiddle.jshell.net
 domain:fifastreet.com
@@ -11762,6 +11789,7 @@ domain:filton-college.ac.uk
 domain:filton.ac.uk
 domain:fimfiction.net
 domain:finalcutpro.com
+domain:finambank.ru
 domain:financeleadsonline.com
 domain:financetwitter.com
 domain:financialadvisoriq.com
@@ -12061,6 +12089,7 @@ domain:formit360.com
 domain:formitfactory.com
 domain:forms.new
 domain:forpojie.pics
+domain:forshtadt.ru
 domain:forster.ac.uk
 domain:fortawesome.com
 domain:forte.ac.uk
@@ -12627,6 +12656,7 @@ domain:fusionlifecycle.com
 domain:fusionproductionapps.com
 domain:fuskator.com
 domain:fusker.xxx
+domain:fut.ru
 domain:futanarihq.com
 domain:futhead.com
 domain:futoka.jp
@@ -15016,6 +15046,7 @@ domain:homealonemilfs.com
 domain:homebox.com
 domain:homeboxoffice.com
 domain:homebrew.bintray.com
+domain:homecredit.ru
 domain:homedepot-static.com
 domain:homedepot.com
 domain:homefieldcollege.ac.uk
@@ -15685,6 +15716,7 @@ domain:iav19.com
 domain:iavian.net
 domain:iavnight.com
 domain:ib.metapix.net
+domain:ibamoscow.ru
 domain:ibb.co
 domain:ibd-boost.ac.uk
 domain:ibeats-uk.com
@@ -17625,6 +17657,7 @@ domain:jpg4.info
 domain:jpg4.pw
 domain:jpg4us.net
 domain:jpl.nasa.gov
+domain:jpmorgan.ru
 domain:jpopforum.net
 domain:jpvhub.com
 domain:jquery.com
@@ -18125,6 +18158,7 @@ domain:korea.net
 domain:koreanpornmovie.com
 domain:korenan2.com
 domain:korewaeroi.com
+domain:korona.com
 domain:koshelek.app
 domain:koskade.com
 domain:kostenlosepornoclips.com
@@ -18173,6 +18207,7 @@ domain:kuaipa.net
 domain:kuanrenxs.com
 domain:kubakuba.global
 domain:kubakuba1996.com
+domain:kubankredit.ru
 domain:kubeacademy.com
 domain:kubeapps.com
 domain:kubernetes.io
@@ -19796,6 +19831,7 @@ domain:mcpeaceofmind.com
 domain:mcreasite.com
 domain:mcrouter.net
 domain:mcrouter.org
+domain:mcs.st
 domain:mcstories.com
 domain:mcsw.ac.uk
 domain:mctimoney-college.ac.uk
@@ -20028,6 +20064,7 @@ domain:mexcsensors.com
 domain:meyou.jp
 domain:meyul.com
 domain:mfg-inspector.com
+domain:mfk-bank.ru
 domain:mfk-t-finance.ru
 domain:mfmf.club
 domain:mfo.ac.uk
@@ -20039,6 +20076,8 @@ domain:mgoon.com
 domain:mgsdtp.ac.uk
 domain:mgstage.com
 domain:mh4u.org
+domain:mhcb.ru
+domain:mhcbr.ru
 domain:mhdss.ac.uk
 domain:mhhanman.xyz
 domain:mhie.ac.uk
@@ -20192,6 +20231,7 @@ domain:midlands4cities.ac.uk
 domain:midlandsenergyconsortium.ac.uk
 domain:midlandsphysicsalliance.ac.uk
 domain:midoushe.com
+domain:midphoto.com
 domain:midplus.ac.uk
 domain:midrib.ac.uk
 domain:mie.co.jp
@@ -21051,6 +21091,7 @@ domain:msidentity.com
 domain:msinnovationchallenge.com
 domain:msk.ilnk.info
 domain:msk.kitazawa.me
+domain:msk.ru
 domain:msn.com
 domain:msn.com.tw
 domain:msn.net
@@ -21172,6 +21213,7 @@ domain:mvg.jp
 domain:mvideoporno.xxx
 domain:mvk.com
 domain:mvnrepository.com
+domain:mvs-bank.ru
 domain:mwcu00.com
 domain:mwdbank.com
 domain:mwell.ac.uk
@@ -22141,6 +22183,8 @@ domain:nic.youtube
 domain:nicats.ac.uk
 domain:nicd.ac.uk
 domain:niceanimegames.com
+domain:nicegram.app
+domain:nicegram.cloud
 domain:niceporn.tv
 domain:nicer.ac.uk
 domain:nicesrv.de
@@ -22472,6 +22516,7 @@ domain:nonstopfap.com
 domain:noodlemagazine.com
 domain:noodlevpn.com
 domain:noonvob.com
+domain:noosferabank.ru
 domain:norbulingka.org
 domain:nordcdn.com
 domain:nordstrom.com
@@ -23526,6 +23571,7 @@ domain:otleyeaston.ac.uk
 domain:otleyonline.ac.uk
 domain:otnd.org
 domain:otokonokoland.com
+domain:otpbank.ru
 domain:otto.de
 domain:otzo.com
 domain:ou.ac.uk
@@ -24186,6 +24232,7 @@ domain:petiteballerinasfucked.com
 domain:petitehdporn.com
 domain:petroc.ac.uk
 domain:pewresearch.org
+domain:pf.org.tw
 domain:pfd.org.hk
 domain:pggc.ac.uk
 domain:pgreen.ac.uk
@@ -25128,6 +25175,7 @@ domain:priestley.ac.uk
 domain:priestleycollege.ac.uk
 domain:prifysgolioncymru.ac.uk
 domain:primarygoal.ac.uk
+domain:primbank.ru
 domain:prime-video.com
 domain:primecurves.com
 domain:primeday.info
@@ -25291,6 +25339,7 @@ domain:prpops.com
 domain:prs-ltsn.ac.uk
 domain:prts.plus
 domain:prucomm.ac.uk
+domain:prvbank.ru
 domain:ps-exchange.com
 domain:psa.ac.uk
 domain:psb-ocenka.ru
@@ -25311,6 +25360,7 @@ domain:psigate.ac.uk
 domain:psiphon.ca
 domain:psiphon3.com
 domain:psiphontoday.com
+domain:pskb.ru
 domain:pssru.ac.uk
 domain:pstatic.net
 domain:pstorage.space
@@ -25364,6 +25414,7 @@ domain:pullfolio.co
 domain:pullfolio.com
 domain:pullstring.net
 domain:pulsebrowser.app
+domain:pulsehknews.com
 domain:punishbang.com
 domain:punishworld.com
 domain:punjab.gov.in
@@ -25413,6 +25464,7 @@ domain:pvp.net
 domain:pvp.tv
 domain:pvr-hamivideo.cdn.hinet.net
 domain:pvt.sexy
+domain:pvubank.com
 domain:pvue1.com
 domain:pvue2.com
 domain:pvzgw2.com
@@ -25694,6 +25746,8 @@ domain:raggedbanner.com
 domain:ragnaporn.com
 domain:raidcall.com.tw
 domain:raidtalk.com.tw
+domain:raiffeisen-media.ru
+domain:raiffeisen.ru
 domain:rainbowplan.org
 domain:raindrop.io
 domain:raizoji.or.jp
@@ -26069,7 +26123,9 @@ domain:rememberingslavery.ac.uk
 domain:remirepo.net
 domain:rems-cdt.ac.uk
 domain:renaissanceskin.ac.uk
+domain:rencapbank.ru
 domain:renchead.com
+domain:rencredit.ru
 domain:renderingtoolkit.org
 domain:renderos.com
 domain:reneerossvideos.com
@@ -26261,6 +26317,7 @@ domain:rmjdw132.info
 domain:rnc.ac.uk
 domain:rncb.ac.uk
 domain:rncm.ac.uk
+domain:rncoluminis.ru
 domain:rnib-redhill.ac.uk
 domain:rnibcollege.ac.uk
 domain:rnibncw.ac.uk
@@ -26494,6 +26551,7 @@ domain:rtm.tnt-ea.com
 domain:rts.ch
 domain:rtycminnesota.org
 domain:ru-moscow-1.myhuaweicloud.com
+domain:ru.ccb.com
 domain:rua-project.ac.uk
 domain:ruanyifeng.com
 domain:ruby-lang.org
@@ -26824,6 +26882,7 @@ domain:sberspasibo.ru
 domain:sbertech.ru
 domain:sbertroika.ru
 domain:sbgkstv.shop
+domain:sbibankllc.ru
 domain:sbirmc.ac.uk
 domain:sbishinseibank.co.jp
 domain:sbitravelcard.com
@@ -27140,6 +27199,7 @@ domain:seasidestory.tokyo
 domain:seatguru.com
 domain:seattlefdc.com
 domain:seattlespheres.com
+domain:seb.ru
 domain:secom.co.jp
 domain:secomtrust.net
 domain:second-ns.com
@@ -27222,6 +27282,7 @@ domain:selectelix.ru
 domain:selectelpro.ru
 domain:selectyourgame.com
 domain:selfloversworld.com
+domain:selkombank.ru
 domain:sellclassics.com
 domain:sellercommunity.com
 domain:sellyoak.ac.uk
@@ -27865,6 +27926,7 @@ domain:sina.com.hk
 domain:sina.com.tw
 domain:sinabank.ir
 domain:sinapse.ac.uk
+domain:sinara.ru
 domain:sinchew.com.my
 domain:sinchew.my
 domain:sinet.ac.uk
@@ -28023,6 +28085,7 @@ domain:slarker.me
 domain:slashdot.org
 domain:slashine.onl
 domain:slate.com
+domain:slavbank.ru
 domain:slaytizle.com
 domain:slc.ac.uk
 domain:slc.tl
@@ -28099,6 +28162,7 @@ domain:smartthings.com
 domain:smashed.xxx
 domain:smashwords.com
 domain:smbc.co.jp
+domain:smbcr-bank.ru
 domain:smbctb.co.jp
 domain:smbgroup.ac.uk
 domain:smc.ac.uk
@@ -28261,6 +28325,7 @@ domain:solent-university.ac.uk
 domain:solent.ac.uk
 domain:solentmarineacademy.ac.uk
 domain:solentuniversity.ac.uk
+domain:solid.ru
 domain:solidaritetibet.org
 domain:solidfiles.com
 domain:solihull.ac.uk
@@ -28472,6 +28537,7 @@ domain:southwark.ac.uk
 domain:southwestcollege.ac.uk
 domain:southwestiot.ac.uk
 domain:southwestnuclearhub.ac.uk
+domain:sovcombank.ru
 domain:sovec.net
 domain:sowers.org.hk
 domain:sowiki.net
@@ -28662,6 +28728,7 @@ domain:ss.pythonic.life
 domain:ss2.us
 domain:ss7.app
 domain:ssa.gov
+domain:ssb.msk.ru
 domain:ssdevrd.com
 domain:ssees.ac.uk
 domain:ssfc.ac.uk
@@ -29535,6 +29602,7 @@ domain:taconet.com.tw
 domain:taedp.org.tw
 domain:tafm.org
 domain:tagapie.com.tw
+domain:tagbank.ru
 domain:tagesschau.de
 domain:tags.ac.uk
 domain:tagwa.org.au
@@ -29651,6 +29719,7 @@ domain:taste.com.au
 domain:tasteofpremium.jp
 domain:tastyblacks.com
 domain:tati-log.com
+domain:tatsotsbank.ru
 domain:tau.ac.uk
 domain:tauntons.ac.uk
 domain:taup.net
@@ -29813,6 +29882,7 @@ domain:tegrazone.jp
 domain:tegrazone.kr
 domain:tehnodom.com
 domain:tehrantimes.com
+domain:teinon.net
 domain:tejaratbank.ir
 domain:tel.ac.uk
 domain:teldap.tw
@@ -30486,6 +30556,7 @@ domain:tittykings.com
 domain:tjsbfj.com
 domain:tkb008.xyz
 domain:tkb2233.life
+domain:tkbbank.ru
 domain:tkbqf2.life
 domain:tkcs-collins.com
 domain:tksex.com
@@ -31308,6 +31379,7 @@ domain:ublock.org
 domain:ubn.ac.uk
 domain:ubncloud.com
 domain:ubnw.net
+domain:ubs.com
 domain:ubuntu-touch.io
 domain:ubuntu.com
 domain:ubuntu.net
@@ -31373,6 +31445,7 @@ domain:ucoz.pl
 domain:ucoz.ru
 domain:ucoz.site
 domain:ucoz.ua
+domain:ucozmail.com
 domain:ucozmedia.com
 domain:ucozmedia.ru
 domain:ucoztemplates.com
@@ -31419,6 +31492,7 @@ domain:uforadio.com.tw
 domain:ufreevpn.com
 domain:ugo.com
 domain:uguide.ru
+domain:uguide.su
 domain:uguisupapa.net
 domain:uhairy.com
 domain:uhdwallpapers.org
@@ -31503,6 +31577,7 @@ domain:ukngi.ac.uk
 domain:uknibc.ac.uk
 domain:ukoln.ac.uk
 domain:ukorea.ac.uk
+domain:ukoz.ru
 domain:ukpass.ac.uk
 domain:ukpmc.ac.uk
 domain:ukpmcplus.ac.uk
@@ -31720,6 +31795,7 @@ domain:upwork.com
 domain:ur7s.com
 domain:ura-akiba.jp
 domain:uraban.me
+domain:uralsib.ru
 domain:urasma.com
 domain:urbanairship.com
 domain:urbanbigdatacentre.ac.uk
@@ -31778,6 +31854,7 @@ domain:usmc.mil
 domain:usmgtcg.ning.com
 domain:usno.navy.mil
 domain:usocctn.com
+domain:usocial.pro
 domain:uspcollege.ac.uk
 domain:uspto.gov
 domain:usstratford.ac.uk
@@ -31841,6 +31918,7 @@ domain:uwcatlantic.ac.uk
 domain:uwchgyfrifiaduracymru.ac.uk
 domain:uwe-bristol.ac.uk
 domain:uwe.ac.uk
+domain:uweb.ru
 domain:uwern.ac.uk
 domain:uwic.ac.uk
 domain:uwinat.ac.uk
@@ -32512,6 +32590,7 @@ domain:vk.cc
 domain:vk.com
 domain:vk.company
 domain:vk.design
+domain:vk.kz
 domain:vk.link
 domain:vk.me
 domain:vk.ru
@@ -32519,7 +32598,9 @@ domain:vk.team
 domain:vkcache.com
 domain:vkcdnservice.com
 domain:vkclips.app
+domain:vkcloud-static.kz
 domain:vkcloud-static.ru
+domain:vkcloud.kz
 domain:vkcs.cloud
 domain:vkfest.ru
 domain:vkgo.app
@@ -32548,7 +32629,9 @@ domain:vkuservideo.com
 domain:vkuservideo.net
 domain:vkuservideo.ru
 domain:vkvideo.ru
+domain:vkworkspace.kz
 domain:vl4x.net
+domain:vlb100.ru
 domain:vllcs.org
 domain:vlog.br
 domain:vmailru.net
@@ -32938,7 +33021,10 @@ domain:vsmarketplacebadge.apphb.com
 domain:vsphere.com
 domain:vsphere.net
 domain:vssn.ac.uk
+domain:vtb-direct.com
+domain:vtb-grants.fut.ru
 domain:vtb.ru
+domain:vtbglobalperspectives.com
 domain:vtrahe.page
 domain:vtri.ac.uk
 domain:vts.ac.uk
@@ -33305,6 +33391,7 @@ domain:westdean.ac.uk
 domain:westengland.ac.uk
 domain:westerndigital.com
 domain:westernshugdensociety.org
+domain:westernunion.ru
 domain:westernwolves.com
 domain:westherts.ac.uk
 domain:westhill.ac.uk
@@ -35006,6 +35093,7 @@ domain:yomiuri-shimbun.pressreader.com
 domain:yomiuri-systec.co.jp
 domain:yomiuri.co.jp
 domain:yong.hu
+domain:yoobusiness.ru
 domain:yopo.work
 domain:yopornshop.com
 domain:york-sfc.ac.uk
@@ -35463,6 +35551,8 @@ domain:zencdn.net
 domain:zencoder.com
 domain:zendesk.com
 domain:zengjinyan.org
+domain:zenit-card.ru
+domain:zenit.ru
 domain:zenmate.com
 domain:zenmate.com.ru
 domain:zenodo.org
@@ -35531,6 +35621,7 @@ domain:zinio.com
 domain:zipcine.com
 domain:ziporn.com
 domain:zippyshare.com
+domain:ziraatbank.ru
 domain:zishy.com
 domain:zkaip.com
 domain:zkiz.com
