@@ -5240,6 +5240,7 @@ domain:chocam.com
 domain:chocolatey.org
 domain:choicereviews.org
 domain:chomp.com
+domain:chonglangtv.org
 domain:chosun.com
 domain:chped.com
 domain:chrdnet.com
@@ -13796,6 +13797,7 @@ domain:kumagai.com
 domain:kumapon.jp
 domain:kumo.com
 domain:kun.im
+domain:kun66.xyz
 domain:kundun1069.com
 domain:kuper.ru
 domain:kurashsultan.com
