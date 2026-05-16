@@ -27603,6 +27603,7 @@ domain:sgul.ac.uk
 domain:sgwritings.com
 domain:sgzhan.com
 domain:sh-xuxingda.com
+domain:sh83.xyz
 domain:shadbase.com
 domain:shadeyouvpn.com
 domain:shadow.ma
@@ -33040,6 +33041,7 @@ domain:vulgarx.com
 domain:vultr.com
 domain:vultryhw.com
 domain:vuvuzela.io
+domain:vv1865.com
 domain:vxnbbrs.xyz
 domain:vxxsred.xyz
 domain:vyprvpn.com
