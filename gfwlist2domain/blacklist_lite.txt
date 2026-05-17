@@ -2140,6 +2140,7 @@ domain:archives.gov
 domain:archivx.to
 domain:archlinux.de
 domain:archlinux.org
+domain:archlinux.page
 domain:archlinuxarm.org
 domain:archlinuxcn.org
 domain:arcraiders.com
@@ -5296,7 +5297,6 @@ domain:cinepornogratis.com
 domain:cinny.in
 domain:cios.org
 domain:cipfg.org
-domain:circle19.org
 domain:circlethebayfortibet.org
 domain:cirosantilli.com
 domain:cisco-returns.com
@@ -19621,6 +19621,7 @@ domain:ridepenguin.com
 domain:rightbtc.com
 domain:rightster.com
 domain:rigpa.org
+domain:rigums.xyz
 domain:riku.me
 domain:rileyguide.com
 domain:rime.im
