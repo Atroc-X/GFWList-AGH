@@ -9649,6 +9649,7 @@ domain:garena.tv
 domain:garena.tw
 domain:garena.vn
 domain:garenanow.com
+domain:garminmap.com
 domain:garotaporno.com
 domain:garotoesperto.com
 domain:gartlive.com
@@ -20662,6 +20663,7 @@ domain:sibreal.org
 domain:siddharthasintent.org
 domain:sidelinesnews.com
 domain:sidelinessportseatery.com
+domain:sider.ai
 domain:sidewalklabs.com
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
@@ -26249,6 +26251,7 @@ domain:zhanbin.net
 domain:zhangboli.net
 domain:zhangboz1.xyz
 domain:zhangtianliang.com
+domain:zhangzhehan.net
 domain:zhanlve.org
 domain:zhenghui.org
 domain:zhengjian.org
