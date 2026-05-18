@@ -169,6 +169,9 @@
 (@&!)githubusercontent.com
 (@&!)desktop.githubusercontent.com
 
+#vmipay
+(@&!)vmipay.com 
+
 # Google 
 (@&!)dns.google
 (@&!)google.com
