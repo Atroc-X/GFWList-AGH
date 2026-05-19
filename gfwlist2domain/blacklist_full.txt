@@ -478,6 +478,7 @@ domain:55dndn.com
 domain:5657.com.tw
 domain:567321.online
 domain:568xe.com
+domain:573.jp
 domain:58avgo.com
 domain:592r.com
 domain:59mvmv.com
@@ -17972,6 +17973,7 @@ domain:keytransparency.foo
 domain:keytransparency.org
 domain:kfd.me
 domain:kfs.io
+domain:kgisystems.com
 domain:kgslb.com
 domain:kgv.ac.uk
 domain:khabdha.org
@@ -18095,6 +18097,7 @@ domain:kissjav.li
 domain:kitakyushubank.co.jp
 domain:kitazawa.me
 domain:kitts.ac.uk
+domain:kiwi.jp
 domain:kiwi.kz
 domain:kiwibrowser.com
 domain:kiyobank.co.jp
@@ -18150,6 +18153,19 @@ domain:kompozer.net
 domain:konachan.com
 domain:konachan.net
 domain:konachan.wjcodes.com
+domain:konami-igaming.online
+domain:konami.co.jp
+domain:konami.com
+domain:konami.net
+domain:konami.org
+domain:konamicrossmedia.com
+domain:konamigaming.com
+domain:konamigaming.net
+domain:konamigaming.online
+domain:konamionline.com
+domain:konamiopen.jp
+domain:konamisportsclub.jp
+domain:konamistyle.jp
 domain:kone.com
 domain:koolsolutions.com
 domain:koornk.com
@@ -26171,6 +26187,8 @@ domain:researchkit.org
 domain:researchkit.tv
 domain:researchscotland.ac.uk
 domain:researchwales.ac.uk
+domain:resella.jp
+domain:resellablue.com
 domain:resilient-decarbonised-energy-cdt.ac.uk
 domain:resilient-decarbonised-energy-dtc.ac.uk
 domain:resilio.com
@@ -35455,6 +35473,7 @@ domain:yuanming.net
 domain:yuanzhengtang.org
 domain:yuenuge113.xyz
 domain:yuenuge18.cc
+domain:yugioh-card.com
 domain:yukineko.me
 domain:yulghun.com
 domain:yuming.qxbbs.org
