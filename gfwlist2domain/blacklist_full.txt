@@ -1612,6 +1612,7 @@ domain:alexa.com
 domain:alexanderlondoncollege.ac.uk
 domain:alexanderstreet.com
 domain:alexlur.org
+domain:alfa.me
 domain:alfabank.oavdo.amc
 domain:alfabank.ru
 domain:alfabank.st
@@ -9488,6 +9489,7 @@ domain:download.cnet.com
 domain:download.com
 domain:download.dappcdn.com
 domain:download.fastgit.org
+domain:download.qatp1.net
 domain:download.qcpp1.net
 domain:download.qpdp1.net
 domain:downloadpass.com
@@ -11573,6 +11575,7 @@ domain:favelaporno.com
 domain:favepornmovs.com
 domain:favepornvids.com
 domain:favjapaneseporn.com
+domain:favoritescc-hamivideo2.cdn.hinet.net
 domain:favotter.net
 domain:favstar.fm
 domain:fawanghuihui.org
@@ -18599,6 +18602,7 @@ domain:lg.com
 domain:lgappstv.com
 domain:lgbtnonhe.ac.uk
 domain:lgbtq.games
+domain:lgcscc-hamivideo2.cdn.hinet.net
 domain:lge.co.kr
 domain:lge.com
 domain:lgecareers.com
@@ -20859,6 +20863,7 @@ domain:monica.im
 domain:monitorchina.org
 domain:monitoring.qatp1.net
 domain:monitoring.qcpp1.net
+domain:monitoring.qpdp1.net
 domain:monitorware.com
 domain:monitrix.net
 domain:monkwear.ac.uk
@@ -25521,10 +25526,12 @@ domain:q13fox.com
 domain:qaa.ac.uk
 domain:qac.ac.uk
 domain:qacollege.ac.uk
+domain:qagpublic.qatp1.net
 domain:qagpublic.qcpp1.net
 domain:qagpublic.qpdp1.net
 domain:qanote.com
 domain:qatarescortsvip.com
+domain:qatp1.net
 domain:qattdh.cc
 domain:qattdh.top
 domain:qattdh1.cc
@@ -25535,11 +25542,13 @@ domain:qbmengmei6.mom
 domain:qbsc.ac.uk
 domain:qckprn.com
 domain:qcomgeo2.com
+domain:qcpp1.net
 domain:qctconnect.com
 domain:qdiehzz7.me
 domain:qdmomentum.com
 domain:qeliz.ac.uk
 domain:qgadmin.qatp1.net
+domain:qgadmin.qcpp1.net
 domain:qgadmin.qpdp1.net
 domain:qgirl.com.tw
 domain:qhigh.com
@@ -25586,6 +25595,7 @@ domain:qoos.com
 domain:qooza.hk
 domain:qorno.com
 domain:qoru.ac.uk
+domain:qpdp1.net
 domain:qpoe.com
 domain:qporno.xxx
 domain:qprize.com
@@ -25626,10 +25636,12 @@ domain:qualcommventures.com
 domain:qualidata.ac.uk
 domain:qualphone.com
 domain:qualtrics.com
+domain:qualysapi.qatp1.net
 domain:qualysapi.qcpp1.net
 domain:qualysapi.qpdp1.net
 domain:qualysguard.qatp1.net
 domain:qualysguard.qcpp1.net
+domain:qualysguard.qpdp1.net
 domain:quanben-xiaoshuo.com
 domain:quanben.io
 domain:quannengshen.org
@@ -26936,6 +26948,7 @@ domain:scaleform.com
 domain:scandalplanet.com
 domain:scanlover.com
 domain:scanservice1.qatp1.net
+domain:scanservice1.qcpp1.net
 domain:scanservice1.qpdp1.net
 domain:scapa.ac.uk
 domain:scarb-6-form.ac.uk
@@ -29824,6 +29837,8 @@ domain:teachparentstech.org
 domain:teamamericany.com
 domain:teamneedforspeed.com
 domain:teamskeet.com
+domain:teamspeak-services.com
+domain:teamspeak.com
 domain:teamviewer.com
 domain:teamviewer.com.cdn.cloudflare.net
 domain:teamviewer.us
@@ -30340,6 +30355,7 @@ domain:throughnightsfire.com
 domain:thtmod1.com
 domain:thu.monster
 domain:thuhole.com
+domain:thumbnail-hamivideo.cdn.hinet.net
 domain:thumbnailseries.com
 domain:thumbzilla.com
 domain:thunderbird.net
@@ -30594,6 +30610,7 @@ domain:tlcbexley.ac.uk
 domain:tlccollege.ac.uk
 domain:tlcmd.ac.uk
 domain:tlcmoodle.ac.uk
+domain:tlmr-hamivideo2.cdn.hinet.net
 domain:tltp.ac.uk
 domain:tma.co.jp
 domain:tmagazine.com
@@ -33347,6 +33364,7 @@ domain:webster.ac.uk
 domain:webtoons.com
 domain:webtoonscorp.com
 domain:webtype.com
+domain:webvodad-hamivideo.cdn.hinet.net
 domain:webwarper.net
 domain:webworkerdaily.com
 domain:wechatlawsuit.com
@@ -34422,6 +34440,7 @@ domain:xn--colegsirgr-c5a.ac.uk
 domain:xn--czq75pvv1aj5c.org
 domain:xn--d1abkf4ap.fun
 domain:xn--d4ty0ojsqzfd.com
+domain:xn--flw351e.com
 domain:xn--ggle-55da.com
 domain:xn--gmq348bujlxrb.com
 domain:xn--gmq92kd2rm1kx34a.com

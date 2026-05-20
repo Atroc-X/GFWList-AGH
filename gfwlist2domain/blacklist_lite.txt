@@ -1304,6 +1304,7 @@ domain:alefbank.com
 domain:alexa.com
 domain:alexanderstreet.com
 domain:alexlur.org
+domain:alfa.me
 domain:alfabank.ru
 domain:alfabank.st
 domain:alfadirect.ru
@@ -5261,6 +5262,7 @@ domain:chromeos.dev
 domain:chromeos.google
 domain:chromercise.com
 domain:chromestatus.com
+domain:chromium.org
 domain:chronicle.security
 domain:chroniclesec.com
 domain:chuang-yen.org
@@ -10352,6 +10354,7 @@ domain:google.vn
 domain:google.vu
 domain:google.ws
 domain:googleacquisitionmigration.com
+domain:googleadapis.com
 domain:googleapis.cn
 domain:googleapps.com
 domain:googlearth.com
@@ -19118,6 +19121,7 @@ domain:q13.com
 domain:q13fox.com
 domain:qanote.com
 domain:qatarescortsvip.com
+domain:qatp1.net
 domain:qattdh.cc
 domain:qattdh.top
 domain:qattdh1.cc
@@ -19126,6 +19130,7 @@ domain:qattdh6.top
 domain:qbittorrent.org
 domain:qbmengmei6.mom
 domain:qckprn.com
+domain:qcpp1.net
 domain:qctconnect.com
 domain:qdiehzz7.me
 domain:qdmomentum.com
@@ -19163,6 +19168,7 @@ domain:qooqlevideo.com
 domain:qoos.com
 domain:qooza.hk
 domain:qorno.com
+domain:qpdp1.net
 domain:qpoe.com
 domain:qporno.xxx
 domain:qprize.com
@@ -21978,6 +21984,8 @@ domain:teachparentstech.org
 domain:teamamericany.com
 domain:teamneedforspeed.com
 domain:teamskeet.com
+domain:teamspeak-services.com
+domain:teamspeak.com
 domain:teamviewer.com
 domain:teamviewer.us
 domain:tearapeak.com
@@ -25305,6 +25313,7 @@ domain:xn--cck4d8b3009a.com
 domain:xn--czq75pvv1aj5c.org
 domain:xn--d1abkf4ap.fun
 domain:xn--d4ty0ojsqzfd.com
+domain:xn--flw351e.com
 domain:xn--ggle-55da.com
 domain:xn--gmq348bujlxrb.com
 domain:xn--gmq92kd2rm1kx34a.com
