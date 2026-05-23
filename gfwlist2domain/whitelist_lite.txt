@@ -4154,6 +4154,7 @@ domain:363635.com
 domain:363u.com
 domain:364000.com
 domain:365.com
+domain:365.hk
 domain:36500.com
 domain:36500.net
 domain:365128.com
@@ -14225,7 +14226,6 @@ domain:baidu-tech.com
 domain:baidu-wenxue.com
 domain:baidu.cc
 domain:baidu.com
-domain:baidu.jp
 domain:baidu.mobi
 domain:baidu120.cc
 domain:baidu123.com
@@ -18112,6 +18112,7 @@ domain:buff8.com
 domain:buffaloex.com
 domain:buffst.com
 domain:bufpay.com
+domain:bugaicuoguo.com
 domain:bughz.com
 domain:bugku.com
 domain:bugnull.com
@@ -28097,6 +28098,7 @@ domain:datafun.vip
 domain:datag.vip
 domain:datagear.tech
 domain:datagrand.com
+domain:dataheiheihome.com
 domain:datahome2026.com
 domain:datahubtrack.com
 domain:datahuif.com
@@ -31762,7 +31764,6 @@ domain:e4e4c4415fd53198.com
 domain:e4l4.com
 domain:e4xk2cvh.work
 domain:e508250086b14d75.com
-domain:e53w.com
 domain:e5413.com
 domain:e5865f69dee0.xyz
 domain:e58860e249bf56ad.com
@@ -34958,6 +34959,7 @@ domain:fengnayun.com
 domain:fengniao.com
 domain:fengniaohd.com
 domain:fengniaojianzhan.com
+domain:fengniaourl.com
 domain:fengone.com
 domain:fengpintech.com
 domain:fengread.com
@@ -37155,6 +37157,7 @@ domain:gamxex.com
 domain:gan-ren.com
 domain:ganboo.com
 domain:ganduee.com
+domain:ganfanniu.com
 domain:gangbao365.com
 domain:gangbogroup.com
 domain:gangduotech.com
@@ -37697,6 +37700,7 @@ domain:gdj-tech.com
 domain:gdjdxh.com
 domain:gdjdxy.com
 domain:gdjhh.com
+domain:gdjhtx.com
 domain:gdjiabao.com
 domain:gdjinge.com
 domain:gdjinguan.net
@@ -51882,6 +51886,7 @@ domain:initac.com
 domain:initaf.com
 domain:initah.com
 domain:initaj.com
+domain:initak.com
 domain:initbb.com
 domain:initcc.com
 domain:initdd.com
@@ -62419,6 +62424,7 @@ domain:listentide.com
 domain:listenvod.com
 domain:listno1.com
 domain:listong.com
+domain:lisuantech.com
 domain:lisure.com
 domain:lisz.me
 domain:litangkj.com
@@ -74976,7 +74982,6 @@ domain:qcloudzygj.com
 domain:qcly.love
 domain:qcly.xyz
 domain:qcmgkids.com
-domain:qcmod.xyz
 domain:qcmoe.com
 domain:qcmrjx.com
 domain:qcmuzhi.com
@@ -90725,6 +90730,7 @@ domain:todolist.pub
 domain:todonow.com
 domain:todoyi.com
 domain:todreamer.com
+domain:todust.cc
 domain:toec-gdgs.com
 domain:toec-iot.com
 domain:toec.com
@@ -92040,6 +92046,7 @@ domain:tutechanhb.com
 domain:tutengcloud.com
 domain:tutengdai.com
 domain:tutorabc.com
+domain:tutu-caonima.com
 domain:tutuapp.com
 domain:tutucloud.com
 domain:tutudati.com
@@ -95120,6 +95127,7 @@ domain:wankacn.com
 domain:wankacn.net
 domain:wankamall.com
 domain:wanke123.com
+domain:wankeji.com
 domain:wanku.com
 domain:wanlaiwang.com
 domain:wanli.com
@@ -104466,6 +104474,7 @@ domain:yicheshi.com
 domain:yichezhi.com
 domain:yichi.tech
 domain:yichip.com
+domain:yichkp.com
 domain:yichuan.net
 domain:yichuntv.com
 domain:yichuyifan.com

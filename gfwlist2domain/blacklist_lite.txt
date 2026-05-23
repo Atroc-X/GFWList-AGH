@@ -238,6 +238,7 @@ domain:233v2.com
 domain:2371tom.com
 domain:24av.net
 domain:24h.tv
+domain:24hbook.com
 domain:24hjav.com
 domain:24hrs.ca
 domain:24porn.com
@@ -2790,6 +2791,7 @@ domain:baeb.com
 domain:bag-glasses1.com
 domain:bai29.xyz
 domain:baicaonetwork.com
+domain:baidu.jp
 domain:baijie.org
 domain:bailandaily.com
 domain:baixing.me
@@ -14667,6 +14669,7 @@ domain:marvelsuperwar.com
 domain:marxist.com
 domain:marxist.net
 domain:marxists.org
+domain:mas.to
 domain:masalabin.com
 domain:masaladesi.com
 domain:masalaseen.net
@@ -16355,6 +16358,7 @@ domain:nengcard.com
 domain:nenitas.club
 domain:nentindo.net
 domain:neo-miracle.com
+domain:neodb.social
 domain:neoforged.net
 domain:neovim.io
 domain:neow.in

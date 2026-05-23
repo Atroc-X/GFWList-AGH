@@ -260,6 +260,7 @@ domain:233v2.com
 domain:2371tom.com
 domain:24av.net
 domain:24h.tv
+domain:24hbook.com
 domain:24hjav.com
 domain:24hrs.ca
 domain:24porn.com
@@ -3529,6 +3530,7 @@ domain:bahcesehir.ac.uk
 domain:bai29.xyz
 domain:baicaonetwork.com
 domain:baice.ac.uk
+domain:baidu.jp
 domain:baijie.org
 domain:bailandaily.com
 domain:bailer.ac.uk
@@ -19582,6 +19584,7 @@ domain:marxists.org
 domain:maryvale.ac.uk
 domain:maryward.ac.uk
 domain:marywardcentre.ac.uk
+domain:mas.to
 domain:masalabin.com
 domain:masaladesi.com
 domain:masalaseen.net
@@ -21823,6 +21826,7 @@ domain:nentindo.net
 domain:neo-miracle.com
 domain:neo.com.tw
 domain:neodaas.ac.uk
+domain:neodb.social
 domain:neoforged.net
 domain:neonatalsociety.ac.uk
 domain:neotokyo.supertop-100.com
