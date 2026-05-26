@@ -20253,6 +20253,7 @@ domain:middlesex.ac.uk
 domain:midentsolutions.com
 domain:midfife.ac.uk
 domain:midhurst.ac.uk
+domain:midjourney.com
 domain:midkent.ac.uk
 domain:midlands3cities.ac.uk
 domain:midlands4cities.ac.uk
