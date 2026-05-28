@@ -7689,6 +7689,7 @@ domain:electronicarts.fr
 domain:electronicsignature.ru
 domain:electronjs.org
 domain:element.io
+domain:elementary.io
 domain:elephantlist.com
 domain:elephantsdream.org
 domain:elephanttube.com
@@ -10113,6 +10114,7 @@ domain:gnai-dh.sbs
 domain:gnailapp.sbs
 domain:gnews.org
 domain:gnom-cham.com
+domain:gnome.org
 domain:gnu.org
 domain:gnzi.xyz
 domain:gnzi1.top
@@ -10886,6 +10888,7 @@ domain:helixstudios.net
 domain:helloandroid.com
 domain:helloavgirls.com
 domain:hellokittybeats.com
+domain:hellomoto.com
 domain:helloqueer.com
 domain:hellosmartbook.com
 domain:helloss.pw
@@ -13570,6 +13573,7 @@ domain:kbzpay.com
 domain:kc3000.shop
 domain:kcoolonline.com
 domain:kcqsw-na.sbs
+domain:kde.org
 domain:kdfuli.com
 domain:kdy202312.shop
 domain:keaiav.com
@@ -14403,6 +14407,7 @@ domain:lvhtebook.com
 domain:lvv2.com
 domain:lwwcn.buzz
 domain:lwwcn.xyz
+domain:lxqt-project.org
 domain:lxxlxx.com
 domain:lyfhk.net
 domain:lysol.ca
@@ -14761,6 +14766,7 @@ domain:masturbate2gether.com
 domain:mat6tube.com
 domain:matainja.com
 domain:matchmover.com
+domain:mate-desktop.org
 domain:material.io
 domain:mathable.io
 domain:mathiew-badimon.com
@@ -15757,8 +15763,24 @@ domain:motherless.com
 domain:motiongraphicsandmore.com
 domain:motionpictureser.com
 domain:motiyun.com
+domain:moto.com
 domain:motolia.com
 domain:motor4ik.ru
+domain:motorola.ca
+domain:motorola.cl
+domain:motorola.co
+domain:motorola.com
+domain:motorola.de
+domain:motorola.es
+domain:motorola.fr
+domain:motorola.gr
+domain:motorola.in
+domain:motorola.it
+domain:motorola.net
+domain:motorola.vn
+domain:motorolacareers.com
+domain:motorolanews.com
+domain:motorolasolutions.com
 domain:motorshowblog.com
 domain:mottainai.info
 domain:mousebreaker.com
@@ -18256,6 +18278,7 @@ domain:planetsuzy.org
 domain:plannotator.ai
 domain:plansondemand.com
 domain:plantsvszombies2.com
+domain:plasma-mobile.org
 domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platiecom.ru
@@ -21807,6 +21830,7 @@ domain:synologyupdate.com
 domain:syosetu.com
 domain:sysinternals.com
 domain:sysresccd.org
+domain:system76.com
 domain:sytes.net
 domain:syx86.com
 domain:syzbj36.xyz
@@ -25179,6 +25203,7 @@ domain:xenoblade.com
 domain:xeon.com
 domain:xerotica.com
 domain:xfantazy.com
+domain:xfce.org
 domain:xfemaledom.com
 domain:xfiles.to
 domain:xfinity.com
@@ -25234,6 +25259,7 @@ domain:xie56.xyz
 domain:xiezhua.com
 domain:xihua.es
 domain:xii.jp
+domain:xin21.xyz
 domain:xinaia-av.buzz
 domain:xinbao.de
 domain:xindelu.com
