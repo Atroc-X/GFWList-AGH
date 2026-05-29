@@ -9785,6 +9785,7 @@ domain:gemfury.com
 domain:gemini.com
 domain:gemini.google
 domain:gen.tr
+domain:gencraft.com
 domain:gendai.net
 domain:generated.photos
 domain:genetic-technologies.am
@@ -23626,6 +23627,7 @@ domain:vdoav.com
 domain:vecchiescopate.casa
 domain:vector.im
 domain:vedomosti.ru
+domain:veed.io
 domain:veet.at
 domain:veet.be
 domain:veet.ca

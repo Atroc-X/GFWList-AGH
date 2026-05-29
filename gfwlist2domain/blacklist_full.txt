@@ -12994,6 +12994,7 @@ domain:gemini.google
 domain:gen.lib.rus.ec
 domain:gen.tr
 domain:gen2.ac.uk
+domain:gencraft.com
 domain:gendai.net
 domain:generated.photos
 domain:generationpup.ac.uk
@@ -32163,6 +32164,7 @@ domain:ve-uhd-push-uk-live.akamaized.net
 domain:vecchiescopate.casa
 domain:vector.im
 domain:vedomosti.ru
+domain:veed.io
 domain:veet.at
 domain:veet.be
 domain:veet.ca
