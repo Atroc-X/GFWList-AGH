@@ -10669,6 +10669,7 @@ domain:haho.moe
 domain:haicomdc.com
 domain:haicomdc.ru
 domain:haicomgroup.ru
+domain:haijiao.ai
 domain:haijiao.com
 domain:hairy-amateurs.com
 domain:hairy-beauty.com
@@ -11184,6 +11185,7 @@ domain:hjb246.top
 domain:hjb7e9.top
 domain:hjclub.info
 domain:hjd2048.com
+domain:hjw01.com
 domain:hk-pub.com
 domain:hk01.com
 domain:hk1lib.org
