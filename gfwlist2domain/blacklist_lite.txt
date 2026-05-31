@@ -14210,6 +14210,7 @@ domain:livexxx.me
 domain:livingonline.us
 domain:livingstream.com
 domain:livingyourambition.com
+domain:livinno.org
 domain:liwangyang.com
 domain:liyuans.com
 domain:lizardporn.com
@@ -17418,6 +17419,7 @@ domain:oopsforum.com
 domain:ooyala.com
 domain:op.gg
 domain:op7979.com
+domain:opac-project.eu
 domain:open-assistant.io
 domain:openai.com
 domain:openallweb.com

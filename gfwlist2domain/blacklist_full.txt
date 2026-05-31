@@ -18874,6 +18874,7 @@ domain:livingonline.us
 domain:livingstream.com
 domain:livingwithmachines.ac.uk
 domain:livingyourambition.com
+domain:livinno.org
 domain:livjm.ac.uk
 domain:livrariart.com.br
 domain:liwangyang.com
@@ -23427,6 +23428,7 @@ domain:ootbstudio.co.kr
 domain:ooyala.com
 domain:op.gg
 domain:op7979.com
+domain:opac-project.eu
 domain:opdems.ac.uk
 domain:open-assistant.io
 domain:open.ac.uk
