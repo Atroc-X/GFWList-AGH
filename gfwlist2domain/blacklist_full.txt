@@ -20543,7 +20543,6 @@ domain:minilondon.co
 domain:minim.ac.uk
 domain:minimarkham.ca
 domain:minimarkham.com
-domain:minimax.io
 domain:minimoncton.ca
 domain:minimoncton.com
 domain:minimontrealcentre.ca
@@ -21066,6 +21065,7 @@ domain:moxing.mobi
 domain:moxing.news
 domain:moystoys.com
 domain:mozgcp.net
+domain:mozilla-ohttp.fastly-edge.com
 domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
@@ -34365,8 +34365,11 @@ domain:xhamster2.com
 domain:xhamster3.com
 domain:xhamsterlive.com
 domain:xhcdn.com
+domain:xhnews.live
 domain:xhot.pro
+domain:xhpingcdn.com
 domain:xhpjc6-cdn-settings.appsflyersdk.com
+domain:xhreal5.com
 domain:xhub.tv
 domain:xianba.net
 domain:xianchawang.net
