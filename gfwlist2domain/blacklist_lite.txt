@@ -9857,6 +9857,7 @@ domain:getmalus.com
 domain:getmdl.io
 domain:getnews.jp
 domain:getoutline.org
+domain:getpaint.net
 domain:getpocket.com
 domain:getporn.tv
 domain:getpricetag.com
@@ -17698,6 +17699,7 @@ domain:paily.org
 domain:paimon.moe
 domain:painfulpussytortures.com
 domain:painnovel.com
+domain:paint.net
 domain:paipal.com
 domain:paipancon.com
 domain:paisapay.cc
