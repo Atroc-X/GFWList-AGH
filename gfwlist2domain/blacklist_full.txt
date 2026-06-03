@@ -30726,6 +30726,7 @@ domain:tomp3.cc
 domain:tomsguide.com
 domain:tomshardware.com
 domain:ton.org
+domain:toncenter.com
 domain:tonec.com
 domain:tongil.or.kr
 domain:tonicmovies.com
@@ -34500,6 +34501,7 @@ domain:xn--colegsirgr-c5a.ac.uk
 domain:xn--czq75pvv1aj5c.org
 domain:xn--d1abkf4ap.fun
 domain:xn--d4ty0ojsqzfd.com
+domain:xn--dgtr4ppoz.com
 domain:xn--flw351e.com
 domain:xn--ggle-55da.com
 domain:xn--gmq348bujlxrb.com
