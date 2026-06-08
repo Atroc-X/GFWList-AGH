@@ -50883,9 +50883,7 @@ domain:iclicash.com
 domain:iclickstatic.com
 domain:icliexpo.com
 domain:icljt.com
-domain:icloud-cdn.icloud.com.akadns.net
 domain:icloud-power.com
-domain:icloud.cdn-apple.com
 domain:icloud.com
 domain:icloudcity.com
 domain:icloudgslb.com
@@ -71850,12 +71848,10 @@ domain:ocngs.globalsign.com
 domain:ocpuritech.com
 domain:ocr.lenovo.com
 domain:ocsjs.com
-domain:ocsp-lb.apple.com.akadns.net
 domain:ocsp.apple.com
 domain:ocsp.globalsign.com
 domain:ocsp.pki.goog
 domain:ocsp.us.cdnetworks.com
-domain:ocsp2-lb.apple.com.akadns.net
 domain:ocsp2.apple.com
 domain:ocsp2.globalsign.com
 domain:ocssaas.com
@@ -73126,7 +73122,6 @@ domain:panawincn.com
 domain:panbaidu.net
 domain:panbrake.com
 domain:pancake.apple.com
-domain:pancake.cdn-apple.com.akadns.net
 domain:panchinasports.com
 domain:panchip.com
 domain:panchuang.net
@@ -78659,7 +78654,6 @@ domain:reseetech.com
 domain:resemblancey.com
 domain:resemi.com
 domain:reserve-backend.dji.com
-domain:reserve-prime.apple.com
 domain:reservehemu.com
 domain:resheji.com
 domain:resistor.today
