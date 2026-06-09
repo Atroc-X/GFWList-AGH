@@ -16820,6 +16820,7 @@ domain:intuitlabs.com
 domain:intuitpayments.com
 domain:intunewiki.com
 domain:intute.ac.uk
+domain:invade.tw
 domain:inventor-certified.com
 domain:inventorfusion.com
 domain:inventorseries.com
@@ -29896,7 +29897,6 @@ domain:taipeitimes.com
 domain:taisounds.com
 domain:tait.ac.uk
 domain:taiwan-sex.com
-domain:taiwan.net.tw
 domain:taiwanadultexpo.com
 domain:taiwanbible.com
 domain:taiwancon.com
@@ -29917,7 +29917,6 @@ domain:taiwansex.tw
 domain:taiwanstay.net.tw
 domain:taiwantoday.tw
 domain:taiwantp.net
-domain:taiwantrip.com.tw
 domain:taiwantt.org.tw
 domain:taiwanus.net
 domain:taiwanyes.com
@@ -32133,6 +32132,7 @@ domain:usgs.gov
 domain:ushare.ac.uk
 domain:ushaw.ac.uk
 domain:usma.edu
+domain:usmart.hk
 domain:usmc.mil
 domain:usmgtcg.ning.com
 domain:usno.navy.mil
