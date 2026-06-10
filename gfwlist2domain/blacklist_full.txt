@@ -23156,6 +23156,7 @@ domain:nxta.org
 domain:nxtdig.com.hk
 domain:nxtdig.com.tw
 domain:nxtrace.org
+domain:nxtv.jp
 domain:nyaa.eu
 domain:nyaa.net
 domain:nyaa.si
@@ -31939,6 +31940,9 @@ domain:underpinningexcellenceinhe.ac.uk
 domain:understanding-inequalities.ac.uk
 domain:understandingsociety.ac.uk
 domain:underwoodammo.com
+domain:unext-info.jp
+domain:unext.co.jp
+domain:unext.jp
 domain:unfiltered.news
 domain:ungrounded.net
 domain:unholyknight.com
@@ -32131,6 +32135,7 @@ domain:usfk.mil
 domain:usgs.gov
 domain:ushare.ac.uk
 domain:ushaw.ac.uk
+domain:ushmm.org
 domain:usma.edu
 domain:usmart.hk
 domain:usmc.mil

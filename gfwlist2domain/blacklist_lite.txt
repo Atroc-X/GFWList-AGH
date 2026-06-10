@@ -17222,6 +17222,7 @@ domain:nwtca.org
 domain:nwxs8.com
 domain:nxta.org
 domain:nxtrace.org
+domain:nxtv.jp
 domain:nyaa.eu
 domain:nyaa.net
 domain:nyaa.si
@@ -23542,6 +23543,8 @@ domain:uncyclopedia.tw
 domain:underhentai.net
 domain:underlords.com
 domain:underwoodammo.com
+domain:unext-info.jp
+domain:unext.jp
 domain:unfiltered.news
 domain:ungrounded.net
 domain:unholyknight.com
@@ -23661,6 +23664,7 @@ domain:usersdrive.com
 domain:usertrust.com
 domain:usfk.mil
 domain:usgs.gov
+domain:ushmm.org
 domain:usma.edu
 domain:usmart.hk
 domain:usmc.mil
