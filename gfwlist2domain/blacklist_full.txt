@@ -1725,6 +1725,7 @@ domain:allizom.net
 domain:allizom.org
 domain:alljackpotscasino.com
 domain:alljapanesepass.com
+domain:allkeyshop.com
 domain:allmomsex.com
 domain:allmovie.com
 domain:allnations.ac.uk
@@ -3278,6 +3279,7 @@ domain:avdudu.top
 domain:avdwang.xyz
 domain:avelip.com
 domain:aventertainments.com
+domain:avermedia.com
 domain:aversbank.ru
 domain:avfantasy.com
 domain:avfox.cc
@@ -4290,6 +4292,7 @@ domain:beyondcore.com
 domain:beyondfirewall.com
 domain:beyondtext.ac.uk
 domain:bfa.ru
+domain:bfads.net
 domain:bffshd.com
 domain:bfmat.ac.uk
 domain:bfnn.org
@@ -5881,6 +5884,7 @@ domain:buypass-ssl.com
 domain:buypass.com
 domain:buypass.no
 domain:buypass.se
+domain:buyservices.com
 domain:buyshoponly.com
 domain:buzzardflapper.com
 domain:buzzav.com
@@ -7503,6 +7507,7 @@ domain:coincheck.com
 domain:coindesk.com
 domain:coinegg.com
 domain:coinex.com
+domain:coingate.com
 domain:coingecko.com
 domain:coingi.com
 domain:coinglass.com
@@ -9128,6 +9133,9 @@ domain:discountbeatsbydre-us.com
 domain:discountbeatsstore.com
 domain:discountedporn.com
 domain:discountporn.club
+domain:discourse-cdn.com
+domain:discourse.group
+domain:discourse.org
 domain:discover.ac.uk
 domain:discovereconomics.ac.uk
 domain:discovershiretoko.org
@@ -10035,6 +10043,10 @@ domain:eb.com
 domain:ebahy.com
 domain:ebalovo.com
 domain:ebam.ac.uk
+domain:ebates.ca
+domain:ebates.kr
+domain:ebates.sg
+domain:ebatescanada.com
 domain:ebay-25-assets.s3-us-west-1.amazonaws.com
 domain:ebay-authenticate.net
 domain:ebay-confirm.com
@@ -10229,6 +10241,7 @@ domain:ebuyheadphones.com
 domain:eca.ac.uk
 domain:ecampus-leeds.ac.uk
 domain:ecapi-pchome.cdn.hinet.net
+domain:ecbsn.com
 domain:ecc.ac.uk
 domain:ecchinohentai.ru
 domain:ecci.ac.uk
@@ -10410,6 +10423,7 @@ domain:electronicarts.com
 domain:electronicarts.fr
 domain:electronicsignature.ru
 domain:electronjs.org
+domain:elegantthemes.com
 domain:element.io
 domain:elementary.io
 domain:elephantlist.com
@@ -10436,6 +10450,7 @@ domain:elixir-lang.org
 domain:elixir.ac.uk
 domain:elizabethmontagunetwork.ac.uk
 domain:ellawine.org
+domain:elliot.ai
 domain:elliotthudsoncollege.ac.uk
 domain:elmwood.ac.uk
 domain:elne.ac.uk
@@ -11614,6 +11629,7 @@ domain:fasttrackreadysupport.com
 domain:fatakat-n.club
 domain:fatbtc.com
 domain:fatstube.com
+domain:fatwallet.com
 domain:fau11.com
 domain:fault-analysis-group.ac.uk
 domain:favebook.com
@@ -11799,6 +11815,7 @@ domain:fic.fan
 domain:ficador.com
 domain:ficbook.net
 domain:ficeboock.com
+domain:ficgs.com
 domain:ficm.ac.uk
 domain:ficmania.com
 domain:fictionmania.tv
@@ -12838,7 +12855,9 @@ domain:gamesfirsthelsinki.com
 domain:gamesfuckgirls.com
 domain:gamesofdesire.com
 domain:gamespark.jp
+domain:gamesplanet.com
 domain:gamesstack.com
+domain:gametap.com
 domain:gameuxmasterguide.com
 domain:gamez.com.tw
 domain:gaming-notebooks.com
@@ -13203,6 +13222,7 @@ domain:gfwlist.start
 domain:gfx.ms
 domain:gfycat.com
 domain:gfysex.com
+domain:gg.deals
 domain:ggdiao.com
 domain:ggjav.com
 domain:ggoogle.com
@@ -13216,6 +13236,7 @@ domain:gh.io
 domain:ghanely.me
 domain:ghbi.ir
 domain:ghcr.io
+domain:ghe.com
 domain:ghettotube.com
 domain:ghidra-sre.org
 domain:ghil.ac.uk
@@ -13957,6 +13978,7 @@ domain:gowercollege.ac.uk
 domain:gowercollegeswansea.ac.uk
 domain:gpb.ru
 domain:gpkss.ac.uk
+domain:gpstatic.com
 domain:gpstheseries.com
 domain:gpucomputing.ac.uk
 domain:gputechconf.co.kr
@@ -15736,6 +15758,7 @@ domain:hyp.ac.uk
 domain:hyper.is
 domain:hyperbeam.com
 domain:hyperdreams.com
+domain:hyperliquid.xyz
 domain:hyperrate.com
 domain:hyperscan.io
 domain:hypnohub.net
@@ -18152,6 +18175,7 @@ domain:kingston.ac.uk
 domain:kingstonalumni.ac.uk
 domain:kingstone.com.tw
 domain:kingsway.ac.uk
+domain:kinguin.net
 domain:kinguno.xyz
 domain:kink.com
 domain:kinkbook.com
@@ -18761,6 +18785,8 @@ domain:ligamx.net
 domain:lightboxcdn.com
 domain:lightbridge.com
 domain:lighten.org.tw
+domain:lighter.exchange
+domain:lighter.xyz
 domain:lighthouselearningtrust.ac.uk
 domain:lighti.me
 domain:lightnovel.cn
@@ -22245,7 +22271,9 @@ domain:nexo.io
 domain:nexon.co.jp
 domain:nexon.com
 domain:nexon.io
+domain:nexon.net
 domain:nexoncdn.co.kr
+domain:nexongames.co.kr
 domain:nexpart.com
 domain:nexpart.tv
 domain:next-institute.ac.uk
@@ -22332,7 +22360,9 @@ domain:nhentaihaven.org
 domain:nheos.com
 domain:nhi.gov.tw
 domain:nhk-ondemand.jp
+domain:nhk.jp
 domain:nhk.or.jp
+domain:nhkworld.jp
 domain:nhm.ac.uk
 domain:nhncorp.jp
 domain:niab.ac.uk
@@ -25951,7 +25981,10 @@ domain:rakuten.co.jp
 domain:rakuten.com
 domain:rakuten.com.tw
 domain:rakuten.ne.jp
+domain:rakuten.tv
 domain:rakuten.tw
+domain:rakutenadvertising.com
+domain:rakutengiftcards.ca
 domain:rakuya.com.tw
 domain:ram.ac.uk
 domain:ramcity.com.au
@@ -26670,6 +26703,7 @@ domain:rpmfusion.org
 domain:rprimelab.com
 domain:rps.ac.uk
 domain:rqbank.ir
+domain:rrcbsn.com
 domain:rri.ro
 domain:rrl28.buzz
 domain:rrs1.xyz
@@ -32635,6 +32669,7 @@ domain:vigorgame.com
 domain:vijayatemple.org
 domain:viju.ru
 domain:vikacg.com
+domain:viki.com
 domain:vikiporn.com
 domain:vilanet.me
 domain:vilavpn.com
@@ -34117,6 +34152,7 @@ domain:woopie.jp
 domain:woopie.tv
 domain:worc.ac.uk
 domain:worcester.ac.uk
+domain:wordcamp.org
 domain:wordpress.com
 domain:wordpress.net
 domain:wordpress.org
@@ -35942,6 +35978,7 @@ domain:ziraatbank.ru
 domain:zishy.com
 domain:zkaip.com
 domain:zkiz.com
+domain:zklighter.elliot.ai
 domain:zlib.life
 domain:zlibcdn.com
 domain:zlibcdn2.com
