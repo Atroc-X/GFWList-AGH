@@ -7055,6 +7055,7 @@ domain:doseofporn.com
 domain:dot-mac.de
 domain:dot.net
 domain:dot.sb
+domain:dota2.com
 domain:dotcernpilot.info
 domain:dotdeb.org
 domain:dotfacebook.com
@@ -14291,6 +14292,8 @@ domain:livefilestore.com
 domain:livehdcams.com
 domain:livejasmin.com
 domain:livejasminbabes.net
+domain:livejournal.com
+domain:livejournal.net
 domain:livekit.cloud
 domain:liveleak.com
 domain:livemint.com
@@ -17399,6 +17402,7 @@ domain:oktech.ru
 domain:okx-dns.com
 domain:okx-dns1.com
 domain:okx-dns2.com
+domain:okx.ac
 domain:okx.cab
 domain:okx.com
 domain:olabloga.pl
@@ -23768,6 +23772,7 @@ domain:uymaarip.com
 domain:v-av.com
 domain:v-has.com
 domain:v.gd
+domain:v.ps
 domain:v.roucdn
 domain:v2.help
 domain:v2board.com
@@ -23798,6 +23803,7 @@ domain:valoryirene.com
 domain:value-domain.com
 domain:value-server.com
 domain:valuegb.com
+domain:valve.net
 domain:valvesoftware.com
 domain:vamo.com
 domain:vamzakaz.ru
@@ -24571,6 +24577,7 @@ domain:vporn.com
 domain:vpornvideos.com
 domain:vpro.com
 domain:vpro.net
+domain:vps.hosting
 domain:vpsxb.net
 domain:vr.org
 domain:vraiesagesse.net
@@ -25733,6 +25740,16 @@ domain:xt.pub
 domain:xtapes.to
 domain:xtegvk.xyz
 domain:xteko.com
+domain:xtom.au
+domain:xtom.com
+domain:xtom.de
+domain:xtom.ee
+domain:xtom.hk
+domain:xtom.jp
+domain:xtom.nl
+domain:xtom.sg
+domain:xtom.social
+domain:xtom.us
 domain:xtube.com
 domain:xtubebdsm.com
 domain:xtubezoo.com

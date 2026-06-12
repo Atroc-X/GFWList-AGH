@@ -99158,6 +99158,7 @@ domain:www.netarch.akamai.com
 domain:www.nike.com
 domain:www.nocc.akamai.com
 domain:www.pxcc.com
+domain:www.recaptcha-cn.net
 domain:www.recaptcha.net
 domain:www.redhat.com
 domain:www.samsung.com
