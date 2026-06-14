@@ -10237,6 +10237,7 @@ domain:ebs.ac.uk
 domain:ebsco.com
 domain:ebsl.ac.uk
 domain:ebslondon.ac.uk
+domain:ebtcbank.com
 domain:ebuyer.com
 domain:ebuyheadphones.com
 domain:eca.ac.uk
@@ -12738,10 +12739,15 @@ domain:futanarihq.com
 domain:futhead.com
 domain:futoka.jp
 domain:futpromos.com
+domain:futu.cn
+domain:futu.link
 domain:futuhk.com
+domain:futuhk1.com
+domain:futuhk2.com
 domain:futuhkapp.com
 domain:futuholdings.com
 domain:futunited.com
+domain:futuoa.com
 domain:future-cs.ru
 domain:future-media.ac.uk
 domain:future-reserves-research.ac.uk
@@ -12758,6 +12764,7 @@ domain:futureshop.ca
 domain:futuretrack.ac.uk
 domain:futurevehicles.ac.uk
 domain:futureworks.ac.uk
+domain:futusg.com
 domain:fux.com
 domain:fuxporn.com
 domain:fuyin.net
@@ -16377,6 +16384,7 @@ domain:imperialbusiness.school
 domain:imperiodefamosas.com
 domain:impermium.com
 domain:impp.mn
+domain:improd.works
 domain:imr-cdt.ac.uk
 domain:imrci.ac.uk
 domain:imsrbx.xyz
@@ -19125,6 +19133,7 @@ domain:londonstudiocenter.ac.uk
 domain:londonstudiocentre.ac.uk
 domain:lonestarnaughtygirls.com
 domain:longbridge.cloud
+domain:longbridge.cn
 domain:longbridge.com
 domain:longbridge.global
 domain:longbridge.hk
@@ -28370,6 +28379,7 @@ domain:skysports.fr
 domain:skysports.ie
 domain:skysportsonline.com
 domain:skysportsracing.com
+domain:skytigris.cn
 domain:skyvegas.com
 domain:sl-reverse.com
 domain:sl99mod.buzz
@@ -29317,6 +29327,7 @@ domain:steampowered.com
 domain:steamserver.net
 domain:steamstatic.com
 domain:steamstore-a.akamaihd.net
+domain:steamugcquincy.blob.core.windows.net
 domain:steamunlocked.net
 domain:steamusercontent-a.akamaihd.net
 domain:steamusercontent.com
@@ -30753,6 +30764,7 @@ domain:tiendabestbuy.com
 domain:tier.org.tw
 domain:tiffany-towers.com
 domain:tig-ol-bitties.live
+domain:tigerbbs.cn
 domain:tigervpn.com
 domain:tiipple.ac.uk
 domain:tiktok-minis.com
