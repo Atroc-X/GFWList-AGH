@@ -3647,6 +3647,7 @@ domain:barton.ac.uk
 domain:barton.de
 domain:bartvpn.com
 domain:bas.ac.uk
+domain:base.org
 domain:baselinestudy.com
 domain:baselinestudy.org
 domain:basford-hall.ac.uk
@@ -4566,6 +4567,7 @@ domain:bitflyer.jp
 domain:bitget.com
 domain:bithumb.com
 domain:bitinka.com.ar
+domain:bitlayer.org
 domain:bitly.com
 domain:bitly.is
 domain:bitmex.com
@@ -4626,6 +4628,7 @@ domain:blacktowhite.net
 domain:blackvpn.com
 domain:blake.ac.uk
 domain:blaoshi.cc
+domain:blast.io
 domain:blazor.net
 domain:blc.ac.uk
 domain:ble.ac.uk
@@ -5250,6 +5253,7 @@ domain:bmwusatires.com
 domain:bmwusfactory.com
 domain:bmwusrideracademy.com
 domain:bmwvalueservice.com
+domain:bmwweb.solutions
 domain:bmwwholesaleconnect.com
 domain:bmwworld.com
 domain:bmwworld.net
@@ -5257,6 +5261,8 @@ domain:bmwworld.tv
 domain:bmwzentrum.com
 domain:bn5x.net
 domain:bnac.ac.uk
+domain:bnappweb.black
+domain:bnbchain.org
 domain:bnbstatic.com
 domain:bnef.com
 domain:bnetcmsus-a.akamaihd.net
@@ -5669,6 +5675,7 @@ domain:brutaltgp.com
 domain:bs-adreview.com
 domain:bs-awh.ne.jp
 domain:bsa.ac.uk
+domain:bsappapi.cc
 domain:bsappapi.com
 domain:bsaw.ac.uk
 domain:bsbec.ac.uk
@@ -6672,6 +6679,7 @@ domain:cgst.edu
 domain:cgw666.com
 domain:ch9.ms
 domain:chace.ac.uk
+domain:chainid.network
 domain:championshipseriesleague.com
 domain:change.org
 domain:changeip.name
@@ -7821,6 +7829,7 @@ domain:corbinfisher.com
 domain:cordcloud.org
 domain:cordwainers.ac.uk
 domain:core.ac.uk
+domain:coredao.org
 domain:coreduo.com
 domain:coreextreme.com
 domain:corel.com
@@ -9653,6 +9662,7 @@ domain:dropboxpartners.com
 domain:dropboxstatic.com
 domain:dropboxusercontent.com
 domain:droplr.com
+domain:drpc.org
 domain:drsunacademy.com
 domain:drtuber.com
 domain:drunk6.com
@@ -11536,6 +11546,8 @@ domain:fanswong.com
 domain:fantasiasguatemala.com
 domain:fantasti.cc
 domain:fantasticyoungporn.com
+domain:fantom.foundation
+domain:fantom.network
 domain:fantv.hk
 domain:fanyue.info
 domain:fap-xxx.com
@@ -11811,6 +11823,7 @@ domain:fgmtv.org
 domain:fhreports.net
 domain:fi11av1.com
 domain:fi11tv1.com
+domain:fiat24.com
 domain:fibank.bg
 domain:fibre-diffraction.ac.uk
 domain:fic.fan
@@ -12026,6 +12039,7 @@ domain:flagrasamadores.net
 domain:flagsonline.it
 domain:flame.ac.uk
 domain:flameunleashed.com
+domain:flare.network
 domain:flaru.com
 domain:flash-xxx.com
 domain:flashtranny.com
@@ -17073,6 +17087,7 @@ domain:irscl.ac.uk
 domain:is-a-hunter.com
 domain:is.gd
 domain:isaacmao.com
+domain:isafepal.com
 domain:isasecret.com
 domain:isbgpsafeyet.com
 domain:isc.ac.uk
@@ -20077,6 +20092,7 @@ domain:mega.co.nz
 domain:mega.io
 domain:mega.nz
 domain:megacamz.com
+domain:megaeth.com
 domain:megafilmporno.com
 domain:megafon.com
 domain:megafon.ru
@@ -20151,6 +20167,7 @@ domain:meripet.biz
 domain:meripet.com
 domain:merit-times.com
 domain:merit-times.com.tw
+domain:merkl.xyz
 domain:merlin.ac.uk
 domain:merlinblog.xyz
 domain:merops.ac.uk
@@ -20211,6 +20228,7 @@ domain:metrotoons.com
 domain:meu.ac.uk
 domain:meuhentai.com
 domain:mewe.com
+domain:mexc.co
 domain:mexc.com
 domain:mexcsensors.com
 domain:meyou.jp
@@ -22386,6 +22404,7 @@ domain:nibsc.ac.uk
 domain:nic.cz
 domain:nic.cz.cc
 domain:nic.gov
+domain:nic.ru
 domain:nic.youtube
 domain:nicats.ac.uk
 domain:nicd.ac.uk
@@ -22398,6 +22417,7 @@ domain:nicesrv.de
 domain:nicesshop.net
 domain:nichepornsite.com
 domain:nichepornsites.com
+domain:nichost.ru
 domain:nicis.ac.uk
 domain:nickscipio.com
 domain:nicky.xxx
@@ -22701,6 +22721,7 @@ domain:nodeget.com
 domain:nodeimage.com
 domain:nodejs.org
 domain:nodequality.com
+domain:nodereal.io
 domain:nodes.ac.uk
 domain:nodeseek.com
 domain:nodesnoop.com
@@ -23251,6 +23272,7 @@ domain:oanencore.com
 domain:oann.com
 domain:oas.ac.uk
 domain:oasis.ac.uk
+domain:oasis.io
 domain:oasiscollege.ac.uk
 domain:oasp.ac.uk
 domain:oath.cloud
@@ -23504,6 +23526,7 @@ domain:oneteamconference.com
 domain:onetrust.com
 domain:onevps.com
 domain:oneworldmanystories.com
+domain:onfinality.io
 domain:onindiansex.com
 domain:oninstagram.com
 domain:onion.city
@@ -25924,6 +25947,7 @@ domain:qzav.tv
 domain:r-pool.net
 domain:r-project.org
 domain:r0.ru
+domain:r01.ru
 domain:r10s.com
 domain:r10s.jp
 domain:r18.clickme.net
@@ -26328,6 +26352,9 @@ domain:referer.us
 domain:reflectivecode.com
 domain:reform-apple.com
 domain:refrain.ac.uk
+domain:reg.cloud
+domain:reg.com
+domain:reg.ru
 domain:regard.ac.uk
 domain:regener8.ac.uk
 domain:regent-academy.ac.uk
@@ -26756,6 +26783,7 @@ domain:rsf.org
 domain:rsg.sc
 domain:rsgamen.org
 domain:rshb.ru
+domain:rsk.co
 domain:rslg.ac.uk
 domain:rslondon.ac.uk
 domain:rslp.ac.uk
@@ -26981,6 +27009,7 @@ domain:saas-support.com
 domain:saasexch.cc
 domain:saasexch.co
 domain:saasexch.com
+domain:saasexch.info
 domain:saasexch.io
 domain:saboom.com
 domain:sabuibo.net
@@ -27004,6 +27033,7 @@ domain:safecampuscommunities.ac.uk
 domain:safechat.com
 domain:safeguarddefenders.com
 domain:safeliner.tech
+domain:safepal.com
 domain:safepodnetwork.ac.uk
 domain:safervpn.com
 domain:safety.google
@@ -28645,6 +28675,7 @@ domain:solentuniversity.ac.uk
 domain:solid.ru
 domain:solidaritetibet.org
 domain:solidfiles.com
+domain:solidifi.app
 domain:solihull.ac.uk
 domain:solihullsfc.ac.uk
 domain:solostudioksale.com
@@ -29312,6 +29343,7 @@ domain:steamcdn-a.akamaihd.net
 domain:steamcloudsweden.blob.core.windows.net
 domain:steamcommunity-a.akamaihd.net.edgesuite.net
 domain:steamcommunity.com
+domain:steamconnecttest.com
 domain:steamcontent.com
 domain:steamdb.info
 domain:steamdeck.com
@@ -29756,6 +29788,7 @@ domain:swbusdev.com
 domain:swc.ac.uk
 domain:swdtc.ac.uk
 domain:swdtp.ac.uk
+domain:sweb.ru
 domain:sweep.ac.uk
 domain:sweetadult-tube.com
 domain:sweetandmaxwell.co.uk
@@ -29935,6 +29968,7 @@ domain:tagwa.org.au
 domain:tagwalk.com
 domain:tahr.org.tw
 domain:taiav.com
+domain:taiko.xyz
 domain:tail-f.com
 domain:tailf.com
 domain:tails.net
@@ -30590,6 +30624,7 @@ domain:thinkwales.ac.uk
 domain:thinkwithgoogle.com
 domain:thirdmill.org
 domain:thirdns.de
+domain:thirdweb.com
 domain:thisav.com
 domain:thisav.org
 domain:thisisgame.com
@@ -34688,6 +34723,7 @@ domain:xknoop.com
 domain:xkontakt18.com
 domain:xkorean.cam
 domain:xl-gaytube.com
+domain:xlayer.tech
 domain:xlecx.org
 domain:xlfmtalk.com
 domain:xlfmwz.info
@@ -35950,6 +35986,8 @@ domain:zert.ch
 domain:zettai-ero.com
 domain:zeutch.com
 domain:zfreet.com
+domain:zftksc.cdn-settings.appsflyersdk.com
+domain:zftksc.launches.appsflyersdk.com
 domain:zgsddh.com
 domain:zgzcjj.net
 domain:zh-hans.cfsh99.com

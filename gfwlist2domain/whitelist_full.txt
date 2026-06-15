@@ -39220,7 +39220,6 @@ domain:gmt-cn.com
 domain:gmtv.cc
 domain:gmtzy.com
 domain:gmugmu.com
-domain:gmw.com
 domain:gmwiki.com
 domain:gmxmym.ren
 domain:gmya.net
@@ -65967,6 +65966,7 @@ domain:meishijr.com
 domain:meishilife.com
 domain:meishiqin.com
 domain:meishischool.com
+domain:meishitx.com
 domain:meishiwangluo.com
 domain:meishizuofa.com
 domain:meishow.com
