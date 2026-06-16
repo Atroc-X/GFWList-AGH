@@ -13890,6 +13890,7 @@ domain:googleapps.com
 domain:googlearth.com
 domain:googleartproject.com
 domain:googleblog.com
+domain:googlebook.google
 domain:googlebot.com
 domain:googlecapital.com
 domain:googlecensorship.org
@@ -24082,6 +24083,7 @@ domain:passion.com
 domain:passiontimes.hk
 domain:passport.net
 domain:passwordday.org
+domain:passwords.google
 domain:pastahealth.com
 domain:paste.ee
 domain:pastebin.com
@@ -34791,7 +34793,6 @@ domain:xn--colegsirgr-c5a.ac.uk
 domain:xn--czq75pvv1aj5c.org
 domain:xn--d1abkf4ap.fun
 domain:xn--d4ty0ojsqzfd.com
-domain:xn--dgtr4ppoz.com
 domain:xn--fiqs8s1bxp3anr7a.hk
 domain:xn--fiqs8s1byzqyvl.hk
 domain:xn--flw351e.com
