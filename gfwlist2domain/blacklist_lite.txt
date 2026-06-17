@@ -4995,6 +4995,7 @@ domain:celebforum.co
 domain:celebgramme.com
 domain:celebmasta.live
 domain:celebritygay.com
+domain:celebritymoviearchive.com
 domain:celebritynakeds.com
 domain:celebrityslips.com
 domain:celebritystorysite.com
@@ -9296,6 +9297,7 @@ domain:fpmt-osel.org
 domain:fpmt.org
 domain:fpmt.tw
 domain:fpmtmexico.org
+domain:fpo.xxx
 domain:fptolia.com
 domain:fqcebook.com
 domain:fqok.org
@@ -9456,6 +9458,8 @@ domain:freewechat.com
 domain:freeweibo.com
 domain:freewww.biz
 domain:freewww.info
+domain:freexh.blog
+domain:freexh.live
 domain:freexinwen.com
 domain:freexvideos.org
 domain:freexxx.best
@@ -18337,6 +18341,7 @@ domain:pikabu.monster
 domain:pikpak.io
 domain:pillbeatsblackfridaysale.com
 domain:pimg.tw
+domain:pimpbunny.com
 domain:pin-cong.com
 domain:pin.it
 domain:pin6.com
@@ -19019,6 +19024,7 @@ domain:powershape.com
 domain:powershellgallery.com
 domain:powersrv.de
 domain:powersunitedvr.com
+domain:powfans.com
 domain:pp-soc.com
 domain:pp.ru
 domain:pp.ua
@@ -20535,6 +20541,7 @@ domain:seqingwangzhan.pro
 domain:seqingx.com
 domain:sequence.com
 domain:ser7.cc
+domain:serakon.com
 domain:seraph.me
 domain:serbiporno.net
 domain:serialssolutions.com
@@ -24665,6 +24672,7 @@ domain:vscode-cdn.net
 domain:vscode-unpkg.net
 domain:vscode.dev
 domain:vsemrabota.ru
+domain:vsex.in
 domain:vsezoo.com
 domain:vsphere.com
 domain:vsphere.net
@@ -25528,6 +25536,7 @@ domain:xhamster19.com
 domain:xhamster2.com
 domain:xhamster3.com
 domain:xhamsterlive.com
+domain:xhapp.live
 domain:xhcdn.com
 domain:xhnews.live
 domain:xhot.pro
