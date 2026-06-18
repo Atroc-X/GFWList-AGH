@@ -1851,6 +1851,7 @@ domain:appbridge.io
 domain:appbridge.it
 domain:appcenter.ms
 domain:appcloud.com
+domain:appconsent.io
 domain:appdefensealliance.dev
 domain:appdomain.cloud
 domain:appdownloader.net
@@ -2687,6 +2688,7 @@ domain:awswaf.com
 domain:awwcn.buzz
 domain:awwcn.xyz
 domain:awxcdn.com
+domain:axept.io
 domain:axios.com
 domain:axureformac.com
 domain:ayabank.com
@@ -4959,6 +4961,7 @@ domain:cdig.info
 domain:cdjp.org
 domain:cdkworkshop.com
 domain:cdmatech.com
+domain:cdn-cookieyes.com
 domain:cdn-telegram.org
 domain:cdn-terapeak.com
 domain:cdn-tinkoff.ru
@@ -5870,6 +5873,7 @@ domain:conoha.jp
 domain:conquerwithcharacter.com
 domain:conscrypt.com
 domain:conscrypt.org
+domain:consentmanager.net
 domain:consentpro.com
 domain:constitutionalism.solutions
 domain:constructware.com
@@ -5885,9 +5889,11 @@ domain:conviva.com
 domain:convrgencegame.com
 domain:coobay.com
 domain:cooer.su
+domain:cookiebot.com
 domain:cookiechoices.org
 domain:cookielaw.org
 domain:cookiepro.com
+domain:cookieyes.com
 domain:cool-comics.com
 domain:cool18.com
 domain:cool3c.com
@@ -22422,6 +22428,7 @@ domain:terapeak.info
 domain:teraperk.com
 domain:terk.nl
 domain:termius.com
+domain:termly.io
 domain:termux.com
 domain:termux.dev
 domain:termux.org
@@ -23136,6 +23143,7 @@ domain:truesocial.media
 domain:trulyergonomic.com
 domain:trunest.com
 domain:trust-provider.com
+domain:trustarc.com
 domain:trustasiassl.com
 domain:trustcor.ca
 domain:trustcor.com
