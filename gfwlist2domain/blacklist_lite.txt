@@ -6637,6 +6637,7 @@ domain:dezyred.com
 domain:df-bet.com
 domain:dfas.mil
 domain:dfn.org
+domain:dfvpn.com
 domain:dgaqp.com
 domain:dgg.gg
 domain:dgwav.com
@@ -9630,12 +9631,25 @@ domain:futhead.com
 domain:futoka.jp
 domain:futpromos.com
 domain:futu.cn
+domain:futu.com
 domain:futu.link
+domain:futu0.com
+domain:futu1.com
+domain:futu2.com
+domain:futu3.com
+domain:futu4.com
+domain:futu6.com
+domain:futu7.com
+domain:futu8.com
+domain:futu9.com
+domain:futubull.cn
+domain:futuchain.com
 domain:futuhk.com
 domain:futuhk1.com
 domain:futuhk2.com
 domain:futuhkapp.com
 domain:futuholdings.com
+domain:futuinc.com
 domain:futunited.com
 domain:futuoa.com
 domain:future-cs.ru
@@ -9730,6 +9744,7 @@ domain:gamesplanet.com
 domain:gamesstack.com
 domain:gametap.com
 domain:gameuxmasterguide.com
+domain:gamewtb.com
 domain:gaming-notebooks.com
 domain:gamma.app
 domain:gamousa.com
@@ -10256,6 +10271,7 @@ domain:gobuildx.net
 domain:gobuyonlinestore.net
 domain:gockhuatviet.com
 domain:godaddy.com
+domain:godaddy.net
 domain:godbolt.org
 domain:godfootsteps.org
 domain:godns.work
@@ -14439,6 +14455,7 @@ domain:longmabook.com
 domain:longmabookcn.com
 domain:longman.ch
 domain:longmusic.com
+domain:longportapp.cn
 domain:longportapp.com
 domain:longtailvideo.com
 domain:longtermly.net
@@ -15880,6 +15897,7 @@ domain:monstershopcheapbeats.net
 domain:monthlyav.com
 domain:moodstocks.com
 domain:moodyz.com
+domain:moomoobull.com
 domain:moon.fm
 domain:moonbbs.com
 domain:moonbbs.info
@@ -22273,6 +22291,7 @@ domain:taxitax.org
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
 domain:tb-esim.ru
+domain:tb.pro
 domain:tbank-online.com
 domain:tbank.ru
 domain:tbcollege.org
@@ -22707,6 +22726,7 @@ domain:thumbnailseries.com
 domain:thumbzilla.com
 domain:thunderbird.net
 domain:thunderbolttechnology.net
+domain:thundermail.com
 domain:thywords.com
 domain:thz7.net
 domain:tiananmenduizhi.com
@@ -22812,6 +22832,7 @@ domain:tiendabestbuy.com
 domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigerbbs.cn
+domain:tigerbrokers.nz
 domain:tigervpn.com
 domain:tiktok-minis.com
 domain:tiktok-row.net
@@ -23065,6 +23086,7 @@ domain:tracfone.com
 domain:tracker.gg
 domain:tracker.network
 domain:tracking-location.com
+domain:tradeup.com
 domain:tradevip1.com
 domain:tradingview.com
 domain:trae.ai
@@ -25710,6 +25732,7 @@ domain:xn--u2u927b.com
 domain:xn--ubt498knmf.com
 domain:xn--uis17aj9kmuf.com
 domain:xn--urs05q.jp
+domain:xn--vuqv2cf7wzyig79c.com
 domain:xn--wcv22d.hk
 domain:xn--x-qeu1ji09tzlg.biz
 domain:xn--x-qeu1ji09tzlg.net
@@ -26665,6 +26688,7 @@ domain:zhengwunet.org
 domain:zhenlibu.info
 domain:zhenlibu1984.com
 domain:zhenxiang.biz
+domain:zhijianfengyi.cn
 domain:zhimeishe888.com
 domain:zhinengluyou.com
 domain:zhizhu.top
