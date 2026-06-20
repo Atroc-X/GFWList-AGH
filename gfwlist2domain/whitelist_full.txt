@@ -13875,6 +13875,7 @@ domain:azt365.com
 domain:azuiblc.com
 domain:azure-wave.com
 domain:azure.cc
+domain:azureflame.cloud
 domain:azureflying.com
 domain:azuremigrate.download.prss.microsoft.com
 domain:azuremigratetest.download.prss.microsoft.com
@@ -16491,6 +16492,7 @@ domain:bjanjili.com
 domain:bjartmuseum.com
 domain:bjatv.com
 domain:bjbaidianfeng.com
+domain:bjbaifan.com
 domain:bjbalb.com
 domain:bjbaodao.net
 domain:bjbb.com
@@ -18949,6 +18951,7 @@ domain:cangdu.org
 domain:cangfengzhe.com
 domain:canghaiip.com
 domain:canghaimachine.com
+domain:cangjggame.com
 domain:canglanghospital.com
 domain:cangmang.xyz
 domain:cangoonline.com
@@ -20603,6 +20606,7 @@ domain:chacheku.com
 domain:chachengji.com
 domain:chacihai.com
 domain:chacuo.net
+domain:chadaodao.com
 domain:chadianhua.net
 domain:chadoc.com
 domain:chaej.com
@@ -34758,6 +34762,7 @@ domain:feierlaiedu.com
 domain:feiersmart.com
 domain:feifandesign.com
 domain:feifanindustry.com
+domain:feifanmi.com
 domain:feifantxt.com
 domain:feifantxt.net
 domain:feifdx.com
@@ -66074,6 +66079,7 @@ domain:menpad.com
 domain:menpiao.com
 domain:menpiaotuangou.com
 domain:menshiny.com
+domain:mensura.cdn-apple.com
 domain:mentamob.com
 domain:mentorsc.com
 domain:mentrends.com
@@ -76005,6 +76011,7 @@ domain:qingmuxinli.com
 domain:qingnianlvxing.com
 domain:qingniantuzhai.com
 domain:qingnianwang.com
+domain:qingning88.com
 domain:qingpanduola.com
 domain:qingpin.vip
 domain:qingping.co
@@ -93247,6 +93254,7 @@ domain:uniow.com
 domain:unipack-tech.com
 domain:uniproud.com
 domain:unipus.cn
+domain:unisapps.com
 domain:uniscope.com
 domain:unisdigital.com
 domain:unisedu.com
