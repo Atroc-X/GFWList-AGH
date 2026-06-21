@@ -750,6 +750,7 @@ domain:accomable.com
 domain:account-paypal.info
 domain:account-paypal.net
 domain:account-paypal.org
+domain:accountboy.com
 domain:accountkit.com
 domain:accountpaypal.com
 domain:accountpaypal.net
@@ -1273,6 +1274,7 @@ domain:akamaitech.net
 domain:akamaitechnologies.com
 domain:akamaitechnologies.net
 domain:akamaized-staging.net
+domain:akamaized.net
 domain:akamaizercentral.com
 domain:akamak.com
 domain:akamam.com
@@ -10283,6 +10285,8 @@ domain:gofile.me
 domain:gofucker.com
 domain:gofuckmenow.com
 domain:gofundme.com
+domain:gog-statics.com
+domain:gog.com
 domain:gogettaxi.org
 domain:gogle.com
 domain:gogle.de

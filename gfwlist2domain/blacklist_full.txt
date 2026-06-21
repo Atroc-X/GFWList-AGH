@@ -858,6 +858,7 @@ domain:account-paypal.info
 domain:account-paypal.net
 domain:account-paypal.org
 domain:accountancylearning.ac.uk
+domain:accountboy.com
 domain:accountkit.com
 domain:accountpaypal.com
 domain:accountpaypal.net
@@ -13616,6 +13617,8 @@ domain:gofit.ac.uk
 domain:gofucker.com
 domain:gofuckmenow.com
 domain:gofundme.com
+domain:gog-cdn-lumen.secure2.footprint.net
+domain:gog-cdn.akamaized.net
 domain:gog-statics.com
 domain:gog.com
 domain:gogeo.ac.uk
