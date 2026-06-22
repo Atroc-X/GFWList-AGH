@@ -15683,8 +15683,6 @@ domain:bfxpj888.com
 domain:bfyx.com
 domain:bfyx.net
 domain:bfzhan.com
-domain:bg.v4.a.dl.ws.microsoft.com
-domain:bg4.v4.a.dl.ws.microsoft.com
 domain:bg45.com
 domain:bg7ywl.com
 domain:bgbfds.com
@@ -18025,7 +18023,6 @@ domain:buhuyo.com
 domain:buickcare.net
 domain:buidea.com
 domain:build-decor.com
-domain:build.microsoft.com
 domain:build8.com
 domain:build9s.io
 domain:builddecor.org
@@ -19862,7 +19859,6 @@ domain:cdn.apple-mapkit.com
 domain:cdn.fun
 domain:cdn.globalsigncdn.com.cdn.cloudflare.net
 domain:cdn.jetbrains.com
-domain:cdn.marketplaceimages.windowsphone.com
 domain:cdn.samsung.com
 domain:cdn.shanghai.nyu.edu
 domain:cdn.show
@@ -28865,7 +28861,6 @@ domain:dev59.com
 domain:devashen.com
 domain:devask.net
 domain:devbean.net
-domain:devblogs.microsoft.com
 domain:devclub.cc
 domain:devedu.net
 domain:develenv.com
@@ -30229,7 +30224,6 @@ domain:docoi.cc
 domain:docpe.com
 domain:docs.cdnetworks.com
 domain:docs.djicdn.com
-domain:docs.microsoft.com
 domain:docschina.org
 domain:docshare.org
 domain:docsj.com
@@ -31424,6 +31418,7 @@ domain:dxlfile.com
 domain:dxm-cdn.com
 domain:dxm-int.com
 domain:dxm-yibai.com
+domain:dxmbaoxian.com
 domain:dxmjinr.com
 domain:dxmjuhe.com
 domain:dxmlcf.com
@@ -36217,7 +36212,6 @@ domain:fs-bus.com
 domain:fs-czx.com
 domain:fs-eliza.com
 domain:fs-qiyun.com
-domain:fs.microsoft.com
 domain:fs0757.com
 domain:fs121.com
 domain:fs1982.com
@@ -61043,7 +61037,6 @@ domain:leapmie.com
 domain:leapmmw.com
 domain:leapmotor.com
 domain:learn-quantum.com
-domain:learn.microsoft.com
 domain:learndiary.com
 domain:learnfuture.com
 domain:learningsj.com
@@ -65476,6 +65469,7 @@ domain:mcool.com
 domain:mcpemaster.com
 domain:mcpfks.com
 domain:mcpmaid.com
+domain:mcpworld.com
 domain:mcq93.app
 domain:mcqy.net
 domain:mcsafebox.com
@@ -68490,6 +68484,7 @@ domain:myspain.org
 domain:mysqil.com
 domain:mysql360.com
 domain:mysqlab.net
+domain:myssl-uri.com
 domain:myssl.com
 domain:mystarch.com
 domain:mysteel.com
@@ -73356,6 +73351,7 @@ domain:perfcode.com
 domain:perfect-input.com
 domain:perfect99.com
 domain:perfectdiary.com
+domain:perfectlingo.com
 domain:perfecttradinghk.com
 domain:perfectwatchen.com
 domain:perfertw.com
@@ -74820,6 +74816,7 @@ domain:pw-partners.com
 domain:pw1999.com
 domain:pw88.com
 domain:pwand.com
+domain:pwcinema.com
 domain:pwdding.icu
 domain:pwithe.com
 domain:pwjptdg.xyz
@@ -78290,8 +78287,6 @@ domain:reputatioy.com
 domain:reqable.com
 domain:reqgvheo.com
 domain:rergdfh.com
-domain:res-1.cdn.office.net
-domain:res.cdn.office.net
 domain:reseetech.com
 domain:resemblancey.com
 domain:resemi.com
@@ -91682,6 +91677,7 @@ domain:trust-one.com
 domain:trust400.com
 domain:trusta-lawyer.com
 domain:trustasia.com
+domain:trustasia.net
 domain:trustcn.com
 domain:trustdecision.com
 domain:trustedsign.com
@@ -98148,8 +98144,6 @@ domain:wscloudvpn.com
 domain:wsclsb.net
 domain:wscn.net
 domain:wscncdn.com
-domain:wscont1.apps.microsoft.com
-domain:wscont2.apps.microsoft.com
 domain:wscp.shop
 domain:wscrm.net
 domain:wscso.com
@@ -98692,7 +98686,6 @@ domain:www.htc.com
 domain:www.icloud.com
 domain:www.lenovo.net
 domain:www.libvideo.com
-domain:www.microsoft.com
 domain:www.netarch.akamai.com
 domain:www.nike.com
 domain:www.nocc.akamai.com

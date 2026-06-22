@@ -610,6 +610,7 @@ domain:8news.com.tw
 domain:8sp.biz
 domain:8teenxxx.com
 domain:8thstreetlatinas.com
+domain:8tvnews.my
 domain:8world.com
 domain:8xxx.net
 domain:8z1.net
@@ -13619,8 +13620,10 @@ domain:gofuckmenow.com
 domain:gofundme.com
 domain:gog-cdn-lumen.secure2.footprint.net
 domain:gog-cdn.akamaized.net
+domain:gog-services.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogalaxy.com
 domain:gogeo.ac.uk
 domain:gogettaxi.org
 domain:gogle.com
@@ -20926,6 +20929,7 @@ domain:mmubs.ac.uk
 domain:mmwxl27.top
 domain:mnc.ac.uk
 domain:mndregister.ac.uk
+domain:mnews.tw
 domain:mnewstv.com
 domain:mo.co
 domain:mo.nightlife141.com
@@ -30106,6 +30110,7 @@ domain:tangben.com
 domain:tangbr.net
 domain:tangren.us
 domain:tanks.gg
+domain:tantannews.com
 domain:taoil-cn.sbs
 domain:taoism.net
 domain:taolun.info
@@ -34550,6 +34555,7 @@ domain:www.idlcoyote.com
 domain:www.kindleren.com
 domain:www.lorenzetti.com.br
 domain:www.m-sport.co.uk
+domain:www.microsoft.com
 domain:www.monlamit.org
 domain:www.moztw.org
 domain:www.msn.com
@@ -35018,6 +35024,7 @@ domain:xtube.com
 domain:xtubebdsm.com
 domain:xtubezoo.com
 domain:xu97.vip
+domain:xuan.com.my
 domain:xuchao.net
 domain:xuchao.org
 domain:xuehua.us

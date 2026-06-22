@@ -572,6 +572,7 @@ domain:8muses.xxx
 domain:8sp.biz
 domain:8teenxxx.com
 domain:8thstreetlatinas.com
+domain:8tvnews.my
 domain:8world.com
 domain:8xxx.net
 domain:8z1.net
@@ -10285,8 +10286,10 @@ domain:gofile.me
 domain:gofucker.com
 domain:gofuckmenow.com
 domain:gofundme.com
+domain:gog-services.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogalaxy.com
 domain:gogettaxi.org
 domain:gogle.com
 domain:gogle.de
@@ -15722,6 +15725,7 @@ domain:mmtongdao.xyz
 domain:mmtourismbank.com
 domain:mmtv.life
 domain:mmwxl27.top
+domain:mnews.tw
 domain:mnewstv.com
 domain:mo.co
 domain:moapi.site
@@ -22255,6 +22259,7 @@ domain:tangben.com
 domain:tangbr.net
 domain:tangren.us
 domain:tanks.gg
+domain:tantannews.com
 domain:taoil-cn.sbs
 domain:taoism.net
 domain:taolun.info
@@ -25196,6 +25201,7 @@ domain:windowsazure.com
 domain:windowscommunity.net
 domain:windowsmarketplace.com
 domain:windowsphone-int.com
+domain:windowsphone.com
 domain:windowsphoneme.com
 domain:windowsuem.com
 domain:windscribe.com
