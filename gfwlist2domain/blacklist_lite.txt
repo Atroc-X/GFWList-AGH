@@ -1411,6 +1411,7 @@ domain:allpornsitespass.com
 domain:allspyclips.com
 domain:allswingersclubs.org
 domain:allthefallen.moe
+domain:almalinux.org
 domain:almasdarnews.com
 domain:almostmy.com
 domain:alohatube.com
@@ -4543,6 +4544,7 @@ domain:bustynudebabes.com
 domain:bustyoldsluts.com
 domain:bustysammieblack.com
 domain:busu.org
+domain:busybox.net
 domain:buugaa.com
 domain:buy-from-shanghai.com
 domain:buyaapl.com
@@ -10129,6 +10131,7 @@ domain:gitgud.io
 domain:githack.com
 domain:github.ai
 domain:github.blog
+domain:github.career
 domain:github.com
 domain:github.community
 domain:github.dev
@@ -14227,6 +14230,7 @@ domain:licdn.com
 domain:licensebuttons.net
 domain:licenseparser.com
 domain:life-global.org
+domain:lifeatspotify.com
 domain:lifeattiktok.com
 domain:lifemiles.com
 domain:lifeselector.com
@@ -14774,6 +14778,7 @@ domain:manhwahentai.me
 domain:maniakey.homes
 domain:maniash.com
 domain:manicur4ik.ru
+domain:manjaro.org
 domain:manorama.com
 domain:manoramanews.com
 domain:manoramaonline.com
@@ -19998,6 +20003,7 @@ domain:rocksdb.org
 domain:rocksextube.com
 domain:rockstargames.com
 domain:rockstarnorth.com
+domain:rockylinux.org
 domain:roedu.net
 domain:rojo.com
 domain:roku.com
@@ -21589,6 +21595,7 @@ domain:spotifycdn.net
 domain:spotifycharts.com
 domain:spotifycodes.com
 domain:spotifyforbrands.com
+domain:spotifyforvendors.com
 domain:spotifyjobs.com
 domain:spraynwash.com
 domain:spreadporn.org
@@ -24709,7 +24716,10 @@ domain:vscale.ru
 domain:vsco.co
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
+domain:vscode-webview.net
 domain:vscode.dev
+domain:vscodeedu.app
+domain:vscodeedu.com
 domain:vsemrabota.ru
 domain:vsex.in
 domain:vsezoo.com
