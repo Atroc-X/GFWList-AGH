@@ -13176,6 +13176,7 @@ domain:gerritcodereview.com
 domain:gesoten.com
 domain:gesource.ac.uk
 domain:get.app
+domain:get.dappcdn.com
 domain:get.dev
 domain:get.how
 domain:get.new
