@@ -10036,6 +10036,7 @@ domain:acclb.com
 domain:acconsys.com
 domain:accopower.com
 domain:account-api.dji.com
+domain:account-cn.alibabacloud.com
 domain:account.djicdn.com
 domain:account.htcvive.com
 domain:account.uds-sit.lenovo.com
@@ -12634,6 +12635,7 @@ domain:api-expo.com
 domain:api-forwards.com
 domain:api-m.com
 domain:api-vod-qcloud.com
+domain:api.alibabacloud.com
 domain:api.anythinktech.com
 domain:api.cnno1.uds.lenovo.com
 domain:api.crisp.chat
@@ -23908,6 +23910,7 @@ domain:cn-wisely.com
 domain:cn-witmed.com
 domain:cn-zhentai.com
 domain:cn-zhongrui.com
+domain:cn.alibabacloud.com
 domain:cn.bing.com
 domain:cn.bing.net
 domain:cn.download.nvidia.com
@@ -85870,6 +85873,7 @@ domain:staticswin.com
 domain:stationpc.com
 domain:statistical-report.djiservice.org
 domain:statsinstall.xyz
+domain:status.alibabacloud.com
 domain:statuslarkoffice.com
 domain:stay-bullish.com
 domain:staybrowser.com
