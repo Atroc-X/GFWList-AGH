@@ -1039,6 +1039,7 @@ domain:aerospace-cadcam.com
 domain:aerospace-design.com
 domain:aesworkshops.com
 domain:aex.com
+domain:af.edu
 domain:af.mil
 domain:afantibbs.com
 domain:afappyending.com
@@ -9788,6 +9789,7 @@ domain:garudalinux.org
 domain:gastrointestinalexam.com
 domain:gate-project.com
 domain:gate.cc
+domain:gate.com
 domain:gate.io
 domain:gatecoin.com
 domain:gatedata.org
@@ -10850,6 +10852,7 @@ domain:hanime.xxx
 domain:hanime.xyz
 domain:hanime1.com
 domain:hanime1.me
+domain:hanimeone.me
 domain:hanminzu.org
 domain:hanr-bao.mom
 domain:hanunyi.com
@@ -13775,6 +13778,7 @@ domain:keytransparency.com
 domain:keytransparency.foo
 domain:keytransparency.org
 domain:kfd.me
+domain:kfor.com
 domain:kfs.io
 domain:kgisystems.com
 domain:kgslb.com
@@ -18180,6 +18184,7 @@ domain:pcanywhere.net
 domain:pccw.com
 domain:pccwglobal.com
 domain:pccwsolutions.com
+domain:pcgamesn.com
 domain:pcgamestorrents.com
 domain:pchomeec.tw
 domain:pcij.org
@@ -19869,6 +19874,7 @@ domain:resoubanana.buzz
 domain:resoubang.buzz
 domain:respawnbyrazer.com
 domain:restnproducts.ru
+domain:restofworld.org
 domain:restream-media.net
 domain:restream.ru
 domain:rethink.net
@@ -21520,6 +21526,7 @@ domain:soylent.com
 domain:soylentnews.org
 domain:sp.cool
 domain:spaceexplored.com
+domain:spaceforce.mil
 domain:spacemail.com
 domain:spaceship.com
 domain:spacex.com
@@ -22029,6 +22036,7 @@ domain:supportfacebook.com
 domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
+domain:supremecourt.gov
 domain:suprememastertv.com
 domain:sureporn.com
 domain:surface.com
@@ -22602,6 +22610,7 @@ domain:theindianleaks.com
 domain:theinitium.com
 domain:theinstagramhack.com
 domain:theintelstore.com
+domain:theintercept.com
 domain:theinventionworks.com
 domain:theinventionworks.net
 domain:thekarups.com
@@ -23168,6 +23177,7 @@ domain:tronscan.org
 domain:tropictube.com
 domain:trouw.nl
 domain:trpger.us
+domain:trtworld.com
 domain:trueamateurmodels.com
 domain:trueamateurs.com
 domain:trueanal.com
@@ -23511,6 +23521,7 @@ domain:twoo.com
 domain:twporn.net
 domain:twreporter.org
 domain:twskype.com
+domain:twstalker.com
 domain:twstar.net
 domain:twt.tl
 domain:twtkr.com
@@ -24837,6 +24848,7 @@ domain:washa.tv
 domain:washeng.net
 domain:washingtondcbmw.com
 domain:washingtonpost.com
+domain:washingtontimes.com
 domain:waskucity.com
 domain:wasmer.io
 domain:watch-ebay.org

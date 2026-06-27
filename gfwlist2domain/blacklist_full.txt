@@ -1254,6 +1254,7 @@ domain:aes.ac.uk
 domain:aesworkshops.com
 domain:aex.com
 domain:af-north-1.myhuaweicloud.com
+domain:af.edu
 domain:af.mil
 domain:afantibbs.com
 domain:afao.ac.uk
@@ -1466,6 +1467,7 @@ domain:airtable.com
 domain:airtunes.com
 domain:airtunes.info
 domain:airtunes.net
+domain:airuniversity.af.edu
 domain:airvpn.org
 domain:airwatchexpress.com
 domain:airwatchqa.com
@@ -12965,6 +12967,7 @@ domain:gastrointestinalexam.com
 domain:gate-project.com
 domain:gate.ac.uk
 domain:gate.cc
+domain:gate.com
 domain:gate.io
 domain:gatecoin.com
 domain:gatedata.org
@@ -14403,6 +14406,7 @@ domain:hanime.xxx
 domain:hanime.xyz
 domain:hanime1.com
 domain:hanime1.me
+domain:hanimeone.me
 domain:hanminzu.org
 domain:hannah.ac.uk
 domain:hanr-bao.mom
@@ -18154,6 +18158,7 @@ domain:keytransparency.com
 domain:keytransparency.foo
 domain:keytransparency.org
 domain:kfd.me
+domain:kfor.com
 domain:kfs.io
 domain:kgisystems.com
 domain:kgslb.com
@@ -24350,6 +24355,7 @@ domain:pccwsolutions.com
 domain:pcdvd.com.tw
 domain:pcfe.ac.uk
 domain:pcfeonline.ac.uk
+domain:pcgamesn.com
 domain:pcgamestorrents.com
 domain:pchome.com.tw
 domain:pchomeec.tw
@@ -26516,6 +26522,7 @@ domain:resoubang.buzz
 domain:resourceshare.ac.uk
 domain:respawnbyrazer.com
 domain:restnproducts.ru
+domain:restofworld.org
 domain:restore.ac.uk
 domain:restream-media.net
 domain:restream.ru
@@ -28970,6 +28977,7 @@ domain:soylentnews.org
 domain:sp.cool
 domain:spa.ac.uk
 domain:spaceexplored.com
+domain:spaceforce.mil
 domain:spacely.com.au
 domain:spacemail.com
 domain:spaces.hightail.com
@@ -29774,6 +29782,7 @@ domain:supportfacebook.com
 domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
+domain:supremecourt.gov
 domain:suprememastertv.com
 domain:sureporn.com
 domain:surf.ac.uk
@@ -30574,6 +30583,7 @@ domain:theindianleaks.com
 domain:theinitium.com
 domain:theinstagramhack.com
 domain:theintelstore.com
+domain:theintercept.com
 domain:theinternetlawschool.ac.uk
 domain:theinventionworks.com
 domain:theinventionworks.net
@@ -31330,6 +31340,7 @@ domain:trpger.us
 domain:trs.ac.uk
 domain:trt.net.tr
 domain:trtc.com.tw
+domain:trtworld.com
 domain:trueamateurmodels.com
 domain:trueamateurs.com
 domain:trueanal.com
@@ -31730,6 +31741,7 @@ domain:twoo.com
 domain:twporn.net
 domain:twreporter.org
 domain:twskype.com
+domain:twstalker.com
 domain:twstar.net
 domain:twt.tl
 domain:twtkr.com
@@ -33633,6 +33645,7 @@ domain:washa.tv
 domain:washeng.net
 domain:washingtondcbmw.com
 domain:washingtonpost.com
+domain:washingtontimes.com
 domain:waskucity.com
 domain:wasmer.io
 domain:watch-ebay.org
