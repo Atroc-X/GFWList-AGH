@@ -2056,6 +2056,7 @@ domain:applepodcasts.com
 domain:applereach.com
 domain:applereach.net
 domain:apples-msk.ru
+domain:appleschoolcontent.com
 domain:applescreensavers.com
 domain:applescript.info
 domain:appleshare.info
@@ -2123,6 +2124,7 @@ domain:apress.com
 domain:aptoide.com
 domain:apture.com
 domain:apyle.com
+domain:apzones.com
 domain:aqdlt.net
 domain:aqicn.org
 domain:arabianchicks.com
@@ -2695,6 +2697,7 @@ domain:awwcn.xyz
 domain:awxcdn.com
 domain:axept.io
 domain:axios.com
+domain:axm-usercontent-apple.com
 domain:axureformac.com
 domain:ayabank.com
 domain:ayshdade.info
@@ -6268,6 +6271,7 @@ domain:damduc.org
 domain:damnhotz.com
 domain:damplips.com
 domain:dandalinvoa.com
+domain:dandanplay.net
 domain:dandanzan.cc
 domain:danemarket.com
 domain:danilo.to
@@ -15223,6 +15227,7 @@ domain:mhhanman.xyz
 domain:mhqwe.xyz
 domain:mhradio.org
 domain:mhshosting.com
+domain:mhwindow.org
 domain:mi9cdn.com
 domain:miadidas.com
 domain:miami-airport.com
@@ -23164,6 +23169,7 @@ domain:trickip.org
 domain:trikepatrol.com
 domain:trimondi.de
 domain:triokini.com
+domain:tripo3d.ai
 domain:tristatebmw.com
 domain:trithucvn.net
 domain:trithucvn.org

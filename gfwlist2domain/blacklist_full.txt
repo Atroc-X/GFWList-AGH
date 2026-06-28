@@ -2608,6 +2608,7 @@ domain:applepremiumresellers.com.au
 domain:applereach.com
 domain:applereach.net
 domain:apples-msk.ru
+domain:appleschoolcontent.com
 domain:applescreensavers.com
 domain:applescript.info
 domain:appleshare.info
@@ -2706,6 +2707,7 @@ domain:apture.com
 domain:apu.ac.uk
 domain:apuc-scot.ac.uk
 domain:apyle.com
+domain:apzones.com
 domain:aqdlt.net
 domain:aqi.aqicn.org
 domain:aqicn.org
@@ -3407,6 +3409,7 @@ domain:awxcdn.com
 domain:axbdoll.com.tw
 domain:axept.io
 domain:axios.com
+domain:axm-usercontent-apple.com
 domain:axureformac.com
 domain:ayabank.com
 domain:aylesbury.ac.uk
@@ -8431,6 +8434,7 @@ domain:damplips.com
 domain:danbooru.donmai.us
 domain:dance-archives.ac.uk
 domain:dandalinvoa.com
+domain:dandanplay.net
 domain:dandanzan.cc
 domain:danemarket.com
 domain:danilo.to
@@ -20315,6 +20319,7 @@ domain:mhrn.ac.uk
 domain:mhs-relay.ac.uk
 domain:mhs.ac.uk
 domain:mhshosting.com
+domain:mhwindow.org
 domain:mi.kochudaho.me
 domain:mi.mashiro.site
 domain:mi.nakn.jp
@@ -31322,6 +31327,7 @@ domain:trinitycollegebristol.ac.uk
 domain:trinitylaban.ac.uk
 domain:trinitysaintdavid.ac.uk
 domain:triokini.com
+domain:tripo3d.ai
 domain:tristatebmw.com
 domain:trithucvn.net
 domain:trithucvn.org
