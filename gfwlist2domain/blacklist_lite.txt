@@ -22477,6 +22477,7 @@ domain:terapeak.hk
 domain:terapeak.info
 domain:teraperk.com
 domain:terk.nl
+domain:terminus2049.xyz
 domain:termius.com
 domain:termly.io
 domain:termux.com
@@ -24876,6 +24877,7 @@ domain:watchmygf.net
 domain:watchmygf.to
 domain:watchmygirlfriend.tv
 domain:watchout.tw
+domain:watchpeopledie.tv
 domain:watchteencam.com
 domain:water-and-power.com
 domain:waterdamagesandiego.org
