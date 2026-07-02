@@ -638,6 +638,7 @@ domain:91porn.party
 domain:91porn.plus
 domain:91porn.tw
 domain:91porn.work
+domain:91porna.com
 domain:91pornf.com
 domain:91pornforum.com
 domain:91pornplus.com
@@ -869,6 +870,7 @@ domain:accross.ac.uk
 domain:accs.ac.uk
 domain:accuweather.com
 domain:accv.es
+domain:acd89244c803f7181.awsglobalaccelerator.com
 domain:acdocs.com
 domain:ace-lp.ac.uk
 domain:acebooik.com
@@ -1256,6 +1258,7 @@ domain:aex.com
 domain:af-north-1.myhuaweicloud.com
 domain:af.edu
 domain:af.mil
+domain:afa7f374f51cc8991.awsglobalaccelerator.com
 domain:afantibbs.com
 domain:afao.ac.uk
 domain:afappyending.com
@@ -4643,6 +4646,7 @@ domain:blackstonespoliceservice.com
 domain:blacktowhite.net
 domain:blackvpn.com
 domain:blake.ac.uk
+domain:blanc.ru
 domain:blaoshi.cc
 domain:blast.io
 domain:blazor.net
@@ -5416,6 +5420,7 @@ domain:boswp.com
 domain:bot.nu
 domain:botanwang.com
 domain:botframework.com
+domain:botim.me
 domain:botmechanic.io
 domain:botorch.org
 domain:botstop.com
@@ -9945,6 +9950,7 @@ domain:dyttapis.com
 domain:dzcdn.net
 domain:dzen.ru
 domain:dzeninfra.ru
+domain:dzmm.ai
 domain:dzze.com
 domain:e-bay.com
 domain:e-bay.it
@@ -14600,6 +14606,7 @@ domain:hdready.xxx
 domain:hdreporn.com
 domain:hdrplusdata.org
 domain:hdruk.ac.uk
+domain:hdsex.org
 domain:hdsex.pro
 domain:hdsexxx.net
 domain:hdsky.me
@@ -15293,6 +15300,9 @@ domain:horizontal-llc.com
 domain:horizontal-systems.com
 domain:horizontalglue.com
 domain:horizontalsystems.com
+domain:hornet.com
+domain:hornetapp.com
+domain:hornetx.com
 domain:horniman.ac.uk
 domain:hornyasianmilfs.com
 domain:hornybitches.org
@@ -18994,6 +19004,7 @@ domain:listerpostgraduate.ac.uk
 domain:listinganalytics.net
 domain:listorious.com
 domain:litbus-anime.com
+domain:litecoin.org
 domain:litenews.hk
 domain:literatumonline.com
 domain:literotica.com
@@ -20013,6 +20024,7 @@ domain:mbn.ac.uk
 domain:mbro.ac.uk
 domain:mbs-worldwide.ac.uk
 domain:mbs.ac.uk
+domain:mc.yandex.ru
 domain:mc6.ac.uk
 domain:mca.ac.uk
 domain:mcadforums.com
@@ -21328,6 +21340,7 @@ domain:mrcollege.ac.uk
 domain:mrcong.com
 domain:mrcp.ac.uk
 domain:mrdeepfakes.com
+domain:mrds66.com
 domain:mresalat.ir
 domain:mrface.com
 domain:mrgcdn.ru
@@ -21760,6 +21773,7 @@ domain:mytrannycams.com
 domain:mytrk.link
 domain:mytving.com
 domain:mytvsuper.com
+domain:myvideo.net.tw
 domain:myvisaluxuryhotels.com
 domain:myvodafone.com.au
 domain:myvodafone.com.ws
@@ -22189,7 +22203,9 @@ domain:netherrealm.com
 domain:netlab.ac.uk
 domain:netlify.app
 domain:netlify.com
+domain:netlifydns.com
 domain:netlifystatus.com
+domain:netlifyusercontent.com
 domain:netlock.hu
 domain:netmarble.com
 domain:netme.cc
@@ -23024,6 +23040,7 @@ domain:ntec.ac.uk
 domain:ntfs.ac.uk
 domain:ntidagenham.ac.uk
 domain:ntl.edu.tw
+domain:ntl.fyi
 domain:ntnews.com.au
 domain:ntp-b.nist.gov
 domain:ntp-c.colorado.edu

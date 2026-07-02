@@ -600,6 +600,7 @@ domain:91porn.party
 domain:91porn.plus
 domain:91porn.tw
 domain:91porn.work
+domain:91porna.com
 domain:91pornf.com
 domain:91pornforum.com
 domain:91pornplus.com
@@ -3672,6 +3673,7 @@ domain:blacksonblondes.com
 domain:blackstonespoliceservice.com
 domain:blacktowhite.net
 domain:blackvpn.com
+domain:blanc.ru
 domain:blaoshi.cc
 domain:blast.io
 domain:blazor.net
@@ -4270,6 +4272,7 @@ domain:boswp.com
 domain:bot.nu
 domain:botanwang.com
 domain:botframework.com
+domain:botim.me
 domain:botmechanic.io
 domain:botorch.org
 domain:botstop.com
@@ -7416,6 +7419,7 @@ domain:dyttapis.com
 domain:dzcdn.net
 domain:dzen.ru
 domain:dzeninfra.ru
+domain:dzmm.ai
 domain:dzze.com
 domain:e-bay.com
 domain:e-bay.it
@@ -10987,6 +10991,7 @@ domain:hdpornvideo.xxx
 domain:hdready.xxx
 domain:hdreporn.com
 domain:hdrplusdata.org
+domain:hdsex.org
 domain:hdsex.pro
 domain:hdsexxx.net
 domain:hdsky.me
@@ -11496,6 +11501,9 @@ domain:horizontal-llc.com
 domain:horizontal-systems.com
 domain:horizontalglue.com
 domain:horizontalsystems.com
+domain:hornet.com
+domain:hornetapp.com
+domain:hornetx.com
 domain:hornyasianmilfs.com
 domain:hornybitches.org
 domain:hornybutt.com
@@ -14336,6 +14344,7 @@ domain:listentoyoutube.com
 domain:listinganalytics.net
 domain:listorious.com
 domain:litbus-anime.com
+domain:litecoin.org
 domain:litenews.hk
 domain:literatumonline.com
 domain:literotica.com
@@ -16052,6 +16061,7 @@ domain:mrbonus.com
 domain:mrchewsasianbeaver.com
 domain:mrcong.com
 domain:mrdeepfakes.com
+domain:mrds66.com
 domain:mresalat.ir
 domain:mrface.com
 domain:mrgcdn.ru
@@ -16654,7 +16664,9 @@ domain:netflixtechblog.com
 domain:netherrealm.com
 domain:netlify.app
 domain:netlify.com
+domain:netlifydns.com
 domain:netlifystatus.com
+domain:netlifyusercontent.com
 domain:netlock.hu
 domain:netmarble.com
 domain:netme.cc
@@ -17202,6 +17214,7 @@ domain:ntdtv.se
 domain:ntdtvla.com
 domain:ntdvideo.tw
 domain:ntdvn.com
+domain:ntl.fyi
 domain:ntp-servers.net
 domain:ntp.se
 domain:ntrfun.com
