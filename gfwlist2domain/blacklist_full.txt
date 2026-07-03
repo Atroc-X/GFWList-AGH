@@ -7844,6 +7844,7 @@ domain:coova.org
 domain:copac.ac.uk
 domain:copilot-proxy.githubusercontent.com
 domain:copilot-workspace.githubnext.com
+domain:copilot.com
 domain:copilot.microsoft.com
 domain:copilotprodattachments.blob.core.windows.net
 domain:copim.ac.uk
@@ -13470,6 +13471,7 @@ domain:globaledu.org
 domain:globaljihad.net
 domain:globalmediaoutreach.com
 domain:globalmuseumoncommunism.org
+domain:globalnewstv.com.tw
 domain:globalrescue.net
 domain:globalriskregulator.com
 domain:globalsecurity.org
@@ -15881,6 +15883,7 @@ domain:i.mij.rip
 domain:i.org
 domain:i1.hk
 domain:i234.me
+domain:i24news.tv
 domain:i2p2.de
 domain:i2runner.com
 domain:i69.com.tw
@@ -16222,6 +16225,7 @@ domain:igtv.com
 domain:igvita.com
 domain:ihakka.net
 domain:ihao.org
+domain:iheart.com
 domain:iherb.com
 domain:ihgs.ac.uk
 domain:ihighbury.ac.uk
@@ -23690,6 +23694,7 @@ domain:open.com.hk
 domain:open.firstory.me
 domain:openai.com
 domain:openaiapi-site.azureedge.net
+domain:openaiassets.blob.core.windows.net
 domain:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 domain:openaicom.imgix.net
 domain:openaicomproductionae4b.blob.core.windows.net
@@ -28496,6 +28501,7 @@ domain:skylinktv.us
 domain:skymansion.net
 domain:skymatter.com
 domain:skynet.be
+domain:skynews.com.au
 domain:skyoceanrescue.com
 domain:skyoceanrescue.de
 domain:skyoceanrescue.it
@@ -30107,6 +30113,7 @@ domain:taiwannation.com.tw
 domain:taiwanncf.org.tw
 domain:taiwannews.com.tw
 domain:taiwanonline.cc
+domain:taiwanplus.com
 domain:taiwansex.tw
 domain:taiwanstay.net.tw
 domain:taiwantoday.tw
@@ -33826,6 +33833,7 @@ domain:webrtc.org
 domain:webrush.net
 domain:webs-tv.net
 domain:websdr.org
+domain:webshare.io
 domain:website.new
 domain:websitepulse.com
 domain:websnapr.com

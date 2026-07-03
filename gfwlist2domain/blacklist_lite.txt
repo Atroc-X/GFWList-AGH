@@ -5923,6 +5923,7 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot.com
 domain:copro.pw
 domain:copy-manga.com
 domain:copy20.com
@@ -11964,6 +11965,7 @@ domain:i-scmp.com
 domain:i.org
 domain:i1.hk
 domain:i234.me
+domain:i24news.tv
 domain:i2p2.de
 domain:i2runner.com
 domain:i818hk.com
@@ -12232,6 +12234,7 @@ domain:igtv.com
 domain:igvita.com
 domain:ihakka.net
 domain:ihao.org
+domain:iheart.com
 domain:iherb.com
 domain:ihsd-mp4.pics
 domain:ihsdav.cc
@@ -22263,6 +22266,7 @@ domain:taiwanjustice.net
 domain:taiwankiss.com
 domain:taiwannation.com
 domain:taiwanonline.cc
+domain:taiwanplus.com
 domain:taiwansex.tw
 domain:taiwantoday.tw
 domain:taiwantp.net
@@ -24989,6 +24993,7 @@ domain:webrtc.org
 domain:webrush.net
 domain:webs-tv.net
 domain:websdr.org
+domain:webshare.io
 domain:website.new
 domain:websitepulse.com
 domain:websnapr.com
