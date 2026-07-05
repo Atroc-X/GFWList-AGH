@@ -2330,6 +2330,7 @@ domain:atlaspost.com
 domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
+domain:atmeta.com
 domain:atnext.com
 domain:atokara.jp
 domain:atom.io
@@ -2718,6 +2719,7 @@ domain:aziani.com
 domain:azirevpn.com
 domain:aznude.com
 domain:azubu.tv
+domain:azure-api.net
 domain:azure-devices-int.net
 domain:azure-devices.net
 domain:azure-dns.com
@@ -2755,6 +2757,7 @@ domain:azureplanetscale.net
 domain:azureserviceprofiler.com
 domain:azuresmartspaces.net
 domain:azurestackvalidation.com
+domain:azurestaticapps.net
 domain:azurewebsites.net
 domain:b-cdn.net
 domain:b-eroland.net
@@ -6221,6 +6224,7 @@ domain:dabr.me
 domain:dabr.mobi
 domain:dacebook.com
 domain:dachix.com
+domain:dadabroadband.com
 domain:dadazim.com
 domain:daddyslilangel.com
 domain:dadi360.com
@@ -18508,6 +18512,7 @@ domain:pixnet.pro
 domain:pixnet.tw
 domain:pixonic.com
 domain:pixplug.in
+domain:pixtastock.com
 domain:pixtronix.com
 domain:pjbyj.top
 domain:pjful-app.lol

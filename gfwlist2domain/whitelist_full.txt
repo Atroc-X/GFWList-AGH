@@ -33010,6 +33010,7 @@ domain:enterprise-insights.dji.com
 domain:enterprise.dji.com
 domain:entertainment.dji.com
 domain:enthalpy.space
+domain:entitlements-edge.itunes.apple.com
 domain:entive.com
 domain:entstudy.com
 domain:entts.com
@@ -35923,6 +35924,7 @@ domain:fphis.com
 domain:fphs.cc
 domain:fphs5.com
 domain:fpi-inc.com
+domain:fpinit.itunes.apple.com
 domain:fpliu.com
 domain:fpsace.com
 domain:fpsjk.com
