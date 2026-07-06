@@ -5979,6 +5979,7 @@ domain:c-scaipe.ac.uk
 domain:c-span.org
 domain:c-spanvideo.org
 domain:c.gle
+domain:c.go-mpulse.net
 domain:c.mi.com
 domain:c.ppy.sh
 domain:c0930.com
@@ -7922,6 +7923,7 @@ domain:coupangcdn.com
 domain:couplecam.co.uk
 domain:courier-push-apple.com.akadns.net
 domain:couriermail.com.au
+domain:courrier.jp
 domain:coursehero.com
 domain:coursera-for-business.org
 domain:coursera.community
@@ -13472,6 +13474,7 @@ domain:global.ssl.fastly.net
 domain:globalbanking.ac.uk
 domain:globalbusinessofforcedlabour.ac.uk
 domain:globaledu.org
+domain:globalexchange.org
 domain:globaljihad.net
 domain:globalmediaoutreach.com
 domain:globalmuseumoncommunism.org
@@ -13600,6 +13603,7 @@ domain:go-gaytube.com
 domain:go-lang.com
 domain:go-lang.net
 domain:go-lang.org
+domain:go-mpulse.net
 domain:go-pki.com
 domain:go-to-zlibrary.se
 domain:go.com
@@ -16566,7 +16570,6 @@ domain:infrapedia.com
 domain:infraworks.com
 domain:infura.io
 domain:ingads.com
-domain:ingest.apple-studies.com
 domain:ingka.com
 domain:ingka.dev
 domain:ingkacentres.com
@@ -32280,6 +32283,7 @@ domain:upfrontcfd.com
 domain:upfrontfea.com
 domain:upghsbc.com
 domain:upholdjustice.org
+domain:upi.com
 domain:upjav.cc
 domain:uplay-istrip.com
 domain:uplay.com

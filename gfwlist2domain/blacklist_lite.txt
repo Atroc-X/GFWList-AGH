@@ -5971,6 +5971,7 @@ domain:cougarsexmovies.com
 domain:counter.social
 domain:coupang.com
 domain:coupangcdn.com
+domain:courrier.jp
 domain:coursehero.com
 domain:coursera-for-business.org
 domain:coursera.community
@@ -10187,6 +10188,7 @@ domain:glass8.eu
 domain:gleline.com
 domain:global-sci.org
 domain:globaledu.org
+domain:globalexchange.org
 domain:globaljihad.net
 domain:globalmediaoutreach.com
 domain:globalmuseumoncommunism.org
@@ -10272,6 +10274,7 @@ domain:go-gaytube.com
 domain:go-lang.com
 domain:go-lang.net
 domain:go-lang.org
+domain:go-mpulse.net
 domain:go-pki.com
 domain:go-to-zlibrary.se
 domain:go.com
@@ -23782,6 +23785,7 @@ domain:upfrontcfd.com
 domain:upfrontfea.com
 domain:upghsbc.com
 domain:upholdjustice.org
+domain:upi.com
 domain:upjav.cc
 domain:uplay-istrip.com
 domain:uplay.com
