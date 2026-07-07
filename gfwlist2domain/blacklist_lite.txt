@@ -426,6 +426,7 @@ domain:51tuqiang.com
 domain:520aa.tv
 domain:520avtv.com
 domain:520cc.cc
+domain:521danmei.com
 domain:5238.me
 domain:5278.cc
 domain:5299.tv
@@ -466,6 +467,7 @@ domain:5q5zu9f1.me
 domain:5w.ag
 domain:5xsq.com
 domain:6-ar.com
+domain:60ks.info
 domain:60plusmilfs.com
 domain:611study.com
 domain:611study.icu
@@ -654,6 +656,7 @@ domain:9hentai.to
 domain:9hentaiz.com
 domain:9ineverse.com
 domain:9k6v4y.cyou
+domain:9marks.org
 domain:9tak-nav.buzz
 domain:9to5google.com
 domain:9to5mac.com
@@ -1739,6 +1742,7 @@ domain:ankiweb.net
 domain:annamilk.com
 domain:annas-archive.gd
 domain:annas-archive.gl
+domain:annas-archive.li
 domain:annas-archive.org
 domain:annas-archive.pk
 domain:annas-archive.se
@@ -2200,6 +2204,7 @@ domain:arte.tv
 domain:artel.watch
 domain:arteldoc.com
 domain:arteldoc.tv
+domain:articles.sk
 domain:artixlinux.org
 domain:artnudegalleries.com
 domain:artoferotica.info
@@ -2913,6 +2918,7 @@ domain:battleforcecomix.com
 domain:battlefront2.com
 domain:battlefrontii.com
 domain:battlelog.com
+domain:battlemetrics.com
 domain:battlenet.com
 domain:battleye.com
 domain:baxsound.com
@@ -3447,6 +3453,7 @@ domain:bgvpn.com
 domain:bhggn.xyz
 domain:bhzyk.buzz
 domain:bhzyw2.top
+domain:bi.org
 domain:biantailajiao.com
 domain:biantailajiao.in
 domain:biaoqs.xyz
@@ -4274,6 +4281,7 @@ domain:bossae.com
 domain:boswp.com
 domain:bot.nu
 domain:botanwang.com
+domain:botasot.info
 domain:botframework.com
 domain:botim.me
 domain:botmechanic.io
@@ -4944,6 +4952,7 @@ domain:ccav69.info
 domain:ccav69.me
 domain:ccav691api.com
 domain:ccavb.tv
+domain:ccbiblestudy.net
 domain:cccat.cc
 domain:cccat.co
 domain:cccat.io
@@ -5255,6 +5264,7 @@ domain:chinarightsia.org
 domain:chinasmile.net
 domain:chinasocialdemocraticparty.com
 domain:chinasoul.org
+domain:chinasource.org
 domain:chinasucks.net
 domain:chinatimes.com
 domain:chinatopsex.com
@@ -5465,6 +5475,7 @@ domain:clearpool.finance
 domain:clearsurance.com
 domain:clearwisdom.net
 domain:clementine-player.org
+domain:cli.re
 domain:click-sec.com
 domain:click-url.com
 domain:clickme.net
@@ -6407,6 +6418,7 @@ domain:dealsbeatsblackfriday.com
 domain:dealtime.com
 domain:dealtree.org
 domain:deasians.com
+domain:debalie.nl
 domain:debank.com
 domain:debian.org
 domain:debug.com
@@ -6419,6 +6431,7 @@ domain:decodet.co
 domain:decopri.net
 domain:decorativemodels.com
 domain:decrypt.day
+domain:deep.ai
 domain:deepai.org
 domain:deepdiscount.com
 domain:deeper.com
@@ -6589,6 +6602,7 @@ domain:desipornfilms.com
 domain:desipro.de
 domain:desiraesworld.com
 domain:desiresecrets.com
+domain:desiringgod.org
 domain:desk.com
 domain:deskconnect.com
 domain:desktopmovie.com
@@ -7017,6 +7031,7 @@ domain:doceapower.com
 domain:docker.com
 domain:docker.io
 domain:dockerhub.com
+domain:dockerhub.icu
 domain:dockerizer.com
 domain:dockerstatic.com
 domain:dockerstatus.com
@@ -7275,6 +7290,7 @@ domain:dtci.technology
 domain:dtdns.net
 domain:dtiblog.com
 domain:dtic.mil
+domain:dtku41.xyz
 domain:dtsell.com
 domain:dtv2009offers.com
 domain:dtvce.com
@@ -7484,6 +7500,7 @@ domain:eastasiaforum.org
 domain:eastbabes.com
 domain:eastern-ark.com
 domain:easternlightning.org
+domain:eastmojo.com
 domain:eastore.com
 domain:eastturkestan.com
 domain:eastturkistan-gov.org
@@ -7855,6 +7872,7 @@ domain:encrypt.me
 domain:encryptedsni.com
 domain:encuentroscasualesoecuador.com
 domain:encyclopedia.com
+domain:enduyghurforcedlabour.org
 domain:eneba.com
 domain:eneba.games
 domain:enema-porn.com
@@ -8868,6 +8886,7 @@ domain:fiftythree.com
 domain:fightforux.com
 domain:figma.com
 domain:figprayer.com
+domain:fileditch.com
 domain:fileflyer.com
 domain:fileforum.com
 domain:files2me.com
@@ -10056,6 +10075,7 @@ domain:gfw.press
 domain:gfw.report
 domain:gfwatch.org
 domain:gfwbao.com
+domain:gfweb.ca
 domain:gfwlist.end
 domain:gfwlist.start
 domain:gfx.ms
@@ -10192,6 +10212,7 @@ domain:globalexchange.org
 domain:globaljihad.net
 domain:globalmediaoutreach.com
 domain:globalmuseumoncommunism.org
+domain:globalr2p.org
 domain:globalrescue.net
 domain:globalriskregulator.com
 domain:globalsecurity.org
@@ -11026,6 +11047,7 @@ domain:headphonesretailer.com
 domain:headphonessupply.com
 domain:headphonezip.com
 domain:headset987.com
+domain:headtopics.com
 domain:health.google
 domain:health026.click
 domain:healthcarecareeronline.com
@@ -11040,6 +11062,7 @@ domain:heavyfetish.com
 domain:hebiphone.com
 domain:hec.su
 domain:hecaitou.net
+domain:hedra.com
 domain:hegre-art.com
 domain:hegre.com
 domain:heiguab.top
@@ -11330,6 +11353,7 @@ domain:hipaa6020.com
 domain:hiporn.net
 domain:hippyhillscomix.com
 domain:hipzoom.net
+domain:history-maps.com
 domain:historyofdota.com
 domain:historyofdota.net
 domain:historyofdota.org
@@ -13833,6 +13857,7 @@ domain:kik.com
 domain:kikdirty.com
 domain:killcovid2021.com
 domain:killercb.ru
+domain:killtv.me
 domain:killwall.com
 domain:kilmeadeandfriends.com
 domain:kimchi.tv
@@ -14967,6 +14992,7 @@ domain:mastodon.xyz
 domain:masturbate2gether.com
 domain:mat6tube.com
 domain:matainja.com
+domain:mataroa.blog
 domain:matchmover.com
 domain:mate-desktop.org
 domain:material.io
@@ -15465,6 +15491,7 @@ domain:mings.hk
 domain:mingshengbao.com
 domain:mingw.org
 domain:mingwatch.com
+domain:mingzw.net
 domain:minhhue.net
 domain:mini-abudhabi.com
 domain:mini-antilles.fr
@@ -16197,6 +16224,7 @@ domain:muycerdas.xxx
 domain:muyzorras.com
 domain:muzi.com
 domain:muzi.net
+domain:muzmi.org
 domain:muzu.tv
 domain:mvg.jp
 domain:mvideoporno.xxx
@@ -16792,6 +16820,7 @@ domain:next.com
 domain:next.hk
 domain:nextapple.com
 domain:nextapple.tw
+domain:nextcli.com
 domain:nextechafrica.net
 domain:nextgenerationcam.com
 domain:nextgenerationcenter.com
@@ -17109,6 +17138,7 @@ domain:nodereal.io
 domain:nodeseek.com
 domain:nodesnoop.com
 domain:nodesource.com
+domain:nodle.com
 domain:noellabo.jp
 domain:nofile.io
 domain:noisullifb.com
@@ -17139,6 +17169,9 @@ domain:noroutetohost.net
 domain:norsk.mobi
 domain:norton.com
 domain:nos.nl
+domain:nostr.build
+domain:nostr.land
+domain:nostr.wine
 domain:note.com
 domain:notebooklm.google
 domain:notepad-plus-plus.org
@@ -17368,6 +17401,7 @@ domain:nyaa.si
 domain:nyahentai.re
 domain:nyansa.com
 domain:nybooks.com
+domain:nycbar.org
 domain:nydailynews.com
 domain:nydus.ca
 domain:nyinfor.com
@@ -17698,6 +17732,7 @@ domain:openresty.org
 domain:openreview.net
 domain:openrouter.ai
 domain:opensea.io
+domain:opensocietyfoundations.org
 domain:opensource.google
 domain:opensource.guide
 domain:opensourceinsight.dev
@@ -18040,6 +18075,8 @@ domain:patreoncommunity.com
 domain:patreonusercontent.com
 domain:paulsimon-music.com
 domain:pavpal.com
+domain:pawchive.pw
+domain:pawchive.st
 domain:pawoo.net
 domain:paxful.com
 domain:paxlicense.org
@@ -18683,6 +18720,7 @@ domain:poolin.com
 domain:poop-pee.online
 domain:poopee-puke.com
 domain:poopeegirls.com
+domain:pop.org
 domain:popai.pro
 domain:popcap.com
 domain:popcornjs.org
@@ -19136,6 +19174,7 @@ domain:premproxy.com
 domain:prepsure.com
 domain:presentation.new
 domain:presentationzen.com
+domain:presentdangerchina.org
 domain:president.ir
 domain:presidentlee.tw
 domain:press.vin
@@ -19246,6 +19285,7 @@ domain:pros.ee
 domain:prosciana.com
 domain:proseries.com
 domain:prosiben.de
+domain:prosperousamerica.org
 domain:prostate-exam-info.com
 domain:prostoporno.net
 domain:prostores.com
@@ -19301,6 +19341,7 @@ domain:pstorage.space
 domain:psyccareers.com
 domain:pt.im
 domain:ptapjmp.com
+domain:ptt.best
 domain:ptt.cc
 domain:ptt.sex
 domain:ptt2.cc
@@ -20279,6 +20320,7 @@ domain:sacks.com
 domain:sacom.hk
 domain:sacredhentai.com
 domain:sadistic-v.com
+domain:sadistic.pl
 domain:sadpanda.us
 domain:sae.org
 domain:saeima.lv
@@ -20906,6 +20948,7 @@ domain:sharizelvideos.com
 domain:sharks-lagoon.fr
 domain:sharkyporn.com
 domain:sharmota.com
+domain:sharpchina.fm
 domain:sharpdaily.hk
 domain:sharpdaily.tw
 domain:shat-tibet.com
@@ -21605,6 +21648,7 @@ domain:spicevpn.com
 domain:spiceworks.com
 domain:spiceworksstatic.com
 domain:spicybigtits.com
+domain:spicychat.ai
 domain:spicystory.net
 domain:spicywriter.com
 domain:spideroak.com
@@ -21639,6 +21683,7 @@ domain:spraynwash.com
 domain:spreadporn.org
 domain:spreadprivacy.com
 domain:spreadsheet.new
+domain:spreadshirt.com
 domain:spreadshirt.es
 domain:spreaker.com
 domain:spring-plus.net
@@ -21810,6 +21855,7 @@ domain:starplus.com
 domain:starship-ent.com
 domain:starsze.icu
 domain:start.com
+domain:start.me
 domain:start.ru
 domain:startpage.com
 domain:startpath.com
@@ -23147,6 +23193,7 @@ domain:tracking-location.com
 domain:tradeup.com
 domain:tradevip1.com
 domain:tradingview.com
+domain:traditional-odb.org
 domain:trae.ai
 domain:traffichaus.com
 domain:trafficmanager.net
@@ -23367,6 +23414,7 @@ domain:tumblr.com
 domain:tumutanzi.com
 domain:tumview.com
 domain:tuncommercialbank.com
+domain:tunebat.com
 domain:tunein.com
 domain:tunnelbear.com
 domain:tunnelblick.net
@@ -23946,6 +23994,7 @@ domain:vaginapics.pro
 domain:vagrantcloud.com
 domain:vagrantup.com
 domain:valeursactuelles.com
+domain:valorantinfo.com
 domain:valorinveste.com
 domain:valoryirene.com
 domain:value-domain.com
@@ -24214,6 +24263,7 @@ domain:videosxxxnicaragua.top
 domain:videoxxxporn.biz
 domain:videozzz.com
 domain:vidinfo.org
+domain:vidlii.com
 domain:vidmpreview.com
 domain:vidown.com
 domain:vidspornoduro.com
@@ -26675,6 +26725,7 @@ domain:za77.xyz
 domain:zacebook.com
 domain:zalmos.com
 domain:zamimg.com
+domain:zanmei.ai
 domain:zannel.com
 domain:zaobao.com
 domain:zaobao.sg
@@ -26795,6 +26846,7 @@ domain:zkiz.com
 domain:zlib.life
 domain:zlibcdn.com
 domain:zlibcdn2.com
+domain:zmp3.cc
 domain:zmw.cn
 domain:zndsk.com
 domain:zobry.site
