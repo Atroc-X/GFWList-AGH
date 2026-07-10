@@ -19665,6 +19665,7 @@ domain:makeappli.jp
 domain:makearmanotwar.com
 domain:makebettercode.com
 domain:makecode.org
+domain:makeeu.com
 domain:makeitopen.com
 domain:makeitrealcontest.com
 domain:makemymood.com
@@ -20934,6 +20935,7 @@ domain:mistral.ai
 domain:mistresskym.com
 domain:mit.edu
 domain:mit.net
+domain:mitao.bar
 domain:mitao.com.tw
 domain:mitbbs.com
 domain:mitbbsau.com
@@ -24874,7 +24876,6 @@ domain:platinumlinks.org
 domain:play-asia.com
 domain:play-bmm.shop
 domain:play-bmmer.buzz
-domain:play-edge.itunes.apple.com
 domain:play.google
 domain:play4free.com
 domain:playads.jp

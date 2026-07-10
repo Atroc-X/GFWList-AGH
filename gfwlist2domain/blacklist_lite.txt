@@ -14782,6 +14782,7 @@ domain:makeappli.jp
 domain:makearmanotwar.com
 domain:makebettercode.com
 domain:makecode.org
+domain:makeeu.com
 domain:makeitopen.com
 domain:makeitrealcontest.com
 domain:makemymood.com
@@ -15743,6 +15744,7 @@ domain:mistral.ai
 domain:mistresskym.com
 domain:mit.edu
 domain:mit.net
+domain:mitao.bar
 domain:mitbbs.com
 domain:mitbbsau.com
 domain:miteam.com
