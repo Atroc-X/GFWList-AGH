@@ -4240,6 +4240,9 @@ domain:bestbuystores.com
 domain:bestbuytradein.com
 domain:bestbuyus.com
 domain:bestcamsites.net
+domain:bestchange.com
+domain:bestchange.net
+domain:bestchange.ru
 domain:bestclouddrive.com
 domain:bestdori.com
 domain:besterpornos.com
@@ -8066,6 +8069,7 @@ domain:crl.versign.net
 domain:crmdynint-gcc.com
 domain:crmdynint.com
 domain:crocels.ac.uk
+domain:crocoblock.com
 domain:crocotube.com
 domain:cromite.org
 domain:cronton.ac.uk
@@ -8688,6 +8692,7 @@ domain:delcamp.net
 domain:delcamtv.com
 domain:delcamuniversity.com
 domain:delcamusa.com
+domain:delets.online
 domain:delicious.com
 domain:delicious.com.au
 domain:dell.ac
@@ -13269,6 +13274,7 @@ domain:getporn.tv
 domain:getpricetag.com
 domain:getprintersupports.com
 domain:getscorecash.com
+domain:getsentry.com
 domain:getsession.org
 domain:getsexgames.com
 domain:getsocialscope.com
@@ -14465,6 +14471,8 @@ domain:hao21.xyz
 domain:hao62.xyz
 domain:haori888.com
 domain:haplorrhini.com
+domain:happ.info
+domain:happ.su
 domain:happymeal.co.nz
 domain:happymeal.com
 domain:happymeal.com.au
@@ -21261,6 +21269,7 @@ domain:motiongraphicsandmore.com
 domain:motionpictureser.com
 domain:motiyun.com
 domain:moto.com
+domain:motocms.com
 domain:motolia.com
 domain:motopress.com
 domain:motor4ik.ru
@@ -23651,6 +23660,7 @@ domain:onekey.so
 domain:onekey.zendesk.com
 domain:onekeycn.com
 domain:oneme.ru
+domain:onemoment.cc
 domain:onemozilla.org
 domain:onenote.com
 domain:oneocsp.microsoft.com
@@ -24256,6 +24266,7 @@ domain:paxful.com
 domain:paxlicense.org
 domain:paydiant.com
 domain:payecom.ru
+domain:payget.pro
 domain:paygonline.com
 domain:payhulu.com
 domain:paylike.com
@@ -24873,6 +24884,7 @@ domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platiecom.ru
 domain:platinumlinks.org
+domain:platov.co
 domain:play-asia.com
 domain:play-bmm.shop
 domain:play-bmmer.buzz
@@ -26186,6 +26198,8 @@ domain:rakutengiftcards.ca
 domain:rakuya.com.tw
 domain:ram.ac.uk
 domain:ramcity.com.au
+domain:ramon.cash
+domain:ramon.money
 domain:randd.ac.uk
 domain:randomsystems-cdt.ac.uk
 domain:randyblue.com
@@ -27812,6 +27826,7 @@ domain:sensualgirls.org
 domain:sensualmothers.com
 domain:sensueel.net
 domain:sentry-cdn.com
+domain:sentry.dev
 domain:sentry.io
 domain:sentry.ppy.sh
 domain:senzuritv.net
@@ -30461,6 +30476,7 @@ domain:telri.ac.uk
 domain:temenos.ac.uk
 domain:temetube.xyz
 domain:temp-mail.org
+domain:templatemonster.com
 domain:tempusuk.ac.uk
 domain:temu.com
 domain:tenacy.com
