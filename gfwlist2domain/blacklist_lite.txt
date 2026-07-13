@@ -25005,6 +25005,7 @@ domain:wballiance.com
 domain:wbautomation.ru
 domain:wbautomation.tech
 domain:wbbasket.ru
+domain:wbcontent.net
 domain:wbd.ms
 domain:wbdnbo.net
 domain:wbdubna.ru
