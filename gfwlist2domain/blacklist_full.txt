@@ -6760,6 +6760,7 @@ domain:chat.lmsys.org
 domain:chatango.com
 domain:chatgpt.com
 domain:chatgpt.livekit.cloud
+domain:chatgpt.site
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatnook.com
@@ -18237,6 +18238,7 @@ domain:khotruyentranhx.com
 domain:kiad.ac.uk
 domain:kichiku-doujinko.com
 domain:kichikuou.com
+domain:kick.com
 domain:kickporn.com
 domain:kickshatchannel.com
 domain:kicksnike1.com
