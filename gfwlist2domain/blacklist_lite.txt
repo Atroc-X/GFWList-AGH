@@ -4193,6 +4193,7 @@ domain:bnews.co
 domain:bnn.co
 domain:bnrmetal.com
 domain:bntrace.com
+domain:bnxz.net
 domain:boardreader.com
 domain:boboporn.com
 domain:boboporn.net
@@ -4641,6 +4642,7 @@ domain:bymj.io
 domain:bypasscensorship.org
 domain:byrut.org
 domain:byspotify.com
+domain:bystys.tech
 domain:byteoversea.com
 domain:bytick.com
 domain:bzazi.com
@@ -14316,7 +14318,12 @@ domain:lightyearvpn.com
 domain:lih.kg
 domain:lihkg.com
 domain:lihksnap.com
+domain:like-video.com
 domain:like.com
+domain:likee.com
+domain:likeeapp.ru
+domain:likeevideo.com
+domain:likeevideo.ru
 domain:likeseiyu.com
 domain:liketruyen.net
 domain:liketwice.com
@@ -17906,6 +17913,7 @@ domain:owind.com
 domain:owl.li
 domain:owltail.com
 domain:owo.nz
+domain:owxd.xyz
 domain:oxfordaasc.com
 domain:oxfordclinicalpsych.com
 domain:oxforddnb.com
@@ -18669,6 +18677,7 @@ domain:pmatehunter.com
 domain:pmates.com
 domain:pmem.org
 domain:pmem.us
+domain:pmhcjk.com
 domain:po18.tw
 domain:po2b.com
 domain:pobeda.page
@@ -19511,6 +19520,7 @@ domain:qiwen.lu
 domain:qkjuyet.com
 domain:qkshare.com
 domain:qlink.to
+domain:qllfkl.com
 domain:qmap.pub
 domain:qmb.ir
 domain:qmov.com
@@ -23979,6 +23989,7 @@ domain:uweb.ru
 domain:uwpcommunitytoolkit.com
 domain:uxthemes.com
 domain:uxxxporn.com
+domain:uxzw.club
 domain:uyghur-archive.com
 domain:uyghur-j.org
 domain:uyghuraa.org
@@ -26704,6 +26715,7 @@ domain:yts.am
 domain:yts.lt
 domain:yuanming.net
 domain:yuanzhengtang.org
+domain:yucf.top
 domain:yuenuge113.xyz
 domain:yuenuge18.cc
 domain:yugioh-card.com
