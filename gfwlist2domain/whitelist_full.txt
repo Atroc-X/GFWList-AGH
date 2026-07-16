@@ -89187,7 +89187,6 @@ domain:tesexiu.com
 domain:teshenqi.com
 domain:tesight.com
 domain:tesiro.com
-domain:tesla-cdn.thron.cn
 domain:tesolsh.com
 domain:tesoon.com
 domain:test-cignacmb.com
@@ -89492,7 +89491,6 @@ domain:threatbook.net
 domain:threetong.com
 domain:threewater.net
 domain:thrive-chemicals.com
-domain:thron.cn
 domain:ths123.com
 domain:ths8.com
 domain:thsj.com

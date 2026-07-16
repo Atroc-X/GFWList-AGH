@@ -1631,7 +1631,6 @@ domain:alexanderlondoncollege.ac.uk
 domain:alexanderstreet.com
 domain:alexlur.org
 domain:alfa.me
-domain:alfabank.oavdo.amc
 domain:alfabank.ru
 domain:alfabank.st
 domain:alfadirect.ru
@@ -3476,6 +3475,7 @@ domain:azuredns-prd.info
 domain:azuredns-prd.org
 domain:azureedge-test.net
 domain:azureedge.net
+domain:azureedge.us
 domain:azurefd.net
 domain:azureiotcentral.com
 domain:azureiotsolutions.com
@@ -7866,6 +7866,7 @@ domain:coova.net
 domain:coova.org
 domain:copac.ac.uk
 domain:copilot-proxy.githubusercontent.com
+domain:copilot-stg.com
 domain:copilot-workspace.githubnext.com
 domain:copilot.com
 domain:copilot.microsoft.com
@@ -20407,6 +20408,7 @@ domain:mh4u.org
 domain:mhcb.ru
 domain:mhcbr.ru
 domain:mhdss.ac.uk
+domain:mhgui.com
 domain:mhhanman.xyz
 domain:mhie.ac.uk
 domain:mhqwe.xyz
@@ -23457,7 +23459,6 @@ domain:oath.com
 domain:oatridge.ac.uk
 domain:oauth.net
 domain:oauthz.com
-domain:oavdo.amc
 domain:obc.ac.uk
 domain:obhe.ac.uk
 domain:objectarx.com
@@ -29479,6 +29480,7 @@ domain:starfox.com
 domain:stargazer-games.com
 domain:stark-verlag.ch
 domain:starlink.ac.uk
+domain:starlink.com
 domain:starott.com
 domain:starp2p.com
 domain:starplus.com
