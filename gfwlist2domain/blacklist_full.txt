@@ -4204,6 +4204,7 @@ domain:bess.ac.uk
 domain:best-practice.se
 domain:best-sex-games.com
 domain:best.ac.uk
+domain:best2pay.net
 domain:best3dhere.com
 domain:best4bim.com
 domain:bestamateurcumshots.com
@@ -7230,6 +7231,7 @@ domain:clashmini.com
 domain:clashofclans.com
 domain:clashroyale.com
 domain:clashverge.dev
+domain:clashyun.com
 domain:clasporno.org
 domain:class.tn.edu.tw
 domain:classicalguitarblog.net
@@ -11227,6 +11229,8 @@ domain:f-dro1d.org
 domain:f-droid.com
 domain:f-droid.org
 domain:f-secure.com
+domain:f1.com
+domain:f1tv.com
 domain:f2pool.com
 domain:f3b7q2p3.ssl.hwcdn.net
 domain:f5.si
@@ -12270,6 +12274,7 @@ domain:formission.ac.uk
 domain:formit360.com
 domain:formitfactory.com
 domain:forms.new
+domain:formula1.com
 domain:forpojie.pics
 domain:forshtadt.ru
 domain:forster.ac.uk
@@ -15894,6 +15899,7 @@ domain:hutong9.net
 domain:hutpromos.com
 domain:hutton.ac.uk
 domain:huyandex.com
+domain:hva.im
 domain:hw.ac.uk
 domain:hwadzan.tw
 domain:hwayue.org.tw
@@ -26332,10 +26338,12 @@ domain:rbmavericks.com
 domain:rbnainternational.com
 domain:rbplc.com
 domain:rbrandlibrary.com
+domain:rbsgate.com
 domain:rbsgr.com
 domain:rbsl.ac.uk
 domain:rbslondon.ac.uk
 domain:rbspeakup.com
+domain:rbsuat.com
 domain:rbth.com
 domain:rbx.com
 domain:rbxcdn.com
@@ -31484,6 +31492,7 @@ domain:trixhentai.com
 domain:trmini.com
 domain:trocoll.ac.uk
 domain:troisrivieresmini.com
+domain:trojan-gfw.github.io
 domain:tron.network
 domain:tronlink.org
 domain:tronscan.org
@@ -35197,6 +35206,7 @@ domain:xt.pub
 domain:xtapes.to
 domain:xtegvk.xyz
 domain:xteko.com
+domain:xtls.github.io
 domain:xtom.au
 domain:xtom.com
 domain:xtom.de

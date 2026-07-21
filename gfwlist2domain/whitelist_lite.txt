@@ -45176,6 +45176,7 @@ domain:hhhtscf.com
 domain:hhhtyg.com
 domain:hhitgroup.com
 domain:hhjctest.com
+domain:hhjd.mobi
 domain:hhjgqh.com
 domain:hhjsyxh.com
 domain:hhjtcn.com
@@ -46540,6 +46541,7 @@ domain:hongwu.com
 domain:hongwuhuan.com
 domain:hongxiangzaixian.com
 domain:hongxiaolong.com
+domain:hongxin1.asia
 domain:hongxingdl.com
 domain:hongxingdl.love
 domain:hongxinglin.com
@@ -48295,6 +48297,7 @@ domain:hunlimama.com
 domain:hunlimao.com
 domain:hunmiao.com
 domain:hunsh.net
+domain:hunsha.work
 domain:huntchance.com
 domain:huntermailfocus.com
 domain:hunteron.com
@@ -57899,6 +57902,7 @@ domain:kimi.ai
 domain:kimi.com
 domain:kimi.link
 domain:kimi.pub
+domain:kimi.site
 domain:kimiss.com
 domain:kimiss.net
 domain:kimiter.com
@@ -87106,6 +87110,7 @@ domain:tanlong.org
 domain:tanluxia.com
 domain:tanma.tech
 domain:tanmer.com
+domain:tannel.asia
 domain:tanpaifang.com
 domain:tanpoqiuer.com
 domain:tanshudata.com
@@ -92956,6 +92961,7 @@ domain:vnnox.com
 domain:vnpy.com
 domain:vnvn33.com
 domain:vnzmi.com
+domain:vo0.site
 domain:voa365.com
 domain:vobao.com
 domain:voc.ai
@@ -98192,6 +98198,7 @@ domain:xhg.com
 domain:xhgame.com
 domain:xhgamesdk.com
 domain:xhgz.com
+domain:xhh.club
 domain:xhh.pw
 domain:xhhd6.com
 domain:xhhdd.cc
@@ -100362,6 +100369,7 @@ domain:xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 domain:xn--55qx2ag79c1iq.com
 domain:xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
 domain:xn--5kv317c.com
+domain:xn--6fr40zm5ai2go3cnse89dtttbrb.com
 domain:xn--6fr61zj8c92fg34d.com
 domain:xn--6kr66fp2ep1ac5edz2hy7s2wq.com
 domain:xn--6krw3qs7jl59b.com

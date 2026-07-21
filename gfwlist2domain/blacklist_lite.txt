@@ -3328,6 +3328,7 @@ domain:berlintwitterwall.com
 domain:berrraka.com
 domain:best-practice.se
 domain:best-sex-games.com
+domain:best2pay.net
 domain:best3dhere.com
 domain:best4bim.com
 domain:bestamateurcumshots.com
@@ -5460,6 +5461,7 @@ domain:clashmini.com
 domain:clashofclans.com
 domain:clashroyale.com
 domain:clashverge.dev
+domain:clashyun.com
 domain:clasporno.org
 domain:classicalguitarblog.net
 domain:classicnike.com
@@ -8267,6 +8269,8 @@ domain:f-dro1d.org
 domain:f-droid.com
 domain:f-droid.org
 domain:f-secure.com
+domain:f1.com
+domain:f1tv.com
 domain:f2pool.com
 domain:f5.si
 domain:f5pf.com
@@ -9161,6 +9165,7 @@ domain:form.new
 domain:formit360.com
 domain:formitfactory.com
 domain:forms.new
+domain:formula1.com
 domain:forpojie.pics
 domain:forshtadt.ru
 domain:fortawesome.com
@@ -11974,6 +11979,7 @@ domain:hutianyi.net
 domain:hutong9.net
 domain:hutpromos.com
 domain:huyandex.com
+domain:hva.im
 domain:hwadzan.tw
 domain:hwcdn.net
 domain:hwgo.com
@@ -19764,8 +19770,10 @@ domain:rbmavericks.com
 domain:rbnainternational.com
 domain:rbplc.com
 domain:rbrandlibrary.com
+domain:rbsgate.com
 domain:rbsgr.com
 domain:rbspeakup.com
+domain:rbsuat.com
 domain:rbth.com
 domain:rbx.com
 domain:rbxcdn.com
