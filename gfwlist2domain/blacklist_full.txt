@@ -23549,6 +23549,7 @@ domain:offworldindustries.com
 domain:offworldindustries.net
 domain:ofiii.com
 domain:ofile.org
+domain:ofox.ai
 domain:ofs.ac.uk
 domain:ogakikyoritsu.co.jp
 domain:ogameblog.com
@@ -36255,6 +36256,7 @@ domain:zenit-card.ru
 domain:zenit.ru
 domain:zenmate.com
 domain:zenmate.com.ru
+domain:zenmux.ai
 domain:zenodo.org
 domain:zeplerinstitute.ac.uk
 domain:zeplin.dev

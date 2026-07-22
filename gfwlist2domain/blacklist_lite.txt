@@ -17540,6 +17540,7 @@ domain:offworldindustries.com
 domain:offworldindustries.net
 domain:ofiii.com
 domain:ofile.org
+domain:ofox.ai
 domain:ogameblog.com
 domain:ogaoga.org
 domain:ogate.org
@@ -26833,6 +26834,7 @@ domain:zengjinyan.org
 domain:zenit-card.ru
 domain:zenit.ru
 domain:zenmate.com
+domain:zenmux.ai
 domain:zenodo.org
 domain:zeplin.dev
 domain:zeplin.io
