@@ -23104,6 +23104,7 @@ domain:toh.info
 domain:tok.media
 domain:token.im
 domain:tokenlon.im
+domain:tokenplus.app
 domain:tokyo-247.com
 domain:tokyo-hot.com
 domain:tokyo-porn-tube.com
@@ -25060,6 +25061,7 @@ domain:weareebay.com
 domain:wearehairy.com
 domain:wearn.com
 domain:weav.xyz
+domain:weavai.app
 domain:web-instagram.net
 domain:web.app
 domain:web.dev
