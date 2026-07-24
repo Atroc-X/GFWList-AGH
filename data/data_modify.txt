@@ -123,6 +123,10 @@
 # hellotalk
 (@&!)hellotalk.com
 
+# krill
+(@&!)krill-ai.com
+(@&!)cdn-krill-ai.com
+
 # sourcingjournal.com
 (@&!)sourcingjournal.com
 
