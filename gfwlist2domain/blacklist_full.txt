@@ -6545,6 +6545,7 @@ domain:cdmatech.com
 domain:cdn-apple.com
 domain:cdn-cookieyes.com
 domain:cdn-images.mailchimp.com
+domain:cdn-krill-ai.com
 domain:cdn-spotify-experiments.conductrics.com
 domain:cdn-telegram.org
 domain:cdn-terapeak.com
@@ -18483,6 +18484,7 @@ domain:kraken.com
 domain:kraken.onl
 domain:krakenjs.com
 domain:krhentai.com
+domain:krill-ai.com
 domain:kristenbjorn.com
 domain:krosspictures.com
 domain:krtc.com.tw

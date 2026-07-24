@@ -4994,6 +4994,7 @@ domain:cdjp.org
 domain:cdkworkshop.com
 domain:cdmatech.com
 domain:cdn-cookieyes.com
+domain:cdn-krill-ai.com
 domain:cdn-telegram.org
 domain:cdn-terapeak.com
 domain:cdn-tinkoff.ru
@@ -14026,6 +14027,7 @@ domain:kraken.com
 domain:kraken.onl
 domain:krakenjs.com
 domain:krhentai.com
+domain:krill-ai.com
 domain:kristenbjorn.com
 domain:krosspictures.com
 domain:krux.com
