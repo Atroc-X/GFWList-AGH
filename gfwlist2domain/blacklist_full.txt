@@ -9498,6 +9498,7 @@ domain:docs.cfw.lbyczf.com
 domain:docs.com
 domain:docs.new
 domain:docs.rs
+domain:docs.rw
 domain:doctor-videos.com
 domain:doctorvoice.org
 domain:documentforce.com
@@ -19232,6 +19233,7 @@ domain:locate.ac.uk
 domain:location.microsoft.com
 domain:lockestek.com
 domain:lockssalliance.ac.uk
+domain:log.rw
 domain:logbot.net
 domain:logi.com
 domain:logic.ac.uk
@@ -31555,6 +31557,7 @@ domain:truyenhentai.xyz
 domain:truyenkk1.com
 domain:truyentranh86.com
 domain:truyenwk.com
+domain:try.rw
 domain:tryalias.com
 domain:tryboobs.com
 domain:trycloudflare.com

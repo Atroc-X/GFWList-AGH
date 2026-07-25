@@ -7055,6 +7055,7 @@ domain:doclercdn.com
 domain:docs.com
 domain:docs.new
 domain:docs.rs
+domain:docs.rw
 domain:doctor-videos.com
 domain:doctorvoice.org
 domain:documentforce.com
@@ -14506,6 +14507,7 @@ domain:localizestatus.com
 domain:localpresshk.com
 domain:localxlist.org
 domain:lockestek.com
+domain:log.rw
 domain:logbot.net
 domain:logi.com
 domain:logicoolg.com
@@ -23357,6 +23359,7 @@ domain:truyenhentai.xyz
 domain:truyenkk1.com
 domain:truyentranh86.com
 domain:truyenwk.com
+domain:try.rw
 domain:tryalias.com
 domain:tryboobs.com
 domain:trycloudflare.com
