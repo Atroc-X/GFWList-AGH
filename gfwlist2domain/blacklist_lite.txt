@@ -10206,6 +10206,7 @@ domain:githubhackathon.com
 domain:githubnext.com
 domain:githubpreview.dev
 domain:githubstatus.com
+domain:githubsupport.com
 domain:githubuniverse.com
 domain:githubusercontent.com
 domain:gitlab-static.net
