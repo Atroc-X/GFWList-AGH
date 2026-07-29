@@ -1625,6 +1625,7 @@ domain:amigobbs.net
 domain:amiibo.com
 domain:amitabhafoundation.us
 domain:amlg.io
+domain:amnesty-usa.org
 domain:amnesty.org
 domain:amnesty.tw
 domain:amnestyusa.org
@@ -3853,6 +3854,7 @@ domain:bluemix.com
 domain:bluemix.net
 domain:bluestacks.com
 domain:bluffyporn.com
+domain:blurams.app
 domain:blurams.com
 domain:blylq.buzz
 domain:blz-contentstack.com
@@ -5046,6 +5048,7 @@ domain:cellulo.info
 domain:cencoastbmw.com
 domain:cenews.eu
 domain:cenkei.com
+domain:ceno.app
 domain:censorship.ai
 domain:censorship.no
 domain:census.gov
@@ -6202,6 +6205,7 @@ domain:cutscenes.net
 domain:cutt.ly
 domain:cve.org
 domain:cwcams.com
+domain:cxense.com
 domain:cy22.tv
 domain:cyber-bay.info
 domain:cyber-bay.org
@@ -13138,6 +13142,7 @@ domain:iutunes.com
 domain:ivacy.com
 domain:iverycd.com
 domain:ivi.ru
+domain:ivicdn.tv
 domain:ivintageporn.com
 domain:ivonblog.com
 domain:ivpn.net
@@ -13912,6 +13917,7 @@ domain:kindleproject.com
 domain:kindleren.com
 domain:kindnudist.com
 domain:kindteenporn.com
+domain:kinescopecdn.net
 domain:kingcomix.com
 domain:kingdomsalvation.org
 domain:kingextre.me
@@ -19396,7 +19402,6 @@ domain:pttgame.com
 domain:ptthito.com
 domain:pttvan.org
 domain:pttweb.cc
-domain:pttyes.com
 domain:ptwxz.com
 domain:ptzwx.com
 domain:pu82.vip
@@ -20498,6 +20503,7 @@ domain:sber.pro
 domain:sber.ru
 domain:sberauto.com
 domain:sberbank-insurance.ru
+domain:sberbank-tele.com
 domain:sberbank.com
 domain:sberbank.ru
 domain:sberbankaktivno.ru
