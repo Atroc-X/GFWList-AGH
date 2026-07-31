@@ -1823,6 +1823,7 @@ domain:api-extractor.com
 domain:api.ai
 domain:api.news
 domain:apiary.io
+domain:apiauto.ru
 domain:apibay.org
 domain:apigee.com
 domain:apina.biz
@@ -2418,6 +2419,7 @@ domain:authorizeddns.org
 domain:authorxml.com
 domain:authpass.app
 domain:authy.com
+domain:auto.ru
 domain:autocad-schulungen.com
 domain:autocad.com
 domain:autocad360.com
@@ -2555,6 +2557,7 @@ domain:autokreditbank.ru
 domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
+domain:autoru.me
 domain:autosketch.com
 domain:autumn-jade.com
 domain:auxdubai.com
@@ -2665,6 +2668,7 @@ domain:avstar5.com
 domain:avstar6.com
 domain:avstar8.com
 domain:avstar9.com
+domain:avto.ru
 domain:avwong.com
 domain:avwto.com
 domain:avxde.org
@@ -5216,6 +5220,8 @@ domain:cherrypanpan.com
 domain:cherrypimps.com
 domain:cherrypornhd.com
 domain:cherrysave.com
+domain:chess.com
+domain:chesscomfiles.com
 domain:chhongbi.org
 domain:chianxv.buzz
 domain:chicagolandbmw.com
@@ -5361,6 +5367,9 @@ domain:chyoa.com
 domain:ci-en.jp
 domain:ci-en.net
 domain:cia.gov
+domain:cian.ru
+domain:cian.site
+domain:ciangroup.ru
 domain:ciattackers.com
 domain:cici.com
 domain:ciciai.com
@@ -5598,6 +5607,7 @@ domain:clubtubes.com
 domain:clusterconnection.com
 domain:clyp.it
 domain:clzz2.xyz
+domain:cm.expert
 domain:cmail19.com
 domain:cmcn.org
 domain:cmegroup.com
@@ -6981,6 +6991,7 @@ domain:dmc.nico
 domain:dmcdn.net
 domain:dmed.technology
 domain:dmhy.org
+domain:dmir.ru
 domain:dmit.io
 domain:dmit.sh
 domain:dml-lang.org
@@ -7256,6 +7267,7 @@ domain:drmario-world.com
 domain:drmingxia.org
 domain:drnastran.com
 domain:drobbox.pro
+domain:drom.ru
 domain:dronedj.com
 domain:dropbooks.tv
 domain:dropbox-dns.com
@@ -17470,6 +17482,7 @@ domain:nytlog.com
 domain:nytstyle.com
 domain:nzchinese.com
 domain:o-courier.ru
+domain:o-uchi.ru
 domain:o3.ru
 domain:o365weve-dev.com
 domain:o365weve-ppe.com
@@ -19161,6 +19174,7 @@ domain:potato.im
 domain:potatso.com
 domain:potenza.jp
 domain:potvpn.com
+domain:poudobnee.com
 domain:pourquoi.tw
 domain:povpornonly.com
 domain:povr.com
@@ -19797,6 +19811,7 @@ domain:rcl07.xyz
 domain:rclon.com
 domain:rd.com
 domain:rdio.com
+domain:rdrom.ru
 domain:rds-yes.buzz
 domain:rdtcdn.com
 domain:re25.vip
@@ -19870,6 +19885,7 @@ domain:realsound.jp
 domain:realteengirls.com
 domain:realtor.com
 domain:realtype.jp
+domain:realtyverif.ru
 domain:realvision.com
 domain:realviz.com
 domain:realzoomovies.com
@@ -23741,6 +23757,7 @@ domain:ucanews.com
 domain:ucdc1998.org
 domain:uchi.ru
 domain:uchicago.edu
+domain:uchilk.ru
 domain:ucla.edu
 domain:ucoz.ae
 domain:ucoz.club
@@ -26475,6 +26492,7 @@ domain:ylive.jp
 domain:ymail.com
 domain:ymhsf.top
 domain:ymhsf1.top
+domain:yndx.net
 domain:ynoproject.net
 domain:yo-star.com
 domain:yo1health.com
