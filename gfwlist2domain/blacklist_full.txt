@@ -928,6 +928,7 @@ domain:acsis.ac.uk
 domain:actalis.com
 domain:actalis.it
 domain:actfortibet.org
+domain:actifio.com
 domain:actimes.com.au
 domain:activate-sea.adobe.com
 domain:activate-sjc0.adobe.com
@@ -17713,7 +17714,10 @@ domain:jetbra.in
 domain:jetbrains.ai
 domain:jetbrains.cloud
 domain:jetbrains.com
+domain:jetbrains.dev
 domain:jetbrains.net
+domain:jetbrains.org
+domain:jetbrains.ru
 domain:jetbrains.space
 domain:jetbrains.team
 domain:jetfuelapp.com
@@ -18489,6 +18493,8 @@ domain:korona.com
 domain:koshelek.app
 domain:koskade.com
 domain:kostenlosepornoclips.com
+domain:kotl.in
+domain:kotlinconf.com
 domain:kotlinlang.org
 domain:koubaibu.jp
 domain:koukoku.jp
@@ -18526,6 +18532,7 @@ domain:kssdeanery.ac.uk
 domain:ksyp10.com
 domain:ktachibana.party
 domain:ktech.team
+domain:ktor.io
 domain:ktvu.com
 domain:ktzhk.com
 domain:ku77.xyz
@@ -21797,6 +21804,7 @@ domain:myip.com
 domain:myiphide.com
 domain:myiphider.com
 domain:myipod.net
+domain:myjetbrains.com
 domain:myjkwd.com
 domain:myjs.tw
 domain:mykomica.org
@@ -23901,6 +23909,7 @@ domain:openweathermap.org
 domain:openweave.io
 domain:openwebster.com
 domain:openwrt.org
+domain:openxla.org
 domain:opera-archive.ac.uk
 domain:opera-mini.net
 domain:opera.com
@@ -30294,6 +30303,7 @@ domain:talkatone.com
 domain:talkboxapp.com
 domain:talkcc.com
 domain:talkinghealthmatters.ac.uk
+domain:talkingkotlin.com
 domain:talkonly.net
 domain:talksport.com
 domain:tamescol.ac.uk
