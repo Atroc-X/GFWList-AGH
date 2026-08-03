@@ -8712,6 +8712,7 @@ domain:fapxl.com
 domain:faqserv.com
 domain:fareastpornhub.com
 domain:farfetch-apps.com
+domain:farfetch-contents.com
 domain:farfetch.com
 domain:farfetch.net
 domain:faronics.ca
@@ -16994,6 +16995,7 @@ domain:nike-uk.com
 domain:nike-us.com
 domain:nike-usa.com
 domain:nike.ci
+domain:nike.com
 domain:nike.gy
 domain:nike.hk
 domain:nike.shop
