@@ -89589,6 +89589,8 @@ domain:tj-guangxin.com
 domain:tj-kingdee.com
 domain:tj-model.com
 domain:tj-pod1-smp-device.apple.com
+domain:tj-pod2-smp-device.apple.com
+domain:tj-pod3-smp-device.apple.com
 domain:tj-un.com
 domain:tj0573.com
 domain:tj20.com

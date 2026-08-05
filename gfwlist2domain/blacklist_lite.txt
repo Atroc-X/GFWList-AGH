@@ -6474,6 +6474,8 @@ domain:deepfreeze.tech
 domain:deepl.com
 domain:deepmind.com
 domain:deepmind.google
+domain:deepwiki.com
+domain:deepwiki.org
 domain:deezer.com
 domain:definebabe.com
 domain:definefetish.com
@@ -9126,8 +9128,11 @@ domain:fluidpreview.com
 domain:flurry.com
 domain:flutter.dev
 domain:flutterapp.com
+domain:fly.dev
+domain:fly.io
 domain:flyflv.com
 domain:flyingjizz.com
+domain:flyio.net
 domain:flypool.org
 domain:flyvpn.com
 domain:flyyindh-cc.sbs
@@ -10249,6 +10254,7 @@ domain:glarity.app
 domain:glasamerike.net
 domain:glass8.eu
 domain:gleline.com
+domain:glitchwave.com
 domain:global-sci.org
 domain:globaledu.org
 domain:globalexchange.org
@@ -17988,12 +17994,15 @@ domain:ozodlik.org
 domain:ozon-credit.ru
 domain:ozon-dostavka.ru
 domain:ozon-tech.ru
+domain:ozon.app
 domain:ozon.by
 domain:ozon.com
 domain:ozon.dev
 domain:ozon.express
+domain:ozon.global
 domain:ozon.kz
 domain:ozon.li
+domain:ozon.market
 domain:ozon.ru
 domain:ozon.tech
 domain:ozon.tm
@@ -20363,6 +20372,7 @@ domain:rutracker.org
 domain:rutrecker.net
 domain:rutrk.org
 domain:rutube.ru
+domain:rutube.sport
 domain:rutubelist.ru
 domain:ruvideos.net
 domain:ruyiseek.com
@@ -20371,6 +20381,7 @@ domain:rwbautomation.ru
 domain:rwbautomation.tech
 domain:rwbgeo.ru
 domain:rxhj.net
+domain:rym.fm
 domain:rzr.to
 domain:s-bluemix.net
 domain:s-books.com
@@ -21485,6 +21496,7 @@ domain:sneakme.net
 domain:snjulebu.com
 domain:snk-corp.info
 domain:snkplaymore.info
+domain:snmc.io
 domain:snow-plus.net
 domain:snow.me
 domain:snowcorp.com
@@ -21566,6 +21578,8 @@ domain:solveforx.com
 domain:somanylolies.com
 domain:somee.com
 domain:sonatype.org
+domain:sonematic.net
+domain:sonemic.com
 domain:songjianjun.com
 domain:sonicbbs.cc
 domain:sonidodelaesperanza.org

@@ -8709,6 +8709,8 @@ domain:deeping.ac.uk
 domain:deepl.com
 domain:deepmind.com
 domain:deepmind.google
+domain:deepwiki.com
+domain:deepwiki.org
 domain:deeside.ac.uk
 domain:deezer.com
 domain:defac.ac.uk
@@ -12220,8 +12222,11 @@ domain:fluids.ac.uk
 domain:flurry.com
 domain:flutter.dev
 domain:flutterapp.com
+domain:fly.dev
+domain:fly.io
 domain:flyflv.com
 domain:flyingjizz.com
+domain:flyio.net
 domain:flypool.org
 domain:flyvpn.com
 domain:flyyindh-cc.sbs
@@ -13548,6 +13553,7 @@ domain:glen-coll.ac.uk
 domain:glenfife.ac.uk
 domain:glenrothes-college.ac.uk
 domain:glhl.ac.uk
+domain:glitchwave.com
 domain:gllm.ac.uk
 domain:global-sci.org
 domain:global.bing.com
@@ -24140,14 +24146,17 @@ domain:ozodlik.org
 domain:ozon-credit.ru
 domain:ozon-dostavka.ru
 domain:ozon-tech.ru
+domain:ozon.app
 domain:ozon.by
 domain:ozon.com
 domain:ozon.com.by
 domain:ozon.com.kz
 domain:ozon.dev
 domain:ozon.express
+domain:ozon.global
 domain:ozon.kz
 domain:ozon.li
+domain:ozon.market
 domain:ozon.ru
 domain:ozon.tech
 domain:ozon.tm
@@ -27222,6 +27231,7 @@ domain:rutracker.org
 domain:rutrecker.net
 domain:rutrk.org
 domain:rutube.ru
+domain:rutube.sport
 domain:rutubelist.ru
 domain:ruvideos.net
 domain:ruyiseek.com
@@ -27232,6 +27242,7 @@ domain:rwbautomation.tech
 domain:rwbgeo.ru
 domain:rwcmd.ac.uk
 domain:rxhj.net
+domain:rym.fm
 domain:ryokoyomiuri.co.jp
 domain:ryukyubank.co.jp
 domain:rzr.to
@@ -28844,6 +28855,7 @@ domain:snjulebu.com
 domain:snk-corp.co.jp
 domain:snk-corp.info
 domain:snkplaymore.info
+domain:snmc.io
 domain:snow-plus.net
 domain:snow.me
 domain:snowcorp.com
@@ -28961,6 +28973,8 @@ domain:somee.com
 domain:somerset.ac.uk
 domain:somersetcolleges.ac.uk
 domain:sonatype.org
+domain:sonematic.net
+domain:sonemic.com
 domain:songjianjun.com
 domain:sonicbbs.cc
 domain:sonidodelaesperanza.org
