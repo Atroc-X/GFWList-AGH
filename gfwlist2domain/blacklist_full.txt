@@ -3117,7 +3117,6 @@ domain:aue.ac.uk
 domain:auee.ac.uk
 domain:aukcar.ac.uk
 domain:aulic.ac.uk
-domain:auntology.fandom.com
 domain:auntymaza.com
 domain:auphf.ac.uk
 domain:auricularemonsterbeats.com
@@ -15396,7 +15395,6 @@ domain:honey-monitoring.ac.uk
 domain:honeynet.org
 domain:hongjie10.xyz
 domain:hongjie11.xyz
-domain:hongkong.fandom.com
 domain:hongkongdisneyland.com
 domain:hongkongdoll.tv
 domain:hongkongdollvideo.org
