@@ -9387,6 +9387,7 @@ domain:distribution.qcpp1.net
 domain:distribution.qpdp1.net
 domain:dit-inc.us
 domain:divas.com.uy
+domain:divdyn.com
 domain:diversity.google
 domain:diversityuk.ac.uk
 domain:diwodiwo.xyz
@@ -29403,7 +29404,6 @@ domain:sruc.ac.uk
 domain:srwwu.uno
 domain:ss-inf.net
 domain:ss-link.com
-domain:ss.pythonic.life
 domain:ss2.us
 domain:ss7.app
 domain:ssa.gov
