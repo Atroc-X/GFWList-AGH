@@ -948,6 +948,9 @@ domain:activelearnprimary.co.uk
 domain:activelearnprimary.com.au
 domain:activematter.game
 domain:activeteachonline.com
+domain:activision.com
+domain:activisionblizzard.com
+domain:activisionblizzardmedia.com
 domain:activpn.com
 domain:actofunion.ac.uk
 domain:actris.ac.uk
@@ -4194,6 +4197,7 @@ domain:bemix.ac.uk
 domain:bemywife.cc
 domain:benaughty.fun
 domain:benc.ac.uk
+domain:benefitsforeveryworld.com
 domain:bengalisexvideos.com
 domain:benliton.com
 domain:bentobox.tv
@@ -6104,6 +6108,11 @@ domain:callabitch.org
 domain:callbackkiller.com
 domain:callersbane.com
 domain:callhulu.com
+domain:callofduty.com
+domain:callofdutyendowment.com
+domain:callofdutyendowment.org
+domain:callofdutyleague.com
+domain:callofdutymobile.com
 domain:calls.ac.uk
 domain:callywith.ac.uk
 domain:caltech.edu
@@ -6189,6 +6198,7 @@ domain:cancerandsociety.ac.uk
 domain:candi.ac.uk
 domain:candidforum-videos.com
 domain:cando.ac.uk
+domain:candycrush.com
 domain:candycumcity.com
 domain:candypleasure.com
 domain:cannington.ac.uk
@@ -8025,6 +8035,7 @@ domain:cran.ac.uk
 domain:cranfield.ac.uk
 domain:crankplayer.com
 domain:crash.ac.uk
+domain:crashbandicoot.com
 domain:crashlytics.com
 domain:crates.io
 domain:craven-college.ac.uk
@@ -8922,6 +8933,7 @@ domain:demo.unlock-music.dev
 domain:democracy.earth
 domain:democrats.org
 domain:demonoid.is
+domain:demonware.net
 domain:demoprint.com
 domain:demos.ac.uk
 domain:demosisto.hk
@@ -9083,7 +9095,9 @@ domain:dhcp.biz
 domain:dhi.ac.uk
 domain:dhlestudio.com.co
 domain:diabetes-healthnet.ac.uk
+domain:diablo.com
 domain:diablo3.com
+domain:diablo4.com
 domain:diabloimmortal.com
 domain:diabrowser.com
 domain:diabrowser.engineering
@@ -11150,6 +11164,7 @@ domain:europeansustainabledesign.com
 domain:europeansustainabledesign.net
 domain:europeansustainabledesigncouncil.com
 domain:europeansustainabledesigncouncil.net
+domain:europeanwarzoneseries.com
 domain:europepmc.org
 domain:europeunit.ac.uk
 domain:europornstar.com
@@ -15156,6 +15171,7 @@ domain:higher-education.ac.uk
 domain:highfieldscentre.ac.uk
 domain:highlands-jersey.ac.uk
 domain:highlands.ac.uk
+domain:highmoonstudios.com
 domain:highpeak.ac.uk
 domain:highpeakspureearth.com
 domain:highporn.net
@@ -16670,6 +16686,7 @@ domain:inews-api.tvb.com
 domain:inf.news
 domain:infinitetoons.com
 domain:infinitetube.com
+domain:infinityward.com
 domain:influencersgonewild.com
 domain:info-graf.fr
 domain:infocert.digital
@@ -18385,6 +18402,7 @@ domain:kinds.ac.uk
 domain:kindteenporn.com
 domain:kinescopecdn.net
 domain:king.ac.uk
+domain:king.com
 domain:kingalfreds.ac.uk
 domain:kingalfredsbasingstoke.ac.uk
 domain:kingcomix.com
@@ -26381,6 +26399,7 @@ domain:rave.ac.uk
 domain:ravemedia.ac.uk
 domain:ravensbourne.ac.uk
 domain:ravensbourneuniversitylondon.ac.uk
+domain:ravensoftware.com
 domain:ravm.tv
 domain:raw.fastgit.org
 domain:raw.githack.com
@@ -27916,6 +27935,7 @@ domain:sejie.com
 domain:sejie80.com
 domain:seju.life
 domain:sekai.colorfulpalette.org
+domain:sekirothegame.com
 domain:seksmet.nl
 domain:sekswebsite.nl
 domain:sekur1213.guru
@@ -28526,6 +28546,7 @@ domain:sidewalklabs.com
 domain:sie.ac.uk
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
+domain:sierragames.com
 domain:sifa.ac.uk
 domain:sigcomm.org
 domain:sigma-cetl.ac.uk
@@ -28709,6 +28730,7 @@ domain:skyassets.com
 domain:skybet.com
 domain:skyking.com.tw
 domain:skykiwi.com
+domain:skylanders.com
 domain:skylinktv.us
 domain:skymansion.net
 domain:skymatter.com
@@ -28764,6 +28786,7 @@ domain:sleaford.ac.uk
 domain:sleazydream.com
 domain:sleazyfork.org
 domain:sleazyneasy.com
+domain:sledgehammergames.com
 domain:sleepandwakefulnessresearch.ac.uk
 domain:slg.ac.uk
 domain:slheng.com
@@ -28998,6 +29021,7 @@ domain:solid.ru
 domain:solidaritetibet.org
 domain:solidfiles.com
 domain:solidifi.app
+domain:solidstate.com
 domain:solihull.ac.uk
 domain:solihullsfc.ac.uk
 domain:solostudioksale.com
@@ -29369,6 +29393,7 @@ domain:sputnikimages.com
 domain:sputnikmediabank.com
 domain:sputniknews.com
 domain:spyjinx.com
+domain:spyrothedragon.com
 domain:sqhwesternconsortium.ac.uk
 domain:sqlite.org
 domain:sqlserveronlinux.com
@@ -31353,6 +31378,8 @@ domain:tonec.com
 domain:tongil.or.kr
 domain:tonicmovies.com
 domain:tono-oka.jp
+domain:tonyhawk.com
+domain:tonyhawkthegame.com
 domain:tonyyan.net
 domain:toodoc.com
 domain:toolforge.org
@@ -31564,6 +31591,7 @@ domain:trendmicro.com
 domain:trendsmap.com
 domain:trendyporn.com
 domain:tresham.ac.uk
+domain:treyarch.com
 domain:trezor.io
 domain:tri-london.ac.uk
 domain:trialofccp.org
@@ -34634,6 +34662,7 @@ domain:worldpopulationreview.com
 domain:worldpornvideos.com
 domain:worldsecureemail.com
 domain:worldsecuresystems.com
+domain:worldseriesofwarzone.com
 domain:worldsex.com
 domain:worldsfastestgamer.net
 domain:worldvpn.net

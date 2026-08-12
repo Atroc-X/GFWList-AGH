@@ -812,6 +812,9 @@ domain:actfortibet.org
 domain:actifio.com
 domain:activematter.game
 domain:activeteachonline.com
+domain:activision.com
+domain:activisionblizzard.com
+domain:activisionblizzardmedia.com
 domain:activpn.com
 domain:actualidad-rt.com
 domain:aculo.us
@@ -3330,6 +3333,7 @@ domain:belonging.google
 domain:belwue.net
 domain:bemywife.cc
 domain:benaughty.fun
+domain:benefitsforeveryworld.com
 domain:bengalisexvideos.com
 domain:benliton.com
 domain:bentobox.tv
@@ -4730,6 +4734,11 @@ domain:callabitch.org
 domain:callbackkiller.com
 domain:callersbane.com
 domain:callhulu.com
+domain:callofduty.com
+domain:callofdutyendowment.com
+domain:callofdutyendowment.org
+domain:callofdutyleague.com
+domain:callofdutymobile.com
 domain:caltech.edu
 domain:calvappd.me
 domain:cam-duct.com
@@ -4788,6 +4797,7 @@ domain:canada-beatsbydre.com
 domain:canadameet.com
 domain:canalporno.com
 domain:candidforum-videos.com
+domain:candycrush.com
 domain:candycumcity.com
 domain:candypleasure.com
 domain:canny.io
@@ -6047,6 +6057,7 @@ domain:crabporn.com
 domain:crackle.com
 domain:craigslist.org
 domain:crankplayer.com
+domain:crashbandicoot.com
 domain:crates.io
 domain:crazy-amateurs.com
 domain:crazyav.xyz
@@ -6608,6 +6619,7 @@ domain:demfhz.xyz
 domain:democracy.earth
 domain:democrats.org
 domain:demonoid.is
+domain:demonware.net
 domain:demoprint.com
 domain:demosisto.hk
 domain:denfaminicogamer.jp
@@ -6725,7 +6737,9 @@ domain:dh44.lol
 domain:dharamsalanet.com
 domain:dharmakara.net
 domain:dhcp.biz
+domain:diablo.com
 domain:diablo3.com
+domain:diablo4.com
 domain:diabloimmortal.com
 domain:diabrowser.com
 domain:diabrowser.engineering
@@ -8220,6 +8234,7 @@ domain:europeansustainabledesign.com
 domain:europeansustainabledesign.net
 domain:europeansustainabledesigncouncil.com
 domain:europeansustainabledesigncouncil.net
+domain:europeanwarzoneseries.com
 domain:europepmc.org
 domain:europornstar.com
 domain:eurosexscene.com
@@ -11401,6 +11416,7 @@ domain:higfw.com
 domain:highbolt.net
 domain:highcolonic.info
 domain:highdefinitionbeatsbydre.com
+domain:highmoonstudios.com
 domain:highpeakspureearth.com
 domain:highporn.net
 domain:highrockmedia.com
@@ -12577,6 +12593,7 @@ domain:industrialtoys.com
 domain:inf.news
 domain:infinitetoons.com
 domain:infinitetube.com
+domain:infinityward.com
 domain:influencersgonewild.com
 domain:info-graf.fr
 domain:infocert.digital
@@ -13967,6 +13984,7 @@ domain:kindleren.com
 domain:kindnudist.com
 domain:kindteenporn.com
 domain:kinescopecdn.net
+domain:king.com
 domain:kingcomix.com
 domain:kingdomsalvation.org
 domain:kingextre.me
@@ -19814,6 +19832,7 @@ domain:ratedgross.com
 domain:rateyourmusic.com
 domain:rationalwiki.org
 domain:ratx.com
+domain:ravensoftware.com
 domain:ravm.tv
 domain:rawgit.com
 domain:rawgithub.com
@@ -20747,6 +20766,7 @@ domain:seiron-sankei.com
 domain:sejie.com
 domain:sejie80.com
 domain:seju.life
+domain:sekirothegame.com
 domain:seksmet.nl
 domain:sekswebsite.nl
 domain:sekur1213.guru
@@ -21248,6 +21268,7 @@ domain:sider.ai
 domain:sidewalklabs.com
 domain:siege-amazon.com
 domain:sierrafriendsoftibet.org
+domain:sierragames.com
 domain:sigcomm.org
 domain:sigmoidoscopeexam.com
 domain:sign.new
@@ -21392,6 +21413,7 @@ domain:sky.com
 domain:skyassets.com
 domain:skybet.com
 domain:skykiwi.com
+domain:skylanders.com
 domain:skylinktv.us
 domain:skymatter.com
 domain:skynet.be
@@ -21438,6 +21460,7 @@ domain:sldolls.com
 domain:sleazydream.com
 domain:sleazyfork.org
 domain:sleazyneasy.com
+domain:sledgehammergames.com
 domain:slheng.com
 domain:slickvpn.com
 domain:slides.com
@@ -21605,6 +21628,7 @@ domain:solid.ru
 domain:solidaritetibet.org
 domain:solidfiles.com
 domain:solidifi.app
+domain:solidstate.com
 domain:solostudioksale.com
 domain:solscan.io
 domain:solutionstation.com
@@ -21843,6 +21867,7 @@ domain:sputnikimages.com
 domain:sputnikmediabank.com
 domain:sputniknews.com
 domain:spyjinx.com
+domain:spyrothedragon.com
 domain:sqlite.org
 domain:sqlserveronlinux.com
 domain:sqool.net
@@ -23221,6 +23246,8 @@ domain:toncenter.com
 domain:tonec.com
 domain:tonicmovies.com
 domain:tono-oka.jp
+domain:tonyhawk.com
+domain:tonyhawkthegame.com
 domain:tonyyan.net
 domain:toodoc.com
 domain:toolforge.org
@@ -23382,6 +23409,7 @@ domain:trello.com
 domain:trendmicro.com
 domain:trendsmap.com
 domain:trendyporn.com
+domain:treyarch.com
 domain:trezor.io
 domain:trialofccp.org
 domain:triballo.net
@@ -25609,6 +25637,7 @@ domain:worldpopulationreview.com
 domain:worldpornvideos.com
 domain:worldsecureemail.com
 domain:worldsecuresystems.com
+domain:worldseriesofwarzone.com
 domain:worldsex.com
 domain:worldsfastestgamer.net
 domain:worldvpn.net
