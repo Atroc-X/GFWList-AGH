@@ -4523,6 +4523,7 @@ domain:buicha.social
 domain:building3dcontent.com
 domain:built-in.google
 domain:builtfromebay.com
+domain:builtwithnix.org
 domain:bukkake-jav.com
 domain:bukkake.link
 domain:bullguard.com
@@ -16522,6 +16523,7 @@ domain:mynetav.net
 domain:mynetav.org
 domain:mynetname.net
 domain:mynike.com
+domain:mynixos.com
 domain:mynumber.org
 domain:myoctocat.com
 domain:myparagliding.com
@@ -17227,7 +17229,15 @@ domain:niusnews.com
 domain:nivod.tv
 domain:nivodi.tv
 domain:nivodz.com
+domain:nix-community.org
+domain:nix.dev
+domain:nix.store
+domain:nixcon.org
+domain:nixcon2017.org
+domain:nixlang.com
 domain:nixos.org
+domain:nixos.wiki
+domain:nixpkgs.org
 domain:niziero.info
 domain:njactb.org
 domain:njav.tv
@@ -26471,6 +26481,7 @@ domain:yandex.ee
 domain:yandex.eu
 domain:yandex.fi
 domain:yandex.fr
+domain:yandex.it
 domain:yandex.jobs
 domain:yandex.kg
 domain:yandex.kz
