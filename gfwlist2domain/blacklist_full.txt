@@ -27117,6 +27117,7 @@ domain:rsdlmonitor.com
 domain:rse.ac.uk
 domain:rsf-chinese.org
 domain:rsf.org
+domain:rsg.ms
 domain:rsg.sc
 domain:rsgamen.org
 domain:rshb.ru
@@ -27580,6 +27581,8 @@ domain:sbusinesslondon.ac.uk
 domain:sbux.com.my
 domain:sbuxcard.com
 domain:sc-cdn.net
+domain:sc-gw.com
+domain:sc-static.net
 domain:sc-toolkit.ac.uk
 domain:sc.com
 domain:sc1.ac.uk

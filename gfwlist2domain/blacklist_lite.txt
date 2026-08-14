@@ -20298,6 +20298,7 @@ domain:rs2022.com
 domain:rsdlmonitor.com
 domain:rsf-chinese.org
 domain:rsf.org
+domain:rsg.ms
 domain:rsg.sc
 domain:rsgamen.org
 domain:rshb.ru
@@ -20632,6 +20633,8 @@ domain:sbnation.com
 domain:sbrf.ru
 domain:sbuxcard.com
 domain:sc-cdn.net
+domain:sc-gw.com
+domain:sc-static.net
 domain:sca-tolo.info
 domain:scala-lang.org
 domain:scala-sbt.org
