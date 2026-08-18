@@ -19236,6 +19236,7 @@ domain:livevideo.com
 domain:livewell.ac.uk
 domain:livexxx.me
 domain:livhope.ac.uk
+domain:livingatlas.arcgis.com
 domain:livingdigital.ac.uk
 domain:livinglab.ac.uk
 domain:livinglaboratory.ac.uk
