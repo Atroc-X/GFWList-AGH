@@ -23717,6 +23717,7 @@ domain:oldham-sfc.ac.uk
 domain:oldham.ac.uk
 domain:oldhornymilfs.com
 domain:oldje.com
+domain:oldmapsonline.org
 domain:oldroyd.ac.uk
 domain:olds.ac.uk
 domain:oldvic.ac.uk
@@ -27338,6 +27339,7 @@ domain:s1s1s1.com
 domain:s2csntp.miz.nao.ac.jp
 domain:s2stagehance.com
 domain:s3-ap-northeast-1.amazonaws.com
+domain:s3.dualstack.us-west-2.amazonaws.com
 domain:s4miniarchive.com
 domain:s81c.com
 domain:s8ds5gfm.xyz
