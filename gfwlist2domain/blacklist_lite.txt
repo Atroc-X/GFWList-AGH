@@ -460,6 +460,7 @@ domain:59mvmv.com
 domain:5aimiku.com
 domain:5axis-machining.com
 domain:5beatsbydre.com
+domain:5ch.io
 domain:5ch.net
 domain:5fang.cc
 domain:5i01.com
@@ -1607,6 +1608,7 @@ domain:amazontrust.com
 domain:amazonvideo.cc
 domain:amazonvideo.com
 domain:amazonvideodirect.com
+domain:amazonwebservices.com
 domain:amazonworkdocs.com
 domain:amc.com
 domain:amcn.com
@@ -7257,6 +7259,7 @@ domain:drdreprobeatssale.com
 domain:dreamamateurs.com
 domain:dreambmw.ca
 domain:dreamforce.com
+domain:dreamgen.com
 domain:dreammovies.com
 domain:dreamorder.com
 domain:dreamteamfc.com
@@ -8703,6 +8706,7 @@ domain:fans-here.com
 domain:fans17.com
 domain:fans66.tw
 domain:fansking.tw
+domain:fansly.com
 domain:fansnudes.com
 domain:fansone.co
 domain:fanspot.jp
@@ -9539,6 +9543,7 @@ domain:freelifetimefuckbook.com
 domain:freelotto.com
 domain:freeman2.com
 domain:freematuresgallery.com
+domain:freemdict.com
 domain:freemoren.com
 domain:freemorenews.com
 domain:freemuse.org
@@ -14648,6 +14653,7 @@ domain:lordofultima.com
 domain:lostbetsgames.com
 domain:lotcrap.com
 domain:lotsawahouse.org
+domain:louisvuitton.com
 domain:love4porn.com
 domain:love6.tv
 domain:love7.xyz
@@ -16199,6 +16205,7 @@ domain:mp3ye.eu
 domain:mpettis.com
 domain:mpfinance.com
 domain:mpgw-my.com
+domain:mphonline.com
 domain:mpinews.com
 domain:mplstudios.com
 domain:mpnevolution.com
@@ -17018,6 +17025,8 @@ domain:nichepornsites.com
 domain:nichost.ru
 domain:nickscipio.com
 domain:nicky.xxx
+domain:nico.ms
+domain:nicochannel.jp
 domain:nicodic.jp
 domain:nicolepeters.com
 domain:nicomanga.jp
@@ -17305,6 +17314,7 @@ domain:nostr.land
 domain:nostr.wine
 domain:note.com
 domain:notebooklm.google
+domain:notegpt.io
 domain:notepad-plus-plus.org
 domain:noticias-rt.com
 domain:notimundo.press
@@ -17317,6 +17327,7 @@ domain:notion.so
 domain:notionusercontent.com
 domain:nottinghampost.com
 domain:novafile.com
+domain:novelai.net
 domain:novelasia.com
 domain:noveltrove.com
 domain:novids.com
@@ -22516,6 +22527,7 @@ domain:takporn.com
 domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
+domain:talkai.info
 domain:talkatone.com
 domain:talkboxapp.com
 domain:talkcc.com
@@ -23850,6 +23862,7 @@ domain:uber.com
 domain:ubereats.com
 domain:uberproxy.net
 domain:ubertags.com
+domain:ubi.com
 domain:ubisoft.com
 domain:ubisoftconnect.com
 domain:ublock.org

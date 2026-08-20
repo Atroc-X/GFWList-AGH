@@ -495,6 +495,7 @@ domain:59mvmv.com
 domain:5aimiku.com
 domain:5axis-machining.com
 domain:5beatsbydre.com
+domain:5ch.io
 domain:5ch.net
 domain:5fang.cc
 domain:5i01.com
@@ -1995,6 +1996,7 @@ domain:amazontrust.com
 domain:amazonvideo.cc
 domain:amazonvideo.com
 domain:amazonvideodirect.com
+domain:amazonwebservices.com
 domain:amazonworkdocs.com
 domain:ambs.ac.uk
 domain:amc.com
@@ -9735,6 +9737,7 @@ domain:dream-cdt.ac.uk
 domain:dreamamateurs.com
 domain:dreambmw.ca
 domain:dreamforce.com
+domain:dreamgen.com
 domain:dreammovies.com
 domain:dreamorder.com
 domain:dreamteamfc.com
@@ -11693,6 +11696,7 @@ domain:fans-here.com
 domain:fans17.com
 domain:fans66.tw
 domain:fansking.tw
+domain:fansly.com
 domain:fansnudes.com
 domain:fansone.co
 domain:fanspot.jp
@@ -12684,6 +12688,7 @@ domain:freelotto.com
 domain:freeman-centre.ac.uk
 domain:freeman2.com
 domain:freematuresgallery.com
+domain:freemdict.com
 domain:freemoren.com
 domain:freemorenews.com
 domain:freemuse.org
@@ -21498,6 +21503,7 @@ domain:mpese.ac.uk
 domain:mpettis.com
 domain:mpfinance.com
 domain:mpgw-my.com
+domain:mphonline.com
 domain:mpinews.com
 domain:mplstudios.com
 domain:mpnevolution.com
@@ -22692,6 +22698,8 @@ domain:nichost.ru
 domain:nicis.ac.uk
 domain:nickscipio.com
 domain:nicky.xxx
+domain:nico.ms
+domain:nicochannel.jp
 domain:nicodic.jp
 domain:nicolepeters.com
 domain:nicomanga.jp
@@ -23083,6 +23091,7 @@ domain:note.com
 domain:notebooklm-pa.googleapis.com
 domain:notebooklm.google
 domain:notebooklm.googleapis.com
+domain:notegpt.io
 domain:notepad-plus-plus.org
 domain:noticias-rt.com
 domain:notify.dropboxapi.com
@@ -23112,6 +23121,7 @@ domain:nottinghamtrentadfs.ac.uk
 domain:nottm-coll.ac.uk
 domain:nottsmaternity.ac.uk
 domain:novafile.com
+domain:novelai.net
 domain:novelasia.com
 domain:novella.ac.uk
 domain:noveltrove.com
@@ -30396,6 +30406,7 @@ domain:takporn.com
 domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
+domain:talkai.info
 domain:talkatone.com
 domain:talkboxapp.com
 domain:talkcc.com

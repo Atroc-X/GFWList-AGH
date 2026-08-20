@@ -10270,7 +10270,6 @@ domain:afbd4a3905a4a9a5.com
 domain:afca-asia.org
 domain:afca6b82c11032.beer
 domain:afcec.com
-domain:afcs.dell.com
 domain:afdian.com
 domain:afdian.net
 domain:afdiancdn.com
@@ -23140,7 +23139,6 @@ domain:client.amplifi.com
 domain:client51.com
 domain:clientflow.apple.com
 domain:clientflow.apple.com.akadns.net
-domain:clientperipherals.dell.com
 domain:clientservices.googleapis.com
 domain:clifford-hospital.org
 domain:cliffordtrading.com
@@ -26612,7 +26610,6 @@ domain:cusdvs.com
 domain:cusdvs.net
 domain:custeel.com
 domain:customer.lenovo.com
-domain:customization-cdn.dell.com
 domain:customizedfasteners.com
 domain:customsapp.com
 domain:customskh.org
@@ -28174,7 +28171,6 @@ domain:ddove.com
 domain:ddpai.com
 domain:ddpoc.com
 domain:ddqcw.com
-domain:dds.dell.com
 domain:ddsaas.com
 domain:ddsk.la
 domain:ddsm.com
@@ -29498,7 +29494,6 @@ domain:dl-meitu.com
 domain:dl-rc.com
 domain:dl-vip.pcfaster.baidu.co.th
 domain:dl.delivery.mp.microsoft.com
-domain:dl.dell.com
 domain:dl.djicdn.com
 domain:dl.google.com
 domain:dl.l.google.com
@@ -31475,9 +31470,6 @@ domain:e99999.com
 domain:ea-china.com
 domain:ea-retina.com
 domain:ea-xing.com
-domain:ea2cn-dev-outlet.dell.com
-domain:ea2cn-prod-outlet.dell.com
-domain:ea2cn-staging-outlet.dell.com
 domain:ea360.com
 domain:ea3w.com
 domain:ea65d2a2f16d6b8c.com
@@ -32542,7 +32534,6 @@ domain:emlinix.com
 domain:emlog.net
 domain:emmmn.com
 domain:emodor.com
-domain:emoi-cncdn.bing.com
 domain:emoji6.com
 domain:emojimobile.com
 domain:emoriko.com
@@ -34210,7 +34201,6 @@ domain:fcpiao.com
 domain:fcpowerup.com
 domain:fcqjc.com
 domain:fcrc114.com
-domain:fcs.dell.com
 domain:fcs1.com
 domain:fcsc.com
 domain:fcstor.com
@@ -35935,11 +35925,7 @@ domain:ft.tech
 domain:ft12.com
 domain:ft22.com
 domain:ft98.com
-domain:fta.dell.com
-domain:ftaapj.dell.com
-domain:ftaemea.dell.com
 domain:ftaro.com
-domain:ftasitapj.dell.com
 domain:ftbj.net
 domain:ftcoaster.com
 domain:ftd.nz
@@ -37045,8 +37031,6 @@ domain:gbt88.com
 domain:gbtranswins.com
 domain:gbvh.com
 domain:gbw114.com
-domain:gbxgateway-dev.dell.com
-domain:gbxgateway.dell.com
 domain:gc-zb.com
 domain:gc1616.com
 domain:gc39.com
@@ -49657,7 +49641,6 @@ domain:i-weichuan.com
 domain:i-xiaohaibao.com
 domain:i-xinnuo.com
 domain:i-xoron.com
-domain:i.dell.com
 domain:i.pki.goog
 domain:i.survey.lenovo.com
 domain:i0.pub
@@ -68797,7 +68780,6 @@ domain:nextvid.net
 domain:nextworkshop.net
 domain:nextyu.com
 domain:nexus-holding.com
-domain:nexus.dell.com
 domain:nexusedgeio.com
 domain:nexushd.org
 domain:neyetwatcher.com
@@ -71837,7 +71819,6 @@ domain:p-pass.com
 domain:p-sig-dom.com
 domain:p-sig-dom.net
 domain:p.biz
-domain:p.cdn.persaas.dell.com
 domain:p00.upd.kaspersky.com
 domain:p01.upd.kaspersky.com
 domain:p02.upd.kaspersky.com
@@ -79284,7 +79265,6 @@ domain:sceci.net
 domain:sceeo.com
 domain:sceia.org
 domain:scemrq.com
-domain:scene7-cdn.dell.com
 domain:scengine.com
 domain:scenictc.com
 domain:scensmart.com
@@ -82800,7 +82780,6 @@ domain:si-en.com
 domain:si-era.com
 domain:si-in.com
 domain:si-win.com
-domain:si.cdn.dell.com
 domain:sia1995.net
 domain:siad-c.com
 domain:siaedu.net
@@ -83705,7 +83684,6 @@ domain:slzsxx.com
 domain:sm-check.com
 domain:sm-cq.com
 domain:sm-main.com
-domain:sm.dell.com
 domain:sm0.fun
 domain:sm160.com
 domain:sm160.net
@@ -84010,9 +83988,7 @@ domain:snowjy.com
 domain:snowkey.com
 domain:snowlotusgroup.com
 domain:snowyimall.com
-domain:snp.cdn.dell.com
 domain:snpac.com
-domain:snpi.dell.com
 domain:snps.tech
 domain:snptc.com
 domain:snrat.com
@@ -85788,7 +85764,6 @@ domain:support-cn.samsung.com
 domain:support.apple.com
 domain:support.dji.com
 domain:support.globalsign.com
-domain:supportassist.dell.com
 domain:supreme-oe.com
 domain:supwisdom.com
 domain:supwk.com
@@ -90489,7 +90464,6 @@ domain:toysir.com
 domain:toysol.com
 domain:tp-data.com
 domain:tp-hivi.com
-domain:tp.louisvuitton.com
 domain:tp82.com
 domain:tpadx.com
 domain:tpbook.com
@@ -92430,7 +92404,6 @@ domain:upin.com
 domain:upkao.com
 domain:upkk.com
 domain:upkuajing.com
-domain:uplaypc-s-ubisoft.cdn.ubi.com
 domain:uplookedu.com
 domain:uplooking.com
 domain:upluck.cc
@@ -97722,7 +97695,6 @@ domain:www-666789.com
 domain:www-76244.com
 domain:www-api.dji.com
 domain:www-cdn.icloud.com.akadns.net
-domain:www-csb.dell.com
 domain:www-google-analytics.l.google.com
 domain:www-googletagmanager.l.google.com
 domain:www-jabuank-co-jp.net
@@ -97737,7 +97709,6 @@ domain:www.cdnetworks.com
 domain:www.cg
 domain:www.com.my
 domain:www.dell-brand.com
-domain:www.dell.com
 domain:www.destinationurl.com
 domain:www.dji.com
 domain:www.djivideos.com
