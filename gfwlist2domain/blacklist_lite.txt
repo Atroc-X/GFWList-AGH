@@ -11451,6 +11451,7 @@ domain:hiporn.net
 domain:hippyhillscomix.com
 domain:hipzoom.net
 domain:history-maps.com
+domain:historylines.net
 domain:historyofdota.com
 domain:historyofdota.net
 domain:historyofdota.org
@@ -14033,6 +14034,7 @@ domain:kitazawa.me
 domain:kiwi.jp
 domain:kiwi.kz
 domain:kiwibrowser.com
+domain:kiwix.org
 domain:kk.stream
 domain:kkbox.com
 domain:kkddsex7.com
@@ -15201,6 +15203,7 @@ domain:mcdonalds.no
 domain:mcdonalds.se
 domain:mcdonaldsapps.com
 domain:mcdonaldsarabia.com
+domain:mceindex.com
 domain:mcfog.com
 domain:mcisco.com
 domain:mcpeaceofmind.com
