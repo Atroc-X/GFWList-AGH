@@ -2314,6 +2314,7 @@ domain:api.news
 domain:api.palworldgame.com
 domain:api.pureapk.com
 domain:api.recaptcha.net
+domain:api.shuaiapi.com
 domain:api.steampowered.com
 domain:api.viu.now.com
 domain:api.waqi.info
@@ -28553,6 +28554,7 @@ domain:shrimpia.network
 domain:shrkurl.com
 domain:shsh201.com
 domain:shu.ac.uk
+domain:shuaiapi.com
 domain:shuangmawei.xyz
 domain:shufflesex.com
 domain:shuminavi.net
@@ -34999,6 +35001,7 @@ domain:x365x.com
 domain:x3guide.com
 domain:x3vid.com
 domain:x6av.com
+domain:x86.fr
 domain:x99av.com
 domain:x9wang.com
 domain:xacmbq.xyz

@@ -21278,6 +21278,7 @@ domain:shp.ee
 domain:shrimpia.network
 domain:shrkurl.com
 domain:shsh201.com
+domain:shuaiapi.com
 domain:shuangmawei.xyz
 domain:shufflesex.com
 domain:shuminavi.net
@@ -25804,6 +25805,7 @@ domain:x365x.com
 domain:x3guide.com
 domain:x3vid.com
 domain:x6av.com
+domain:x86.fr
 domain:x99av.com
 domain:x9wang.com
 domain:xacmbq.xyz
