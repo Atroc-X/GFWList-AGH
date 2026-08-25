@@ -11743,7 +11743,6 @@ domain:hp-invent.info
 domain:hp-mns.com
 domain:hp-printing.com
 domain:hp-webplatform.com
-domain:hp-ww.com
 domain:hp.company
 domain:hp.io
 domain:hp3d.com
