@@ -851,6 +851,7 @@ domain:adguard.info
 domain:adguard.io
 domain:adguard.org
 domain:adguardaccount.com
+domain:adguardaccount.net
 domain:adguardcdn.com
 domain:adguardvpn.com
 domain:adhelpnews.com
@@ -18017,6 +18018,7 @@ domain:ourshemales.com
 domain:oursogo.com
 domain:oursweb.net
 domain:ourtv.hk
+domain:ouryahoo.com
 domain:out-app-purchase.com
 domain:outbound.io
 domain:outdoorpublicsex.com
