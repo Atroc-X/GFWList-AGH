@@ -13369,6 +13369,7 @@ domain:getlantern.org
 domain:getliner.com
 domain:getmalus.com
 domain:getmdl.io
+domain:getmonero.org
 domain:getnews.jp
 domain:getoutline.org
 domain:getpaint.net
