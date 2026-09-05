@@ -38,6 +38,8 @@ domain:114av.xyz
 domain:119474.xyz
 domain:11jav.com
 domain:123-hp.com
+domain:123av.com
+domain:123av.me
 domain:123bin.cc
 domain:123dapp.com
 domain:123dappipad.com
@@ -14032,7 +14034,6 @@ domain:kirbysuperstarultra.com
 domain:kireipass.jp
 domain:kiro.dev
 domain:kismia.com
-domain:kissbbao.cn
 domain:kisscos.net
 domain:kissjav.com
 domain:kissjav.li
@@ -17325,6 +17326,7 @@ domain:nostr.build
 domain:nostr.land
 domain:nostr.wine
 domain:note.com
+domain:note.ms
 domain:notebooklm.google
 domain:notegpt.io
 domain:notepad-plus-plus.org
@@ -20302,6 +20304,7 @@ domain:roudao6.buzz
 domain:roudaosp.cc
 domain:roughebonysex.com
 domain:roughman.net
+domain:roushuwo.com
 domain:routerboard.com
 domain:routledgehandbooks.com
 domain:rowblocks.com
@@ -25731,6 +25734,7 @@ domain:wsjplus.com
 domain:wsjshop.com
 domain:wsjwine.com
 domain:wtbn.org
+domain:wtfpass.com
 domain:wtfpeople.com
 domain:wtmobile.com
 domain:wto.org

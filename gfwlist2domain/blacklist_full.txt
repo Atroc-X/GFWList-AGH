@@ -41,6 +41,8 @@ domain:114bank.co.jp
 domain:119474.xyz
 domain:11jav.com
 domain:123-hp.com
+domain:123av.com
+domain:123av.me
 domain:123bin.cc
 domain:123dapp.com
 domain:123dappipad.com
@@ -18469,7 +18471,6 @@ domain:kirkley.ac.uk
 domain:kiro.dev
 domain:kisharon.ac.uk
 domain:kismia.com
-domain:kissbbao.cn
 domain:kisscos.net
 domain:kissjav.com
 domain:kissjav.li
@@ -18592,6 +18593,7 @@ domain:ksd235qw.com
 domain:ksdl.org
 domain:ksep.ac.uk
 domain:ksescortclub.com
+domain:ksml.edu.tw
 domain:ksnews.com.tw
 domain:kspcoin.com
 domain:kssacademy.ac.uk
@@ -23100,6 +23102,7 @@ domain:nostr.wine
 domain:notary-submissions-prod.s3-accelerate.amazonaws.com
 domain:notary-submissions-prod.s3.us-west-2.amazonaws.com
 domain:note.com
+domain:note.ms
 domain:notebooklm-pa.googleapis.com
 domain:notebooklm.google
 domain:notebooklm.googleapis.com
@@ -27076,6 +27079,7 @@ domain:roudaosp.cc
 domain:roughebonysex.com
 domain:roughman.net
 domain:roundtable.ac.uk
+domain:roushuwo.com
 domain:routerboard.com
 domain:routesintolanguages.ac.uk
 domain:routledgehandbooks.com
@@ -34783,6 +34787,7 @@ domain:wsjwine.com
 domain:wspcr.ac.uk
 domain:wtbn.org
 domain:wtc.ac.uk
+domain:wtfpass.com
 domain:wtfpeople.com
 domain:wtmobile.com
 domain:wto.org
