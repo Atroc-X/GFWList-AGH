@@ -18744,6 +18744,7 @@ domain:larsgeorge.com
 domain:lasersawapp.com
 domain:last.fm
 domain:lastcombat.com
+domain:lastfm-img.freetls.fastly.net
 domain:lastfm.es
 domain:lastfm.freetls.fastly.net
 domain:lastpass.com
