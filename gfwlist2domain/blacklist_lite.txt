@@ -19695,6 +19695,7 @@ domain:qt-project.org
 domain:qt.io
 domain:qtrac.eu
 domain:qtweeter.com
+domain:quakemachinex.com
 domain:qualcomm-email.com
 domain:qualcomm-inc.com
 domain:qualcomm.de

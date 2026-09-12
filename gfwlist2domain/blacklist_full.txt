@@ -2302,15 +2302,12 @@ domain:apexprint.com.hk
 domain:aphe.ac.uk
 domain:api-drive.mypikpak.com
 domain:api-extractor.com
-domain:api-gl.lbkrs.com
 domain:api-p.videomarket.jp
 domain:api-secure.recaptcha.net
 domain:api-verify.recaptcha.net
 domain:api.ai
 domain:api.dropboxapi.com
-domain:api.futunn.com
 domain:api.ipify.org
-domain:api.lbkrs.com
 domain:api.mixpanel.com
 domain:api.moomoobull.com
 domain:api.nebula-emby.com
@@ -2322,7 +2319,6 @@ domain:api.shuaiapi.com
 domain:api.steampowered.com
 domain:api.viu.now.com
 domain:api.waqi.info
-domain:api5.futunn.com
 domain:apiary.io
 domain:apiauto.ru
 domain:apibay.org
@@ -6590,7 +6586,6 @@ domain:cdn-vk.net
 domain:cdn-vk.ru
 domain:cdn.ac.uk
 domain:cdn.arstechnica.net
-domain:cdn.futustatic.com
 domain:cdn.js7k.com
 domain:cdn.jsdelivr.net
 domain:cdn.jwplayer.com
@@ -7476,7 +7471,6 @@ domain:cn.fmnnow.com
 domain:cn.sandscotaicentral.com
 domain:cn.shafaqna.com
 domain:cn.theaustralian.com.au
-domain:cn.uptodown.com
 domain:cn6.eu
 domain:cna.com.tw
 domain:cnbbnews.wordpress.com
@@ -9691,7 +9685,6 @@ domain:download.cnet.com
 domain:download.com
 domain:download.dappcdn.com
 domain:download.fastgit.org
-domain:download.futunn.com
 domain:download.qatp1.net
 domain:download.qcpp1.net
 domain:download.qpdp1.net
@@ -19646,7 +19639,6 @@ domain:lzmtnews.org
 domain:m-power.com
 domain:m-rhex.ac.uk
 domain:m-sport.co.uk
-domain:m.hkgalden.com
 domain:m.me
 domain:m.moegirl.org
 domain:m1.ppy.sh
@@ -23933,12 +23925,8 @@ domain:openaicomproductionae4b.blob.core.windows.net
 domain:openallweb.com
 domain:openamt.com
 domain:openapi-quote.longbridge.cn
-domain:openapi-quote.longbridge.com
 domain:openapi-trade.longbridge.cn
-domain:openapi-trade.longbridge.com
-domain:openapi.futunn.com
 domain:openapi.longbridge.cn
-domain:openapi.longbridge.com
 domain:openapiplatform.com
 domain:openapiservice.com
 domain:openart.ai
@@ -26187,13 +26175,12 @@ domain:qso.ac.uk
 domain:qstatus.com
 domain:qt-project.org
 domain:qt.io
-domain:qtcard.futunn.com
-domain:qtcardfthk.futufin.com
 domain:qtrac.eu
 domain:qtweeter.com
 domain:quadram.ac.uk
 domain:quadraminstitute.ac.uk
 domain:quadrat.ac.uk
+domain:quakemachinex.com
 domain:qualcomm-email.com
 domain:qualcomm-inc.com
 domain:qualcomm.co.id
@@ -30101,7 +30088,6 @@ domain:suppig.net
 domain:supply-chain.ac.uk
 domain:supplybestjerseys.com
 domain:support-uber.com
-domain:support.futunn.com
 domain:supportfacebook.com
 domain:supr.cl
 domain:supremacy.com
@@ -31569,8 +31555,6 @@ domain:tracingnetworks.ac.uk
 domain:tracker.gg
 domain:tracker.network
 domain:tracking-location.com
-domain:trade.futunn.com
-domain:trade.longportapp.com
 domain:tradeup.com
 domain:tradevip1.com
 domain:tradingview.com
