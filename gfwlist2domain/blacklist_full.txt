@@ -7574,6 +7574,7 @@ domain:code.org
 domain:code1984.com
 domain:codeberg.org
 domain:codeberg.page
+domain:codebuff.com
 domain:codecademy.com
 domain:codeforaliving.io
 domain:codeforces.com
@@ -12118,11 +12119,13 @@ domain:fircroft.ac.uk
 domain:fire-emblem-heroes.com
 domain:firearmsworld.net
 domain:firebase.com
-domain:firebase.google.com
+domain:firebase.dev
 domain:firebase.googleapis.com
 domain:firebase.io
 domain:firebaseapp.com
 domain:firebaseappcheck.googleapis.com
+domain:firebaseappdistribution.googleapis.com
+domain:firebaseapptesters.googleapis.com
 domain:firebasedynamiclinks-ipv4.googleapis.com
 domain:firebasedynamiclinks-ipv6.googleapis.com
 domain:firebasedynamiclinks.googleapis.com
@@ -12136,6 +12139,7 @@ domain:firebaseremoteconfig.googleapis.com
 domain:firech.at
 domain:fireemblemawakening.com
 domain:fireflyresearch.ac.uk
+domain:firefox-portal-detection.com
 domain:firefox.com
 domain:firefox.hu
 domain:firefoxtweetmachine.com
@@ -12632,6 +12636,7 @@ domain:freebigmovies.com
 domain:freebrowser.org
 domain:freebs.com
 domain:freebsd.org
+domain:freebuff.com
 domain:freecamsfan.com
 domain:freecamstars.com
 domain:freecartoons.biz
@@ -30760,6 +30765,7 @@ domain:textnow.com
 domain:textnow.me
 domain:texttobuy.org
 domain:texture.com
+domain:tfbnw.net
 domain:tfc-taiwan.org.tw
 domain:tferwq.com
 domain:tfhub.dev
