@@ -5308,6 +5308,7 @@ domain:chinalawandpolicy.com
 domain:chinalawtranslate.com
 domain:chinamz.org
 domain:chinanewscenter.com
+domain:chinanewsx.com
 domain:chinarightsia.org
 domain:chinasmile.net
 domain:chinasocialdemocraticparty.com
@@ -9098,7 +9099,6 @@ domain:firstasianpussy.com
 domain:firstfivefollowers.com
 domain:firstgynexam.com
 domain:firstns.cc
-domain:firstory.io
 domain:firstory.me
 domain:firstpelvicexam.com
 domain:firstpost.com
@@ -12981,6 +12981,7 @@ domain:ipadair.jp
 domain:ipadair.tw
 domain:ipadaustralia.com
 domain:ipaddress.com
+domain:ipaddress.my
 domain:ipadmini.cm
 domain:ipadmini.lk
 domain:ipadpro.buzz
@@ -16367,7 +16368,6 @@ domain:muycerdas.xxx
 domain:muyzorras.com
 domain:muzi.com
 domain:muzi.net
-domain:muzmi.org
 domain:muzu.tv
 domain:mvg.jp
 domain:mvideoporno.xxx
@@ -17324,6 +17324,7 @@ domain:nordstromimage.com
 domain:nordstrommedia.com
 domain:nordstromrack.com
 domain:nordvpn.com
+domain:nordwangluo.com
 domain:noroutetohost.net
 domain:norsk.mobi
 domain:norton.com
@@ -24287,6 +24288,7 @@ domain:vaultify.com
 domain:vaultify.info
 domain:vaultify.net
 domain:vaultproject.io
+domain:vava8.com
 domain:vbcdn.com
 domain:vbcdn.net
 domain:vbejeyv.shop

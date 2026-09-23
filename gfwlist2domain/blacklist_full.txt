@@ -6989,6 +6989,7 @@ domain:chinalawandpolicy.com
 domain:chinalawtranslate.com
 domain:chinamz.org
 domain:chinanewscenter.com
+domain:chinanewsx.com
 domain:chinapost.com.tw
 domain:chinapower.csis.org
 domain:chinapress.com.my
@@ -12180,7 +12181,6 @@ domain:firstchancesfife.ac.uk
 domain:firstfivefollowers.com
 domain:firstgynexam.com
 domain:firstns.cc
-domain:firstory.io
 domain:firstory.me
 domain:firstpelvicexam.com
 domain:firstpost.com
@@ -17150,6 +17150,7 @@ domain:ipadair.jp
 domain:ipadair.tw
 domain:ipadaustralia.com
 domain:ipaddress.com
+domain:ipaddress.my
 domain:ipadmini.cm
 domain:ipadmini.com.lk
 domain:ipadmini.lk
@@ -21706,7 +21707,6 @@ domain:muycerdas.xxx
 domain:muyzorras.com
 domain:muzi.com
 domain:muzi.net
-domain:muzmi.org
 domain:muzu.tv
 domain:mvdis.gov.tw
 domain:mvg.jp
@@ -23055,6 +23055,7 @@ domain:nordstromimage.com
 domain:nordstrommedia.com
 domain:nordstromrack.com
 domain:nordvpn.com
+domain:nordwangluo.com
 domain:norfolkcove.ac.uk
 domain:norland.ac.uk
 domain:normanmanagedservices.ac.uk
@@ -26027,6 +26028,7 @@ domain:purepdf.com
 domain:puresexmovies.com
 domain:puretaboo.com
 domain:purevpn.com
+domain:purevpn.com.tw
 domain:purextc.com
 domain:puripuriunkomura.com
 domain:purplelotus.org
@@ -32876,6 +32878,7 @@ domain:vaultify.com
 domain:vaultify.info
 domain:vaultify.net
 domain:vaultproject.io
+domain:vava8.com
 domain:vbcdn.com
 domain:vbcdn.net
 domain:vbejeyv.shop
@@ -34957,6 +34960,7 @@ domain:www.websnapr.com
 domain:www.xicons.org
 domain:www.zensur.freerk.com
 domain:www1.biz
+domain:www3.nhk.or.jp
 domain:www8-hp.com
 domain:wwwapple.com
 domain:wwwapple.net
