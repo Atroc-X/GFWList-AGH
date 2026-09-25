@@ -19079,7 +19079,6 @@ domain:like.com
 domain:likee.com
 domain:likeeapp.ru
 domain:likeevideo.com
-domain:likeevideo.ru
 domain:likeseiyu.com
 domain:liketruyen.net
 domain:liketwice.com
@@ -19162,6 +19161,7 @@ domain:linst.ac.uk
 domain:linux.do
 domain:linux.org
 domain:linux.org.hk
+domain:linux.sb
 domain:linuxfoundation.org
 domain:linuxfromscratch.org
 domain:linuxmint.com
