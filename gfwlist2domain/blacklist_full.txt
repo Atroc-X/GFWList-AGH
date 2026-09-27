@@ -19936,6 +19936,7 @@ domain:mappingthemedievalmargins.ac.uk
 domain:mappingtheunderworld.ac.uk
 domain:mappingwales.ac.uk
 domain:mappingwelshmarches.ac.uk
+domain:mapy.com
 domain:marble.ac.uk
 domain:marc.info
 domain:marchmont.ac.uk
