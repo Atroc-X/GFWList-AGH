@@ -5348,6 +5348,7 @@ domain:bod.asia
 domain:bodc.ac.uk
 domain:bodgirls.com
 domain:bodog88.com
+domain:bodu365.co
 domain:bodyandsoul.com.au
 domain:bodyfluids-jav.com
 domain:bognor-training.ac.uk
@@ -8085,6 +8086,7 @@ domain:creativelab5.com
 domain:creativepass.com
 domain:creativesdk.com
 domain:creativity-cetl.ac.uk
+domain:creators.google
 domain:creatwhatsnext.com
 domain:crececonebay.com
 domain:credit-zenit.ru
@@ -23105,6 +23107,7 @@ domain:notary-submissions-prod.s3-accelerate.amazonaws.com
 domain:notary-submissions-prod.s3.us-west-2.amazonaws.com
 domain:note.com
 domain:note.ms
+domain:notebook.google
 domain:notebooklm-pa.googleapis.com
 domain:notebooklm.google
 domain:notebooklm.googleapis.com
@@ -27660,6 +27663,7 @@ domain:sccb.ac.uk
 domain:sccc.ac.uk
 domain:sccjr.ac.uk
 domain:scct.ac.uk
+domain:scdaily.com
 domain:scde.ac.uk
 domain:scdn.co
 domain:scene7.com
