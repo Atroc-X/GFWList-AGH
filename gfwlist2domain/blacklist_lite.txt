@@ -11964,6 +11964,7 @@ domain:huaren4us.com
 domain:huarenav.com
 domain:huarenjie.com
 domain:huarenporn.com
+domain:huarun.win
 domain:huashangnews.com
 domain:huashundg.com
 domain:huasing.org
@@ -15367,6 +15368,7 @@ domain:messytube.com
 domain:met-nude.com
 domain:meta.ai
 domain:meta.com
+domain:metaaivm.com
 domain:metabora.io
 domain:metabrainz.org
 domain:metacafe.com
@@ -16354,6 +16356,7 @@ domain:muryouav.net
 domain:muscache.com
 domain:muscdn.com
 domain:musclegirlflix.com
+domain:muse.ai
 domain:mushroomtrack.com
 domain:mushymush.tv
 domain:musicade.net
@@ -17882,6 +17885,7 @@ domain:openart.ai
 domain:openbase.com
 domain:opencas.io
 domain:openclaw.ai
+domain:opencode.ai
 domain:opencollective.com
 domain:opencreate.org
 domain:opencritic.com

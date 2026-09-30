@@ -13285,6 +13285,8 @@ domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
 domain:gemini.google
+domain:geminiweb-pa.clients.google.com
+domain:geminiweb-pa.clients6.google.com
 domain:gen.lib.rus.ec
 domain:gen.tr
 domain:gen2.ac.uk
@@ -15845,6 +15847,7 @@ domain:huaren4us.com
 domain:huarenav.com
 domain:huarenjie.com
 domain:huarenporn.com
+domain:huarun.win
 domain:huashangnews.com
 domain:huashundg.com
 domain:huasing.org
@@ -20461,6 +20464,7 @@ domain:messytube.com
 domain:met-nude.com
 domain:meta.ai
 domain:meta.com
+domain:metaaivm.com
 domain:metabolomics.ac.uk
 domain:metabora.io
 domain:metabrainz.org
@@ -21683,6 +21687,7 @@ domain:musashinobank.co.jp
 domain:muscache.com
 domain:muscdn.com
 domain:musclegirlflix.com
+domain:muse.ai
 domain:muse.jhu.edu
 domain:museumofwriting.ac.uk
 domain:museumwales.ac.uk
@@ -23945,6 +23950,7 @@ domain:openbase.com
 domain:openbook.org.tw
 domain:opencas.io
 domain:openclaw.ai
+domain:opencode.ai
 domain:opencollective.com
 domain:opencreate.org
 domain:opencritic.com
