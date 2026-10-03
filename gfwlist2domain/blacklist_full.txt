@@ -7285,6 +7285,7 @@ domain:classymomsex.com
 domain:clau.de
 domain:claude.ai
 domain:claude.com
+domain:claude.dev
 domain:claudemcpclient.com
 domain:claudemcpcontent.com
 domain:claudeusercontent.com
@@ -28673,6 +28674,7 @@ domain:sinchew.com.my
 domain:sinchew.my
 domain:sinet.ac.uk
 domain:sing-box.app
+domain:sing-box.sagernet.org
 domain:sing4.lat
 domain:sing68.com
 domain:singaporepools.com.sg
