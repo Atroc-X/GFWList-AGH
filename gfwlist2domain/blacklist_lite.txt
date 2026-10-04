@@ -25488,6 +25488,7 @@ domain:wikibooks.org
 domain:wikidata.org
 domain:wikidot.com
 domain:wikifeet.com
+domain:wikifunctions.org
 domain:wikihow.com
 domain:wikileaks-forum.com
 domain:wikileaks.ch
@@ -25512,6 +25513,7 @@ domain:wikiquote.org
 domain:wikis.tw
 domain:wikisexguide.com
 domain:wikisource.org
+domain:wikispecies.org
 domain:wikiunblocked.org
 domain:wikiversity.org
 domain:wikivoyage.org
