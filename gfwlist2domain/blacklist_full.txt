@@ -1371,6 +1371,7 @@ domain:aiasahi.jp
 domain:aib.ac.uk
 domain:aibaobei.me
 domain:aicoin.com
+domain:aidc.com.tw
 domain:aihub.top
 domain:aim25.ac.uk
 domain:aimei133.com
@@ -4887,6 +4888,7 @@ domain:blpevents.com
 domain:blpprofessional.com
 domain:blubank.com
 domain:blubrry.com
+domain:blue-plus.net
 domain:blueangellive.com
 domain:bluearchive.jp
 domain:bluefootcms.com
@@ -6208,6 +6210,7 @@ domain:cando.ac.uk
 domain:candycrush.com
 domain:candycumcity.com
 domain:candypleasure.com
+domain:cangku.moe
 domain:cannington.ac.uk
 domain:cannock.ac.uk
 domain:canny.io
@@ -8020,6 +8023,7 @@ domain:cozydrdrebeats.com
 domain:cp44.net
 domain:cpan.org
 domain:cpc.ac.uk
+domain:cpc.com.tw
 domain:cpd25.ac.uk
 domain:cpd4phd.ac.uk
 domain:cpdnoticeboard.ac.uk
@@ -8178,6 +8182,7 @@ domain:cs.co
 domain:cs4hs.com
 domain:csakporno.hu
 domain:csc.ac.uk
+domain:csc.com.tw
 domain:cscd.ac.uk
 domain:csct.ac.uk
 domain:cscuk.ac.uk
@@ -9098,6 +9103,7 @@ domain:dgeft87wbj63p.cloudfront.net
 domain:dgg.gg
 domain:dghe.ac.uk
 domain:dgwav.com
+domain:dh.net
 domain:dh44.lol
 domain:dharamsalanet.com
 domain:dharmakara.net
@@ -11239,6 +11245,7 @@ domain:exeterms.ac.uk
 domain:exgfvideos.xxx
 domain:exgirlfriendmarket.com
 domain:exhentai.org
+domain:eximbank.com.tw
 domain:exiporn.com
 domain:exmo.com
 domain:exmormon.org
@@ -16130,6 +16137,7 @@ domain:icashpassport.com.mx
 domain:icca.ac.uk
 domain:iccf.com
 domain:iccliverpool.ac.uk
+domain:icdf.org.tw
 domain:ice-cse.ac.uk
 domain:iced.ac.uk
 domain:icedrive.net
@@ -17142,6 +17150,7 @@ domain:ip.gs
 domain:ip.sb
 domain:ip73.com
 domain:ipa-iphone.net
+domain:ipac.global
 domain:ipad.co.kr
 domain:ipad.de
 domain:ipad.host
@@ -18363,6 +18372,7 @@ domain:khabdha.org
 domain:khanacademy.org
 domain:khangar.net
 domain:khatrimaza.org
+domain:khc.edu.tw
 domain:khmusic.com.tw
 domain:khotruyentranhx.com
 domain:kiad.ac.uk
@@ -20146,6 +20156,7 @@ domain:mathscentre.ac.uk
 domain:mathstore.ac.uk
 domain:mathsvideoclubs.ac.uk
 domain:mathtutor.ac.uk
+domain:matichon.co.th
 domain:matome-plus.com
 domain:matome-plus.net
 domain:matrix.ac.uk
@@ -21051,6 +21062,7 @@ domain:miraheze.org
 domain:mirailab.tech
 domain:mirandaicq.com
 domain:mirandanet.ac.uk
+domain:mirdc.org.tw
 domain:miro.com
 domain:miroguide.com
 domain:mirror.ac.uk
@@ -21219,6 +21231,7 @@ domain:moeero-library.com
 domain:moeerolibrary.com
 domain:moefuns.co
 domain:moeimg.net
+domain:moeli-desu.com
 domain:moemax.net
 domain:moepedia.net
 domain:moeshare.cc
@@ -22127,6 +22140,7 @@ domain:nationalreview.com
 domain:nationalskillsacademy.ac.uk
 domain:nationaltechnicianscentre.ac.uk
 domain:nationsonline.org
+domain:nationthailand.com
 domain:nationwide.com
 domain:nativeincolour.com.au
 domain:natmatsci.ac.uk
@@ -23239,6 +23253,7 @@ domain:nspk.ru
 domain:nss.ac.uk
 domain:nsstatic.net
 domain:nssurge.com
+domain:nstc.org.tw
 domain:nsu.ac.uk
 domain:nsw.ac.uk
 domain:ntb.ac.uk
@@ -25222,6 +25237,7 @@ domain:pokerstars.com
 domain:pokerstars.net
 domain:pokerstrategy.com
 domain:pol.ac.uk
+domain:poland.tw
 domain:political-science.ac.uk
 domain:politicalchina.org
 domain:politicalconsultation.org
@@ -27030,6 +27046,7 @@ domain:rocksextube.com
 domain:rockstargames.com
 domain:rockstarnorth.com
 domain:rockylinux.org
+domain:rocmgov.org
 domain:roco.qq.com
 domain:rodbaston.ac.uk
 domain:roe.ac.uk
@@ -30785,6 +30802,7 @@ domain:texttobuy.org
 domain:texture.com
 domain:tfbnw.net
 domain:tfc-taiwan.org.tw
+domain:tfd.org.tw
 domain:tferwq.com
 domain:tfhub.dev
 domain:tfiflve.com
@@ -31792,6 +31810,7 @@ domain:tte-lisa.ac.uk
 domain:tteshop.com
 domain:ttetraining.ac.uk
 domain:ttk.ru
+domain:ttl.com.tw
 domain:ttlivecdn.com
 domain:ttoverseaus.net
 domain:ttrb.ac.uk
@@ -32004,6 +32023,7 @@ domain:tweez.net
 domain:twelve.today
 domain:twenty65.ac.uk
 domain:twerkingbutt.com
+domain:twfhcsec.com.tw
 domain:twftp.org
 domain:twgov.tw
 domain:twgreatdaily.com
@@ -32122,6 +32142,7 @@ domain:txvia.com
 domain:txvlog.com
 domain:txxx.com
 domain:txxx1.com
+domain:tybio.com.tw
 domain:tyc.edu.tw
 domain:tycool.com
 domain:tyler-brown.com
@@ -33851,6 +33872,7 @@ domain:vsassets.io
 domain:vscale.blog
 domain:vscale.io
 domain:vscale.ru
+domain:vscc.org.tw
 domain:vsco.co
 domain:vscode-cdn.net
 domain:vscode-sync-insiders.trafficmanager.net
@@ -35491,6 +35513,7 @@ domain:xvxx.stream
 domain:xvxxtube.com
 domain:xwbo.com
 domain:xx-map.com
+domain:xx.net
 domain:xx9.app
 domain:xxbay.com
 domain:xxbb9.com

@@ -3869,6 +3869,7 @@ domain:blpevents.com
 domain:blpprofessional.com
 domain:blubank.com
 domain:blubrry.com
+domain:blue-plus.net
 domain:blueangellive.com
 domain:bluearchive.jp
 domain:bluefootcms.com
@@ -4810,6 +4811,7 @@ domain:candidforum-videos.com
 domain:candycrush.com
 domain:candycumcity.com
 domain:candypleasure.com
+domain:cangku.moe
 domain:canny.io
 domain:canon-cee.com
 domain:canon-cmos-sensors.com
@@ -6748,6 +6750,7 @@ domain:dfvpn.com
 domain:dgaqp.com
 domain:dgg.gg
 domain:dgwav.com
+domain:dh.net
 domain:dh44.lol
 domain:dharamsalanet.com
 domain:dharmakara.net
@@ -12974,6 +12977,7 @@ domain:ip.gs
 domain:ip.sb
 domain:ip73.com
 domain:ipa-iphone.net
+domain:ipac.global
 domain:ipad.de
 domain:ipad.host
 domain:ipad.wang
@@ -15978,6 +15982,7 @@ domain:moeero-library.com
 domain:moeerolibrary.com
 domain:moefuns.co
 domain:moeimg.net
+domain:moeli-desu.com
 domain:moemax.net
 domain:moepedia.net
 domain:moeshare.cc
@@ -16701,6 +16706,7 @@ domain:nationalgeographicpartners.com
 domain:nationalinterest.org
 domain:nationalreview.com
 domain:nationsonline.org
+domain:nationthailand.com
 domain:nationwide.com
 domain:naturalvoices.com
 domain:naturemag.org
@@ -18892,6 +18898,7 @@ domain:pokemonwifi.net
 domain:pokerstars.com
 domain:pokerstars.net
 domain:pokerstrategy.com
+domain:poland.tw
 domain:politicalchina.org
 domain:politicalconsultation.org
 domain:politico.eu
@@ -20286,6 +20293,7 @@ domain:rocksextube.com
 domain:rockstargames.com
 domain:rockstarnorth.com
 domain:rockylinux.org
+domain:rocmgov.org
 domain:roedu.net
 domain:rojo.com
 domain:roku.com
@@ -26281,6 +26289,7 @@ domain:xvxx.stream
 domain:xvxxtube.com
 domain:xwbo.com
 domain:xx-map.com
+domain:xx.net
 domain:xx9.app
 domain:xxbay.com
 domain:xxbb9.com
