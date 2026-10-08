@@ -15296,6 +15296,7 @@ domain:meforum.org
 domain:mefound.com
 domain:mega.io
 domain:mega.nz
+domain:megaad.nz
 domain:megacamz.com
 domain:megaeth.com
 domain:megafilmporno.com
@@ -15306,11 +15307,13 @@ domain:megahdporno.net
 domain:megalodon.jp
 domain:megamarket.ru
 domain:megamarket.tech
+domain:megapay.nz
 domain:megaphone.fm
 domain:megapornfreehd.com
 domain:megapornpics.com
 domain:megaproxy.com
 domain:megarotic.com
+domain:megas4.com
 domain:megasrv.de
 domain:megatitsminka.com
 domain:megaupload.com
@@ -23460,6 +23463,7 @@ domain:trans500.com
 domain:transangels.com
 domain:transarmuito.com
 domain:transcamslive.com
+domain:transfer.it
 domain:transferwise.com
 domain:translate.goog
 domain:translatetheweb.com
