@@ -3523,6 +3523,7 @@ domain:bigdick.com
 domain:bigdickorgasm.com
 domain:bigfools.com
 domain:biggggg.com
+domain:biggo.com
 domain:bighead.group
 domain:bigindiansex.mobi
 domain:bigjapanesesex.com
@@ -15863,6 +15864,7 @@ domain:miro.com
 domain:miroguide.com
 domain:mirror.xyz
 domain:mirrorbooks.com
+domain:mirrordaily.news
 domain:mirrormedia.mg
 domain:mirrormediagroup.com
 domain:mirrorsedge.com
@@ -16317,6 +16319,7 @@ domain:msys2.org
 domain:mt.lv
 domain:mt0011.site
 domain:mtao.fun
+domain:mtgamer.com
 domain:mthruf.com
 domain:mts-ws.net
 domain:mts.ru
@@ -19522,7 +19525,6 @@ domain:proxz.com
 domain:proyectoclubes.com
 domain:prozz.net
 domain:prpops.com
-domain:prts.plus
 domain:prvbank.ru
 domain:ps-exchange.com
 domain:psb-ocenka.ru
@@ -23023,6 +23025,7 @@ domain:theweek.com
 domain:theweek.in
 domain:thewgo.org
 domain:thewirechina.com
+domain:thewitnesshk.com
 domain:thewonderful101.com
 domain:theync.com
 domain:theyxxx.com
