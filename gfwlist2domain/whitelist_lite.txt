@@ -8654,7 +8654,6 @@ domain:91saishi.com
 domain:91sem.cc
 domain:91sfdj.com
 domain:91shenfan.com
-domain:91short.com
 domain:91shouce.com
 domain:91smart.net
 domain:91soer.com
@@ -10547,6 +10546,7 @@ domain:aibase.com
 domain:aibeike.com
 domain:aibiaomei.com
 domain:aibiaow.com
+domain:aibilun.com
 domain:aibing.cc
 domain:aibll.com
 domain:aibo123.com
@@ -11538,6 +11538,7 @@ domain:aliyunwaf3.com
 domain:aliyunwaf4.com
 domain:aliyunwaf5.com
 domain:aliyunx.com
+domain:alizch.com
 domain:alizhaopin.com
 domain:alizhizhu.com
 domain:alizila.com
@@ -19939,6 +19940,7 @@ domain:cfcpn.com
 domain:cfd-china.com
 domain:cfd163.com
 domain:cfdns43.com
+domain:cfdns46.com
 domain:cfdns5.com
 domain:cfdns81.com
 domain:cfdp.org
@@ -24336,6 +24338,7 @@ domain:codeages.work
 domain:codeaha.com
 domain:codebaoku.com
 domain:codebe.org
+domain:codebuddy.ai
 domain:codebuddy.info
 domain:codebuddy.net
 domain:codebuddy.pro
@@ -29390,6 +29393,7 @@ domain:dnsjia.com
 domain:dnsjiasu001.com
 domain:dnsjp.cc
 domain:dnsjxla.com
+domain:dnski.com
 domain:dnslin.com
 domain:dnsmeasurement.com
 domain:dnsmsn.com
@@ -60200,6 +60204,7 @@ domain:lewenqu.com
 domain:lewenss.com
 domain:lewenxsw.com
 domain:lewifi.com
+domain:lewl88.com
 domain:lexar.com
 domain:lexed.org
 domain:lexiaigame.com
@@ -71589,6 +71594,7 @@ domain:pcdog.com
 domain:pcdrv.com
 domain:pcdtg.com
 domain:pceggs.com
+domain:pcelves.com
 domain:pceva.net
 domain:pcfphs.com
 domain:pcfreetime.com
@@ -74768,6 +74774,7 @@ domain:qlchat.com
 domain:qldgd.com
 domain:qldzj.com
 domain:qledu.net
+domain:qlgfdns.com
 domain:qlhimalayantm.com
 domain:qlife-lab.com
 domain:qling.com
@@ -96014,6 +96021,7 @@ domain:wordscan.net
 domain:wordscheck.com
 domain:wordstorming.com
 domain:wordsunny.com
+domain:workbuddy.ai
 domain:workbuddy.host
 domain:workbuddy.link
 domain:workchat.com
