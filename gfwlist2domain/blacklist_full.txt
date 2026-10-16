@@ -5764,6 +5764,7 @@ domain:bsappapi.cc
 domain:bsappapi.com
 domain:bsaw.ac.uk
 domain:bsbec.ac.uk
+domain:bscdnweb.com
 domain:bsdc.ac.uk
 domain:bsersd.xyz
 domain:bsfc.ac.uk
@@ -27742,6 +27743,7 @@ domain:scct.ac.uk
 domain:scdaily.com
 domain:scde.ac.uk
 domain:scdn.co
+domain:scea.com
 domain:scene7.com
 domain:scenesource.me
 domain:scentro.ac.uk
@@ -28886,6 +28888,7 @@ domain:skysportsonline.com
 domain:skysportsracing.com
 domain:skytigris.cn
 domain:skyvegas.com
+domain:skyxvpn.com
 domain:sl-reverse.com
 domain:sl99mod.buzz
 domain:slack-core.com
@@ -29224,6 +29227,7 @@ domain:sony.com.ni
 domain:sony.com.pa
 domain:sony.com.pe
 domain:sony.com.ph
+domain:sony.com.py
 domain:sony.com.sg
 domain:sony.com.sv
 domain:sony.com.tr
@@ -29266,8 +29270,10 @@ domain:sonyclassics.com
 domain:sonydesign.com
 domain:sonydna.com
 domain:sonyglobalsolutions.jp
+domain:sonyinteractive.com
 domain:sonykigyo.jp
 domain:sonylatvija.com
+domain:sonymusic.com.hk
 domain:sonynetwork.co.jp
 domain:sonypcl.jp
 domain:sonypictures.com

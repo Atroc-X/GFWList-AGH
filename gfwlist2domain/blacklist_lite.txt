@@ -4499,6 +4499,7 @@ domain:brutaltgp.com
 domain:bs-adreview.com
 domain:bsappapi.cc
 domain:bsappapi.com
+domain:bscdnweb.com
 domain:bsersd.xyz
 domain:bsi.ir
 domain:bsky.app
@@ -20770,6 +20771,7 @@ domain:scatville.com
 domain:scb.ru
 domain:scdaily.com
 domain:scdn.co
+domain:scea.com
 domain:scene7.com
 domain:scenesource.me
 domain:scharferporno.com
@@ -21563,6 +21565,7 @@ domain:skysportsonline.com
 domain:skysportsracing.com
 domain:skytigris.cn
 domain:skyvegas.com
+domain:skyxvpn.com
 domain:sl-reverse.com
 domain:sl99mod.buzz
 domain:slack-core.com
@@ -21832,6 +21835,7 @@ domain:sonyclassics.com
 domain:sonydesign.com
 domain:sonydna.com
 domain:sonyglobalsolutions.jp
+domain:sonyinteractive.com
 domain:sonykigyo.jp
 domain:sonylatvija.com
 domain:sonypcl.jp
