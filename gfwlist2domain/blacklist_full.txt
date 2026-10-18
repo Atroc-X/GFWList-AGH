@@ -8350,6 +8350,7 @@ domain:cursor-cdn.com
 domain:cursor.com
 domain:cursor.sh
 domain:cursorapi.com
+domain:cursorvm.com
 domain:curve.fi
 domain:curvefish.com
 domain:curvybbwwives.com
@@ -24017,6 +24018,7 @@ domain:open.ac.uk
 domain:open.com.hk
 domain:open.firstory.me
 domain:openai.com
+domain:openai.org
 domain:openaiapi-site.azureedge.net
 domain:openaiassets.blob.core.windows.net
 domain:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -27841,6 +27843,7 @@ domain:schwab.com
 domain:schwab.com.hk
 domain:schwab.com.sg
 domain:schwabassetmanagement.com
+domain:schwabcdn.com
 domain:schwabplan.com
 domain:sci-hub.it.nf
 domain:sci-hub.mksa.top
@@ -31404,6 +31407,8 @@ domain:timesofindia.indiatimes.com
 domain:timestalks.com
 domain:timeweb.cloud
 domain:timeweb.com
+domain:timeweb.tech
+domain:timewebcloud.kz
 domain:timi1.me
 domain:timo0.com
 domain:timsah.com
@@ -32237,6 +32242,7 @@ domain:typekit.com
 domain:typekit.net
 domain:typenetwork.com
 domain:typepad.com
+domain:typesafe.ai
 domain:typeset.io
 domain:typesquare.com
 domain:typography.com
