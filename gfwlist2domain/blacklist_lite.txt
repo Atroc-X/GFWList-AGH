@@ -3325,8 +3325,15 @@ domain:beforeigners.com
 domain:befuck.com
 domain:befuck.net
 domain:begellhouse.com
+domain:beget.app
+domain:beget.cloud
 domain:beget.com
+domain:beget.de
+domain:beget.hosting
+domain:beget.pro
 domain:beget.ru
+domain:beget.tech
+domain:begetcdn.cloud
 domain:begin-trade.com
 domain:behance.net
 domain:behindkink.com
@@ -3366,6 +3373,7 @@ domain:berlinerbericht.de
 domain:berlintwitterwall.com
 domain:berrraka.com
 domain:beru.ru
+domain:beserver.ru
 domain:best-practice.se
 domain:best-sex-games.com
 domain:best2pay.net
@@ -3490,6 +3498,7 @@ domain:bg-call-donation-alpha.goog
 domain:bg-call-donation-canary.goog
 domain:bg-call-donation-dev.goog
 domain:bg-call-donation.goog
+domain:bget.ru
 domain:bgicdn.com
 domain:bgm.tv
 domain:bgme.me
@@ -19690,6 +19699,7 @@ domain:putinho.net
 domain:putlocker.com
 domain:putty.org
 domain:puuko.com
+domain:pv-cdn.net
 domain:pvp.net
 domain:pvp.tv
 domain:pvt.sexy
@@ -22007,6 +22017,7 @@ domain:sprinklesapp.com
 domain:sprite.org
 domain:sproutcore.com
 domain:sproxy.info
+domain:sprut.io
 domain:sptvbroadcast.com
 domain:sputnikglobe.com
 domain:sputnikimages.com

@@ -4172,8 +4172,15 @@ domain:beforeigners.com
 domain:befuck.com
 domain:befuck.net
 domain:begellhouse.com
+domain:beget.app
+domain:beget.cloud
 domain:beget.com
+domain:beget.de
+domain:beget.hosting
+domain:beget.pro
 domain:beget.ru
+domain:beget.tech
+domain:begetcdn.cloud
 domain:begin-trade.com
 domain:behance.net
 domain:behaviour4learning.ac.uk
@@ -4237,6 +4244,7 @@ domain:berrraka.com
 domain:beru.ru
 domain:besa.ac.uk
 domain:besc.ac.uk
+domain:beserver.ru
 domain:beside.ac.uk
 domain:bess.ac.uk
 domain:best-practice.se
@@ -4376,6 +4384,7 @@ domain:bg-call-donation-canary.goog
 domain:bg-call-donation-dev.goog
 domain:bg-call-donation.goog
 domain:bgc.ac.uk
+domain:bget.ru
 domain:bgicdn.com
 domain:bgm.tv
 domain:bgme.me
@@ -8485,6 +8494,7 @@ domain:d2vjef5jvl6bfs.cloudfront.net
 domain:d2xmjdvx03ij56.cloudfront.net
 domain:d31dormfno8pk4.cloudfront.net
 domain:d33wubrfki0l68.cloudfront.net
+domain:d348twzf7a8p5.cloudfront.net
 domain:d36nr0u3xmc4mm.cloudfront.net
 domain:d3aqoihi2n8ty8.cloudfront.net
 domain:d3c27h4odz752x.cloudfront.net
@@ -9107,6 +9117,7 @@ domain:developer-advisor.com
 domain:developers.box.net
 domain:developers.facebook.com
 domain:developria.com
+domain:devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 domain:deviantart.com
 domain:deviantart.net
 domain:deviantclip.com
@@ -9736,6 +9747,7 @@ domain:download.qcpp1.net
 domain:download.qpdp1.net
 domain:downloadpass.com
 domain:downloadsforipod.com
+domain:doy2mn9upadnk.cloudfront.net
 domain:dphk.org
 domain:dpoc.ac.uk
 domain:dpool.top
@@ -12287,7 +12299,6 @@ domain:flickr.com
 domain:flickr.net
 domain:flickrhivemind.net
 domain:flickriver.com
-domain:flightsimulator.azureedge.net
 domain:flightsimulator.com
 domain:fling.com
 domain:flipboard.com
@@ -26155,6 +26166,7 @@ domain:putinho.net
 domain:putlocker.com
 domain:putty.org
 domain:puuko.com
+domain:pv-cdn.net
 domain:pvp.net
 domain:pvp.tv
 domain:pvr-hamivideo.cdn.hinet.net
@@ -29535,6 +29547,7 @@ domain:sprint.ac.uk
 domain:sprite.org
 domain:sproutcore.com
 domain:sproxy.info
+domain:sprut.io
 domain:spsrn.ac.uk
 domain:sptvbroadcast.com
 domain:spurgeons.ac.uk
