@@ -3347,8 +3347,10 @@ domain:avinetworks.com
 domain:avinin.com
 domain:avira.com
 domain:avistaz.to
+domain:avito.com
 domain:avito.ru
 domain:avito.st
+domain:avito.tech
 domain:avizoon.site
 domain:avizoone.com
 domain:avjb.com
