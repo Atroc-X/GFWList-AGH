@@ -2213,6 +2213,7 @@ domain:anpopo.com
 domain:ansarbank.com
 domain:ansin.erodayo.com
 domain:answering-islam.org
+domain:ant.dev
 domain:antarctic.ac.uk
 domain:antarctica.ac.uk
 domain:antarvasnaclips.com
@@ -2224,6 +2225,7 @@ domain:anthemgame.com
 domain:anthemthegame.com
 domain:anthonycalzadilla.com
 domain:anthropic.com
+domain:anthropic.team
 domain:anthropology.ac.uk
 domain:anti1984.com
 domain:antichristendom.com
@@ -2239,6 +2241,7 @@ domain:antislaverylaw.ac.uk
 domain:antisocial.science
 domain:antiwave.net
 domain:antpool.com
+domain:antspace.dev
 domain:anudetube.com
 domain:anuneko.com
 domain:anws.gov.tw
@@ -6831,6 +6834,7 @@ domain:chasestudy.ac.uk
 domain:chat.com
 domain:chat.lmsys.org
 domain:chatango.com
+domain:chatbotclaude.com
 domain:chatgpt.com
 domain:chatgpt.livekit.cloud
 domain:chatgpt.site
@@ -7322,10 +7326,16 @@ domain:classics.ac.uk
 domain:classymomsex.com
 domain:clau.de
 domain:claude.ai
+domain:claude.app
 domain:claude.com
 domain:claude.dev
+domain:claude.new
+domain:claude.site
+domain:claudeacademy.com
 domain:claudemcpclient.com
 domain:claudemcpcontent.com
+domain:claudepages.dev
+domain:claudestudio.com
 domain:claudeusercontent.com
 domain:clawhub.ai
 domain:clb.org.hk
@@ -8502,6 +8512,7 @@ domain:d3c27h4odz752x.cloudfront.net
 domain:d3lh5kkip965lj.cloudfront.net
 domain:d3nwj80emtnjeo.cloudfront.net
 domain:d3r7nsslvs6aaf.cloudfront.net
+domain:d3stzm2eumvgb4.cloudfront.net
 domain:d3ucl0eqgl80l5.cloudfront.net
 domain:d3vd9lfkzbru3h.cloudfront.net
 domain:d4dj-pj.com
@@ -12334,6 +12345,17 @@ domain:fluids.ac.uk
 domain:flurry.com
 domain:flutter.dev
 domain:flutterapp.com
+domain:fluxer.app
+domain:fluxer.com
+domain:fluxer.dev
+domain:fluxer.gg
+domain:fluxer.gift
+domain:fluxer.media
+domain:fluxer.tools
+domain:fluxerapp.com
+domain:fluxerstatic.com
+domain:fluxerstatus.com
+domain:fluxerusercontent.com
 domain:fly.dev
 domain:fly.io
 domain:flyflv.com

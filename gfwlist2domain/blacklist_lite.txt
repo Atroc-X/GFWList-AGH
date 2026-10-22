@@ -1787,6 +1787,7 @@ domain:anonymouse.org
 domain:anpopo.com
 domain:ansarbank.com
 domain:answering-islam.org
+domain:ant.dev
 domain:antarvasnaclips.com
 domain:antarvasnax.com
 domain:antd.org
@@ -1794,6 +1795,7 @@ domain:anthemgame.com
 domain:anthemthegame.com
 domain:anthonycalzadilla.com
 domain:anthropic.com
+domain:anthropic.team
 domain:anti1984.com
 domain:antichristendom.com
 domain:antigravity.google
@@ -1802,6 +1804,7 @@ domain:antiphishing.ru
 domain:antisocial.science
 domain:antiwave.net
 domain:antpool.com
+domain:antspace.dev
 domain:anudetube.com
 domain:anuneko.com
 domain:anxiangxing.com
@@ -5190,6 +5193,7 @@ domain:charmescorts.com
 domain:charticulator.com
 domain:chat.com
 domain:chatango.com
+domain:chatbotclaude.com
 domain:chatgpt.com
 domain:chatgpt.site
 domain:chatgptvideo.xyz
@@ -5553,10 +5557,16 @@ domain:classicnike.com
 domain:classymomsex.com
 domain:clau.de
 domain:claude.ai
+domain:claude.app
 domain:claude.com
 domain:claude.dev
+domain:claude.new
+domain:claude.site
+domain:claudeacademy.com
 domain:claudemcpclient.com
 domain:claudemcpcontent.com
+domain:claudepages.dev
+domain:claudestudio.com
 domain:claudeusercontent.com
 domain:clawhub.ai
 domain:clck.ru
@@ -9235,6 +9245,17 @@ domain:fluidpreview.com
 domain:flurry.com
 domain:flutter.dev
 domain:flutterapp.com
+domain:fluxer.app
+domain:fluxer.com
+domain:fluxer.dev
+domain:fluxer.gg
+domain:fluxer.gift
+domain:fluxer.media
+domain:fluxer.tools
+domain:fluxerapp.com
+domain:fluxerstatic.com
+domain:fluxerstatus.com
+domain:fluxerusercontent.com
 domain:fly.dev
 domain:fly.io
 domain:flyflv.com
