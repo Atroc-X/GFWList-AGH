@@ -3762,6 +3762,8 @@ domain:blizzard.com
 domain:blizzardgearstore.com
 domain:blockcast.it
 domain:blockchain.com
+domain:blockchair.com
+domain:blockchair.net
 domain:blockcn.com
 domain:blockedbyhk.com
 domain:blockfrost.io
@@ -6116,6 +6118,7 @@ domain:cq99.us
 domain:cqcorea.com
 domain:crabporn.com
 domain:crackle.com
+domain:craftifyx.com
 domain:craigslist.org
 domain:crankplayer.com
 domain:crashbandicoot.com
@@ -6197,6 +6200,7 @@ domain:crwdcntrl.net
 domain:crypto.com
 domain:cryptocompare.com
 domain:cryptographyengineering.com
+domain:cryptoid.info
 domain:cryptomus.com
 domain:crysis.jp
 domain:crystalgunnsworld.com
@@ -6587,6 +6591,7 @@ domain:delcamp.net
 domain:delcamtv.com
 domain:delcamuniversity.com
 domain:delcamusa.com
+domain:delets.cash
 domain:delets.online
 domain:delicious.com
 domain:delivery-club.ru
@@ -8752,6 +8757,7 @@ domain:fanatical.com
 domain:fanbox.cc
 domain:fandango.com
 domain:fandom.com
+domain:fanfiction.net
 domain:fanfictionero.com
 domain:fanfox.net
 domain:fangbinxing.com
@@ -9820,6 +9826,7 @@ domain:fundraisingwithfacebook.com
 domain:fundsupermart.com
 domain:funf.tw
 domain:funimation.com
+domain:funko.com
 domain:funkyimg.com
 domain:funnyfacebook.org
 domain:funnyordie.com
@@ -9942,6 +9949,7 @@ domain:game-platform.net
 domain:game-repack.site
 domain:game735.com
 domain:gameapps.hk
+domain:gamebanana.com
 domain:gamebeforethegame.com
 domain:gamebiz.jp
 domain:gamebusiness.jp
@@ -10210,6 +10218,7 @@ domain:getpocket.com
 domain:getporn.tv
 domain:getpricetag.com
 domain:getprintersupports.com
+domain:getsafety.com
 domain:getscorecash.com
 domain:getsentry.com
 domain:getsession.org
@@ -10390,6 +10399,8 @@ domain:glarity.app
 domain:glasamerike.net
 domain:glass8.eu
 domain:gleline.com
+domain:glitchprod.com
+domain:glitchproductions.store
 domain:glitchwave.com
 domain:global-sci.org
 domain:globaledu.org
@@ -14251,6 +14262,7 @@ domain:kun.im
 domain:kun66.xyz
 domain:kundun1069.com
 domain:kurashsultan.com
+domain:kurs.expert
 domain:kurtmunger.com
 domain:kusocity.com
 domain:kusugurizanmai.com
@@ -15005,6 +15017,7 @@ domain:makeitrealcontest.com
 domain:makemymood.com
 domain:makerepeater.jp
 domain:makesenseofdata.com
+domain:makeship.com
 domain:makeshop.jp
 domain:makingstartshere.com
 domain:makkahnewspaper.com
@@ -18176,6 +18189,7 @@ domain:ow.ly
 domain:owind.com
 domain:owl.li
 domain:owltail.com
+domain:ownaj.com
 domain:owo.nz
 domain:owxd.xyz
 domain:oxfordaasc.com
@@ -19754,6 +19768,7 @@ domain:pythonhackers.com
 domain:pythonhosted.org
 domain:pythonic.life
 domain:pytorch.org
+domain:pyup.io
 domain:pzforever.skin
 domain:pzforever01.homes
 domain:pzhanfor.today
@@ -19909,6 +19924,7 @@ domain:r18av.com
 domain:r18lu-avi.shop
 domain:r18lu.com
 domain:r2.dev
+domain:r2modman.com
 domain:r34porn.net
 domain:r4fo.com
 domain:ra.gg
@@ -20659,6 +20675,7 @@ domain:safeliner.tech
 domain:safepal.com
 domain:safervpn.com
 domain:safety.google
+domain:safetycli.com
 domain:saffrontech.com
 domain:sage-observability.tech
 domain:sagernet.org
@@ -22252,6 +22269,7 @@ domain:steamgames.com
 domain:steaminventoryhelper.com
 domain:steamladder.com
 domain:steamofporn.com
+domain:steamos.cloud
 domain:steampowered.com
 domain:steamserver.net
 domain:steamstatic.com
@@ -22949,6 +22967,7 @@ domain:tgirlcentral.com
 domain:tgirlpostop.com
 domain:tgp6.com
 domain:tgstat.com
+domain:tgtime.store
 domain:tgtube.com
 domain:tgutube.com
 domain:thai-xxx.com
@@ -23193,6 +23212,8 @@ domain:thumbzilla.com
 domain:thunderbird.net
 domain:thunderbolttechnology.net
 domain:thundermail.com
+domain:thunderstore.io
+domain:thunderstore.org
 domain:thywords.com
 domain:thz7.net
 domain:tiananmenduizhi.com
@@ -23397,6 +23418,7 @@ domain:tmdfish.com
 domain:tmei-taoyuan.com
 domain:tmi.me
 domain:tmiaf.ru
+domain:tmimgcdn.com
 domain:tmpp.org
 domain:tmsnrt.rs
 domain:tnaflix.com
@@ -25853,6 +25875,7 @@ domain:worldoftanks.com
 domain:worldoftanks.eu
 domain:worldofwarcraft.com
 domain:worldofwarplanes.com
+domain:worldofwarships.asia
 domain:worldofwarships.com
 domain:worldpopulationreview.com
 domain:worldpornvideos.com
@@ -26936,6 +26959,7 @@ domain:youshun12.com
 domain:youskbe.com
 domain:youthforfreechina.org
 domain:youthnetradio.org
+domain:youtooz.com
 domain:youtrack.cloud
 domain:youtrannytube.com
 domain:youtu.be
