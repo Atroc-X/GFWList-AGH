@@ -13803,6 +13803,7 @@ domain:jsdelivr.net
 domain:jsfiddle.net
 domain:jshell.net
 domain:jshint.com
+domain:jspm.io
 domain:jstv51.com
 domain:jstv52.com
 domain:jstv53.com
