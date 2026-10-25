@@ -40,6 +40,7 @@ domain:11jav.com
 domain:123-hp.com
 domain:123av.com
 domain:123av.me
+domain:123av.org
 domain:123bin.cc
 domain:123dapp.com
 domain:123dappipad.com
@@ -191,6 +192,7 @@ domain:1password.ca
 domain:1password.co
 domain:1password.com
 domain:1password.community
+domain:1password.dev
 domain:1password.eu
 domain:1password.io
 domain:1passwordservices.com
@@ -5094,6 +5096,10 @@ domain:cdp1989.org
 domain:cdp1998.org
 domain:cdp2006.org
 domain:cdpeu.org
+domain:cdpred.services
+domain:cdprojekt.com
+domain:cdprojekt.red
+domain:cdprojektred.com
 domain:cdpusa.org
 domain:cdpweb.org
 domain:cdpwu.org
@@ -6317,6 +6323,7 @@ domain:cybercrimecon.com
 domain:cyberctm.com
 domain:cyberghostvpn.com
 domain:cybermondaybeats4sale.com
+domain:cyberpunk.net
 domain:cybersport.ru
 domain:cyberx.com
 domain:cygames.jp
@@ -14077,6 +14084,7 @@ domain:killwall.com
 domain:kilmeadeandfriends.com
 domain:kimchi.tv
 domain:kimogirl.cc
+domain:kimootoko.net
 domain:kimosex.com
 domain:kindgirls.com
 domain:kindindianporn.com
@@ -15939,6 +15947,7 @@ domain:miniwindsor.com
 domain:miniworkshop.com
 domain:miniyaletown.ca
 domain:minjian-danganguan.org
+domain:minkch.com
 domain:minnano-av.com
 domain:minne.com
 domain:minneapolisbmw.com
@@ -16079,6 +16088,7 @@ domain:moedigi.com
 domain:moeero-library.com
 domain:moeerolibrary.com
 domain:moefuns.co
+domain:moegirl.org
 domain:moeimg.net
 domain:moeli-desu.com
 domain:moemax.net
@@ -17389,6 +17399,7 @@ domain:nixos.wiki
 domain:nixpkgs.org
 domain:niziero.info
 domain:njactb.org
+domain:njav.com
 domain:njav.tv
 domain:njavtv.com
 domain:njpw1972.com
@@ -18091,7 +18102,6 @@ domain:oreilly.review
 domain:oreillystatic.com
 domain:oreno3d.com
 domain:org.au
-domain:org.cn
 domain:org.hk
 domain:org.il
 domain:org.mx
@@ -18909,6 +18919,7 @@ domain:playfab.com
 domain:playfabapi.com
 domain:playfamily.ru
 domain:playforceone.com
+domain:playgwent.com
 domain:playhearthstone.com
 domain:playmation.com
 domain:playmeow.com
@@ -18961,6 +18972,7 @@ domain:pmates.com
 domain:pmem.org
 domain:pmem.us
 domain:pmhcjk.com
+domain:po-kaki-to.com
 domain:po18.tw
 domain:po2b.com
 domain:pobeda.page
@@ -23153,6 +23165,7 @@ domain:theweek.com
 domain:theweek.in
 domain:thewgo.org
 domain:thewirechina.com
+domain:thewitcher.com
 domain:thewitnesshk.com
 domain:thewonderful101.com
 domain:theync.com
@@ -26248,6 +26261,9 @@ domain:xn--cck4d8b3009a.com
 domain:xn--czq75pvv1aj5c.org
 domain:xn--d1abkf4ap.fun
 domain:xn--d4ty0ojsqzfd.com
+domain:xn--fiq80y.hk
+domain:xn--fiq80y3xbiwr.hk
+domain:xn--fiq80y3xbiwrs0kiu9d.hk
 domain:xn--fiqs8s1bxp3anr7a.hk
 domain:xn--fiqs8s1byzqyvl.hk
 domain:xn--flw351e.com
@@ -27360,6 +27376,7 @@ domain:zorglist.com
 domain:zorrovpn.com
 domain:zotero.org
 domain:zozotown.com
+domain:zozovideo.com
 domain:zpagov.net
 domain:zpath.com
 domain:zpn.im
