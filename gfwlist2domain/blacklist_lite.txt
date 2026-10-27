@@ -842,6 +842,7 @@ domain:addthis.com
 domain:addthiscdn.com
 domain:addthisedge.com
 domain:addtoany.com
+domain:addtodropbox.com
 domain:addyoutube.com
 domain:adelaidebbs.com
 domain:adgoogle.net
@@ -6457,6 +6458,7 @@ domain:darwinsource.com
 domain:darwinsource.org
 domain:darwinsourcecode.com
 domain:dasaob.online
+domain:dash.ai
 domain:dashlane.com
 domain:dashly.app
 domain:dashly.help
@@ -7192,6 +7194,7 @@ domain:docs.com
 domain:docs.new
 domain:docs.rs
 domain:docs.rw
+domain:docsend.com
 domain:doctor-videos.com
 domain:doctorvoice.org
 domain:documentforce.com
@@ -7398,12 +7401,15 @@ domain:dropbox.tech
 domain:dropboxapi.com
 domain:dropboxbusiness.com
 domain:dropboxcaptcha.com
+domain:dropboxexperiment.com
 domain:dropboxforum.com
 domain:dropboxforums.com
 domain:dropboxinsiders.com
+domain:dropboxlegal.com
 domain:dropboxmail.com
 domain:dropboxpartners.com
 domain:dropboxstatic.com
+domain:dropboxteam.com
 domain:dropboxusercontent.com
 domain:droplr.com
 domain:drpc.org
@@ -11285,9 +11291,11 @@ domain:heise360182.buzz
 domain:helixstudios.net
 domain:helloandroid.com
 domain:helloavgirls.com
+domain:hellofax.com
 domain:hellokittybeats.com
 domain:hellomoto.com
 domain:helloqueer.com
+domain:hellosign.com
 domain:hellosmartbook.com
 domain:helloss.pw
 domain:hellotalk.com
@@ -14510,6 +14518,7 @@ domain:libraryinformationtechnology.com
 domain:librarylovefest.com
 domain:libraryofthumbs.com
 domain:libredd.it
+domain:librewolf.dev
 domain:librewolf.net
 domain:libsolutions.app
 domain:libsolutions.domains

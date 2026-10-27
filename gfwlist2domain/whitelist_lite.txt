@@ -33695,6 +33695,7 @@ domain:filfox.info
 domain:fillersmart.com
 domain:fillseo.com
 domain:film-yuelongchina.com
+domain:filmorigin.com
 domain:fily.fun
 domain:fim34s.com
 domain:fimmu.com
@@ -55954,6 +55955,7 @@ domain:kakamobi.com
 domain:kakappt.com
 domain:kakashuzi.net
 domain:kakatx.com
+domain:kakaxing.com
 domain:kakayuy.net
 domain:kaken-china.com
 domain:kaku-scdn.com
