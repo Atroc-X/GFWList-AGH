@@ -2861,6 +2861,7 @@ domain:arteldoc.com
 domain:arteldoc.tv
 domain:articles.sk
 domain:artifact.ac.uk
+domain:artificialanalysis.ai
 domain:artixlinux.org
 domain:artnudegalleries.com
 domain:artoferotica.info
@@ -7385,6 +7386,7 @@ domain:climate-lab-book.ac.uk
 domain:climate-server.com
 domain:climatechangewales.ac.uk
 domain:climb.ac.uk
+domain:cline.bot
 domain:clinica-tibet.ru
 domain:clinical-videos.com
 domain:clinicalkey.com
@@ -7863,6 +7865,7 @@ domain:comm-coll-hackney.ac.uk
 domain:comm-verse.com
 domain:commandandconquer.com
 domain:commandarms.com
+domain:commandcode.ai
 domain:comments.app
 domain:commentshk.com
 domain:commerceos.com
@@ -7949,6 +7952,7 @@ domain:content.office.net
 domain:contentful.com
 domain:contest.com
 domain:contests.twilio.com
+domain:context7.com
 domain:convio.net
 domain:conviva.com
 domain:convrgencegame.com
@@ -20605,6 +20609,7 @@ domain:messytube.com
 domain:met-nude.com
 domain:meta.ai
 domain:meta.com
+domain:metaaiusercontent.com
 domain:metaaivm.com
 domain:metabolomics.ac.uk
 domain:metabora.io
@@ -23307,6 +23312,7 @@ domain:nottinghampost.com
 domain:nottinghamtrentadfs.ac.uk
 domain:nottm-coll.ac.uk
 domain:nottsmaternity.ac.uk
+domain:nousresearch.com
 domain:novafile.com
 domain:novelai.net
 domain:novelasia.com
@@ -31245,6 +31251,7 @@ domain:thinkhk.com
 domain:thinking3d.ac.uk
 domain:thinkingtaiwan.com
 domain:thinkofliving.com
+domain:thinkorswim.com
 domain:thinkquarterly.co.uk
 domain:thinkquarterly.com
 domain:thinkwales.ac.uk

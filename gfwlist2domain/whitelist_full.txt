@@ -79516,7 +79516,9 @@ domain:sh-nemoto.com
 domain:sh-oca.com
 domain:sh-pet.com
 domain:sh-pn.com
+domain:sh-pod1-smp-device.apple.com
 domain:sh-pod2-smp-device.apple.com
+domain:sh-pod3-smp-device.apple.com
 domain:sh-pp.com
 domain:sh-printing.com
 domain:sh-prosperity.com

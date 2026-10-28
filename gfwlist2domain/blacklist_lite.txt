@@ -2238,6 +2238,7 @@ domain:artel.watch
 domain:arteldoc.com
 domain:arteldoc.tv
 domain:articles.sk
+domain:artificialanalysis.ai
 domain:artixlinux.org
 domain:artnudegalleries.com
 domain:artoferotica.info
@@ -5598,6 +5599,7 @@ domain:click-url.com
 domain:clickme.net
 domain:clien.net
 domain:climate-server.com
+domain:cline.bot
 domain:clinica-tibet.ru
 domain:clinical-videos.com
 domain:clinicalkey.com
@@ -5972,6 +5974,7 @@ domain:comixzilla.com
 domain:comm-verse.com
 domain:commandandconquer.com
 domain:commandarms.com
+domain:commandcode.ai
 domain:comments.app
 domain:commentshk.com
 domain:commerceos.com
@@ -6031,6 +6034,7 @@ domain:containersonaws.com
 domain:contechacademy.com
 domain:contentful.com
 domain:contest.com
+domain:context7.com
 domain:convio.net
 domain:conviva.com
 domain:convrgencegame.com
@@ -15489,6 +15493,7 @@ domain:messytube.com
 domain:met-nude.com
 domain:meta.ai
 domain:meta.com
+domain:metaaiusercontent.com
 domain:metaaivm.com
 domain:metabora.io
 domain:metabrainz.org
@@ -17495,6 +17500,7 @@ domain:notion.site
 domain:notion.so
 domain:notionusercontent.com
 domain:nottinghampost.com
+domain:nousresearch.com
 domain:novafile.com
 domain:novelai.net
 domain:novelasia.com
@@ -23194,6 +23200,7 @@ domain:thinkgeek.com
 domain:thinkhk.com
 domain:thinkingtaiwan.com
 domain:thinkofliving.com
+domain:thinkorswim.com
 domain:thinkquarterly.com
 domain:thinkwithgoogle.com
 domain:thirdmill.org
