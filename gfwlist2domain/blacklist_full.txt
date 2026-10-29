@@ -7550,7 +7550,6 @@ domain:cnet.co.kr
 domain:cnet.com
 domain:cnet.de
 domain:cnetfrance.fr
-domain:cnex.org.cn
 domain:cnineu.com
 domain:cnivogue.com.au
 domain:cnix-gov-cn.com
@@ -17614,6 +17613,7 @@ domain:iutunes.com
 domain:ivacy.com
 domain:iverycd.com
 domain:ivi.ru
+domain:ivi.tv
 domain:ivicdn.tv
 domain:ivintageporn.com
 domain:ivonblog.com
