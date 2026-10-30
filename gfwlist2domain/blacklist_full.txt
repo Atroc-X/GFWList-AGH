@@ -2227,6 +2227,7 @@ domain:antf.ac.uk
 domain:anthemgame.com
 domain:anthemthegame.com
 domain:anthonycalzadilla.com
+domain:anthropic.auth0.com
 domain:anthropic.com
 domain:anthropic.team
 domain:anthropology.ac.uk
@@ -5801,6 +5802,7 @@ domain:bsixbrookehouse.ac.uk
 domain:bsixbrookehousesixthformcollege.ac.uk
 domain:bsixcollege.ac.uk
 domain:bsky.app
+domain:bsky.chat
 domain:bsky.network
 domain:bsky.social
 domain:bsls.ac.uk

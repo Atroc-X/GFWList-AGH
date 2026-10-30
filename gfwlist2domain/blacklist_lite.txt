@@ -4525,6 +4525,7 @@ domain:bscdnweb.com
 domain:bsersd.xyz
 domain:bsi.ir
 domain:bsky.app
+domain:bsky.chat
 domain:bsky.network
 domain:bsky.social
 domain:bspb.ru
