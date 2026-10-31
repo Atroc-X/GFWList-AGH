@@ -121,6 +121,7 @@ domain:18comic-god.club
 domain:18comic-god.xyz
 domain:18comic.cc
 domain:18comic.company
+domain:18comic.ink
 domain:18comic.org
 domain:18comic.vip
 domain:18commic.com
@@ -3654,6 +3655,7 @@ domain:bingapistatistics.com
 domain:bingoporno.com
 domain:bingparachute.com
 domain:bingsandbox.com
+domain:bingstatic.com
 domain:bingvisualsearch.com
 domain:bingworld.com
 domain:bingx.com
@@ -10392,6 +10394,7 @@ domain:githubapp.com
 domain:githubassets.com
 domain:githubcopilot.com
 domain:githubhackathon.com
+domain:githubhelp.com
 domain:githubnext.com
 domain:githubpreview.dev
 domain:githubstatus.com
@@ -16413,6 +16416,7 @@ domain:msftconnecttest.com
 domain:msfteducation.ca
 domain:msftncsi.com
 domain:msftnet.org
+domain:msftstatic.com
 domain:msgamesresearch.com
 domain:msgamestudios.com
 domain:msguancha.com
@@ -23366,9 +23370,12 @@ domain:tiktokcdn.com
 domain:tiktokeu-cdn.com
 domain:tiktokglobalshopv.com
 domain:tiktokminis.us
+domain:tiktokshop.com
+domain:tiktokstaticb.com
 domain:tiktokv.com
 domain:tiktokv.eu
 domain:tiktokv.us
+domain:tiktokvapp.com
 domain:tiktokw.eu
 domain:tiktokw.us
 domain:tilda.cc
@@ -23574,6 +23581,7 @@ domain:toroporno.com
 domain:torproject.org
 domain:torrentgalaxy.to
 domain:torrentkitty.tv
+domain:torrentleech.org
 domain:torrentleen.com
 domain:torrentmac.net
 domain:torrentprivacy.com
@@ -27088,6 +27096,7 @@ domain:youtubego.in
 domain:youtubekids.com
 domain:youtubemobilesupport.com
 domain:youversion.com
+domain:youversionapi.com
 domain:youwin.com
 domain:youwuss.com
 domain:youx.xxx
