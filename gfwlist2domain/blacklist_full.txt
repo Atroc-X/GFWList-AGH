@@ -4965,6 +4965,7 @@ domain:bmfinn.com
 domain:bmi.ir
 domain:bmia.org
 domain:bml.info
+domain:bmonkeys.net
 domain:bms.ac.uk
 domain:bmth-poole-cad.ac.uk
 domain:bmth.ac.uk
@@ -5407,6 +5408,7 @@ domain:boj.or.jp
 domain:bokep.net
 domain:bokepseks.org
 domain:bokepvidz.com
+domain:boldgrid.com
 domain:bolehvpn.net
 domain:bollywoodlife.com
 domain:bolt.ac.uk
@@ -7494,6 +7496,7 @@ domain:cloudskillsboost.google
 domain:cloudsync-prod.s3.amazonaws.com
 domain:cloudvolumes.com
 domain:cloudworks.ac.uk
+domain:cloudwp.dev
 domain:cloudyzgirl.com
 domain:cloupia.com
 domain:cloupia.net
@@ -29966,6 +29969,7 @@ domain:steamladder.com
 domain:steammobile.akamaized.net
 domain:steamofporn.com
 domain:steamos.cloud
+domain:steampeek.hu
 domain:steampipe-kr.akamaized.net
 domain:steampipe-partner.akamaized.net
 domain:steampipe.akamaized.net
@@ -33810,6 +33814,7 @@ domain:vodafone.com.tr
 domain:vodafone.de
 domain:vodafone.it
 domain:vodafone.nl
+domain:vodafoneziggo.nl
 domain:voi.id
 domain:voicettank.org
 domain:voila.ac.uk
@@ -34381,7 +34386,9 @@ domain:webex.com.mx
 domain:webex.de
 domain:webex.es
 domain:webex.fr
+domain:webflow-ext.com
 domain:webflow.com
+domain:webflow.io
 domain:webfreer.com
 domain:webgata.net
 domain:webgirlsonline.net
@@ -34412,6 +34419,7 @@ domain:webrush.net
 domain:webs-tv.net
 domain:websdr.org
 domain:webshare.io
+domain:website-files.com
 domain:website.new
 domain:websitepulse.com
 domain:websnapr.com
@@ -36777,6 +36785,7 @@ domain:zi.media
 domain:zi5.me
 domain:zibacity.com
 domain:ziddu.com
+domain:ziggo.nl
 domain:ziglang.org
 domain:zigzag.kr
 domain:zillionk.com

@@ -3929,6 +3929,7 @@ domain:bmfinn.com
 domain:bmi.ir
 domain:bmia.org
 domain:bml.info
+domain:bmonkeys.net
 domain:bmw-abudhabi.com
 domain:bmw-adventskalender.com
 domain:bmw-albania.com
@@ -4282,6 +4283,7 @@ domain:boingboing.net
 domain:bokep.net
 domain:bokepseks.org
 domain:bokepvidz.com
+domain:boldgrid.com
 domain:bolehvpn.net
 domain:bollywoodlife.com
 domain:boltdns.net
@@ -5690,6 +5692,7 @@ domain:cloudproxy.app
 domain:cloudrobotics.com
 domain:cloudskillsboost.google
 domain:cloudvolumes.com
+domain:cloudwp.dev
 domain:cloudyzgirl.com
 domain:cloupia.com
 domain:cloupia.net
@@ -22308,6 +22311,7 @@ domain:steaminventoryhelper.com
 domain:steamladder.com
 domain:steamofporn.com
 domain:steamos.cloud
+domain:steampeek.hu
 domain:steampowered.com
 domain:steamserver.net
 domain:steamstatic.com
@@ -25038,6 +25042,7 @@ domain:vodafone.com
 domain:vodafone.de
 domain:vodafone.it
 domain:vodafone.nl
+domain:vodafoneziggo.nl
 domain:voi.id
 domain:voicettank.org
 domain:vokevr.com
@@ -25496,7 +25501,9 @@ domain:webex.com
 domain:webex.de
 domain:webex.es
 domain:webex.fr
+domain:webflow-ext.com
 domain:webflow.com
+domain:webflow.io
 domain:webfreer.com
 domain:webgata.net
 domain:webgirlsonline.net
@@ -25523,6 +25530,7 @@ domain:webrush.net
 domain:webs-tv.net
 domain:websdr.org
 domain:webshare.io
+domain:website-files.com
 domain:website.new
 domain:websitepulse.com
 domain:websnapr.com
@@ -27320,6 +27328,7 @@ domain:zi.media
 domain:zi5.me
 domain:zibacity.com
 domain:ziddu.com
+domain:ziggo.nl
 domain:ziglang.org
 domain:zigzag.kr
 domain:zillionk.com
