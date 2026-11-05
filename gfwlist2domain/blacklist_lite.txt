@@ -3338,6 +3338,7 @@ domain:beget.app
 domain:beget.cloud
 domain:beget.com
 domain:beget.de
+domain:beget.email
 domain:beget.hosting
 domain:beget.pro
 domain:beget.ru
@@ -14572,6 +14573,9 @@ domain:lilaoshibushinilaoshi.com
 domain:lilhumpers.com
 domain:liliav.com
 domain:lilith-soft.com
+domain:limbuscompany.global
+domain:limbuscompanyapi.com
+domain:limbuscompanycdn.org
 domain:limedia.tw
 domain:limelight.com
 domain:limelight.moe
@@ -19627,6 +19631,7 @@ domain:projectbaseline.com
 domain:projectcircuitbreaker.com
 domain:projecteuclid.org
 domain:projectjav.com
+domain:projectmoon.studio
 domain:projectmurphy.net
 domain:projectpoint.com
 domain:projectpoint.net
@@ -21632,6 +21637,7 @@ domain:skills.sh
 domain:skillshare.com
 domain:skimtube.com
 domain:skinstrip.net
+domain:skinswap.com
 domain:skintone.google
 domain:skk.moe
 domain:skokka.com
