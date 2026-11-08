@@ -6488,6 +6488,7 @@ domain:data18.com
 domain:databank.ru
 domain:datacenters.google
 domain:datacloudmy.com
+domain:datadoghq.com
 domain:dataframeworks.com
 domain:datalabour.com
 domain:dataliberation.org
@@ -10941,6 +10942,7 @@ domain:greginhollywood.com
 domain:gridaware.app
 domain:grindr.com
 domain:grok.com
+domain:grokbot.com
 domain:grokipedia.com
 domain:grooby.com
 domain:groq.com

@@ -8697,6 +8697,7 @@ domain:databank.worldbank.org
 domain:database.asahi.com
 domain:datacenters.google
 domain:datacloudmy.com
+domain:datadoghq.com
 domain:dataframeworks.com
 domain:datafuturesalphapilot.ac.uk
 domain:datagrid.ac.uk
@@ -14485,6 +14486,7 @@ domain:grimsby.ac.uk
 domain:grimsbytec.ac.uk
 domain:grindr.com
 domain:grok.com
+domain:grokbot.com
 domain:grokipedia.com
 domain:grooby.com
 domain:groq.com
@@ -15961,6 +15963,7 @@ domain:html5rocks.com
 domain:htnewbooks.com
 domain:htp.ac.uk
 domain:hts.ac.uk
+domain:http-intake.logs.us5.datadoghq.com
 domain:httpfacebook.com
 domain:https443.net
 domain:https443.org
@@ -23762,6 +23765,7 @@ domain:nzchinese.com
 domain:nzchinese.net.nz
 domain:o-courier.ru
 domain:o-uchi.ru
+domain:o1158394.ingest.us.sentry.io
 domain:o2action.co.kr
 domain:o3.ru
 domain:o365weve-dev.com
@@ -26036,6 +26040,7 @@ domain:prodcontest.com
 domain:prodforza.blob.core.windows.net
 domain:prodrive-japan.com
 domain:product.co.jp
+domain:production-copilot-host-westus.webpubsub.azure.com
 domain:production-openaicom-storage.azureedge.net
 domain:productionresultssa0.blob.core.windows.net
 domain:productionresultssa1.blob.core.windows.net
