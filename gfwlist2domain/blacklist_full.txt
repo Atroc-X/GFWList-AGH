@@ -14388,6 +14388,8 @@ domain:graduateconnection.ac.uk
 domain:graduateoutcomes.ac.uk
 domain:graduateswales.ac.uk
 domain:graduatewales.ac.uk
+domain:grafana.com
+domain:grafana.net
 domain:grafolio.com
 domain:graias.com
 domain:graiasmovies.com
@@ -26448,6 +26450,7 @@ domain:queens-belfast.ac.uk
 domain:queens.ac.uk
 domain:queensu.ac.uk
 domain:quercus.ac.uk
+domain:questionablequesting.com
 domain:questvisual.com
 domain:quicinc.com
 domain:quickbook.com.br
@@ -29512,6 +29515,7 @@ domain:soylent.com
 domain:soylentnews.org
 domain:sp.cool
 domain:spa.ac.uk
+domain:spacebattles.com
 domain:spaceexplored.com
 domain:spaceforce.mil
 domain:spacely.com.au
