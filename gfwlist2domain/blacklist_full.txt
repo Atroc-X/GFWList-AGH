@@ -2739,6 +2739,7 @@ domain:appstore.co.id
 domain:appstore.hk
 domain:appstore.my
 domain:appstore.ph
+domain:appteka.store
 domain:appule.com
 domain:appye.com
 domain:appyq.com
