@@ -6570,6 +6570,7 @@ domain:deasians.com
 domain:debalie.nl
 domain:debank.com
 domain:debian.org
+domain:debot.ai
 domain:debug.com
 domain:debugproject.com
 domain:decentr.net
@@ -20290,6 +20291,7 @@ domain:releaseinternational.org
 domain:religionnews.com
 domain:religioustolerance.org
 domain:remirepo.net
+domain:remna.dev
 domain:remna.st
 domain:rencapbank.ru
 domain:renchead.com

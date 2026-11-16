@@ -18101,6 +18101,7 @@ domain:caps-china.org
 domain:capsuleshanghai.com
 domain:captain-cro.com
 domain:captainbi.com
+domain:captive.apple.com
 domain:capturetheflag.fun
 domain:capvision.com
 domain:capwhale.com
@@ -24118,6 +24119,7 @@ domain:conergas.net
 domain:conew.com
 domain:configuration.apple.com
 domain:configuration.apple.com.akadns.net
+domain:configuration.ls.apple.com
 domain:confluxrpc.com
 domain:conghua.com
 domain:congmiqq.com
@@ -66209,6 +66211,7 @@ domain:musicedu8.com
 domain:musiceol.com
 domain:musicgw.com
 domain:musiclemon.net
+domain:musicstatus.itunes.apple.com
 domain:musicstatus.music.apple.com
 domain:musiness.vip
 domain:muslimwww.com
@@ -66771,6 +66774,7 @@ domain:mzsemi.com
 domain:mzsmn.com
 domain:mzsrmyy.com
 domain:mzssysmyxgs.com
+domain:mzstorekit.itunes.apple.com
 domain:mzsvn.com
 domain:mztgame.com
 domain:mztspa.com
