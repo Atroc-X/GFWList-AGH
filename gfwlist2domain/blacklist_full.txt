@@ -8466,6 +8466,7 @@ domain:cybertrust.ne.jp
 domain:cyberx.com
 domain:cyclops-network.ac.uk
 domain:cygames.co.jp
+domain:cygames.com
 domain:cygames.jp
 domain:cygwin.com
 domain:cylink.pro
@@ -36175,6 +36176,7 @@ domain:yaya.cyou
 domain:yayabay.com
 domain:yayadizhi.xyz
 domain:yazhouse8.com
+domain:yb-payment.ru
 domain:ycc.ac.uk
 domain:yccdn.ru
 domain:yclients.com

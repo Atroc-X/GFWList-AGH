@@ -6342,6 +6342,7 @@ domain:cybermondaybeats4sale.com
 domain:cyberpunk.net
 domain:cybersport.ru
 domain:cyberx.com
+domain:cygames.com
 domain:cygames.jp
 domain:cygwin.com
 domain:cylink.pro
@@ -26849,6 +26850,7 @@ domain:yaya.cyou
 domain:yayabay.com
 domain:yayadizhi.xyz
 domain:yazhouse8.com
+domain:yb-payment.ru
 domain:yccdn.ru
 domain:yclients.com
 domain:ycombinator.com
