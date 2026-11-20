@@ -67,6 +67,9 @@
 # Exclude
 (*&*)xn--wcvs22d1m.hk
 
+# partnersonline
+(@&!)partnersonline.com
+
 # AcgnX
 (@&!)share.acgnx.net
 (@&!)share.acgnx.se
