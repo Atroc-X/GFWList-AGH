@@ -24609,6 +24609,7 @@ domain:parstream.org
 domain:particlephysics.ac.uk
 domain:partmaker.com
 domain:partneriaethaberbangor.ac.uk
+domain:partnersonline.com
 domain:partnerstack.xyz
 domain:partycasino.com
 domain:partylikeits1986.org
@@ -29446,6 +29447,7 @@ domain:soubory.com
 domain:souka.xyz
 domain:soul-plus.net
 domain:soulcaliburhentai.net
+domain:soulogic.com
 domain:soumo.info
 domain:sound-heritage.ac.uk
 domain:soundcloud.cloud
