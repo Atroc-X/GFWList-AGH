@@ -5750,7 +5750,6 @@ domain:cnnmoneystream.com
 domain:cnnpolitics.com
 domain:cnpolitics.org
 domain:cnproxy.com
-domain:cnshopin.com
 domain:cnyes.com
 domain:cnzjp.xyz
 domain:co.ae
@@ -10937,6 +10936,7 @@ domain:greatroc.org
 domain:greatroc.tw
 domain:greatzhonghua.org
 domain:green-box-tv.com
+domain:greenbean.media
 domain:greenbuildingstudio.com
 domain:greenlakeaas.com
 domain:greenlakehybridcloud.com
@@ -11633,9 +11633,11 @@ domain:hkchronicles.com
 domain:hkchurch.org
 domain:hkcircleapp.com
 domain:hkcitizenmedia.com
+domain:hkcitycreation.com
 domain:hkcmi.edu
 domain:hkcnews.com
 domain:hkcoc.com
+domain:hkcourtnews.com
 domain:hkcsl.com
 domain:hkday.net
 domain:hkdc.us
@@ -11649,6 +11651,7 @@ domain:hkf2023.lat
 domain:hkf202311.site
 domain:hkf202312.shop
 domain:hkfaa.com
+domain:hkfeature.com
 domain:hkfreezone.com
 domain:hkfront.org
 domain:hkgalden.com
@@ -14554,6 +14557,7 @@ domain:lifeatspotify.com
 domain:lifeattiktok.com
 domain:lifemiles.com
 domain:lifeselector.com
+domain:lifesitenews.com
 domain:lifestyle-tec.ru
 domain:lifewire.com
 domain:ligamx.net
@@ -15203,6 +15207,7 @@ domain:massage-in-taipei.com
 domain:massagerepublic.com
 domain:masseffect.com
 domain:masseffectarchives.com
+domain:master-insight.com
 domain:mastercad.com
 domain:mastercard-email.com
 domain:mastercard.ae
@@ -21327,6 +21332,7 @@ domain:shambalapost.com
 domain:shambhalasun.com
 domain:shameless.com
 domain:shangfang.org
+domain:shanghainationalparty.com
 domain:shanxivideo.com
 domain:shaparak.ir
 domain:shapelcounset.xyz
@@ -23083,6 +23089,7 @@ domain:theclasshroom.com
 domain:thecleversense.com
 domain:theclubprive.com
 domain:theclyster.com
+domain:thecollectivehk.com
 domain:thecompaqstore.com
 domain:theconversation.com
 domain:thecuckold.com
@@ -23149,6 +23156,7 @@ domain:thenewporn.com
 domain:thenewslens.com
 domain:thenextweb.com
 domain:thenipslip.com
+domain:theonlinecitizen.com
 domain:theopportunityproject.org
 domain:thepaypalshop.com
 domain:thepervs.com
@@ -25897,6 +25905,7 @@ domain:wolfberries.ru
 domain:wolframalpha.com
 domain:wolfsex-me.sbs
 domain:wolterskluwer.com
+domain:womany.net
 domain:wombo.ai
 domain:womensnikeshox.com
 domain:womenwill.com
