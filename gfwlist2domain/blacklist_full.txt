@@ -5609,6 +5609,7 @@ domain:bravoporn.com
 domain:bravoteens.com
 domain:bravotube.net
 domain:bravotube.tv
+domain:bravotv.com
 domain:brawlstars.com
 domain:brawlstarsgame.com
 domain:brazilpartneruniversity.com
@@ -7554,6 +7555,7 @@ domain:cn6.eu
 domain:cna.com.tw
 domain:cnbbnews.wordpress.com
 domain:cnbc.com
+domain:cnbccouncils.com
 domain:cnbcfm.com
 domain:cnbeta.com.tw
 domain:cncrivals.com
@@ -11835,6 +11837,7 @@ domain:fantom.foundation
 domain:fantom.network
 domain:fantv.hk
 domain:fanyue.info
+domain:fanza.jp
 domain:fap-xxx.com
 domain:fap18.net
 domain:fap666.com
@@ -12432,6 +12435,7 @@ domain:fnmt.es
 domain:foampositeshoes.com
 domain:fochk.org
 domain:focus.ac.uk
+domain:focusfeatures.com
 domain:focustaiwan.tw
 domain:focusvpn.com
 domain:fofg-europe.net
@@ -14813,6 +14817,7 @@ domain:hayav.com
 domain:hayday.com
 domain:haydaygame.com
 domain:hayle.ac.uk
+domain:hayu.com
 domain:haywardsheath.ac.uk
 domain:hayya.ae
 domain:hb.imgix.net
@@ -16667,6 +16672,7 @@ domain:ilife.wang
 domain:illawarramercury.com.au
 domain:illgames.jp
 domain:illianacomputerrecycling.com
+domain:illumination.com
 domain:illusion.co.jp
 domain:illusion.jp
 domain:illusion111.com
@@ -22365,8 +22371,11 @@ domain:nbcol.ac.uk
 domain:nbcolympics.com
 domain:nbcsports.com
 domain:nbcudigitaladops.com
+domain:nbcumv.com
 domain:nbcuni.com
+domain:nbcunicareers.com
 domain:nbcuniversal.com
+domain:nbcuniversalprivacy.com
 domain:nbdh15.buzz
 domain:nbe.ac.uk
 domain:nbi.ac.uk
@@ -27004,6 +27013,7 @@ domain:renu.ac.uk
 domain:renyurenquan.org
 domain:renzhe.cloud
 domain:repe21.com
+domain:replit.com
 domain:repo.new
 domain:report-megafon.ru
 domain:repositorynet.ac.uk
@@ -30929,6 +30939,7 @@ domain:telegramdownload.com
 domain:telegraph.co.uk
 domain:telekom.com
 domain:telekom.de
+domain:telemundo.com
 domain:telephony.goog
 domain:telerik.com
 domain:telesco.pe
@@ -31783,6 +31794,7 @@ domain:torrentproject.se
 domain:torrenty.org
 domain:torrentz.eu
 domain:torrindex.net
+domain:tortoisegit.org
 domain:tortoisesvn.net
 domain:torvpn.com
 domain:tosh.comedycentral.com
@@ -32568,6 +32580,7 @@ domain:udndata.com
 domain:udnfunlife.com
 domain:udomain.hk
 domain:udtrucksmeena.com
+domain:udxfpp.com
 domain:uea.ac.uk
 domain:ueberamazon.de
 domain:uec.ac.uk
@@ -32784,11 +32797,18 @@ domain:unity.ac.uk
 domain:unity.com
 domain:unity3d.com
 domain:univault.ac.uk
+domain:universalbeijingresort.com
+domain:universalhorrorunleashed.com
+domain:universalkidsresort.com
 domain:universalorlando.com
+domain:universalpictures.co.uk
 domain:universalpictures.com
+domain:universalpicturesathome.com
 domain:universalpicturesinternational.com
+domain:universalproductsexperiences.com
 domain:universalscalablefirmware.org
 domain:universalstudioshollywood.com
+domain:universalukproject.co.uk
 domain:universities-scotland.ac.uk
 domain:universitiesengland.ac.uk
 domain:universitiesfornottingham.ac.uk
@@ -32870,6 +32890,7 @@ domain:upenn.edu
 domain:upfrontcfd.com
 domain:upfrontfea.com
 domain:upghsbc.com
+domain:uphe.com
 domain:upholdjustice.org
 domain:upi.com
 domain:upjav.cc
@@ -32952,6 +32973,7 @@ domain:usgs.gov
 domain:ushare.ac.uk
 domain:ushaw.ac.uk
 domain:ushmm.org
+domain:usj.co.jp
 domain:usma.edu
 domain:usmart.hk
 domain:usmc.mil
