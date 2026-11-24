@@ -13430,6 +13430,7 @@ domain:gemini.com
 domain:gemini.google
 domain:geminiweb-pa.clients.google.com
 domain:geminiweb-pa.clients6.google.com
+domain:gemma.ai
 domain:gen.lib.rus.ec
 domain:gen.tr
 domain:gen2.ac.uk

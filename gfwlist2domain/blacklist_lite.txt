@@ -10171,6 +10171,7 @@ domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
 domain:gemini.google
+domain:gemma.ai
 domain:gen.tr
 domain:genbank.ru
 domain:gencraft.com
