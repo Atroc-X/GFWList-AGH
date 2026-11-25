@@ -6108,6 +6108,7 @@ domain:cabot.ac.uk
 domain:cachefly.com
 domain:cachefly.net
 domain:cachinese.com
+domain:cachix.org
 domain:cacnews.ca
 domain:cacnw.com
 domain:cactusvpn.com
@@ -8080,6 +8081,7 @@ domain:coursera-for-business.org
 domain:coursera.community
 domain:coursera.help
 domain:coursera.org
+domain:courses.myecnu.org
 domain:courtauld.ac.uk
 domain:cov.ac.uk
 domain:covcollege.ac.uk
@@ -11916,10 +11918,12 @@ domain:fastindianporn.com
 domain:fastlane.ci
 domain:fastlane.tools
 domain:fastly-edge.com
+domain:fastly-insights.com
 domain:fastly-terrarium.com
 domain:fastly.com
 domain:fastly.io
 domain:fastly.net
+domain:fastlydns.net
 domain:fastlylabs.com
 domain:fastlylb.net
 domain:fastmail.com
@@ -22025,6 +22029,7 @@ domain:myds.me
 domain:myeasytv.com
 domain:myebay.com
 domain:myeclipseide.com
+domain:myecnu.org
 domain:myenvy.ru
 domain:myeplg.ac.uk
 domain:myerscough.ac.uk
@@ -33712,6 +33717,7 @@ domain:vivahentai4u.net
 domain:vivaldi.com
 domain:vivatube.com
 domain:vivaxnxx.com
+domain:vivox.com
 domain:vivthomas.com
 domain:vixen.com
 domain:vixengroup.com

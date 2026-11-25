@@ -4752,6 +4752,7 @@ domain:cabletvdirectv.com
 domain:cachefly.com
 domain:cachefly.net
 domain:cachinese.com
+domain:cachix.org
 domain:cacnews.ca
 domain:cacnw.com
 domain:cactusvpn.com
@@ -8891,10 +8892,12 @@ domain:fastindianporn.com
 domain:fastlane.ci
 domain:fastlane.tools
 domain:fastly-edge.com
+domain:fastly-insights.com
 domain:fastly-terrarium.com
 domain:fastly.com
 domain:fastly.io
 domain:fastly.net
+domain:fastlydns.net
 domain:fastlylabs.com
 domain:fastlylb.net
 domain:fastmail.com
@@ -16641,6 +16644,7 @@ domain:myds.me
 domain:myeasytv.com
 domain:myebay.com
 domain:myeclipseide.com
+domain:myecnu.org
 domain:myenvy.ru
 domain:myfappening.org
 domain:myfavoritearcade.com
@@ -24946,6 +24950,7 @@ domain:vivahentai4u.net
 domain:vivaldi.com
 domain:vivatube.com
 domain:vivaxnxx.com
+domain:vivox.com
 domain:vivthomas.com
 domain:vixen.com
 domain:vixengroup.com
