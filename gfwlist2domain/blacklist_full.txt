@@ -20554,6 +20554,7 @@ domain:megaad.nz
 domain:megacamz.com
 domain:megaeth.com
 domain:megafilmporno.com
+domain:megafon.cloud
 domain:megafon.com
 domain:megafon.ru
 domain:megafonpro.ru
@@ -20561,6 +20562,7 @@ domain:megahdporno.net
 domain:megalodon.jp
 domain:megamon.co.kr
 domain:megapay.nz
+domain:megapbx.ru
 domain:megaphone.fm
 domain:megapornfreehd.com
 domain:megaporno.com.br
@@ -20569,6 +20571,7 @@ domain:megaproxy.com
 domain:megarotic.com
 domain:megas4.com
 domain:megasrv.de
+domain:megatech-it.ru
 domain:megatitsminka.com
 domain:megaupload.com
 domain:megavideo.com
@@ -20710,6 +20713,7 @@ domain:mgo.com
 domain:mgoon.com
 domain:mgsdtp.ac.uk
 domain:mgstage.com
+domain:mgts.ru
 domain:mh4u.org
 domain:mhcb.ru
 domain:mhcbr.ru
@@ -21370,6 +21374,7 @@ domain:mobile01.com
 domain:mobilecumbria.ac.uk
 domain:mobilefacebook.com
 domain:mobileicq.com
+domain:mobileid.ru
 domain:mobileinternational.com
 domain:mobilelive-hamivideo.cdn.hinet.net
 domain:mobilemarketo.com
@@ -21871,6 +21876,7 @@ domain:mulheresafoder.com
 domain:mullvad.net
 domain:mult34.com
 domain:multicurrencycashpassport.com
+domain:multifon.ru
 domain:multiply.com
 domain:multiplydiversity.com
 domain:multipornfor.me
@@ -23805,6 +23811,7 @@ domain:o365weve.com
 domain:o3o.ca
 domain:o3t.ru
 domain:o3team.ru
+domain:o7.com
 domain:oaa-anaes.ac.uk
 domain:oaistatic.com
 domain:oaistatsig.com
@@ -24084,6 +24091,7 @@ domain:onion.ly
 domain:onion666.com
 domain:onionshare.org
 domain:onkakao.net
+domain:onlime.ru
 domain:online-deals.net
 domain:online-instagram.com
 domain:online.recoveryversion.org
@@ -27317,6 +27325,7 @@ domain:roshy.tv
 domain:roslin.ac.uk
 domain:rossiyasegodnya.com
 domain:rostaxi.org
+domain:rostelecom-rb.ru
 domain:rostelecom.ru
 domain:rothamsted.ac.uk
 domain:rotherham-coll.ac.uk
@@ -29592,6 +29601,7 @@ domain:spbexchange.ru
 domain:spc.ac.uk
 domain:spcc-sp.com
 domain:spcollege.ac.uk
+domain:spd-mgts.ru
 domain:speakerdeck.com
 domain:spearhead.kr
 domain:specialtyheadphones.com
