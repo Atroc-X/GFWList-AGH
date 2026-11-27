@@ -1377,6 +1377,7 @@ domain:aiasahi.jp
 domain:aib.ac.uk
 domain:aibaobei.me
 domain:aicoin.com
+domain:aicu.cc
 domain:aidc.com.tw
 domain:aihub.top
 domain:aim25.ac.uk
@@ -8635,6 +8636,7 @@ domain:dandanzan.cc
 domain:danemarket.com
 domain:danilo.to
 domain:danke4china.net
+domain:danmakus.com
 domain:danmarkbeatsbydrdre.com
 domain:danskpornofilm.com
 domain:dansmovies.com
@@ -29559,6 +29561,7 @@ domain:soylentnews.org
 domain:sp.cool
 domain:spa.ac.uk
 domain:spacebattles.com
+domain:spacedesk.net
 domain:spaceexplored.com
 domain:spaceforce.mil
 domain:spacely.com.au
