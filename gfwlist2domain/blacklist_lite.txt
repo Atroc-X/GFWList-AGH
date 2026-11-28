@@ -8972,6 +8972,7 @@ domain:fc2ppv.tv
 domain:fc2web.com
 domain:fcacebook.com
 domain:fcaebook.com
+domain:fce.gg
 domain:fcebook.com
 domain:fcebookk.com
 domain:fcfacebook.com
